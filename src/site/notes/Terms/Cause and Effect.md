@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/terms/cause-and-effect/"}
 ---
 
-
-
 **Cause and effect** is the natural law of relationship — the movement through which all things interact, transform, and reveal truth.  
 It is neither moral nor punitive. It does not judge, forgive, or reward; it simply expresses consequence.
 
