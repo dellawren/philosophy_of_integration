@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/start-here/"}
 ---
 
-## **Start Here**
-
 This site is a framework that has been building in my mind for a long time. It’s the culmination of lived experience, hours of questioning, watching, and learning from and about life.
 
 This work is intentionally unfinished. I wanted to share my understanding of how things function underneath what I call the human rules — things like morality, religion, right and wrong, or good and bad. But I also wanted to make space for feedback, questions, comments, concerns, and other ideas.
