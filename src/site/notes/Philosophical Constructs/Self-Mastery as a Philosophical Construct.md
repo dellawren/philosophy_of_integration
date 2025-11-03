@@ -25,5 +25,4 @@ Self-mastery graduates into integration once authenticity becomes effortless, no
 **Linked Concepts**  
 [[Philosophical Constructs/Coping vs Healing\|Coping vs Healing]]  
 [[Terms/Integration\|Integration]]  
-[[Authenticity\|Authenticity]]  
-[[Control and Coherence – A Relational Note\|Control and Coherence – A Relational Note]]
+[[Relational Notes/Control and Coherence\|Control and Coherence]]
