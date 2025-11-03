@@ -45,6 +45,10 @@ Della Wren
 1. [[Philosophical Constructs/Ethics - Integration as Responsibility\|Ethics - Integration as Responsibility]]
 2. [[Philosophical Constructs/Law of Cause and Effect\|Law of Cause and Effect]]
 3. [[Philosophical Constructs/Law of Natural Coherence\|Law of Natural Coherence]]
+4. [[Philosophical Constructs/The Limit of Spiritual Coping\|The Limit of Spiritual Coping]]
+5. [[Philosophical Constructs/Trauma and Self-Protection\|Trauma and Self-Protection]]
+6. [[Philosophical Constructs/Coping vs Healing\|Coping vs Healing]]
+7. [[Philosophical Constructs/Self-Mastery as a Philosophical Construct\|Self-Mastery as a Philosophical Construct]]
 
 **References**
 
@@ -117,6 +121,7 @@ Della Wren
 [[Terms/Reincarnation\|Reincarnation]]
 [[Terms/Responsibility\|Responsibility]]
 [[Terms/Safety\|Safety]]
+[[Terms/Self-Mastery\|Self-Mastery]]
 [[Terms/Shame\|Shame]]
 [[Terms/Situated Determinism\|Situated Determinism]]
 [[Terms/Systemic Obligation\|Systemic Obligation]]
