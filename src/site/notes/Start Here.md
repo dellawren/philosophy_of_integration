@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/start-here/"}
+{"dg-publish":true,"permalink":"/start-here/","pinned":"true"}
 ---
 
 This site is a framework that has been building in my mind for a long time. It’s the culmination of lived experience, hours of questioning, watching, and learning from and about life.

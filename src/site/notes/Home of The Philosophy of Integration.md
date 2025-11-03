@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-of-the-philosophy-of-integration/","tags":["gardenEntry"],"dgShowToc":"true"}
+{"dg-publish":true,"permalink":"/home-of-the-philosophy-of-integration/","pinned":"true","tags":["gardenEntry"],"dgShowToc":"true"}
 ---
 
 ## About The Philosophy of Integration
