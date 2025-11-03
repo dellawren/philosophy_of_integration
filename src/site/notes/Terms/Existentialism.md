@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/terms/existentialism/"}
 ---
 
-**Existentialism** — a philosophy that centres human freedom, choice, and responsibility in a world without inherent meaning.  
+**Existentialism** — a philosophy that centers human freedom, choice, and responsibility in a world without inherent meaning.  
 It begins with the recognition that life does not come pre-assigned with purpose, and that each person must decide how to live — consciously and authentically — within that truth.
 
 Existentialism encourages self-awareness and personal agency, but it often becomes heavy when “creating meaning” turns into another form of pressure or self-judgment. People feel responsible not just for their choices, but for justifying their existence.

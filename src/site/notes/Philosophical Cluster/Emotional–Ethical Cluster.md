@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophical-cluster/emotional-ethical-cluster/","tags":["cluster","meta","emotional-ethical","stillhouse","philosophy"]}
+{"dg-publish":true,"permalink":"/philosophical-cluster/emotional-ethical-cluster/"}
 ---
 
 
@@ -28,7 +28,7 @@ List the key terms in sequence with their short Stillhouse definitions (as you a
     
 -10 [[Terms/Responsibility\|Responsibility]] — awareness of cause without moral weight
     
-- 11[[Terms/Cause and Effect\|Cause and Effect]] — natural balance, not enforced morality
+-11[[Terms/Cause and Effect\|Cause and Effect]] — natural balance, not enforced morality
 
 ## Integration Thread
 
