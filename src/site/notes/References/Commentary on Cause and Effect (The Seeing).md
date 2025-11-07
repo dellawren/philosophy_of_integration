@@ -3,7 +3,6 @@
 ---
 
 
-
 #commentary
 
 **Purpose:** Philosophical essays that explore the implications of the core system — the edge of the thought.  
