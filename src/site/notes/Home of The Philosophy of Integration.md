@@ -24,8 +24,7 @@ Through that process, I saw how removing the human rules — judgment, morality,
 This is a living framework — a work in progress — and it will continue to evolve as I do.  
 I’m sharing it openly so others can witness, question, and participate in something larger than me.
 
-If you’d like to get in touch, visit [thestillhouse.space/contact-me](https://thestillhouse.space/contact-me)
-
+If you’d like to get in touch, visit [https://dellawren.com/contact-me]
 Thank you.
 
 Della Wren
