@@ -2,18 +2,18 @@
 {"dg-publish":true,"permalink":"/terms/morality/"}
 ---
 
-
-
 **Morality** is a human construct designed to enforce order through conformity.  
-It replaces awareness with obedience by defining behaviour as good or bad, right or wrong, based on collective fear rather than individual truth.
+It replaces awareness with obedience by defining behaviour as good or bad, right or wrong — not through truth, but through collective fear.
 
-Morality does not emerge from consciousness — it is imposed upon it.  
+Morality does not emerge from consciousness; it is imposed upon it.  
 It seeks safety through sameness, stability through suppression, and virtue through control.  
 Its goal is not coherence, but predictability.
 
-In the Stillhouse view, morality is the outer scaffolding built when inner coherence has not yet been cultivated.  
-It is a substitute for awareness, a framework of “shoulds” that attempts to replace direct understanding of cause and effect.  
-Where ethics evolve from truth, morality evolves from fear.
+In the Stillhouse view, morality is the _distorted lens_ that appears when awareness of natural cause and effect has been lost.  
+
+It functions as a **translation layer** — an attempt to recreate balance through external rules when internal coherence is absent.  
+
+Where [[Terms/Ethics\|ethics]] serves as an instrument to restore alignment, morality becomes the imitation of it.
 
 > Morality governs through guilt; awareness governs through responsibility.
 

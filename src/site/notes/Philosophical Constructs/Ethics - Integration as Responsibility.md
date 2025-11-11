@@ -6,27 +6,33 @@
 Philosophical Construct  
 
 ---
+## **Principle**
 
-## Principle  
-[[Terms/Responsibility\|Responsibility]] is the natural expression of awareness — not a [[Terms/Morality\|moral]] duty, but an energetic coherence with truth.  
-
----
-
-## Description  
-In traditional systems, ethics are rule-based — an attempt to impose order through obedience. [[Terms/Integration\|Integration]] redefines ethics as participation in cause and effect.  
-When we understand ourselves as part of the whole, responsibility ceases to be obligation. It becomes alignment: the choice to move with awareness rather than against it.  
-
-[[Terms/Ethics\|Ethics]] in Integration are not enforced by consequence; they *are* consequence. Awareness itself regulates behaviour more faithfully than punishment ever could.  
+[[Terms/Responsibility\|Responsibility]] is the natural expression of awareness — not a [[Terms/Morality\|moral]] duty, but an energetic coherence with truth.
 
 ---
+## **Description**
 
-## Implications  
-When morality dissolves, responsibility deepens. We no longer act to avoid guilt or seek reward — we act because we understand the effect of our presence. This restores integrity without requiring virtue.  
+In traditional systems, _ethics_ are rule-based — a tool of external order and obedience.  
+Within [[Terms/Integration\|Integration]], ethics are not imposed but revealed: a living participation in cause and effect.
+
+When we recognize ourselves as part of the whole, responsibility ceases to be obligation. It becomes alignment — the conscious choice to move _with_ awareness rather than against it.
+
+[[Terms/Ethics\|Ethics]] in Integration are not enforced through consequence; they _are_ consequence.  
+Awareness itself regulates behaviour more faithfully than punishment or reward ever could.
 
 ---
+## **Implications**
 
-## Reflective Line  
-> “Responsibility is not control — it is coherence remembered.”  
+As morality dissolves, responsibility matures.  
+We no longer act to avoid guilt or earn approval — we act from coherence.  
+Integrity arises naturally when we understand the effect of our own presence.  
+Virtue becomes unnecessary because awareness restores balance on its own.
+
+---
+## **Reflective Line**
+
+> “Responsibility is not control — it is coherence remembered.”
 
 ---
 

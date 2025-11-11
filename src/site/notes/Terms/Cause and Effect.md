@@ -3,14 +3,16 @@
 ---
 
 **Cause and effect** is the natural law of relationship — the movement through which all things interact, transform, and reveal truth.  
-It is neither moral nor punitive. It does not judge, forgive, or reward; it simply expresses consequence.
+It is neither moral nor punitive; it does not judge, forgive, or reward.  
+It simply expresses consequence — the unfolding of coherence through time.
 
 Every thought, action, and event generates an effect, not as punishment but as continuity.  
-Awareness of this movement replaces the need for blame or external control.  
-When seen clearly, cause and effect becomes the foundation of coherence — the quiet rhythm beneath chaos.
+Awareness of this movement dissolves the need for blame or external control.  
 
-In integration, cause and effect serves as the structure the mind can trust while the heart learns to let go.  
-It gives understanding a form without demanding meaning.
+When seen clearly, cause and effect becomes the foundation of coherence — the quiet rhythm beneath apparent chaos.
+
+Within [[Terms/Integration\|Integration]], cause and effect offers the mind something it can trust while the heart learns to release control.  
+It gives understanding form without demanding meaning.
 
 > Cause and effect is not correction — it is reflection.
 
@@ -55,6 +57,10 @@ While _Coherence_ describes the condition of harmony, _Cause and Effect_ describ
 - [[Terms/Integration\|Integration]] — the process through which cause and effect is consciously observed rather than resisted.
     
 - [[Terms/Situated Determinism\|Situated Determinism]] — contextualizes cause and effect within lived experience; how awareness perceives consequence through limited perspective.
+
+- [[Terms/Cause\|Cause]] - the initiating movement of relationship; awareness entering form.
+
+- [[Terms/Effect\|Effect]] - the reflection of that movement; reality revealing what awareness has set in motion.
     
 
 ---
