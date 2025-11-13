@@ -1,0 +1,15 @@
+---
+{"dg-publish":true,"permalink":"/terms/natural-consequence/"}
+---
+
+**Natural Consequence** — the neutral feedback of cause and effect, unaltered by moral judgement or artificial punishment.
+
+Natural consequence is what happens when experience teaches directly. It is the clearest instructor humans have, because it reflects action without shame, fear, or external enforcement. Unlike morality, which prescribes behaviour through imposed rules, natural consequence restores awareness through lived effect. It doesn’t punish — it informs.
+
+In Integration philosophy, natural consequence is the real mechanism of balance. People adjust when they feel the genuine results of their choices. This isn’t cruelty; it’s coherence. When the system stops intervening to soften or moralize outcomes, awareness returns and behaviour aligns naturally.
+
+> “Life doesn’t correct you through guilt — it corrects you through consequence.”
+
+**See also:** [[Terms/Stability\|Stability]], [[Terms/Morality\|Morality]], [[Terms/Awareness\|Awareness]], [[Terms/Responsibility\|Responsibility]], [[Terms/Control\|Control]]
+
+[[References/Philosophy of Integration\|Philosophy of Integration]]

@@ -58,4 +58,4 @@ The machinery of fragmentation turns into the movement of integration.
 > Awareness ends where control begins — and begins again where control ends.
 
 See also [[References/Philosophy of Integration\|Philosophy of Integration]]
-See also [[Terms/Systemic Obligation\|Systemic Obligation]], [[Terms/Morality\|Morality]], [[Terms/Cause and Effect\|Cause and Effect]]
+See also [[Terms/Systemic Obligation\|Systemic Obligation]], [[Terms/Morality\|Terms/Morality]], [[Terms/Cause and Effect\|Cause and Effect]]

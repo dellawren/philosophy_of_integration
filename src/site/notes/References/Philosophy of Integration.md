@@ -73,7 +73,7 @@ the quiet recognition of connection between what was lived and what is real.
 
 - [[Terms/Ethical Living\|Ethical Living]] is not compliance with moral rules; it’s coherence with truth.
     
-- [[Terms/Morality\|Morality]], as society defines it, is often an instrument of control — a human attempt to legislate consequence instead of understanding cause and effect.
+- [[Terms/Morality\|Terms/Morality]], as society defines it, is often an instrument of control — a human attempt to legislate consequence instead of understanding cause and effect.
     
 - [[Terms/Integration\|Integration]] dissolves blame because it removes the illusion of separation.
     

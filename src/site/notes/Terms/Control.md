@@ -21,7 +21,7 @@ When awareness returns, control becomes unnecessary; presence replaces enforceme
 
 See [[References/Philosophy of Integration\|Philosophy of Integration]], [[Relational Notes/Control and Coherence\|Control and Coherence]]
 See also [[Terms/Systemic Obligation\|Systemic Obligation]] - how control becomes culture.
-See also [[Terms/Morality\|Morality]] - how control disguises itself as virtue.
+See also [[Terms/Morality\|Terms/Morality]] - how control disguises itself as virtue.
 See also [[Terms/Ethics\|Ethics]] - the emergence of self-regulating coherence
 See also [[Terms/Cause and Effect\|Cause and Effect]] - natural order beyond manipulation
 See also [[Terms/Integration\|Integration]] - the dissolution of control through awareness.

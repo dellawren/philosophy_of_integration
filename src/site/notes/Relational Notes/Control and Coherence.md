@@ -13,7 +13,7 @@ These movements mirror the human evolution from managed behaviour to conscious b
 
 The four concepts form a continuum of awareness:
 
-- **[[Terms/Morality\|Morality]]**: external control imposed to maintain predictable order.
+- **[[Terms/Morality\|Terms/Morality]]**: external control imposed to maintain predictable order.
     
 - **[[Terms/Systemic Obligation\|Systemic Obligation]]**: internalized control masquerading as belonging.
     

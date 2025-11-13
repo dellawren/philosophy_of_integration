@@ -31,7 +31,7 @@ Recognizing cause and effect as the foundation of coherence dissolves blame, gui
 
 It reveals that awareness is not about control, but participation — the capacity to observe, respond, and realign within the natural flow of consequence.
 
-Once this is understood, [[Terms/Morality\|Morality]] becomes unnecessary.  
+Once this is understood, [[Terms/Morality\|Terms/Morality]] becomes unnecessary.  
 Every effect already contains its own instruction; every consequence, its own correction.
 
 ---

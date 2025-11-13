@@ -16,4 +16,4 @@ It is replaced by responsibility — not in the punitive sense, but as ownership
 > Blame ends where awareness begins.
 
 See also [[References/Philosophy of Integration\|Philosophy of Integration]]
-See also [[Terms/Cause and Effect\|Cause and Effect]], [[Terms/Morality\|Morality]], [[Terms/Control\|Control]], [[Terms/Ethics\|Ethics]], [[Terms/Responsibility\|Responsibility]]
+See also [[Terms/Cause and Effect\|Cause and Effect]], [[Terms/Morality\|Terms/Morality]], [[Terms/Control\|Control]], [[Terms/Ethics\|Ethics]], [[Terms/Responsibility\|Responsibility]]

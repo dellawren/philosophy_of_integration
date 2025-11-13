@@ -18,4 +18,4 @@ It is the quiet knowing that alignment itself sustains balance without external 
 > Ethical living is not about being good — it’s about being whole.
 
 See [[References/Philosophy of Integration\|Philosophy of Integration]]
-See also [[Terms/Morality\|Morality]]
+See also [[Terms/Morality\|Terms/Morality]]

@@ -48,6 +48,6 @@ Integration replaces that with observation — the willingness to see what is be
     
 - [[Philosophical Constructs/Ethics - Integration as Responsibility\|Ethics - Integration as Responsibility]] — explores how awareness regulates behaviour through reflection rather than rule.
     
-- [[Terms/Morality\|Morality]] — contrasts reflection’s neutrality with moral interpretation and judgment.
+- [[Terms/Morality\|Terms/Morality]] — contrasts reflection’s neutrality with moral interpretation and judgment.
     
 - [[Relational Notes/Power and Responsibility\|Power and Responsibility]] — relational note connecting reflection to agency and awareness.
