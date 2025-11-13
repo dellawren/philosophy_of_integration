@@ -65,3 +65,4 @@ The relational loops become comprehensible once time is no longer forced into a 
 [[Relational Notes/The Ladder of Integration Relationships\|The Ladder of Integration Relationships]]
 [[Philosophical Constructs/Law of Cause and Effect\|Law of Cause and Effect]]  
 [[Philosophical Constructs/Law of Natural Coherence\|Law of Natural Coherence]]  
+[[References/Philosophy of Integration\|Philosophy of Integration]]
