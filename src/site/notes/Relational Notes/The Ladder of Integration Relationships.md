@@ -5,12 +5,16 @@
 ### **Overview**
 
 The Ladder of Integration maps the natural movement from fragmentation into coherence — from fear-driven control into embodied awareness.  
-It isn’t a method, and it isn’t aspirational; it’s a recognition map.  
+It isn’t a method, and it isn’t aspirational; it’s a recognition map.
+
 Each rung describes a shift in relationship: to fear, to truth, to consequence, to self.
 
 The ladder isn’t linear or hierarchical.  
-It circulates.  
-A return to an earlier rung isn’t regression — it’s refinement.  
+It **circulates**.  
+A return to an earlier rung isn’t regression — it’s **circling**: the nervous system revisiting what wasn’t yet safe, clear, or coherent enough to hold.
+
+Circling is not beginning again — it’s arriving with more capacity.
+
 Integration deepens through repetition, not achievement.
 
 ---
@@ -26,7 +30,11 @@ Safety isn’t created by guarantees; it’s created by truth.
 
 > **Safety is the body’s permission for awareness to remain.**
 
-**Connected:** [[Terms/Fear\|Fear]], [[Terms/Control\|Control]], [[Terms/Awareness\|Awareness]], [[Terms/Stability\|Stability]]
+**Circling Note:**  
+The nervous system often returns to this rung unexpectedly.  
+Circling back to Safety is not failure — it’s the body updating its capacity for presence.
+
+**Connected:** [[Terms/Fear\|Fear]], [[Terms/Control\|Control]], [[Terms/Awareness\|Awareness]], [[Terms/Stability\|Stability]], [[Philosophical Foundations/Circling\|Circling]]
 
 ---
 
@@ -43,7 +51,11 @@ When you stop trying to interpret, the moment reveals itself.
 
 > **Awareness is what appears when you stop arguing with what is.**
 
-**Connected:** [[Terms/Safety\|Safety]], [[Terms/Fear\|Fear]], [[Terms/Truth\|Truth]], [[Terms/Integration\|Integration]]
+**Circling Note:**  
+Awareness often reopens after revisiting Fear or Safety.  
+Circling allows perception to expand without the old survival logic distorting it.
+
+**Connected:** [[Terms/Safety\|Safety]], [[Terms/Fear\|Fear]], [[Terms/Truth\|Truth]], [[Terms/Integration\|Integration]], [[Philosophical Foundations/Circling\|Circling]]
 
 ---
 
@@ -60,7 +72,11 @@ Truth ends the internal argument.
 
 > **Truth doesn’t take sides — it removes the sides.**
 
-**Connected:** [[Terms/Awareness\|Awareness]], [[Terms/Ethics\|Ethics]], [[Terms/Cause and Effect\|Cause and Effect]], [[Terms/Coherence\|Coherence]]
+**Circling Note:**  
+Truth is often seen in layers.  
+Each circling back reveals a new angle, a deeper pattern, a clearer coherence.
+
+**Connected:** [[Terms/Awareness\|Awareness]], [[Terms/Ethics\|Ethics]], [[Terms/Cause and Effect\|Cause and Effect]], [[Terms/Coherence\|Coherence]], [[Philosophical Foundations/Circling\|Circling]]
 
 ---
 
@@ -76,7 +92,11 @@ Responsibility is simply the recognition that your actions participate in the we
 
 > **Responsibility is awareness made visible.**
 
-**Connected:** [[Terms/Cause and Effect\|Cause and Effect]], [[Terms/Ethics\|Ethics]], [[Terms/Blame\|Blame]], [[Terms/Choice\|Choice]]
+**Circling Note:**  
+People often revisit this rung when old patterns surface.  
+Circling doesn’t erase responsibility — it refines it.
+
+**Connected:** [[Terms/Cause and Effect\|Cause and Effect]], [[Terms/Ethics\|Ethics]], [[Terms/Blame\|Blame]], [[Terms/Choice\|Choice]], [[Philosophical Foundations/Circling\|Circling]]
 
 ---
 
@@ -92,7 +112,11 @@ It’s coherence with it.
 
 > **Choice is awareness deciding how to move.**
 
-**Connected:** [[Terms/Responsibility\|Responsibility]], [[Terms/Freedom\|Freedom]], [[Terms/Situated Determinism\|Situated Determinism]], [[Terms/Awareness\|Awareness]]
+**Circling Note:**  
+Choice becomes cleaner as you revisit earlier rungs.  
+Circling expands agency.
+
+**Connected:** [[Terms/Responsibility\|Responsibility]], [[Terms/Freedom\|Freedom]], [[Terms/Situated Determinism\|Situated Determinism]], [[Terms/Awareness\|Awareness]], [[Philosophical Foundations/Circling\|Circling]]
 
 ---
 
@@ -109,7 +133,11 @@ Integration is the nervous system, mind, and awareness functioning as one field.
 
 > **Integration isn’t harmony — it’s coexistence without conflict.**
 
-**Connected:** [[Terms/Truth\|Truth]], [[Terms/Fear\|Fear]], [[Terms/Control\|Control]], [[Terms/Freedom\|Freedom]], [[Terms/Coherence\|Coherence]]
+**Circling Note:**  
+Every return moves through here, even briefly.  
+Circling is Integration recognizing what still remains separate.
+
+**Connected:** [[Terms/Truth\|Truth]], [[Terms/Fear\|Fear]], [[Terms/Control\|Control]], [[Terms/Freedom\|Freedom]], [[Terms/Coherence\|Coherence]], [[Philosophical Foundations/Circling\|Circling]]
 
 ---
 
@@ -126,7 +154,11 @@ Freedom is the end of internal negotiation.
 
 > **Freedom is the stillness that follows coherence.**
 
-**Connected:** [[Terms/Integration\|Integration]], [[Terms/Power\|Power]], [[Terms/Responsibility\|Responsibility]], [[Terms/Truth\|Truth]]
+**Circling Note:**  
+Freedom is visited in moments, then left, then revisited.  
+Circling makes freedom sustainable rather than momentary.
+
+**Connected:** [[Terms/Integration\|Integration]], [[Terms/Power\|Power]], [[Terms/Responsibility\|Responsibility]], [[Terms/Truth\|Truth]], [[Philosophical Foundations/Circling\|Circling]]
 
 ---
 
@@ -134,9 +166,14 @@ Freedom is the end of internal negotiation.
 
 The Ladder of Integration translates the architecture of your philosophy into lived experience — body, awareness, consequence, truth.
 
-Each rung is the dissolution of a different layer of fragmentation.  
+Each rung is the dissolution of a different layer of fragmentation.
+
+Each _return_ is circling:  
+the refinement of perception, the expansion of capacity, the gradual dissolving of resistance.
+
 Together, they form the movement from control to presence; from fear to trust; from separation to wholeness.
 
 > **Integration doesn’t ask you to ascend — it asks you to return.**
 
-See also [[References/Philosophy of Integration\|Philosophy of Integration]], [[References/The Ladder of Integration\|The Ladder of Integration]]
+See also [[References/Philosophy of Integration\|Philosophy of Integration]], [[References/The Ladder of Integration\|The Ladder of Integration]], [[Philosophical Foundations/Circling\|Circling]]
+
