@@ -167,6 +167,8 @@ This is the foundation for Pages 3–5:
 Distortion is not the problem.  
 It is the **portal**.
 
+---
+
 # **See Also**
 
 - [[Terms/Distortion\|Distortion]]

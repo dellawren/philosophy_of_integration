@@ -81,10 +81,9 @@ It is **structural.**
 
 It shows up because something in the system requires attention.
 
-**Insert Diagram: Distorted Chain**
+![Cause and Effect Chains.png](/img/user/Cause%20and%20Effect%20Chains.png)
 
 ---
-
 # **Why These Diagrams Matter**
 
 Chains are mechanical.  

@@ -33,7 +33,7 @@ It is the **mechanics of the chain** running exactly as it was built.
 You are not going in circles.  
 **The chain is.**
 
-**Insert Diagram: Circling Loop**
+![Circling a Distorted Chain.png](/img/user/Circling%20a%20Distorted%20Chain.png)
 
 ---
 
