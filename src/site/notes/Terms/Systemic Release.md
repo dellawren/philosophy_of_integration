@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/systemic-release/"}
+{"dg-publish":true,"dg-title":"Systemic Release","permalink":"/terms/systemic-release/","dgPassFrontmatter":true}
 ---
 
 

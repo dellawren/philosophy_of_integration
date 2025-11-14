@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/links/","pinned":"true"}
+{"dg-publish":true,"dg-title":"Links","dg-pinned":"true","permalink":"/links/","pinned":"true","dgPassFrontmatter":true}
 ---
 
 Website: https://dellawren.com

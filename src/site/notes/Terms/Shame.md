@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/shame/"}
+{"dg-publish":true,"dg-title":"Shame","permalink":"/terms/shame/","dgPassFrontmatter":true}
 ---
 
 

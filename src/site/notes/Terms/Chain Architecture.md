@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/chain-architecture/"}
+{"dg-publish":true,"dg-title":"Chain Architecture","permalink":"/terms/chain-architecture/","dgPassFrontmatter":true}
 ---
 
 **Chain Architecture** — the structural anatomy of cause → effect → awareness → choice.

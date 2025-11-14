@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophical-constructs/the-law-of-reflection/"}
+{"dg-publish":true,"dg-title":"The Law of Reflection","permalink":"/philosophical-constructs/the-law-of-reflection/","dgPassFrontmatter":true}
 ---
 
 ## **Principle**

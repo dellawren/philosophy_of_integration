@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/structural-awareness/"}
+{"dg-publish":true,"dg-title":"Structural Awareness","permalink":"/terms/structural-awareness/","dgPassFrontmatter":true}
 ---
 
 **Structural Awareness** — awareness aimed at the architecture beneath the reaction, not the reaction itself.

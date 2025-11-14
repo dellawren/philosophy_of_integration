@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/coherence/"}
+{"dg-publish":true,"dg-title":"Coherence","permalink":"/terms/coherence/","dgPassFrontmatter":true}
 ---
 
 

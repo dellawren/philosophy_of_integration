@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/survival-logic/"}
+{"dg-publish":true,"dg-title":"Survival Logic","permalink":"/terms/survival-logic/","dgPassFrontmatter":true}
 ---
 
 **Survival Logic** — the reasoning produced inside a distorted chain that feels moral, necessary, or selfless, but is actually protective architecture.

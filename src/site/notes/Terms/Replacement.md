@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/replacement/"}
+{"dg-publish":true,"dg-title":"Replacement","permalink":"/terms/replacement/","dgPassFrontmatter":true}
 ---
 
 **Replacement** — the act of shifting into a coherent chain rather than attempting to fix a distorted one.

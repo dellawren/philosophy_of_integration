@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/emotional-feedback/"}
+{"dg-publish":true,"dg-title":"Emotional Feedback","permalink":"/terms/emotional-feedback/","dgPassFrontmatter":true}
 ---
 
 **Emotional Feedback** — the body’s interpretive report of the chain’s state.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/interference/"}
+{"dg-publish":true,"dg-title":"Interference","permalink":"/terms/interference/","dgPassFrontmatter":true}
 ---
 
 **Interference** is the attempt to control or redirect consequence instead of understanding it.  

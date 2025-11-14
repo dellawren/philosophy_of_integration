@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/chain-jumping/"}
+{"dg-publish":true,"dg-title":"Chain Jumping","permalink":"/terms/chain-jumping/","dgPassFrontmatter":true}
 ---
 
 **Chain Jumping** — the metaphysical shift people mistake for “timeline jumping.”

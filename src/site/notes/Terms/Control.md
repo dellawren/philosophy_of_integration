@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/control/"}
+{"dg-publish":true,"dg-title":"Control","permalink":"/terms/control/","dgPassFrontmatter":true}
 ---
 
 

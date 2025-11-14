@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophical-constructs/trauma-and-self-protection/"}
+{"dg-publish":true,"dg-title":"Trauma and Self-Protection","permalink":"/philosophical-constructs/trauma-and-self-protection/","dgPassFrontmatter":true}
 ---
 
 ## Cultural Story

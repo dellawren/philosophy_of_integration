@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-architecture-of-chains/healthy-vs-distorted-chains/"}
+{"dg-publish":true,"dg-title":"Health vs Distorted Chains","dg-order":"1","permalink":"/the-architecture-of-chains/healthy-vs-distorted-chains/","dgPassFrontmatter":true}
 ---
 
 # **The Architecture of a Chain**

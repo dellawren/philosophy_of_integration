@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/performance/"}
+{"dg-publish":true,"dg-title":"Performance","permalink":"/terms/performance/","dgPassFrontmatter":true}
 ---
 
 **Performance** — the behavioural expression of an inherited chain where a person behaves according to expectation, approval, or safety rather than truth.

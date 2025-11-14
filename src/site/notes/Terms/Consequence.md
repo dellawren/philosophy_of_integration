@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/consequence/"}
+{"dg-publish":true,"dg-title":"Consequence","permalink":"/terms/consequence/","dgPassFrontmatter":true}
 ---
 
 **Consequence** is the reflection of movement — the visible echo of cause revealing itself through time.  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/philosophy-of-integration/"}
+{"dg-publish":true,"dg-title":"Philosophy of Integration","permalink":"/references/philosophy-of-integration/","dgPassFrontmatter":true}
 ---
 
 

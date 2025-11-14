@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/human-rules/"}
+{"dg-publish":true,"dg-title":"Human Rules","permalink":"/terms/human-rules/","dgPassFrontmatter":true}
 ---
 
 **Human Rules** — the inherited systems of behaviour, morality, and expectation created by distorted chains and maintained through collective agreement, not truth.

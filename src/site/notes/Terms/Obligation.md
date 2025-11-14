@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/obligation/"}
+{"dg-publish":true,"dg-title":"Obligation","permalink":"/terms/obligation/","dgPassFrontmatter":true}
 ---
 
 

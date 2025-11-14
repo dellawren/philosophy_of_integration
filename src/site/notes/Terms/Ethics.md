@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/ethics/"}
+{"dg-publish":true,"dg-title":"Ethics","permalink":"/terms/ethics/","dgPassFrontmatter":true}
 ---
 
 **Ethics** is the natural expression of inner coherence — the alignment between awareness, truth, and action.  

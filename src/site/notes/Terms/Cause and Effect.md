@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/cause-and-effect/"}
+{"dg-publish":true,"dg-title":"Cause and Effect","permalink":"/terms/cause-and-effect/","dgPassFrontmatter":true}
 ---
 
 **Cause and effect** is the natural law of relationship — the movement through which all things interact, transform, and reveal truth.  

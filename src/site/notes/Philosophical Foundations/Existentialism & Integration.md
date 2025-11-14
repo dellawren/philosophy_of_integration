@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophical-foundations/existentialism-and-integration/"}
+{"dg-publish":true,"dg-title":"Existentialism & Integration","permalink":"/philosophical-foundations/existentialism-and-integration/","dgPassFrontmatter":true}
 ---
 
 Existentialism centers on the idea that life has no inherent meaning, and that humans are responsible for creating purpose through choice. It brings freedom and burden in the same breath: if nothing is predetermined, then we are accountable for the lives we shape. Existentialism calls us to live authentically — to choose with awareness rather than follow inherited systems or roles.

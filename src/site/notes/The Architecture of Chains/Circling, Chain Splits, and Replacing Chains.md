@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-architecture-of-chains/circling-chain-splits-and-replacing-chains/"}
+{"dg-publish":true,"dg-title":"Circling Chain Splits and Replacing Chains","dg-order":"4","permalink":"/the-architecture-of-chains/circling-chain-splits-and-replacing-chains/","dgPassFrontmatter":true}
 ---
 
 # **Circling: Living Inside a Distorted Chain**

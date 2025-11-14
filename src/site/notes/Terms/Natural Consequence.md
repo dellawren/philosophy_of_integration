@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/natural-consequence/"}
+{"dg-publish":true,"dg-title":"Natural Consequence","permalink":"/terms/natural-consequence/","dgPassFrontmatter":true}
 ---
 
 **Natural Consequence** — the neutral feedback of cause and effect, unaltered by moral judgement or artificial punishment.

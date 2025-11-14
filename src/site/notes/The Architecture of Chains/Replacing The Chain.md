@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-architecture-of-chains/replacing-the-chain/"}
+{"dg-publish":true,"dg-title":"Replacing the Chain","dg-order":"5","permalink":"/the-architecture-of-chains/replacing-the-chain/","dgPassFrontmatter":true}
 ---
 
 # **Replacing the Chain**

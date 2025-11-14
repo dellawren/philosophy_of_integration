@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-architecture-of-chains/the-chain-and-thought/"}
+{"dg-publish":true,"dg-title":"The Chain and Thought","dg-order":"8","permalink":"/the-architecture-of-chains/the-chain-and-thought/","dgPassFrontmatter":true}
 ---
 
 Thought is the chain’s **meaning-making** process.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/distortion/"}
+{"dg-publish":true,"dg-title":"Distortion","permalink":"/terms/distortion/","dgPassFrontmatter":true}
 ---
 
 **Distortion** — the bend in the cause-and-effect chain where interpretation overrides truth and redirects awareness back into an inherited or protective pattern.

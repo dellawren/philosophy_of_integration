@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/existentialism/"}
+{"dg-publish":true,"dg-title":"Existentialism","permalink":"/terms/existentialism/","dgPassFrontmatter":true}
 ---
 
 **Existentialism** — a philosophy that centers human freedom, choice, and responsibility in a world without inherent meaning.  

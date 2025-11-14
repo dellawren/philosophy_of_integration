@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/phenomenology/"}
+{"dg-publish":true,"dg-title":"Phenomenology","permalink":"/terms/phenomenology/","dgPassFrontmatter":true}
 ---
 
 **Phenomenology** — the study of lived experience as the primary source of understanding.  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/biological-architecture/"}
+{"dg-publish":true,"dg-title":"Biological Architecture","permalink":"/terms/biological-architecture/","dgPassFrontmatter":true}
 ---
 
 **Biological Architecture** — the mirrored pattern of how the body rewires itself through replacement, not repair.

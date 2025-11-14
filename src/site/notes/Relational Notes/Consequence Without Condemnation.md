@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relational-notes/consequence-without-condemnation/"}
+{"dg-publish":true,"permalink":"/relational-notes/consequence-without-condemnation/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-architecture-of-chains/the-chain-and-experience/"}
+{"dg-publish":true,"dg-title":"The Chain and Experience","dg-order":"6","permalink":"/the-architecture-of-chains/the-chain-and-experience/","dgPassFrontmatter":true}
 ---
 
 # **The Chain of Experience**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-architecture-of-chains/the-chain-and-feelings/"}
+{"dg-publish":true,"dg-title":"The Chain and Feelings","dg-order":"7","permalink":"/the-architecture-of-chains/the-chain-and-feelings/","dgPassFrontmatter":true}
 ---
 
 Feelings are not the chain.  

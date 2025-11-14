@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/systemic-obligation/"}
+{"dg-publish":true,"dg-title":"Systemic Obligation","permalink":"/terms/systemic-obligation/","dgPassFrontmatter":true}
 ---
 
 

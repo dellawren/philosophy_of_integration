@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relational-notes/power-and-responsibility/"}
+{"dg-publish":true,"permalink":"/relational-notes/power-and-responsibility/","dgPassFrontmatter":true}
 ---
 
 

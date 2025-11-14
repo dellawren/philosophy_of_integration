@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-architecture-of-chains/biological-mirrors-of-the-chain/"}
+{"dg-publish":true,"dg-title":"Biological Mirrors of The Chain","dg-order":"3","permalink":"/the-architecture-of-chains/biological-mirrors-of-the-chain/","dgPassFrontmatter":true}
 ---
 
 # **Biology Mirrors the Chain**

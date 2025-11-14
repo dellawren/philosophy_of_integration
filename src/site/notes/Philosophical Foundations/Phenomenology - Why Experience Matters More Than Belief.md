@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophical-foundations/phenomenology-why-experience-matters-more-than-belief/"}
+{"dg-publish":true,"dg-title":"Phenomenology - Why Experience Matters More Than Belief","permalink":"/philosophical-foundations/phenomenology-why-experience-matters-more-than-belief/","dgPassFrontmatter":true}
 ---
 
 Phenomenology begins with a simple premise: _the truth of something is found in lived experience, not in the ideas we hold about it._  

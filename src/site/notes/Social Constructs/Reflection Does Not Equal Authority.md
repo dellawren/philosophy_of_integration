@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/social-constructs/reflection-does-not-equal-authority/"}
+{"dg-publish":true,"dg-title":"Reflection Does Not Equal Authority","permalink":"/social-constructs/reflection-does-not-equal-authority/","dgPassFrontmatter":true}
 ---
 
 

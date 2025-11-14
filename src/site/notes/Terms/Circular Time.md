@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/circular-time/"}
+{"dg-publish":true,"dg-title":"Circular Time","permalink":"/terms/circular-time/","dgPassFrontmatter":true}
 ---
 
 **Circular Time** — the temporal experience of looping patterns produced by a distorted chain.

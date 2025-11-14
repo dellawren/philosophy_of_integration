@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/ethical-living/"}
+{"dg-publish":true,"dg-title":"Ethical Living","permalink":"/terms/ethical-living/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/invisible-distortion/"}
+{"dg-publish":true,"dg-title":"Invisible Distortion","permalink":"/terms/invisible-distortion/","dgPassFrontmatter":true}
 ---
 
 **Invisible Distortion** — a distortion that produces stability, identity, belonging, approval, or predictability, and therefore hides inside the appearance of coherence.

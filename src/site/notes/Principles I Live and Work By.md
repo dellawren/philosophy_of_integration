@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/principles-i-live-and-work-by/","pinned":"true"}
+{"dg-publish":true,"dg-title":"Principles I Live and Work By","dg-pinned":"true","permalink":"/principles-i-live-and-work-by/","pinned":"true","dgPassFrontmatter":true}
 ---
 
 

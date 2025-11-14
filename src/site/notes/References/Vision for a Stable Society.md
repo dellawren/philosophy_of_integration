@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/vision-for-a-stable-society/"}
+{"dg-publish":true,"dg-title":"Vision for a Stable Society","permalink":"/references/vision-for-a-stable-society/","dgPassFrontmatter":true}
 ---
 
 

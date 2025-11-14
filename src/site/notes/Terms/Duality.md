@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/duality/"}
+{"dg-publish":true,"dg-title":"Duality","permalink":"/terms/duality/","dgPassFrontmatter":true}
 ---
 
 **Duality** is the human perception of separation through opposites.  

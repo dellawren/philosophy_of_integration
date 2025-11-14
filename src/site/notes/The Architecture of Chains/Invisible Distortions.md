@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-architecture-of-chains/invisible-distortions/"}
+{"dg-publish":true,"dg-title":"Invisible Distortions","permalink":"/the-architecture-of-chains/invisible-distortions/","dgPassFrontmatter":true}
 ---
 
 # **Invisible Distortions**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/truth/"}
+{"dg-publish":true,"dg-title":"Truth","permalink":"/terms/truth/","dgPassFrontmatter":true}
 ---
 
 

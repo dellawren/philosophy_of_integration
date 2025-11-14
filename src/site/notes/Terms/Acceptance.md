@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/acceptance/"}
+{"dg-publish":true,"dg-title":"Acceptance","permalink":"/terms/acceptance/","dgPassFrontmatter":true}
 ---
 
 

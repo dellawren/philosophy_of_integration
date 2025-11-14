@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/ladder/"}
+{"dg-publish":true,"dg-title":"Ladder","permalink":"/terms/ladder/","dgPassFrontmatter":true}
 ---
 
 

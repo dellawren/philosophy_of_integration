@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophical-constructs/law-of-cause-and-effect/"}
+{"dg-publish":true,"dg-title":"Law of Cause and Effect","permalink":"/philosophical-constructs/law-of-cause-and-effect/","dgPassFrontmatter":true}
 ---
 
 

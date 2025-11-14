@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/identity-architecture/"}
+{"dg-publish":true,"dg-title":"Identity Architecture","permalink":"/terms/identity-architecture/","dgPassFrontmatter":true}
 ---
 
 **Identity Architecture** — the narrative structure built around an inherited chain; the story a person uses to explain the pattern.

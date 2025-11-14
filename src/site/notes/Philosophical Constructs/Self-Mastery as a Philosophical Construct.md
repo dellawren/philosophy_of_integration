@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophical-constructs/self-mastery-as-a-philosophical-construct/"}
+{"dg-publish":true,"dg-title":"Self-Mastery as Philosophical Construct","permalink":"/philosophical-constructs/self-mastery-as-a-philosophical-construct/","dgPassFrontmatter":true}
 ---
 
 **Cultural Story**  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-to-use-the-philosophy-of-integration/","pinned":"true"}
+{"dg-publish":true,"dg-title":"How to Use The Philosophy of Integration","dg-pinned":"true","permalink":"/how-to-use-the-philosophy-of-integration/","pinned":"true","dgPassFrontmatter":true}
 ---
 
 This framework is offered as a lens — not a doctrine, not a badge, not a new rule-system.  

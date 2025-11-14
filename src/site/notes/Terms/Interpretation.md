@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/interpretation/"}
+{"dg-publish":true,"dg-title":"Interpretation","permalink":"/terms/interpretation/","dgPassFrontmatter":true}
 ---
 
 **Interpretation** — the meaning the mind assigns to an experience, shaped not by the moment itself but by the architecture of the chain running beneath it.

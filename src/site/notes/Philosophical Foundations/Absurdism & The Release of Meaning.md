@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophical-foundations/absurdism-and-the-release-of-meaning/"}
+{"dg-publish":true,"dg-title":"Absurdism & The Release of \"Meaning\"","permalink":"/philosophical-foundations/absurdism-and-the-release-of-meaning/","dgPassFrontmatter":true}
 ---
 
 Absurdism observes the tension between our longing for meaning and a universe indifferent to providing one. Humans seek purpose, order, and narrative—yet life remains unpredictable, often senseless, and beyond our control. The “absurd” is not chaos; it is the clash between our need for meaning and life’s refusal to guarantee it.

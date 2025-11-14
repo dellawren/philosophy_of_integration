@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/social-constructs/morality-as-a-social-construct/"}
+{"dg-publish":true,"dg-title":"Morality as a Social Contruct","permalink":"/social-constructs/morality-as-a-social-construct/","dgPassFrontmatter":true}
 ---
 
 ### **Cultural Story**

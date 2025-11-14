@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/creation-and-reflection/"}
+{"dg-publish":true,"dg-title":"Creation and Reflection","permalink":"/terms/creation-and-reflection/","dgPassFrontmatter":true}
 ---
 
 **Creation & Reflection — the two movements of awareness that shape every relational loop.**  

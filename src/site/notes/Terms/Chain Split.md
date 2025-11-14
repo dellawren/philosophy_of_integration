@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/chain-split/"}
+{"dg-publish":true,"dg-title":"Chain Split","permalink":"/terms/chain-split/","dgPassFrontmatter":true}
 ---
 
 **Chain Split** — the moment two chains exist simultaneously: the old (distorted) and the new (coherent), creating the first true moment of human choice.

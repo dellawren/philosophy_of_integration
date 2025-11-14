@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/safety/"}
+{"dg-publish":true,"dg-title":"Safety","permalink":"/terms/safety/","dgPassFrontmatter":true}
 ---
 
 

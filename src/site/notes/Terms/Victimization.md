@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/victimization/"}
+{"dg-publish":true,"dg-title":"Victimization","permalink":"/terms/victimization/","dgPassFrontmatter":true}
 ---
 
 

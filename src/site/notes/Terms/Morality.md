@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/morality/"}
+{"dg-publish":true,"dg-title":"Morality","permalink":"/terms/morality/","dgPassFrontmatter":true}
 ---
 
 **Morality** is a human construct designed to enforce order through conformity.  

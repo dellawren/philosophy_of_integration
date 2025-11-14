@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/absurdism/"}
+{"dg-publish":true,"dg-title":"Absurdism","permalink":"/terms/absurdism/","dgPassFrontmatter":true}
 ---
 
 **Absurdism** — the philosophy that explores the tension between our desire for meaning and the universe’s indifference to providing one.  

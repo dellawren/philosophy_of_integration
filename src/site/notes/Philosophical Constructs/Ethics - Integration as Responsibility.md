@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophical-constructs/ethics-integration-as-responsibility/"}
+{"dg-publish":true,"dg-title":"Ethics - Integration as Responsibility","permalink":"/philosophical-constructs/ethics-integration-as-responsibility/","dgPassFrontmatter":true}
 ---
 
 ## Type

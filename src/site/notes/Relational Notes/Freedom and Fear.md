@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relational-notes/freedom-and-fear/"}
+{"dg-publish":true,"permalink":"/relational-notes/freedom-and-fear/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relational-notes/control-and-fear-the-machinery-of-fragmentation/"}
+{"dg-publish":true,"permalink":"/relational-notes/control-and-fear-the-machinery-of-fragmentation/","dgPassFrontmatter":true}
 ---
 
 

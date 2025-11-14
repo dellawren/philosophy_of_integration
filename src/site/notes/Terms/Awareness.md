@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/awareness/"}
+{"dg-publish":true,"dg-title":"Awareness","permalink":"/terms/awareness/","dgPassFrontmatter":true}
 ---
 
 

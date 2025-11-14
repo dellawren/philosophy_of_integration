@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relational-notes/belonging-and-acceptance/"}
+{"dg-publish":true,"permalink":"/relational-notes/belonging-and-acceptance/","dgPassFrontmatter":true}
 ---
 
 

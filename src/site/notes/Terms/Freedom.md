@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/freedom/"}
+{"dg-publish":true,"dg-title":"Freedom","permalink":"/terms/freedom/","dgPassFrontmatter":true}
 ---
 
 

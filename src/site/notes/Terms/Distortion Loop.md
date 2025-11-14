@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/distortion-loop/"}
+{"dg-publish":true,"dg-title":"Distortion Loop","permalink":"/terms/distortion-loop/","dgPassFrontmatter":true}
 ---
 
 **Distortion Loop** — the internal circuit inside a bent chain that reroutes awareness, emotion, and behaviour back into the old pattern.

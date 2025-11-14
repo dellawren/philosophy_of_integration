@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/harmony/"}
+{"dg-publish":true,"dg-title":"Harmony","permalink":"/terms/harmony/","dgPassFrontmatter":true}
 ---
 
 

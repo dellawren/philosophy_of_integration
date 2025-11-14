@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/manipulation/"}
+{"dg-publish":true,"dg-title":"Manipulation","permalink":"/terms/manipulation/","dgPassFrontmatter":true}
 ---
 
 

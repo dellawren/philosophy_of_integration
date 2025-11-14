@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/machinery/"}
+{"dg-publish":true,"dg-title":"Machinery","permalink":"/terms/machinery/","dgPassFrontmatter":true}
 ---
 
 

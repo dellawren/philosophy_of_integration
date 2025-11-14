@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/temporal-architecture/"}
+{"dg-publish":true,"dg-title":"Temporal Architecture","permalink":"/terms/temporal-architecture/","dgPassFrontmatter":true}
 ---
 
 # **Temporal Architecture**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/axis-of-awareness/"}
+{"dg-publish":true,"dg-title":"Axis of Awareness","permalink":"/terms/axis-of-awareness/","dgPassFrontmatter":true}
 ---
 
 **Axis of Awareness — the movement between Creation and Reflection that forms the core of conscious participation in reality.**  

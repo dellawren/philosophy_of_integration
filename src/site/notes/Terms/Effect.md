@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/effect/"}
+{"dg-publish":true,"dg-title":"Effect","permalink":"/terms/effect/","dgPassFrontmatter":true}
 ---
 
 **Effect** is the continuation of cause — the expression that completes a cycle of movement.  

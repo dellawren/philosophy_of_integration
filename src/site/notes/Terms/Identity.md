@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/identity/"}
+{"dg-publish":true,"dg-title":"Identity","permalink":"/terms/identity/","dgPassFrontmatter":true}
 ---
 
 

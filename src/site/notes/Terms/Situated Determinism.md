@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/situated-determinism/"}
+{"dg-publish":true,"dg-title":"Situated Determinism","permalink":"/terms/situated-determinism/","dgPassFrontmatter":true}
 ---
 
 

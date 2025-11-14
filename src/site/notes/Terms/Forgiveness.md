@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/forgiveness/"}
+{"dg-publish":true,"dg-title":"Forgiveness","permalink":"/terms/forgiveness/","dgPassFrontmatter":true}
 ---
 
 

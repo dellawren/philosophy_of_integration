@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/responsibility/"}
+{"dg-publish":true,"dg-title":"Responsibility","permalink":"/terms/responsibility/","dgPassFrontmatter":true}
 ---
 
 

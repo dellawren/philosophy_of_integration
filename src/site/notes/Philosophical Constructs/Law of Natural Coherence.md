@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophical-constructs/law-of-natural-coherence/"}
+{"dg-publish":true,"dg-title":"Law of Natural Coherence","permalink":"/philosophical-constructs/law-of-natural-coherence/","dgPassFrontmatter":true}
 ---
 
 

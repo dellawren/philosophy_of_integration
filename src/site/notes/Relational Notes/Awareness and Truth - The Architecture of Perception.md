@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relational-notes/awareness-and-truth-the-architecture-of-perception/"}
+{"dg-publish":true,"permalink":"/relational-notes/awareness-and-truth-the-architecture-of-perception/","dgPassFrontmatter":true}
 ---
 
 

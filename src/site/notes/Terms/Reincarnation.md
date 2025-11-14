@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/reincarnation/"}
+{"dg-publish":true,"dg-title":"Reincarnation","permalink":"/terms/reincarnation/","dgPassFrontmatter":true}
 ---
 
 

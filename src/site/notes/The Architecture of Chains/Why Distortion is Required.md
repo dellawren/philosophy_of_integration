@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-architecture-of-chains/why-distortion-is-required/"}
+{"dg-publish":true,"dg-title":"Why Distortion is Required","dg-order":"2","permalink":"/the-architecture-of-chains/why-distortion-is-required/","dgPassFrontmatter":true}
 ---
 
 # **Distortion Is Not a Flaw**

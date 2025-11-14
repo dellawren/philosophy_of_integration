@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-architecture-of-chains/time-mirrors-chains/"}
+{"dg-publish":true,"dg-title":"Time Mirrors Chains","dg-order":"9","permalink":"/the-architecture-of-chains/time-mirrors-chains/","dgPassFrontmatter":true}
 ---
 
 # **Time Is Not Linear — It Is Structural**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophical-constructs/the-natural-law-of-balance/"}
+{"dg-publish":true,"dg-title":"The Natural Law of Balance","permalink":"/philosophical-constructs/the-natural-law-of-balance/","dgPassFrontmatter":true}
 ---
 
 ## **Principle**

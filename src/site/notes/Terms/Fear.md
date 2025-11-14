@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/fear/"}
+{"dg-publish":true,"dg-title":"Fear","permalink":"/terms/fear/","dgPassFrontmatter":true}
 ---
 
 

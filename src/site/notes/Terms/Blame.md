@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/blame/"}
+{"dg-publish":true,"dg-title":"Blame","permalink":"/terms/blame/","dgPassFrontmatter":true}
 ---
 
 

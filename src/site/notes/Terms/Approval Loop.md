@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/approval-loop/"}
+{"dg-publish":true,"dg-title":"Approval Loop","permalink":"/terms/approval-loop/","dgPassFrontmatter":true}
 ---
 
 **Approval Loop** — the internal circuit where a person uses external validation to stabilize a distorted chain, reinforcing both the identity built around approval and the distortion that created it.

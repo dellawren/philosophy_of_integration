@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/power/"}
+{"dg-publish":true,"dg-title":"Power","permalink":"/terms/power/","dgPassFrontmatter":true}
 ---
 
 

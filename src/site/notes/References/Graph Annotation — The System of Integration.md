@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/graph-annotation-the-system-of-integration/"}
+{"dg-publish":true,"permalink":"/references/graph-annotation-the-system-of-integration/","dgPassFrontmatter":true}
 ---
 
 

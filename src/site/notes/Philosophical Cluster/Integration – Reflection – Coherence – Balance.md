@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophical-cluster/integration-reflection-coherence-balance/"}
+{"dg-publish":true,"dg-title":"Integration – Reflection – Coherence – Balance","permalink":"/philosophical-cluster/integration-reflection-coherence-balance/","dgPassFrontmatter":true}
 ---
 
 ## Overview

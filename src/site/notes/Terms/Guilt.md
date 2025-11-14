@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/guilt/"}
+{"dg-publish":true,"dg-title":"Guilt","permalink":"/terms/guilt/","dgPassFrontmatter":true}
 ---
 
 

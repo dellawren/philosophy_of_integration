@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/architecture/"}
+{"dg-publish":true,"dg-title":"Architecture","permalink":"/terms/architecture/","dgPassFrontmatter":true}
 ---
 
 

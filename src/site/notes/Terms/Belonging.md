@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/belonging/"}
+{"dg-publish":true,"dg-title":"Belonging","permalink":"/terms/belonging/","dgPassFrontmatter":true}
 ---
 
 

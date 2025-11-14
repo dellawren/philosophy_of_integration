@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/choice/"}
+{"dg-publish":true,"dg-title":"Choice","permalink":"/terms/choice/","dgPassFrontmatter":true}
 ---
 
 

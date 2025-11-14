@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/self-mastery/"}
+{"dg-publish":true,"dg-title":"Self-Mastery","permalink":"/terms/self-mastery/","dgPassFrontmatter":true}
 ---
 
 **Self-mastery** — the conscious awareness of one’s inner experience and the ability to respond from truth rather than reactivity.

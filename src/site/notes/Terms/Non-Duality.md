@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/non-duality/"}
+{"dg-publish":true,"dg-title":"Non-Duality","permalink":"/terms/non-duality/","dgPassFrontmatter":true}
 ---
 
 **Non-Duality** is the recognition that separation is an illusion and that all things are expressions of one continuous whole.  

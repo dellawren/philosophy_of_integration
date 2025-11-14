@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-architecture-of-chains/human-developmental-chain-formation/"}
+{"dg-publish":true,"dg-title":"Human Developmental Chain Formation","dg-order":"10","permalink":"/the-architecture-of-chains/human-developmental-chain-formation/","dgPassFrontmatter":true}
 ---
 
 # **How Chains Form in a Human Life**

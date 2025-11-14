@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophical-cluster/emotional-ethical-cluster/"}
+{"type":"Philosophical Cluster","dg-publish":true,"dg-title":"Emotional-Ethical Cluster","permalink":"/philosophical-cluster/emotional-ethical-cluster/","dgPassFrontmatter":true}
 ---
 
 

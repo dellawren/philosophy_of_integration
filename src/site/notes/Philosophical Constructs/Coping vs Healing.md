@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophical-constructs/coping-vs-healing/"}
+{"dg-publish":true,"dg-title":"Coping vs Healing","permalink":"/philosophical-constructs/coping-vs-healing/","dgPassFrontmatter":true}
 ---
 
 **Cultural Story**  

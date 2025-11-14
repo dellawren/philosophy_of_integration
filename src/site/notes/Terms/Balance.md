@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/balance/"}
+{"dg-publish":true,"dg-title":"Balance","permalink":"/terms/balance/","dgPassFrontmatter":true}
 ---
 
 

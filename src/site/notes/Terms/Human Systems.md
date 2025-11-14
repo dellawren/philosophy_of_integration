@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/human-systems/"}
+{"dg-publish":true,"dg-title":"Human Systems","permalink":"/terms/human-systems/","dgPassFrontmatter":true}
 ---
 
 **Human Systems** — the collective structures built from overlapping distorted chains, designed to maintain stability, hierarchy, and predictability rather than coherence.

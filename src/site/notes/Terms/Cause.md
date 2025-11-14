@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/cause/"}
+{"dg-publish":true,"dg-title":"Cause","permalink":"/terms/cause/","dgPassFrontmatter":true}
 ---
 
 **Cause** is the initiating movement of relationship — the impulse that sets reality in motion.  

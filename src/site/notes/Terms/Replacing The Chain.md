@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/replacing-the-chain/"}
+{"dg-publish":true,"dg-title":"Replacing The Chain","permalink":"/terms/replacing-the-chain/","dgPassFrontmatter":true}
 ---
 
 **Replacing the Chain** — the act of shifting from a distorted architecture to a coherent one by choosing a new interpretation aligned with truth, allowing the old chain to fall out of use through non-participation.

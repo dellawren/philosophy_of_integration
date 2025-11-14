@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/wholeness/"}
+{"dg-publish":true,"dg-title":"Wholeness","permalink":"/terms/wholeness/","dgPassFrontmatter":true}
 ---
 
 

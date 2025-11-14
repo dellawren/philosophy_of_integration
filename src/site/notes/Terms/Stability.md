@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/stability/"}
+{"dg-publish":true,"dg-title":"Stability","permalink":"/terms/stability/","dgPassFrontmatter":true}
 ---
 
 **Stability** — the internal steadiness that comes from awareness, not from circumstance.

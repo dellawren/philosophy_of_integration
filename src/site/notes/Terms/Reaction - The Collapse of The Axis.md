@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/reaction-the-collapse-of-the-axis/"}
+{"dg-publish":true,"dg-title":"Reaction - The Collapse of The Axis","permalink":"/terms/reaction-the-collapse-of-the-axis/","dgPassFrontmatter":true}
 ---
 
 It is what happens when awareness falls out of the field and the body defaults to survival logic. Reaction isn’t emotion; it’s the moment the nervous system abandons presence and tries to regain safety through speed, defense, or control.

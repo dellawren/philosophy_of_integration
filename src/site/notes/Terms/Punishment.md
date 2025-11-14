@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/punishment/"}
+{"dg-publish":true,"dg-title":"Punishment","permalink":"/terms/punishment/","dgPassFrontmatter":true}
 ---
 
 

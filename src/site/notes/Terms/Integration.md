@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/integration/"}
+{"dg-publish":true,"dg-title":"Integration","permalink":"/terms/integration/","dgPassFrontmatter":true}
 ---
 
 
