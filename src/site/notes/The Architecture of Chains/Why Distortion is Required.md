@@ -4,7 +4,7 @@
 
 # **Distortion Is Not a Flaw**
 
-Distortion is not a mistake in the system.  
+Distortion is not a mistake in the system.   
 It is the system’s **signal** that something has shifted out of coherence.
 
 A chain cannot remain straight when an experience bends the internal landscape.  

@@ -7,7 +7,7 @@
 The body does not operate separately from the cause-and-effect chain.  
 It **is** a cause-and-effect system — running on loops, signals, responses, and replacements.
 
-When a chain is coherent, biology reflects coherence.  
+When a chain is coherent, biology reflects coherence.   
 When a chain distorts, biology reflects distortion.
 
 This is not metaphor.  

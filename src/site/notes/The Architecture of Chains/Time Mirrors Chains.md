@@ -6,7 +6,7 @@
 
 Most people describe time as a straight line:
 
-**past → present → future**
+**past → present → future** 
 
 But this is only how time appears **when the chain is coherent**.
 

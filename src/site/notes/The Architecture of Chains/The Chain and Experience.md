@@ -7,7 +7,7 @@
 Experience is the first layer of the chain.  
 It is the moment where something occurs **before** interpretation, meaning, or emotion takes shape.
 
-This is the level of:
+This is the level of: 
 
 - sensation
     

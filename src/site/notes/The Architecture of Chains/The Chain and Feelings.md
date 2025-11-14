@@ -9,7 +9,7 @@ Feeling sits here:
 
 **Cause → Effect → Awareness → _Embodied Response_ → Interpretation → Choice**
 
-Emotion is the body’s report on:
+Emotion is the body’s report on: 
 
 - whether the chain flowed or snagged
     

@@ -4,11 +4,11 @@
 
 # **How Chains Form in a Human Life**
 
-We do not begin life with awareness.  
+We do not begin life with awareness.   
 We begin with **experience**.
 
 Because of this, the earliest cause-and-effect chains are not chosen —  
-they’re **inherited**, shaped by the caregiving environment,  
+they’re **inherited**, shaped by the caregiving environment,   
 and embedded into the body long before a child can think or interpret.
 
 This page follows the unfolding of the chain through the stages of human development, showing how coherence becomes distortion, and how distortion becomes identity.

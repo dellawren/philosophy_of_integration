@@ -6,9 +6,9 @@
 
 Every experience we have follows a simple structure:
 
-**Cause → Effect → Awareness → Choice**
+**Cause → Effect → Awareness → Choice** 
 
-This is the natural movement of a coherent chain.  
+This is the natural movement of a coherent chain.   
 When nothing interferes with the sequence, the chain flows cleanly.  
 Awareness receives the effect, responds truthfully, and creates the next cause.
 

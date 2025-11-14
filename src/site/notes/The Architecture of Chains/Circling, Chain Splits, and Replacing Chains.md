@@ -7,7 +7,7 @@
 Circling isn’t a failure of willpower, awareness, or emotional maturity.  
 It is what happens when the **architecture** of your cause-and-effect chain is distorted.
 
-A distorted chain cannot move forward.  
+A distorted chain cannot move forward.   
 It can only **loop**, because its internal structure contains a bend that reroutes the sequence back into itself.
 
 Circling is the lived experience of that loop.

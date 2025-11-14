@@ -6,7 +6,7 @@
 
 _The mechanics of architectural transformation._
 
-Replacing the chain is the structural process at the heart of Integration.  
+Replacing the chain is the structural process at the heart of Integration.   
 It explains how distorted patterns dissolve and why change becomes permanent rather than cyclical.  
 It sits between [[Terms/Chain Split\|Chain Split]] and [[Terms/Coherence\|Coherence]] as the decisive turning point in the architecture.
 

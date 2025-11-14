@@ -8,7 +8,7 @@ After experience enters awareness, the mind interprets it:
 
 - What does this mean?
     
-- What does this say about me?
+- What does this say about me? 
     
 - What does this say about them?
     

@@ -10,7 +10,7 @@ The human system does not identify imbalance based on structure —
 it identifies imbalance based on **discomfort**.
 
 If the distortion feels safe, predictable, socially rewarded, or stabilizing,  
-it does not register as a distortion at all.
+it does not register as a distortion at all. 
 
 It registers as truth.
 
