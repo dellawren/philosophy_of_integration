@@ -41,3 +41,4 @@ When awareness returns, the system no longer needs defending — it rebalances o
 [[Terms/Integration\|Integration]]  
 [[Terms/Cause and Effect\|Cause and Effect]]  
 [[Terms/Wholeness\|Wholeness]]
+[[Terms/Trauma\|Terms/Trauma]]
