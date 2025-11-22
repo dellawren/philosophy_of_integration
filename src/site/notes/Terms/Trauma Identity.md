@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"Trauma Identity","permalink":"/terms/trauma-identity/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"Trauma Identity","source":null,"permalink":"/terms/trauma-identity/","dgPassFrontmatter":true}
 ---
 
 **Trauma Identity** — the self-concept built around a distorted chain when trauma becomes part of how a person explains themselves. It is not the trauma itself, but the meaning, narrative, and identity position created to survive it.
