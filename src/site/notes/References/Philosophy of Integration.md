@@ -94,7 +94,7 @@ the quiet recognition of connection between what was lived and what is real.
 - [[Terms/Situated Determinism\|Situated Determinism]] recognizes that life is both determined and participatory:  
     cause and effect set the motion; consciousness offers orientation.
     
-- [[Terms/Control\|Control]] is an illusion of separation.  
+- [[Terms/Control\|Terms/Control]] is an illusion of separation.  
     We cannot step outside the sequence — but we can become aware of where we stand within it.
     
 - [[Terms/Awareness\|Awareness]] does not erase consequence; it refines relationship.  

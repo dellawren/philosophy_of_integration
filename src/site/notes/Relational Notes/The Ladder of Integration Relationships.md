@@ -23,7 +23,7 @@ Integration deepens through repetition, not achievement.
 
 **[[Terms/Safety\|Safety]]** is the first softening — not because the world is predictable, but because awareness no longer collapses in the face of uncertainty.
 
-[[Terms/Control\|Control]] tries to _simulate_ safety by stabilizing conditions.  
+[[Terms/Control\|Terms/Control]] tries to _simulate_ safety by stabilizing conditions.  
 Integration restores safety by stabilizing awareness.
 
 Safety isn’t created by guarantees; it’s created by truth.
@@ -34,7 +34,7 @@ Safety isn’t created by guarantees; it’s created by truth.
 The nervous system often returns to this rung unexpectedly.  
 Circling back to Safety is not failure — it’s the body updating its capacity for presence.
 
-**Connected:** [[Terms/Fear\|Fear]], [[Terms/Control\|Control]], [[Terms/Awareness\|Awareness]], [[Terms/Stability\|Stability]], [[Philosophical Foundations/Circling\|Circling]]
+**Connected:** [[Terms/Fear\|Fear]], [[Terms/Control\|Terms/Control]], [[Terms/Awareness\|Awareness]], [[Terms/Stability\|Stability]], [[Philosophical Foundations/Circling\|Circling]]
 
 ---
 
@@ -137,7 +137,7 @@ Integration is the nervous system, mind, and awareness functioning as one field.
 Every return moves through here, even briefly.  
 Circling is Integration recognizing what still remains separate.
 
-**Connected:** [[Terms/Truth\|Truth]], [[Terms/Fear\|Fear]], [[Terms/Control\|Control]], [[Terms/Freedom\|Freedom]], [[Terms/Coherence\|Coherence]], [[Philosophical Foundations/Circling\|Circling]]
+**Connected:** [[Terms/Truth\|Truth]], [[Terms/Fear\|Fear]], [[Terms/Control\|Terms/Control]], [[Terms/Freedom\|Freedom]], [[Terms/Coherence\|Coherence]], [[Philosophical Foundations/Circling\|Circling]]
 
 ---
 

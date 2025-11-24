@@ -26,7 +26,7 @@ Stability becomes a function of coherence, not control.
 
 - [[Terms/Morality\|Terms/Morality]]
     
-- [[Terms/Control\|Control]]
+- [[Terms/Control\|Terms/Control]]
     
 - [[Terms/Safety\|Safety]]
     

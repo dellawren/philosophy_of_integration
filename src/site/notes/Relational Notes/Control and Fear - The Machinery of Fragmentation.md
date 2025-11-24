@@ -5,7 +5,7 @@
 
 ### **Overview**
 
-[[Terms/Control\|Control]] and [[Terms/Fear\|Fear]] are twin movements of contraction.  
+[[Terms/Control\|Terms/Control]] and [[Terms/Fear\|Fear]] are twin movements of contraction.  
 Where fear perceives instability, control seeks to contain it.  
 Together, they create the illusion of safety while severing the natural flow of awareness and consequence.
 

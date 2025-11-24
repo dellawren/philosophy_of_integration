@@ -24,4 +24,4 @@ It is not granted by governments or earned through morality; it’s the natural 
 > Freedom is not the absence of structure — it’s the absence of fear.
 
 See also [[References/Philosophy of Integration\|Philosophy of Integration]], [[Terms/Freedom\|Freedom]], [[Terms/Cause and Effect\|Cause and Effect]]
-See also [[Terms/Systemic Release\|Systemic Release]], [[Terms/Control\|Control]], [[Terms/Integration\|Integration]], [[Terms/Power\|Power]], [[Terms/Responsibility\|Responsibility]]
+See also [[Terms/Systemic Release\|Systemic Release]], [[Terms/Control\|Terms/Control]], [[Terms/Integration\|Integration]], [[Terms/Power\|Power]], [[Terms/Responsibility\|Responsibility]]

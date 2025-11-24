@@ -30,7 +30,7 @@ Integration replaces morality with coherence, not chaos.
 
 - [[Terms/Stability\|Stability]]
     
-- [[Terms/Control\|Control]]
+- [[Terms/Control\|Terms/Control]]
     
 - [[Terms/Fear\|Fear]]
     

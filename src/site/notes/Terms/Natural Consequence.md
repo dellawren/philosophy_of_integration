@@ -10,6 +10,6 @@ In Integration philosophy, natural consequence is the real mechanism of balance.
 
 > “Life doesn’t correct you through guilt — it corrects you through consequence.”
 
-**See also:** [[Terms/Stability\|Stability]], [[Terms/Morality\|Morality]], [[Terms/Awareness\|Awareness]], [[Terms/Responsibility\|Responsibility]], [[Terms/Control\|Control]]
+**See also:** [[Terms/Stability\|Stability]], [[Terms/Morality\|Morality]], [[Terms/Awareness\|Awareness]], [[Terms/Responsibility\|Responsibility]], [[Terms/Control\|Terms/Control]]
 
 [[References/Philosophy of Integration\|Philosophy of Integration]]

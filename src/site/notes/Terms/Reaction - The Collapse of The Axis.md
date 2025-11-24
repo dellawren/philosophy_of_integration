@@ -18,7 +18,7 @@ Every collapse reveals where safety has not yet been established, where truth is
 [[Terms/Creation and Reflection\|Creation and Reflection]]  
 [[Terms/Axis of Awareness\|Axis of Awareness]]  
 [[Terms/Fear\|Fear]]  
-[[Terms/Control\|Control]]  
+[[Terms/Control\|Terms/Control]]  
 [[Terms/Integration\|Integration]]
 
 [[References/Philosophy of Integration\|Philosophy of Integration]]

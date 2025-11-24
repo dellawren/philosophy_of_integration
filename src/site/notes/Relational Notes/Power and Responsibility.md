@@ -13,7 +13,7 @@ The four concepts form a continuum of authority:
 
 - **[[Terms/Power\|Power]]**: the capacity to direct or influence energy.
     
-- **[[Terms/Control\|Control]]**: the distortion of power through fear of uncertainty.
+- **[[Terms/Control\|Terms/Control]]**: the distortion of power through fear of uncertainty.
     
 - **[[Terms/Responsibility\|Responsibility]]**: awareness of cause and effect within one’s sphere.
     

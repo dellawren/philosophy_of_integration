@@ -17,5 +17,5 @@ Integration ends manipulation by restoring self-trust, removing the need to mana
 > Manipulation thrives where honesty feels unsafe.
 
 See also [[References/Philosophy of Integration\|Philosophy of Integration]]
-See also [[Terms/Control\|Control]], [[Terms/Fear\|Fear]], [[Terms/Systemic Obligation\|Systemic Obligation]], [[Terms/Ethics\|Ethics]], [[Terms/Truth\|Truth]]
+See also [[Terms/Control\|Terms/Control]], [[Terms/Fear\|Fear]], [[Terms/Systemic Obligation\|Systemic Obligation]], [[Terms/Ethics\|Ethics]], [[Terms/Truth\|Truth]]
 

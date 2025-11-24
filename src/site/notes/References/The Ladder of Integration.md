@@ -4,7 +4,7 @@
 
 
 - **[[Terms/Safety\|Safety]]** → fear as information, not danger
-- -Anchors between [[Terms/Fear\|Fear]], [[Terms/Control\|Control]], [[Terms/Awareness\|Awareness]]
+- -Anchors between [[Terms/Fear\|Fear]], [[Terms/Control\|Terms/Control]], [[Terms/Awareness\|Awareness]]
 - Lives low in the web, near the emotional core — the first rung of the ladder.
 - Represents the point where contraction begins to loosen.
     
@@ -18,7 +18,7 @@
     > The shift from self-protection to self-observation.
     
 - **[[Terms/Truth\|Truth]]** → perceiving what’s real, not what’s safe
-  - Connects [[Terms/Awareness\|Awareness]] with [[Terms/Ethics\|Ethics]], [[Terms/Cause and Effect\|Cause and Effect]], and [[Terms/Control\|Control]].
+  - Connects [[Terms/Awareness\|Awareness]] with [[Terms/Ethics\|Ethics]], [[Terms/Cause and Effect\|Cause and Effect]], and [[Terms/Control\|Terms/Control]].
 - Marks the point where perception begins to organize reality instead of resisting it.
     
     > Seeing what is, rather than what feels safe to believe.
@@ -36,7 +36,7 @@
     > Awareness deciding how to move.
     
 - **[[Terms/Integration\|Integration]]** → allowing contradiction without collapse
-  - Intersects all major nodes: [[Terms/Truth\|Truth]], [[Terms/Freedom\|Freedom]], [[Terms/Control\|Control]], [[Terms/Fear\|Fear]], and [[Terms/Cause and Effect\|Cause and Effect]].
+  - Intersects all major nodes: [[Terms/Truth\|Truth]], [[Terms/Freedom\|Freedom]], [[Terms/Control\|Terms/Control]], [[Terms/Fear\|Fear]], and [[Terms/Cause and Effect\|Cause and Effect]].
 - The ladder’s apex — not a destination, but the state where opposites coexist.
     
     > Inclusion replaces opposition.

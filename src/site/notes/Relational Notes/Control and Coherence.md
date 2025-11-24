@@ -22,7 +22,7 @@ The four concepts form a continuum of awareness:
 - **[[Terms/Systemic Release\|Systemic Release]]**: the act of reclaiming sovereignty through non-compliance with fragmentation.
     
 
-[[Terms/Control\|Control]] is the illusion that peace can be manufactured; coherence is the realization that balance emerges naturally when fragmentation ends.
+[[Terms/Control\|Terms/Control]] is the illusion that peace can be manufactured; coherence is the realization that balance emerges naturally when fragmentation ends.
 
 ---
 

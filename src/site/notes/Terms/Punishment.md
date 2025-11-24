@@ -16,4 +16,4 @@ Punishment intervenes in that process, replacing evolution with enforcement.
 
 See [[References/Philosophy of Integration\|Philosophy of Integration]]
 See [[Terms/Cause and Effect\|Cause and Effect]]  
-See also [[Terms/Guilt\|Guilt]], [[Terms/Forgiveness\|Forgiveness]], [[Terms/Shame\|Shame]], and [[Terms/Control\|Control]] for how integration replaces retribution with understanding.
+See also [[Terms/Guilt\|Guilt]], [[Terms/Forgiveness\|Forgiveness]], [[Terms/Shame\|Shame]], and [[Terms/Control\|Terms/Control]] for how integration replaces retribution with understanding.

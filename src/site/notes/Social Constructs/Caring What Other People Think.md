@@ -30,4 +30,4 @@ When it comes from awareness or love, it integrates.
 
 ### **Linked Concepts**
 
-[[Terms/Control\|Control]], [[Terms/Fear\|Fear]], [[Terms/Freedom\|Freedom]], [[Terms/Truth\|Truth]], [[Terms/Responsibility\|Responsibility]]
+[[Terms/Control\|Terms/Control]], [[Terms/Fear\|Fear]], [[Terms/Freedom\|Freedom]], [[Terms/Truth\|Truth]], [[Terms/Responsibility\|Responsibility]]

@@ -37,7 +37,7 @@ Integration doesn’t replace spirituality; it **completes what spirituality beg
 
 - [[Terms/Integration\|Integration]]
     
-- [[Terms/Control\|Control]]
+- [[Terms/Control\|Terms/Control]]
     
 - [[Philosophical Constructs/Coping vs Healing\|Coping vs Healing]]
     
