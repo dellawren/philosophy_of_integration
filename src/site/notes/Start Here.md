@@ -18,7 +18,7 @@ Della
 
 ---
 
-## **What You're Looking At**
+## What You're Looking At
 
 This site is a working document. I’m an author writing a draft in the open. It might become a book one day, but for now, it’s notes — my brain sharing the ideas as I come to them.
 
@@ -34,35 +34,74 @@ Feel free to explore at your own risk.
 
 ---
 
-## **How To Read This Site**
+## How to Begin
 
-There is no “right place” to start.  
-This is an ever expanding web of ideas.
+### **If you’re new to philosophy or self-awareness**
 
-You can treat this like a garden or a labyrinth: pick a note, follow a link, and see where you end up. Each idea connects to others. The path you take will shape the understanding you receive, and that’s intentional.
+Start with **Foundational Principles**.  
+These pieces ground you in the essentials — truth, choice, awareness, fragmentation, and what integration actually means in a lived life. They give you the language and the centre of gravity you’ll need for everything that follows.
 
-A few things to keep in mind as you explore:
+### **If you’re philosophically trained or love theory**
 
-- You don’t have to understand everything at once — or at all
+Begin with **Philosophical Foundations**.  
+This section shows where Integration sits inside the wider philosophical landscape and why it diverges. It orients you immediately, so you can place this work without assuming it mirrors anything you’ve already studied.
+
+### **If you’re here because something in your life is shifting**
+
+Start in **Core Architecture**.  
+These pages move straight into the mechanics — cause and effect, loops, chains, the movements of awareness. If you’re already in a transition, the architecture will show you what’s happening underneath the surface so you can move through it with clarity.
+
+---
+
+# The Recommended Reading Path
+
+Here’s the most natural way to move through the library — the path that builds understanding layer by layer without overwhelming you:
+
+1. **Foundational Principles**
     
-- Some notes are complete; others are seeds or fragments
+2. **Philosophical Foundations**
     
-- This is a growing draft
+3. **Core Architecture**
     
-- Follow curiosity, not order
+4. **Constructs & Distortions**
     
-- If something feels confusing, move to another note and circle back later
+5. **Relational Notes & Ethical Movements**
+    
+6. **The Lexicon / Terms**
     
 
-There is no test at the end of this.  
-The value is in what you notice — in yourself — as you read.
+You don’t need to read every page before moving on, but this order reveals the philosophy in a coherent way.
 
-> Let the ideas meet you where you are, not where you think you “should” be.
+---
+
+## What Each Section Does
+
+### **Foundational Principles**
+
+These are the anchors — simple, essential movements that return you to yourself. They’re the ground you stand on while everything else settles.
+
+### **Philosophical Foundations**
+
+Here you see the wider landscape. It shows what this philosophy is in conversation with, what it challenges, and what it completes.
+
+### **Core Architecture**
+
+This is the engine of the whole thing. Cause and effect, loops, chains, time, awareness — the mechanics of how human experience actually works beneath the story.
+
+### **Constructs & Distortions**
+
+These pages reveal the inherited patterns and cultural ideas that pull you out of coherence. They show what gets in the way, but also why.
+
+### **Relational Notes & Ethical Movements**
+
+Integration doesn’t stay inside of you — it changes how you move with people. These pieces explore the space between individuals, where power, responsibility, and awareness meet.
+
+### **The Lexicon / Terms**
+
+These are the definitions for depth. Clear, concise, and rooted in your language so readers can understand the philosophy without getting lost.
 
 ---
 ## A Final Note Before You Wander
-
-There is no map for this. You’ll find your own way through it.
 
 Follow the ideas that spark something in you, skip what doesn’t, and come back to anything that lingers in the back of your mind. This is an exploration, not a curriculum.
 
