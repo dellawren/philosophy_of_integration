@@ -2,12 +2,13 @@
 {"dg-publish":true,"dg-title":"Coherence","permalink":"/terms/coherence/","dgPassFrontmatter":true}
 ---
 
+The natural harmony between awareness and reality — the state in which perception is not in conflict with what cause and effect is actually doing.
 
-The natural harmony between awareness and reality; the state in which nothing contradicts itself because everything belongs.
+Coherence is not perfection or agreement. It is the condition in which awareness is free of distortion, able to meet reality as it is rather than as fear, preference, or control would reshape it. When awareness contracts around self-protection or story, coherence fractures. When awareness returns to presence, coherence restores itself.
 
-Coherence is not perfection or agreement. It is the condition of truth expressing itself without interference. In The Philosophy of Integration, coherence is the foundation of truth — the measure by which we know whether awareness is aligned with cause and effect. When awareness distorts reality through fear, preference, or control, coherence fractures. When awareness returns to presence, coherence restores itself.
+Within The Philosophy of Integration, coherence is the _quality_ of perception when it aligns with the underlying movement of cause and effect. It does not create truth; it allows truth to be recognised without interference.
 
-Unlike systemic coherence — which seeks uniformity or order — _integrative coherence_ allows contrast, paradox, and diversity to coexist without conflict. It is the felt recognition that everything, even what appears broken, still functions within the same field of balance.
+Unlike systemic coherence — which demands uniformity or order — _integrative coherence_ allows contrast, paradox, and difference to coexist without conflict. It is the felt recognition that everything, even what appears broken, is still unfolding within the same relational field.
 
 > “Coherence is not what holds things together; it is what proves they were never apart.”
 

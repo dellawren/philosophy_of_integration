@@ -5,6 +5,27 @@
 
 # Laws of Integration (The Architecture of Reality)
 
+## **How These Laws Function**
+
+When I use the word **“law”**, I do not mean a scientific formula or a predictive mechanism.  
+I mean a **fundamental relational pattern** — a structure that becomes visible when we observe human experience without moral interpretation.
+
+These laws are **metaphysical** in the sense that they describe the underlying movement of reality,  
+and **phenomenological** in the sense that they are encountered directly through lived perception.  
+They are not imposed beliefs or cosmic rules; they are the patterns that reveal themselves when awareness becomes quiet enough to see what cause and effect is actually doing.
+
+This stance is best described as **Situated Realism**:
+
+- There _is_ an underlying reality with consistent relational patterns.
+    
+- We only ever meet that reality from within our own perspective and nervous system.
+    
+- Integration is the process of reducing distortion so those patterns become clearer.
+    
+
+In this way, the Laws of Integration are not commandments or moral principles — they are the **deep structure of experience**, the architecture we uncover as distortion dissolves.
+
+---
 ## **Overview**
 
 This cluster links the _Axis of Awareness_ (Creation & Reflection) with the _Ladder of Integration_.  

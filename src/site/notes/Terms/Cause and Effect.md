@@ -2,16 +2,20 @@
 {"dg-publish":true,"dg-title":"Cause and Effect","permalink":"/terms/cause-and-effect/","dgPassFrontmatter":true}
 ---
 
-**Cause and effect** is the natural law of relationship — the movement through which all things interact, transform, and reveal truth.  
+**Cause and effect** is the primitive of this framework — the base structure of reality and the natural law of relationship through which all things interact, transform, and reveal their impact on one another.  
 It is neither moral nor punitive; it does not judge, forgive, or reward.  
-It simply expresses consequence — the unfolding of coherence through time.
+It simply expresses consequence: the ongoing movement of reality as events follow from one another over time.
 
 Every thought, action, and event generates an effect, not as punishment but as continuity.  
-Awareness of this movement dissolves the need for blame or external control.  
+Awareness of this movement dissolves the need for blame or external control.
 
-When seen clearly, cause and effect becomes the foundation of coherence — the quiet rhythm beneath apparent chaos.
+In the wider Philosophy of Integration, cause and effect sits underneath everything else.  
+Truth is just perception that accurately tracks this movement.  
+Coherence is the absence of contradiction between our awareness and what cause and effect is actually doing.  
+Integration is the process of returning to that alignment when fear, distortion, or fragmentation pulls us away.
 
-Within [[Terms/Integration\|Integration]], cause and effect offers the mind something it can trust while the heart learns to release control.  
+Seen in this way, cause and effect becomes the foundation of coherence — the quiet rhythm beneath apparent chaos.  
+It offers the mind something it can trust while the heart learns to release control.  
 It gives understanding form without demanding meaning.
 
 > Cause and effect is not correction — it is reflection.
