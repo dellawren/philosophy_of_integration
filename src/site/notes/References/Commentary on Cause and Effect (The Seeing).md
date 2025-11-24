@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"Commentary on Cause and Effect (The Seeing)","permalink":"/references/commentary-on-cause-and-effect-the-seeing/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"Commentary on Cause and Effect (The Seeing)","order":6,"permalink":"/references/commentary-on-cause-and-effect-the-seeing/","dgPassFrontmatter":true}
 ---
 
 

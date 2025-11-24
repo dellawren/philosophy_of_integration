@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"The Ladder of Integration Relationships","permalink":"/relational-notes/the-ladder-of-integration-relationships/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"The Ladder of Integration Relationships","order":10,"permalink":"/relational-notes/the-ladder-of-integration-relationships/","dgPassFrontmatter":true}
 ---
 
 ### **Overview**

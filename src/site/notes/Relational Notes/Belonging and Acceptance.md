@@ -1,13 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/relational-notes/belonging-and-acceptance/","dgPassFrontmatter":true}
+{"dg-publish":true,"order":6,"permalink":"/relational-notes/belonging-and-acceptance/","dgPassFrontmatter":true}
 ---
 
-
-## Type
-
-Relational Note
-
----
 
 ## Overview
 

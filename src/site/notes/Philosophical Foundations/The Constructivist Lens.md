@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"The Constructivist Lens","permalink":"/philosophical-foundations/the-constructivist-lens/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"The Constructivist Lens","order":6,"permalink":"/philosophical-foundations/the-constructivist-lens/","dgPassFrontmatter":true}
 ---
 
 We do not perceive reality directly — we interpret it.  

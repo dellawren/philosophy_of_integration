@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"Where Integration Sits in the Landscape of Philosophy","permalink":"/philosophical-foundations/where-integration-sits-in-the-landscape-of-philosophy/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"Where Integration Sits in the Landscape of Philosophy","order":1,"permalink":"/philosophical-foundations/where-integration-sits-in-the-landscape-of-philosophy/","dgPassFrontmatter":true}
 ---
 
 The Philosophy of Integration rejects the unexamined assumption that human life requires external control.  

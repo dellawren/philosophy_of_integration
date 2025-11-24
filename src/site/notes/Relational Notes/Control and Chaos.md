@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"Control and Chaos","permalink":"/relational-notes/control-and-chaos/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"Control and Chaos","order":3,"permalink":"/relational-notes/control-and-chaos/","dgPassFrontmatter":true}
 ---
 
 ### _A relational movement inside the causal architecture_

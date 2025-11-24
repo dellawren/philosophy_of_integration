@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/the-ladder-of-integration/","dgPassFrontmatter":true}
+{"dg-publish":true,"order":4,"permalink":"/references/the-ladder-of-integration/","dgPassFrontmatter":true}
 ---
 
 

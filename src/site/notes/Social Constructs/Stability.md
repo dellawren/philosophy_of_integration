@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"Stability","permalink":"/social-constructs/stability/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"Stability","order":4,"permalink":"/social-constructs/stability/","dgPassFrontmatter":true}
 ---
 
 ### **Cultural Story**

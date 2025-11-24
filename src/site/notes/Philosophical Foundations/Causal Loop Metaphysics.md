@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"Causal Loop Metaphysics","permalink":"/philosophical-foundations/causal-loop-metaphysics/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"Causal Loop Metaphysics","order":7,"permalink":"/philosophical-foundations/causal-loop-metaphysics/","dgPassFrontmatter":true}
 ---
 
 **Causal Loop Metaphysics** — the view that reality functions through recursive relationships rather than linear chains of cause and effect.  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relational-notes/control-and-coherence/","dgPassFrontmatter":true}
+{"dg-publish":true,"order":4,"permalink":"/relational-notes/control-and-coherence/","dgPassFrontmatter":true}
 ---
 
 

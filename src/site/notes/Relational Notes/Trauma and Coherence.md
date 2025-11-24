@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"Trauma and Coherence","permalink":"/relational-notes/trauma-and-coherence/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"Trauma and Coherence","order":5,"permalink":"/relational-notes/trauma-and-coherence/","dgPassFrontmatter":true}
 ---
 
 ## Overview

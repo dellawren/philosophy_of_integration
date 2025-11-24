@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"The Acceptance of Fragmentation","permalink":"/philosophical-foundations/the-acceptance-of-fragmentation/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"The Acceptance of Fragmentation","order":9,"permalink":"/philosophical-foundations/the-acceptance-of-fragmentation/","dgPassFrontmatter":true}
 ---
 
 ## Why no one must intervene — and why nothing is broken.

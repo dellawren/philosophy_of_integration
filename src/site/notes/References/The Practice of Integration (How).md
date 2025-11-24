@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"The Practice of Integration (How)","permalink":"/references/the-practice-of-integration-how/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"The Practice of Integration (How)","order":5,"permalink":"/references/the-practice-of-integration-how/","dgPassFrontmatter":true}
 ---
 
 

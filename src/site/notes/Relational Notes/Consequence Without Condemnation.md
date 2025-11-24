@@ -1,12 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/relational-notes/consequence-without-condemnation/","dgPassFrontmatter":true}
+{"dg-publish":true,"order":7,"permalink":"/relational-notes/consequence-without-condemnation/","dgPassFrontmatter":true}
 ---
 
-
-## Type  
-Relational Note  
-
----
 
 ## Overview  
 This relationship explores the evolution from moral judgment to natural awareness — from condemnation as control to consequence as coherence.  

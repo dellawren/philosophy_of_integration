@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"The Side Effect Model of Control","permalink":"/philosophical-foundations/the-side-effect-model-of-control/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"The Side Effect Model of Control","order":10,"permalink":"/philosophical-foundations/the-side-effect-model-of-control/","dgPassFrontmatter":true}
 ---
 
 ### _Why control destabilizes the field — and why it always escalates_

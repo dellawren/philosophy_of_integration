@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"Caring What Other People Think","permalink":"/social-constructs/caring-what-other-people-think/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"Caring What Other People Think","order":2,"permalink":"/social-constructs/caring-what-other-people-think/","dgPassFrontmatter":true}
 ---
 
 
