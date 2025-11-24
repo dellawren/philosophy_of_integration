@@ -1,5 +1,5 @@
 ---
-{"type":"Philosophical Cluster","tags":["cluster","meta","laws","integration","stillhouse","philosophy"],"dg-publish":true,"dg-title":"Law of Integration (The Architecture of Reality","permalink":"/philosophical-cluster/laws-of-integration-the-architecture-of-reality/","dgPassFrontmatter":true}
+{"type":"Philosophical Cluster","tags":["cluster","meta","laws","integration","stillhouse","philosophy"],"dg-publish":true,"dg-title":"Law of Integration (The Architecture of Reality)","permalink":"/philosophical-cluster/laws-of-integration-the-architecture-of-reality/","dgPassFrontmatter":true}
 ---
 
 
