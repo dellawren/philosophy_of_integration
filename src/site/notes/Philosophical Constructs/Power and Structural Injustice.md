@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"Power and Structural Injustice","permalink":"/philosophical-constructs/power-and-structural-injustice/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"Power and Structural Injustice","order":9,"permalink":"/philosophical-constructs/power-and-structural-injustice/","dgPassFrontmatter":true}
 ---
 
 ### _How Integration Meets Systems That Distort Reality_

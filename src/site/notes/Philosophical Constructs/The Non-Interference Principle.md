@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"The Non-Interference Principle","permalink":"/philosophical-constructs/the-non-interference-principle/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"The Non-Interference Principle","order":7,"permalink":"/philosophical-constructs/the-non-interference-principle/","dgPassFrontmatter":true}
 ---
 
 ### _The ethical expression of Structural Trust._

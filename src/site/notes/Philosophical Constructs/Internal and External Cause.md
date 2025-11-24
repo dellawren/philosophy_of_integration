@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"Internal and External Cause","permalink":"/philosophical-constructs/internal-and-external-cause/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"Internal and External Cause","order":1,"permalink":"/philosophical-constructs/internal-and-external-cause/","dgPassFrontmatter":true}
 ---
 
 ### _The Two Streams of Movement That Shape a Life_

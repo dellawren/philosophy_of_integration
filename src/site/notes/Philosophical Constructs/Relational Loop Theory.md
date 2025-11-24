@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"Relational Loop Theory","permalink":"/philosophical-constructs/relational-loop-theory/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"Relational Loop Theory","order":6,"permalink":"/philosophical-constructs/relational-loop-theory/","dgPassFrontmatter":true}
 ---
 
 ### **Principle**

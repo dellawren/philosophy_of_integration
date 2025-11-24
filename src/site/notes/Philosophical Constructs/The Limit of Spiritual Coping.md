@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"The Limit of Spiritual Coping","permalink":"/philosophical-constructs/the-limit-of-spiritual-coping/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"The Limit of Spiritual Coping","order":14,"permalink":"/philosophical-constructs/the-limit-of-spiritual-coping/","dgPassFrontmatter":true}
 ---
 
 ## Cultural Story

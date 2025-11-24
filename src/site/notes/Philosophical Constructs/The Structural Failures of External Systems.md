@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"The Structural Failures of External Systems","permalink":"/philosophical-constructs/the-structural-failures-of-external-systems/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"The Structural Failures of External Systems","order":8,"permalink":"/philosophical-constructs/the-structural-failures-of-external-systems/","dgPassFrontmatter":true}
 ---
 
 ### _Why interference breaks coherence — and why structural trust is the only integrated alternative._

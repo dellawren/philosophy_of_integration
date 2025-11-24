@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"Trauma","permalink":"/philosophical-constructs/trauma/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"Trauma","order":10,"permalink":"/philosophical-constructs/trauma/","dgPassFrontmatter":true}
 ---
 
 ## Cultural Story
