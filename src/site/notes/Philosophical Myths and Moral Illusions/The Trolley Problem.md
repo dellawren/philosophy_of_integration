@@ -13,7 +13,7 @@ The Trolley Problem forces a false binary:
 
 It pretends to measure “moral goodness,” but it actually measures compliance with utilitarian logic.
 
-Your philosophy rejects **all of the underlying assumptions**:
+This philosophy rejects **all of the underlying assumptions**:
 
 1. That you are responsible for other people’s causal loops
     
@@ -128,10 +128,9 @@ But that is false.
 
 Not acting does not create a new cause; it preserves the existing sequence.
 
-**In Integration, neutrality does exist —  
-it is non-interference.**
+**In Integration, neutrality does exist —  it is non-interference.**
 
-The trolley problem collapses because the philosophical floor it stands on (moral responsibility for outcomes you did not cause) does not exist in your system.
+The trolley problem collapses because the philosophical floor it stands on (moral responsibility for outcomes you did not cause) does not exist in this philosophy.
 
 ---
 
@@ -163,8 +162,7 @@ It dissolves.
 
 You don’t act _because you can’t possibly know enough to act without creating greater fragmentation._
 
-And the moment you try to assume you do,  
-you become the source of chaos.
+And the moment you try to assume you do,  you become the source of chaos.
 
 **Control is the chaos everyone was trying to prevent.**  
 The trolley problem exists _because_ people believe control is necessary.
