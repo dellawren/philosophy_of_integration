@@ -1,8 +1,9 @@
 const sortTree = (unsorted) => {
-  //Sort by folder before file, then by name
+  // Sort by pinned, then folder before file, then by order, then by name
   const orderedTree = Object.keys(unsorted)
     .sort((a, b) => {
 
+      // 1. Pinned first
       let a_pinned = unsorted[a].pinned || false;
       let b_pinned = unsorted[b].pinned || false;
       if (a_pinned != b_pinned) {
@@ -13,6 +14,7 @@ const sortTree = (unsorted) => {
         }
       }
 
+      // 2. Folders before notes
       const a_is_note = a.indexOf(".md") > -1;
       const b_is_note = b.indexOf(".md") > -1;
 
@@ -24,7 +26,19 @@ const sortTree = (unsorted) => {
         return -1;
       }
 
-      //Regular expression that extracts any initial decimal number
+      // 3. Frontmatter order (if present)
+      const aOrder = typeof unsorted[a].order !== "undefined"
+        ? unsorted[a].order
+        : Number.POSITIVE_INFINITY;
+      const bOrder = typeof unsorted[b].order !== "undefined"
+        ? unsorted[b].order
+        : Number.POSITIVE_INFINITY;
+
+      if (aOrder !== bOrder) {
+        return aOrder - bOrder;
+      }
+
+      // 4. Numeric prefix in filename (e.g. "01 Name.md")
       const aNum = parseFloat(a.match(/^\d+(\.\d+)?/));
       const bNum = parseFloat(b.match(/^\d+(\.\d+)?/));
 
@@ -32,9 +46,10 @@ const sortTree = (unsorted) => {
       const b_is_num = !isNaN(bNum);
 
       if (a_is_num && b_is_num && aNum != bNum) {
-        return aNum - bNum; //Fast comparison between numbers
+        return aNum - bNum; // Fast comparison between numbers
       }
 
+      // 5. Alphabetical fallback
       if (a.toLowerCase() > b.toLowerCase()) {
         return 1;
       }
@@ -47,6 +62,7 @@ const sortTree = (unsorted) => {
       return obj;
     }, {});
 
+  // Recursively sort subfolders
   for (const key of Object.keys(orderedTree)) {
     if (orderedTree[key].isFolder) {
       orderedTree[key] = sortTree(orderedTree[key]);
@@ -63,14 +79,16 @@ function getPermalinkMeta(note, key) {
   let noteIcon = process.env.NOTE_ICON_DEFAULT;
   let hide = false;
   let pinned = false;
+  let order = null;
   let folders = null;
+
   try {
     if (note.data.permalink) {
       permalink = note.data.permalink;
     }
     if (note.data.tags && note.data.tags.indexOf("gardenEntry") != -1) {
       permalink = "/";
-    }    
+    }
     if (note.data.title) {
       name = note.data.title;
     }
@@ -85,6 +103,10 @@ function getPermalinkMeta(note, key) {
     if (note.data.pinned) {
       pinned = note.data.pinned;
     }
+    // NEW: read order from frontmatter if present
+    if (typeof note.data.order !== "undefined") {
+      order = note.data.order;
+    }
     if (note.data["dg-path"]) {
       folders = note.data["dg-path"].split("/");
     } else {
@@ -92,12 +114,12 @@ function getPermalinkMeta(note, key) {
         .split("notes/")[1]
         .split("/");
     }
-    folders[folders.length - 1]+= ".md";
+    folders[folders.length - 1] += ".md";
   } catch {
     //ignore
   }
 
-  return [{ permalink, name, noteIcon, hide, pinned }, folders];
+  return [{ permalink, name, noteIcon, hide, pinned, order }, folders];
 }
 
 function assignNested(obj, keyPath, value) {
