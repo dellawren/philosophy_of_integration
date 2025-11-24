@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"Non-Duality vs Integration","order":4,"permalink":"/philosophical-foundations/non-duality-vs-integration/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"Non-Duality vs Integration","order":7,"permalink":"/philosophical-foundations/non-duality-vs-integration/","dgPassFrontmatter":true}
 ---
 
 

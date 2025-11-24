@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"Circling","order":11,"permalink":"/philosophical-foundations/circling/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"Circling","order":6,"permalink":"/philosophical-foundations/circling/","dgPassFrontmatter":true}
 ---
 
 **Circling** — the experiential return to a familiar inner place, not as failure or repetition, but as recognition.  

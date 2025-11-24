@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"Time Perception and Return","order":8,"permalink":"/philosophical-foundations/time-perception-and-return/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"Time Perception and Return","order":9,"permalink":"/philosophical-foundations/time-perception-and-return/","dgPassFrontmatter":true}
 ---
 
 **Time, Perception, and Return** — the recognition that time is experienced as linear only because the human mind cannot hold the full simultaneity of reality.  
