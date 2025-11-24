@@ -2,20 +2,23 @@
 {"dg-publish":true,"dg-title":"Coherence","permalink":"/terms/coherence/","dgPassFrontmatter":true}
 ---
 
-The natural harmony between awareness and reality — the state in which perception is not in conflict with what cause and effect is actually doing.
+**Coherence** — the natural harmony between awareness and reality.  
+It is not agreement or perfection but the condition in which awareness meets what is happening without replacing it with a story.
 
-Coherence is not perfection or agreement. It is the condition in which awareness is free of distortion, able to meet reality as it is rather than as fear, preference, or control would reshape it. When awareness contracts around self-protection or story, coherence fractures. When awareness returns to presence, coherence restores itself.
+Coherence is the moment the mind stops editing the world.  
+It is contact with **reality-as-event**: what was said, what was done, what the body registered, what consequences unfolded. Coherence does not demand neutrality or detachment — only honesty. It is the meeting point between awareness and the movement that exists before interpretation.
 
-Within The Philosophy of Integration, coherence is the _quality_ of perception when it aligns with the underlying movement of cause and effect. It does not create truth; it allows truth to be recognised without interference.
+In The Philosophy of Integration, coherence is not a moral standard or a “correct way of seeing.” It is the absence of distortion. When awareness overlays the moment with fear, preference, or narrative, coherence fractures. When awareness meets reality directly, coherence returns — not as calmness, but as clarity.
 
-Unlike systemic coherence — which demands uniformity or order — _integrative coherence_ allows contrast, paradox, and difference to coexist without conflict. It is the felt recognition that everything, even what appears broken, is still unfolding within the same relational field.
+Where systemic coherence seeks uniformity or consensus, **integrative coherence** allows contrast, emotion, paradox, and difference. Nothing must match — it must only be _seen as it is_. Coherence does not eliminate complexity; it simply refuses to replace the event with the explanation.
 
-> “Coherence is not what holds things together; it is what proves they were never apart.”
+> “Coherence is not agreement — it is the end of replacement.”
 
 See [[References/Philosophy of Integration\|Philosophy of Integration]]  
 See [[Philosophical Constructs/Law of Natural Coherence\|Law of Natural Coherence]]  
 See [[Relational Notes/Control and Fear - The Machinery of Fragmentation\|Control and Fear - The Machinery of Fragmentation]]  
 See [[Philosophical Constructs/Ethics - Integration as Responsibility\|Ethics - Integration as Responsibility]]
+See [[Terms/Reality\|Reality]]
 
 # Coherence – Connection Map
 

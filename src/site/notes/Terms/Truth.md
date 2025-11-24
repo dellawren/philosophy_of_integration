@@ -2,17 +2,18 @@
 {"dg-publish":true,"dg-title":"Truth","permalink":"/terms/truth/","dgPassFrontmatter":true}
 ---
 
-**Truth** is what becomes visible when perception quiets enough to meet reality as it is.  
-It is not belief, agreement, or fact — it is the recognition of what cause and effect is actually doing in a given moment.
+**Truth** — alignment between awareness and reality once interpretation quiets.  
+It is not belief, consensus, or agreement. Truth is what remains when the mind stops asserting its meaning over what actually occurred.
 
-Truth cannot be owned or weaponized; it does not belong to individuals or groups.  
-It reveals itself when awareness stops distorting reality through fear, identity, or control.  
-In Stillhouse philosophy, truth is not the opposite of lies — it is the clearing that appears when distortion dissolves.  
-As awareness expands, the capacity to perceive truth expands with it.
+Truth does not arise from objectivity or neutrality; it arises from contact.  
+Where coherence is the clean meeting with **reality-as-event**, truth is the recognition that emerges from that meeting. It is the inner sense that nothing is being distorted — that awareness is touching the moment without rearranging it.
 
-Truth does not require consensus; it requires coherence with the underlying movement of reality.
+In Stillhouse philosophy, truth is not the opposite of lies. It is the dissolution of distortion. It expands as awareness expands, because truth is relational: the more clearly we meet the event, the more clearly we see the patterns that run through it.
 
-> Truth does not take sides — it reveals patterns.
+Truth does not take sides.  
+It does not justify, defend, accuse, or explain.  
+Truth is simply the alignment between what happened and what awareness allows itself to acknowledge.
 
+> “Truth reveals itself when interpretation steps aside.”
 See also [[References/Philosophy of Integration\|Philosophy of Integration]], [[Relational Notes/The Ladder of Integration Relationships\|The Ladder of Integration Relationships]]
-See also [[Terms/Awareness\|Awareness]], [[Terms/Integration\|Integration]], [[Terms/Ethics\|Ethics]], [[Terms/Cause and Effect\|Cause and Effect]]
+See also [[Terms/Awareness\|Awareness]], [[Terms/Integration\|Integration]], [[Terms/Ethics\|Ethics]], [[Terms/Cause and Effect\|Cause and Effect]], [[Terms/Reality\|Reality]]

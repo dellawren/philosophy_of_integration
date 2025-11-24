@@ -44,7 +44,7 @@ These five steps describe how that return happens in lived experience.
 
 ## **1. Locate the Chain**
 
-Every distortion has a “chain” — a familiar emotional or behavioural loop that signals fragmentation.
+Every distortion has a “chain” — a familiar emotional or behavioral loop that signals fragmentation.
 
 You’re not looking for meaning.  
 You’re identifying **pattern**:
@@ -85,10 +85,9 @@ Let go of:
 
 Return to the **raw experience**:
 
-What is here, without explanation?
+What is here, without explanation, interpretation, or added meaning?
 
-This is the heart of the Stillhouse method:  
-**experience before meaning.**
+This is the heart of the Stillhouse method:   **experience before meaning.**
 
 ---
 
