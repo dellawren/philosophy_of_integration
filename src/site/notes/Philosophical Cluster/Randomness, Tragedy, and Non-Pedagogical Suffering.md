@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"Randomness, Tragedy, and Non-Pedagogical Suffering","permalink":"/philosophical-cluster/randomness-tragedy-and-non-pedagogical-suffering/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"Randomness, Tragedy, and Non-Pedagogical Suffering","order":4,"permalink":"/philosophical-cluster/randomness-tragedy-and-non-pedagogical-suffering/","dgPassFrontmatter":true}
 ---
 
 ### _Cause and Effect without Cosmic Moralization_
