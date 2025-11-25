@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"The Trolley Problem","permalink":"/philosophical-myths-and-moral-illusions/the-trolley-problem/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"The Trolley Problem","order":1,"permalink":"/philosophical-myths-and-moral-illusions/the-trolley-problem/","dgPassFrontmatter":true}
 ---
 
 # **Step 1: The Trolley Problem is a Morality Trap, Not a Real Dilemma**
