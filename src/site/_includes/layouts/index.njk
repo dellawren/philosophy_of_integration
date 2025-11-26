@@ -3,14 +3,10 @@
 <head>
   <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</title>
   {%include "components/pageheader.njk"%}
-
   {% for imp in dynamics.common.head %}
     {% include imp %}
   {% endfor %}
-
-  {% include "components/og.njk" %}
-
-  {% for imp in dynamics.index.head %}
+  {% for imp in dynamics.notes.head %}
     {% include imp %}
   {% endfor %}
 </head>
