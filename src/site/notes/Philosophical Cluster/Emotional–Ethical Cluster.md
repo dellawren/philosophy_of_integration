@@ -1,5 +1,5 @@
 ---
-{"type":"Philosophical Cluster","dg-publish":true,"dg-title":"Emotional-Ethical Cluster","order":3,"permalink":"/philosophical-cluster/emotional-ethical-cluster/","dgPassFrontmatter":true}
+{"type":"Philosophical Cluster","dg-publish":true,"dg-title":"Emotional-Ethical Cluster","order":3,"dg-metatags":{"description":"Some description","og:title":"Philosophy of Integration","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/philosophical-cluster/emotional-ethical-cluster/","metatags":{"description":"Some description","og:title":"Philosophy of Integration","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
 
