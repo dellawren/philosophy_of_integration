@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"Time Perception and Return","order":9,"permalink":"/philosophical-foundations/time-perception-and-return/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"Time Perception and Return","order":9,"dg-metatags":{"og:title":"Time, Perception & Return — The Philosophy of Integration","description":"Explore how Time, Perception and Return shape consciousness — how cycles, memory and awareness frame existence beyond linear flow and ordinary being.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/philosophical-foundations/time-perception-and-return/","metatags":{"og:title":"Time, Perception & Return — The Philosophy of Integration","description":"Explore how Time, Perception and Return shape consciousness — how cycles, memory and awareness frame existence beyond linear flow and ordinary being.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
 **Time, Perception, and Return** — the recognition that time is experienced as linear only because the human mind cannot hold the full simultaneity of reality.  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"Circling","order":6,"permalink":"/philosophical-foundations/circling/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"Circling","order":6,"dg-metatags":{"og:title":"Circling — The Philosophy of Integration","description":"Explore ‘Circling’: the shared space of inquiry, presence and relational awareness — a practice-rooted method within the Philosophy of Integration for deeper connection and insight.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/philosophical-foundations/circling/","metatags":{"og:title":"Circling — The Philosophy of Integration","description":"Explore ‘Circling’: the shared space of inquiry, presence and relational awareness — a practice-rooted method within the Philosophy of Integration for deeper connection and insight.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
 **Circling** — the experiential return to a familiar inner place, not as failure or repetition, but as recognition.  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"The Side Effect Model of Control","order":11,"permalink":"/philosophical-foundations/the-side-effect-model-of-control/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"The Side Effect Model of Control","order":11,"dg-metatags":{"og:title":"The Side-Effect Model of Control — The Philosophy of Integration","description":"Explore the Side-Effect Model of Control: how attempts to control external structures often spawn unintended consequences — and how true coherence emerges from inner alignment, not coercion.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/philosophical-foundations/the-side-effect-model-of-control/","metatags":{"og:title":"The Side-Effect Model of Control — The Philosophy of Integration","description":"Explore the Side-Effect Model of Control: how attempts to control external structures often spawn unintended consequences — and how true coherence emerges from inner alignment, not coercion.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
 ### _Why control destabilizes the field — and why it always escalates_

@@ -3,11 +3,6 @@
 ---
 
 
-## Type
-Philosophical Construct  
-
----
-
 ## **Principle**
 
 If it were against some universal law, it would not be mirrored in the animal kingdom.

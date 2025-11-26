@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"Causal Loop Metaphysics","order":8,"permalink":"/philosophical-foundations/causal-loop-metaphysics/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"Causal Loop Metaphysics","order":8,"dg-metatags":{"og:title":"Causal Loop Metaphysics — The Philosophy of Integration","description":"Causal Loop Metaphysics posits reality as recursive, not linear: loops of cause and effect shape existence — healing, time, and consciousness unfold as spirals rather than straight lines.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/philosophical-foundations/causal-loop-metaphysics/","metatags":{"og:title":"Causal Loop Metaphysics — The Philosophy of Integration","description":"Causal Loop Metaphysics posits reality as recursive, not linear: loops of cause and effect shape existence — healing, time, and consciousness unfold as spirals rather than straight lines.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
 **Causal Loop Metaphysics** — the view that reality functions through recursive relationships rather than linear chains of cause and effect.  

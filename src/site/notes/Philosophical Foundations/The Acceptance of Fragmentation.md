@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"The Acceptance of Fragmentation","order":10,"permalink":"/philosophical-foundations/the-acceptance-of-fragmentation/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"The Acceptance of Fragmentation","order":10,"dg-metatags":{"og:title":"The Acceptance of Fragmentation — The Philosophy of Integration","description":"Explore the Acceptance of Fragmentation: understanding how brokenness, dissonance and inner fractures are part of integration — a path to healing, wholeness, and conscious coherence.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/philosophical-foundations/the-acceptance-of-fragmentation/","metatags":{"og:title":"The Acceptance of Fragmentation — The Philosophy of Integration","description":"Explore the Acceptance of Fragmentation: understanding how brokenness, dissonance and inner fractures are part of integration — a path to healing, wholeness, and conscious coherence.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
 ## Why no one must intervene — and why nothing is broken.

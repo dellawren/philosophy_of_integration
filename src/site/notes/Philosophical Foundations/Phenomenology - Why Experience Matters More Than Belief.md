@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"Phenomenology - Why Experience Matters More Than Belief","order":4,"permalink":"/philosophical-foundations/phenomenology-why-experience-matters-more-than-belief/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"Phenomenology - Why Experience Matters More Than Belief","order":4,"dg-metatags":{"og:title":"Phenomenology — Why Experience Matters More Than Belief | The Philosophy of Integration","description":"A deep dive into phenomenology: exploring how lived experience, consciousness, and embodied awareness reveal truths beyond belief systems — grounding meaning in real being.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/philosophical-foundations/phenomenology-why-experience-matters-more-than-belief/","metatags":{"og:title":"Phenomenology — Why Experience Matters More Than Belief | The Philosophy of Integration","description":"A deep dive into phenomenology: exploring how lived experience, consciousness, and embodied awareness reveal truths beyond belief systems — grounding meaning in real being.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
 Phenomenology begins with a simple premise: _the truth of something is found in lived experience, not in the ideas we hold about it._  

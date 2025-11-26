@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"Non-Duality vs Integration","order":7,"permalink":"/philosophical-foundations/non-duality-vs-integration/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"Non-Duality vs Integration","order":7,"dg-metatags":{"og:title":"Non-Duality vs Integration — The Philosophy of Integration","description":"Explore the difference between non-duality and Integration: how awareness of unity meets grounded structure, offering a path beyond mere dissolution into conscious coherence and responsibility.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/philosophical-foundations/non-duality-vs-integration/","metatags":{"og:title":"Non-Duality vs Integration — The Philosophy of Integration","description":"Explore the difference between non-duality and Integration: how awareness of unity meets grounded structure, offering a path beyond mere dissolution into conscious coherence and responsibility.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
 
