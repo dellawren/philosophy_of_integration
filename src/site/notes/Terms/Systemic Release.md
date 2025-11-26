@@ -13,4 +13,4 @@ It is the moment when awareness replaces obedience, and responsibility becomes i
 > Systemic release asks, “Who am I when I no longer need permission?”
 
 See [[References/Philosophy of Integration\|Philosophy of Integration]]
-See also [[Terms/Systemic Release\|Systemic Release]] and [[Terms/Integration\|integration]] for how awareness dissolves control.
+See also [[Terms/Systemic Release\|Terms/Systemic Release]] and [[Terms/Integration\|integration]] for how awareness dissolves control.

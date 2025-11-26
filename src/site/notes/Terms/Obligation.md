@@ -19,4 +19,4 @@ Freedom begins when the performance of obligation is seen for what it is — an 
 
 See [[References/Philosophy of Integration\|Philosophy of Integration]]
 See [[Terms/Responsibility\|Responsibility]]  
-See also [[Relational Notes/Freedom and Fear\|Freedom and Fear]], [[Relational Notes/Control and Coherence\|Control and Coherence]], and [[Terms/Systemic Release\|Systemic Release]] for how awareness transforms duty into clean response.
+See also [[Relational Notes/Freedom and Fear\|Freedom and Fear]], [[Relational Notes/Control and Coherence\|Control and Coherence]], and [[Terms/Systemic Release\|Terms/Systemic Release]] for how awareness transforms duty into clean response.

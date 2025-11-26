@@ -17,7 +17,7 @@ The four concepts form a continuum of awareness:
     
 - **[[Terms/Ethics\|Ethics]]**: awareness of truth expressed as self-regulating coherence.
     
-- **[[Terms/Systemic Release\|Systemic Release]]**: the act of reclaiming sovereignty through non-compliance with fragmentation.
+- **[[Terms/Systemic Release\|Terms/Systemic Release]]**: the act of reclaiming sovereignty through non-compliance with fragmentation.
     
 
 [[Terms/Control\|Terms/Control]] is the illusion that peace can be manufactured; coherence is the realization that balance emerges naturally when fragmentation ends.
