@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"The Trolley Problem","order":1,"permalink":"/philosophical-myths-and-moral-illusions/the-trolley-problem/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"The Trolley Problem","order":1,"dg-metatags":{"og:title":"The Trolley Problem — Moral Paradox & The Philosophy of Integration","description":"Dive into the moral paradox of the Trolley Problem: a critical look at choice, consequence and illusion — and how Integration reframes ethical dilemmas beyond black-and-white morality.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/philosophical-myths-and-moral-illusions/the-trolley-problem/","metatags":{"og:title":"The Trolley Problem — Moral Paradox & The Philosophy of Integration","description":"Dive into the moral paradox of the Trolley Problem: a critical look at choice, consequence and illusion — and how Integration reframes ethical dilemmas beyond black-and-white morality.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
 # **Step 1: The Trolley Problem is a Morality Trap, Not a Real Dilemma**

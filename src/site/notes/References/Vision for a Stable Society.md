@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"Vision for a Stable Society","order":7,"permalink":"/references/vision-for-a-stable-society/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"Vision for a Stable Society","order":7,"dg-metatags":{"og:title":"Vision for a Stable Society — References | The Philosophy of Integration","description":"A curated vision for a stable society rooted in integration: exploring systemic coherence, collective responsibility, and structures aligned with conscious living.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/references/vision-for-a-stable-society/","metatags":{"og:title":"Vision for a Stable Society — References | The Philosophy of Integration","description":"A curated vision for a stable society rooted in integration: exploring systemic coherence, collective responsibility, and structures aligned with conscious living.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
 

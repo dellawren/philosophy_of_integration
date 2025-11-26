@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"Philosophy of Integration","order":1,"permalink":"/references/philosophy-of-integration/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"Philosophy of Integration","order":1,"dg-metatags":{"og:title":"References — The Philosophy of Integration","description":"A curated archive of sources, influences and companion texts behind The Philosophy of Integration — tools for deeper reading, study and rooted understanding.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/references/philosophy-of-integration/","metatags":{"og:title":"References — The Philosophy of Integration","description":"A curated archive of sources, influences and companion texts behind The Philosophy of Integration — tools for deeper reading, study and rooted understanding.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
 

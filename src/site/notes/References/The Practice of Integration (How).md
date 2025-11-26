@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"The Practice of Integration (How)","order":5,"permalink":"/references/the-practice-of-integration-how/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"The Practice of Integration (How)","order":5,"dg-metatags":{"og:title":"The Practice of Integration — How | The Philosophy of Integration","description":"Step into the practice of Integration: a practical guide offering tools, reflections and structured paths for bringing coherence, conscious being, and inner alignment into daily life.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/references/the-practice-of-integration-how/","metatags":{"og:title":"The Practice of Integration — How | The Philosophy of Integration","description":"Step into the practice of Integration: a practical guide offering tools, reflections and structured paths for bringing coherence, conscious being, and inner alignment into daily life.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
 

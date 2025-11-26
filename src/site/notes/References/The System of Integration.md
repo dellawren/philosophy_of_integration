@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"The System of Integration","order":2,"permalink":"/references/the-system-of-integration/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"The System of Integration","order":2,"dg-metatags":{"og:title":"The System of Integration — References & Bibliography","description":"Explore foundational texts, influences and source material behind The System of Integration — a curated resource list to deepen philosophical study and insight.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/references/the-system-of-integration/","metatags":{"og:title":"The System of Integration — References & Bibliography","description":"Explore foundational texts, influences and source material behind The System of Integration — a curated resource list to deepen philosophical study and insight.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
 

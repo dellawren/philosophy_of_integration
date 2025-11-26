@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"order":4,"permalink":"/references/the-ladder-of-integration/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"The Ladder of Integration","order":4,"dg-metatags":{"og:title":"The Ladder of Integration — References | The Philosophy of Integration","description":"Explore The Ladder of Integration — the structural map that traces consciousness from fear and fragmentation to awareness, truth and embodied choice.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/references/the-ladder-of-integration/","metatags":{"og:title":"The Ladder of Integration — References | The Philosophy of Integration","description":"Explore The Ladder of Integration — the structural map that traces consciousness from fear and fragmentation to awareness, truth and embodied choice.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
 
