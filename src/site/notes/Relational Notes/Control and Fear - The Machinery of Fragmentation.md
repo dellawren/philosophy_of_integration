@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"order":2,"permalink":"/relational-notes/control-and-fear-the-machinery-of-fragmentation/","dgPassFrontmatter":true}
+{"dg-publish":true,"order":2,"dg-metatags":{"og:title":"Control and Fear: The Machinery of Fragmentation","description":"An examination of how control and fear operate like inner machinery — how they fragment perception, distort connection, and bind behaviour to hidden anxieties.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/relational-notes/control-and-fear-the-machinery-of-fragmentation/","metatags":{"og:title":"Control and Fear: The Machinery of Fragmentation","description":"An examination of how control and fear operate like inner machinery — how they fragment perception, distort connection, and bind behaviour to hidden anxieties.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
 

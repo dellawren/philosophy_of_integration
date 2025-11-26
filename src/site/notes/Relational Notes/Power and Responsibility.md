@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"order":9,"permalink":"/relational-notes/power-and-responsibility/","dgPassFrontmatter":true}
+{"dg-publish":true,"order":9,"dg-metatags":{"og:title":"Power and Responsibility: The Foundation of Integrated Agency","description":"Examining how true power expresses through responsibility — how agency grounded in awareness transforms control into stewardship, and strength into ethical integrity.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/relational-notes/power-and-responsibility/","metatags":{"og:title":"Power and Responsibility: The Foundation of Integrated Agency","description":"Examining how true power expresses through responsibility — how agency grounded in awareness transforms control into stewardship, and strength into ethical integrity.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
 

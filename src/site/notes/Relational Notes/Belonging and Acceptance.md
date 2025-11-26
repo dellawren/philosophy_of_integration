@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"order":6,"permalink":"/relational-notes/belonging-and-acceptance/","dgPassFrontmatter":true}
+{"dg-publish":true,"order":6,"dg-metatags":{"og:title":"Belonging and Acceptance: The Ground of Integrated Connection","description":"A reflection on how true belonging flows from acceptance — how we move beyond conditional belonging into a deeper sense of being recognised, seen, and connected when we accept ourselves and others wholly.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/relational-notes/belonging-and-acceptance/","metatags":{"og:title":"Belonging and Acceptance: The Ground of Integrated Connection","description":"A reflection on how true belonging flows from acceptance — how we move beyond conditional belonging into a deeper sense of being recognised, seen, and connected when we accept ourselves and others wholly.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
 

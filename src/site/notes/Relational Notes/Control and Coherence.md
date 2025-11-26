@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"order":4,"permalink":"/relational-notes/control-and-coherence/","dgPassFrontmatter":true}
+{"dg-publish":true,"order":4,"dg-metatags":{"og:title":"Control and Coherence: From Fragmentation to Alignment","description":"Exploring how control can distort or destroy — and how coherence emerges when internal structure aligns with truth rather than fear.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/relational-notes/control-and-coherence/","metatags":{"og:title":"Control and Coherence: From Fragmentation to Alignment","description":"Exploring how control can distort or destroy — and how coherence emerges when internal structure aligns with truth rather than fear.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
-
-_Relational Note — Stillhouse Framework_
 
 ### **Overview**
 

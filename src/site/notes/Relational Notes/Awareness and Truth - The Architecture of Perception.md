@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"order":1,"permalink":"/relational-notes/awareness-and-truth-the-architecture-of-perception/","dgPassFrontmatter":true}
+{"dg-publish":true,"order":1,"dg-metatags":{"og:title":"Awareness and Truth: The Architecture of Perception","description":"A look at how awareness and truth move together — how perception forms, shifts, and becomes coherent when the internal architecture is aligned.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/relational-notes/awareness-and-truth-the-architecture-of-perception/","metatags":{"og:title":"Awareness and Truth: The Architecture of Perception","description":"A look at how awareness and truth move together — how perception forms, shifts, and becomes coherent when the internal architecture is aligned.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
 

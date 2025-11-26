@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"Control and Chaos","order":3,"permalink":"/relational-notes/control-and-chaos/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"Control and Chaos","order":3,"dg-metatags":{"og:title":"Control and Chaos: Navigating the Edge of Structure and Uncertainty","description":"A deep dive into how control seeks structure and chaos tests boundaries — and what happens when we shift from rigid control to adaptive balance in life and perception.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/relational-notes/control-and-chaos/","metatags":{"og:title":"Control and Chaos: Navigating the Edge of Structure and Uncertainty","description":"A deep dive into how control seeks structure and chaos tests boundaries — and what happens when we shift from rigid control to adaptive balance in life and perception.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
 ### _A relational movement inside the causal architecture_
