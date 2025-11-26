@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"The Structural Failures of External Systems","order":8,"permalink":"/philosophical-constructs/the-structural-failures-of-external-systems/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"The Structural Failures of External Systems","order":8,"dg-metatags":{"og-title":"The Structural Failures of External Systems — The Philosophy of Integration","description":"A deep dive into why external systems fail when structure lacks inner coherence — exploring how systemic dissonance emerges and what integration demands instead.","og-image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/philosophical-constructs/the-structural-failures-of-external-systems/","metatags":{"og-title":"The Structural Failures of External Systems — The Philosophy of Integration","description":"A deep dive into why external systems fail when structure lacks inner coherence — exploring how systemic dissonance emerges and what integration demands instead.","og-image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
 ### _Why interference breaks coherence — and why structural trust is the only integrated alternative._

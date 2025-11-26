@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"Trauma and Self-Protection","order":11,"permalink":"/philosophical-constructs/trauma-and-self-protection/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"Trauma and Self-Protection","order":11,"dg-metatags":{"og:title":"Trauma and Self-Protection — The Philosophy of Integration","description":"Explore how trauma shapes our protective patterns and what it takes to move from reactive defence into conscious integration, healing and clarity.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/philosophical-constructs/trauma-and-self-protection/","metatags":{"og:title":"Trauma and Self-Protection — The Philosophy of Integration","description":"Explore how trauma shapes our protective patterns and what it takes to move from reactive defence into conscious integration, healing and clarity.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
 ## Cultural Story

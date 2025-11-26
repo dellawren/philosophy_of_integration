@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"The Natural Law of Balance","order":4,"permalink":"/philosophical-constructs/the-natural-law-of-balance/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"The Natural Law of Balance","order":4,"dg-metatags":{"og:title":"The Natural Law of Balance — The Philosophy of Integration","description":"Discover the Natural Law of Balance: the principle that guides equilibrium and harmony in mind, emotion, and being — a core pillar of integrated living.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/philosophical-constructs/the-natural-law-of-balance/","metatags":{"og:title":"The Natural Law of Balance — The Philosophy of Integration","description":"Discover the Natural Law of Balance: the principle that guides equilibrium and harmony in mind, emotion, and being — a core pillar of integrated living.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
 ## **Principle**

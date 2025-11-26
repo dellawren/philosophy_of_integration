@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"Law of Cause and Effect","order":2,"permalink":"/philosophical-constructs/law-of-cause-and-effect/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"Law of Cause and Effect","order":2,"dg-metatags":{"og:title":"Law of Cause and Effect — The Philosophy of Integration","description":"Dive into the Law of Cause and Effect: a foundational framework revealing how every action, thought and intention shapes reality through Integration.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/philosophical-constructs/law-of-cause-and-effect/","metatags":{"og:title":"Law of Cause and Effect — The Philosophy of Integration","description":"Dive into the Law of Cause and Effect: a foundational framework revealing how every action, thought and intention shapes reality through Integration.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
 

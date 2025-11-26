@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"dg-title":"Randomness, Tragedy, and Non-Pedagogical Suffering","order":4,"permalink":"/philosophical-cluster/randomness-tragedy-and-non-pedagogical-suffering/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"Randomness, Tragedy, and Non-Pedagogical Suffering","order":4,"dg-metatags":{"og:title":"Randomness, Tragedy & Non-Pedagogical Suffering — The Philosophy of Integration","description":"A meditation on suffering, fate and meaning: exploring how randomness and tragedy challenge our beliefs and invite deeper integration beyond moral judgment.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/philosophical-cluster/randomness-tragedy-and-non-pedagogical-suffering/","metatags":{"og:title":"Randomness, Tragedy & Non-Pedagogical Suffering — The Philosophy of Integration","description":"A meditation on suffering, fate and meaning: exploring how randomness and tragedy challenge our beliefs and invite deeper integration beyond moral judgment.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
-### _Cause and Effect without Cosmic Moralization_
 
 ## **Principle**
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"Power and Structural Injustice","order":9,"permalink":"/philosophical-constructs/power-and-structural-injustice/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"Power and Structural Injustice","order":9,"dg-metatags":{"og:title":"Power and Structural Injustice — The Philosophy of Integration","description":"Examine how structural injustice emerges when power is divorced from responsibility — exploring the roots of systemic imbalance through the lens of Integration.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/philosophical-constructs/power-and-structural-injustice/","metatags":{"og:title":"Power and Structural Injustice — The Philosophy of Integration","description":"Examine how structural injustice emerges when power is divorced from responsibility — exploring the roots of systemic imbalance through the lens of Integration.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
 ### _How Integration Meets Systems That Distort Reality_

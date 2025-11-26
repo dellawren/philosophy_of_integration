@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"Internal and External Cause","order":1,"permalink":"/philosophical-constructs/internal-and-external-cause/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"Internal and External Cause","order":1,"dg-metatags":{"og:title":"Internal and External Cause — The Philosophy of Integration","description":"Explore the difference between internal and external causes: a foundational construct revealing how inner states shape our experience differently than outer conditions.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/philosophical-constructs/internal-and-external-cause/","metatags":{"og:title":"Internal and External Cause — The Philosophy of Integration","description":"Explore the difference between internal and external causes: a foundational construct revealing how inner states shape our experience differently than outer conditions.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
 ### _The Two Streams of Movement That Shape a Life_

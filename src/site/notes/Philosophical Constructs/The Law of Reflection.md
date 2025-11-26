@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"The Law of Reflection","order":5,"permalink":"/philosophical-constructs/the-law-of-reflection/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"The Law of Reflection","order":5,"dg-metatags":{"og:title":"The Law of Reflection — The Philosophy of Integration","description":"Delve into the Law of Reflection: how inner clarity and honest self-examination reshape perception, behaviour, and the architecture of your world.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/philosophical-constructs/the-law-of-reflection/","metatags":{"og:title":"The Law of Reflection — The Philosophy of Integration","description":"Delve into the Law of Reflection: how inner clarity and honest self-examination reshape perception, behaviour, and the architecture of your world.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
 ## **Principle**

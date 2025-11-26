@@ -1,5 +1,5 @@
 ---
-{"type":"Philosophical Cluster","dg-publish":true,"dg-title":"Law of Integration (The Architecture of Reality)","order":1,"permalink":"/philosophical-cluster/laws-of-integration-the-architecture-of-reality/","dgPassFrontmatter":true}
+{"type":"Philosophical Cluster","dg-publish":true,"dg-title":"Law of Integration (The Architecture of Reality)","order":1,"dg-metatags":{"og:title":"Laws of Integration – The Architecture of Reality","description":"Uncover the fundamental laws that shape reality through the lens of Integration — the blueprint behind coherence, being and conscious structure.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/philosophical-cluster/laws-of-integration-the-architecture-of-reality/","metatags":{"og:title":"Laws of Integration – The Architecture of Reality","description":"Uncover the fundamental laws that shape reality through the lens of Integration — the blueprint behind coherence, being and conscious structure.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
 ## **How These Laws Function**

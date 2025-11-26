@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"Law of Natural Coherence","order":3,"permalink":"/philosophical-constructs/law-of-natural-coherence/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"Law of Natural Coherence","order":3,"dg-metatags":{"og:title":"Law of Natural Coherence — The Philosophy of Integration","description":"Explore the Law of Natural Coherence: the principle that guides how harmony emerges naturally when awareness meets structure — a foundation of integrated being and right relationship.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/philosophical-constructs/law-of-natural-coherence/","metatags":{"og:title":"Law of Natural Coherence — The Philosophy of Integration","description":"Explore the Law of Natural Coherence: the principle that guides how harmony emerges naturally when awareness meets structure — a foundation of integrated being and right relationship.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
 

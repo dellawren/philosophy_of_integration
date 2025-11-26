@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"Self-Mastery as Philosophical Construct","order":12,"permalink":"/philosophical-constructs/self-mastery-as-a-philosophical-construct/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"Self-Mastery as Philosophical Construct","order":12,"dg-metatags":{"og-title":"Self-Mastery as a Philosophical Construct — The Philosophy of Integration","description":"Discover how Self-Mastery lies at the heart of Integration: cultivating inner sovereignty, coherence, and conscious living as a foundation for genuine freedom.","og-image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/philosophical-constructs/self-mastery-as-a-philosophical-construct/","metatags":{"og-title":"Self-Mastery as a Philosophical Construct — The Philosophy of Integration","description":"Discover how Self-Mastery lies at the heart of Integration: cultivating inner sovereignty, coherence, and conscious living as a foundation for genuine freedom.","og-image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
 **Cultural Story**  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"Ethics - Integration as Responsibility","order":15,"permalink":"/philosophical-constructs/ethics-integration-as-responsibility/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"Ethics - Integration as Responsibility","order":15,"dg-metatags":{"og:title":"Ethics — Integration as Responsibility — The Philosophy of Integration","description":"Explore how ethics grounded in Integration becomes responsibility: a conscious commitment to truth, coherence and integrity — beyond imposed moral codes.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/philosophical-constructs/ethics-integration-as-responsibility/","metatags":{"og:title":"Ethics — Integration as Responsibility — The Philosophy of Integration","description":"Explore how ethics grounded in Integration becomes responsibility: a conscious commitment to truth, coherence and integrity — beyond imposed moral codes.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
 

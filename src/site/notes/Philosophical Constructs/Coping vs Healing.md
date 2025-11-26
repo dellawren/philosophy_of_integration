@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"Coping vs Healing","order":13,"permalink":"/philosophical-constructs/coping-vs-healing/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"Coping vs Healing","order":13,"dg-metatags":{"og:title":"Coping vs Healing — The Philosophy of Integration","description":"Compare coping mechanisms with true healing: learn how Integration shifts survival patterns into growth, awareness and inner wholeness beyond mere endurance.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/philosophical-constructs/coping-vs-healing/","metatags":{"og:title":"Coping vs Healing — The Philosophy of Integration","description":"Compare coping mechanisms with true healing: learn how Integration shifts survival patterns into growth, awareness and inner wholeness beyond mere endurance.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
 **Cultural Story**  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"How to Use The Philosophy of Integration","dg-pinned":"true","permalink":"/how-to-use-the-philosophy-of-integration/","pinned":"true","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"How to Use The Philosophy of Integration","dg-pinned":"true","dg-metatags":{"og:title":"How to Use The Philosophy of Integration — DellaWren","description":"A practical guide to navigating The Philosophy of Integration: how to read, apply and internalize its concepts for real-life clarity and inner alignment.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/how-to-use-the-philosophy-of-integration/","metatags":{"og:title":"How to Use The Philosophy of Integration — DellaWren","description":"A practical guide to navigating The Philosophy of Integration: how to read, apply and internalize its concepts for real-life clarity and inner alignment.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"pinned":"true","dgPassFrontmatter":true}
 ---
 
 This framework is offered as a lens — not a doctrine, not a badge, not a new rule-system.  

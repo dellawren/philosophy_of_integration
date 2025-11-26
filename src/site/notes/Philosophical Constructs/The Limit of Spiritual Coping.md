@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"The Limit of Spiritual Coping","order":14,"permalink":"/philosophical-constructs/the-limit-of-spiritual-coping/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"The Limit of Spiritual Coping","order":14,"dg-metatags":{"og:title":"The Limit of Spiritual Coping — The Philosophy of Integration","description":"Examine the Limit of Spiritual Coping: why inner work alone can’t mask unprocessed pain, and how true integration requires honesty, grounding and inner responsibility.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/philosophical-constructs/the-limit-of-spiritual-coping/","metatags":{"og:title":"The Limit of Spiritual Coping — The Philosophy of Integration","description":"Examine the Limit of Spiritual Coping: why inner work alone can’t mask unprocessed pain, and how true integration requires honesty, grounding and inner responsibility.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
 ## Cultural Story

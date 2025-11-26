@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"Integration – Reflection – Coherence – Balance","order":2,"permalink":"/philosophical-cluster/integration-reflection-coherence-balance/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"Integration – Reflection – Coherence – Balance","order":2,"dg-metatags":{"og:title":"Integration • Reflection • Coherence • Balance — The Philosophy of Integration","description":"Discover how integration, reflection, coherence and balance weave together as a living philosophy — a path beyond fragmentation into conscious wholeness.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/philosophical-cluster/integration-reflection-coherence-balance/","metatags":{"og:title":"Integration • Reflection • Coherence • Balance — The Philosophy of Integration","description":"Discover how integration, reflection, coherence and balance weave together as a living philosophy — a path beyond fragmentation into conscious wholeness.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
 ## Overview

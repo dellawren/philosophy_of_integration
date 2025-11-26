@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"Trauma","order":10,"permalink":"/philosophical-constructs/trauma/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"Trauma","order":10,"dg-metatags":{"og:title":"Trauma — The Philosophy of Integration","description":"An honest examination of trauma: what it shapes in us, how pain imprints identity, and how integration can offer coherence and healing beyond reaction.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/philosophical-constructs/trauma/","metatags":{"og:title":"Trauma — The Philosophy of Integration","description":"An honest examination of trauma: what it shapes in us, how pain imprints identity, and how integration can offer coherence and healing beyond reaction.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
 ## Cultural Story

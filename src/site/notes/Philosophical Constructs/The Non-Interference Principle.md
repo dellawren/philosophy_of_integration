@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"The Non-Interference Principle","order":7,"permalink":"/philosophical-constructs/the-non-interference-principle/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"The Non-Interference Principle","order":7,"dg-metatags":{"og:title":"The Non-Interference Principle — The Philosophy of Integration","description":"Explore the Non-Interference Principle: how allowing space, boundaries, and organic unfolding brings clarity, freedom, and integrity to relationships and self-governance.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/philosophical-constructs/the-non-interference-principle/","metatags":{"og:title":"The Non-Interference Principle — The Philosophy of Integration","description":"Explore the Non-Interference Principle: how allowing space, boundaries, and organic unfolding brings clarity, freedom, and integrity to relationships and self-governance.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
 ### _The ethical expression of Structural Trust._

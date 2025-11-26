@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"Relational Loop Theory","order":6,"permalink":"/philosophical-constructs/relational-loop-theory/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"Relational Loop Theory","order":6,"dg-metatags":{"og:title":"Relational Loop Theory — The Philosophy of Integration","description":"Examine Relational Loop Theory: how feedback, influence, and repeating patterns shape relationships, perception, and shared realities in integrated systems.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/philosophical-constructs/relational-loop-theory/","metatags":{"og:title":"Relational Loop Theory — The Philosophy of Integration","description":"Examine Relational Loop Theory: how feedback, influence, and repeating patterns shape relationships, perception, and shared realities in integrated systems.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
 ### **Principle**

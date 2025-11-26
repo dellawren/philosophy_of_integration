@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"Principles I Live and Work By","dg-pinned":"true","permalink":"/principles-i-live-and-work-by/","pinned":"true","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"Principles I Live and Work By","dg-pinned":"true","dg-metatags":{"og:title":"Principles I Live (and Work) By — The Philosophy of Integration","description":"An overview of the guiding principles that shape The Philosophy of Integration and my life. It offers clarity, purpose and a foundation for conscious living and writing.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/principles-i-live-and-work-by/","metatags":{"og:title":"Principles I Live (and Work) By — The Philosophy of Integration","description":"An overview of the guiding principles that shape The Philosophy of Integration and my life. It offers clarity, purpose and a foundation for conscious living and writing.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"pinned":"true","dgPassFrontmatter":true}
 ---
 
 
