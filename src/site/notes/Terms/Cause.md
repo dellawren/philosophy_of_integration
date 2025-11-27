@@ -16,3 +16,4 @@ When understood without ego, it reveals responsibility without blame.
 [[References/Philosophy of Integration\|Philosophy of Integration]]
 [[Philosophical Constructs/Law of Cause and Effect\|Law of Cause and Effect]]
 [[Philosophical Constructs/Law of Natural Coherence\|Law of Natural Coherence]]
+[[The Architecture of Chains/The Parts of The Chain/Cause\|Cause]]

@@ -13,9 +13,11 @@ When met with resistance, it appears as fate.
 
 > Effect is the universe showing you what you’ve made.
 
-Linked Concepts
+---
+## **Linked Concepts**
 
 [[References/Philosophy of Integration\|Philosophy of Integration]]
 [[Philosophical Constructs/Law of Cause and Effect\|Law of Cause and Effect]]
 [[Philosophical Constructs/Law of Natural Coherence\|Law of Natural Coherence]]
+[[The Architecture of Chains/The Parts of The Chain/Effect\|Effect]]
 
