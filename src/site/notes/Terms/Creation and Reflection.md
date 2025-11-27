@@ -28,11 +28,11 @@ Together, they reveal the architecture of every experience:
     
 - Reflection shows you what it created.
     
-- [[Terms/Awareness\|Awareness]] lives between them.
+- [[Terms/Awareness\|Terms/Awareness]] lives between them.
     
 
 > “Creation is direction. Reflection is information.”
 
-**See also:** [[Terms/Axis of Awareness\|Axis of Awareness]], [[Terms/Cause and Effect\|Cause and Effect]], [[Terms/Integration\|Integration]], [[Terms/Truth\|Truth]], [[Terms/Choice\|Choice]]
+**See also:** [[Terms/Axis of Awareness\|Axis of Awareness]], [[Terms/Cause and Effect\|Cause and Effect]], [[Terms/Integration\|Integration]], [[Terms/Truth\|Truth]], [[Terms/Choice\|Terms/Choice]]
 
 [[References/Philosophy of Integration\|Philosophy of Integration]]

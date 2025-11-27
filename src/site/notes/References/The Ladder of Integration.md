@@ -4,13 +4,13 @@
 
 
 - **[[Terms/Safety\|Safety]]** → fear as information, not danger
-- -Anchors between [[Terms/Fear\|Fear]], [[Terms/Control\|Terms/Control]], [[Terms/Awareness\|Awareness]]
+- -Anchors between [[Terms/Fear\|Fear]], [[Terms/Control\|Terms/Control]], [[Terms/Awareness\|Terms/Awareness]]
 - Lives low in the web, near the emotional core — the first rung of the ladder.
 - Represents the point where contraction begins to loosen.
     
     > From fear to trust. From reaction to presence.
     
-- **[[Terms/Awareness\|Awareness]]** → observing without moral judgment
+- **[[Terms/Awareness\|Terms/Awareness]]** → observing without moral judgment
   - Bridges [[Terms/Fear\|Fear]], [[Terms/Truth\|Truth]], [[Terms/Integration\|Integration]]
 - Visual center of the map — the still point between contraction and expansion.
 - Awareness is what steadies the body so the philosophy can land.
@@ -18,7 +18,7 @@
     > The shift from self-protection to self-observation.
     
 - **[[Terms/Truth\|Truth]]** → perceiving what’s real, not what’s safe
-  - Connects [[Terms/Awareness\|Awareness]] with [[Terms/Ethics\|Ethics]], [[Terms/Cause and Effect\|Cause and Effect]], and [[Terms/Control\|Terms/Control]].
+  - Connects [[Terms/Awareness\|Terms/Awareness]] with [[Terms/Ethics\|Ethics]], [[Terms/Cause and Effect\|Cause and Effect]], and [[Terms/Control\|Terms/Control]].
 - Marks the point where perception begins to organize reality instead of resisting it.
     
     > Seeing what is, rather than what feels safe to believe.
@@ -29,7 +29,7 @@
     
     > Conscious participation replaces blame.
     
-- **[[Terms/Choice\|Choice]]** → recognizing agency within constraint
+- **[[Terms/Choice\|Terms/Choice]]** → recognizing agency within constraint
   - Sits between [[Terms/Responsibility\|Responsibility]], [[Terms/Freedom\|Freedom]], and [[Terms/Situated Determinism\|Situated Determinism]].
 - Marks the turning point from reactive living to deliberate creation.
     

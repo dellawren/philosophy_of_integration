@@ -187,4 +187,4 @@ Non-interference is active humility.
 
 ## **See Also**
 
-[[Philosophical Constructs/Ethics - Integration as Responsibility\|Ethics - Integration as Responsibility]], [[Philosophical Constructs/The Structural Failures of External Systems\|The Structural Failures of External Systems]], [[Terms/Distortion\|Distortion]], [[Terms/Awareness\|Awareness]], [[Philosophical Constructs/Power and Structural Injustice\|Power and Structural Injustice]], [[References/Philosophy of Integration\|Philosophy of Integration]]
+[[Philosophical Constructs/Ethics - Integration as Responsibility\|Ethics - Integration as Responsibility]], [[Philosophical Constructs/The Structural Failures of External Systems\|The Structural Failures of External Systems]], [[Terms/Distortion\|Distortion]], [[Terms/Awareness\|Terms/Awareness]], [[Philosophical Constructs/Power and Structural Injustice\|Power and Structural Injustice]], [[References/Philosophy of Integration\|Philosophy of Integration]]

@@ -62,9 +62,9 @@ While _Coherence_ describes the condition of harmony, _Cause and Effect_ describ
     
 - [[Terms/Situated Determinism\|Situated Determinism]] — contextualizes cause and effect within lived experience; how awareness perceives consequence through limited perspective.
 
-- [[Terms/Cause\|Cause]] - the initiating movement of relationship; awareness entering form.
+- [[Terms/Cause\|Terms/Cause]] - the initiating movement of relationship; awareness entering form.
 
-- [[Terms/Effect\|Effect]] - the reflection of that movement; reality revealing what awareness has set in motion.
+- [[Terms/Effect\|Terms/Effect]] - the reflection of that movement; reality revealing what awareness has set in motion.
     
 
 ---

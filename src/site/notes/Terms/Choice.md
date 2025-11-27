@@ -16,4 +16,4 @@ Every choice is an act of self-creation — a statement of who we are within the
 > Choice is awareness deciding how to move.
 
 See also [[References/Philosophy of Integration\|Philosophy of Integration]], [[Relational Notes/The Ladder of Integration Relationships\|The Ladder of Integration Relationships]]
-See also [[Terms/Freedom\|Freedom]], [[Terms/Responsibility\|Responsibility]], [[Terms/Cause and Effect\|Cause and Effect]], [[Terms/Awareness\|Awareness]], [[Terms/Integration\|Integration]]
+See also [[Terms/Freedom\|Freedom]], [[Terms/Responsibility\|Responsibility]], [[Terms/Cause and Effect\|Cause and Effect]], [[Terms/Awareness\|Terms/Awareness]], [[Terms/Integration\|Integration]]

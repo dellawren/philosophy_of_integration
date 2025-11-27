@@ -16,4 +16,4 @@ Truth is simply the alignment between what happened and what awareness allows it
 
 > “Truth reveals itself when interpretation steps aside.”
 See also [[References/Philosophy of Integration\|Philosophy of Integration]], [[Relational Notes/The Ladder of Integration Relationships\|The Ladder of Integration Relationships]]
-See also [[Terms/Awareness\|Awareness]], [[Terms/Integration\|Integration]], [[Terms/Ethics\|Ethics]], [[Terms/Cause and Effect\|Cause and Effect]], [[Terms/Reality\|Reality]]
+See also [[Terms/Awareness\|Terms/Awareness]], [[Terms/Integration\|Integration]], [[Terms/Ethics\|Ethics]], [[Terms/Cause and Effect\|Cause and Effect]], [[Terms/Reality\|Reality]]

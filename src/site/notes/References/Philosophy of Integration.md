@@ -97,7 +97,7 @@ the quiet recognition of connection between what was lived and what is real.
 - [[Terms/Control\|Terms/Control]] is an illusion of separation.  
     We cannot step outside the sequence — but we can become aware of where we stand within it.
     
-- [[Terms/Awareness\|Awareness]] does not erase consequence; it refines relationship.  
+- [[Terms/Awareness\|Terms/Awareness]] does not erase consequence; it refines relationship.  
     Each moment of seeing clearly alters the next movement in the chain.
     
 

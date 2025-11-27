@@ -24,7 +24,7 @@ List the key terms in sequence with their short Stillhouse definitions (as you a
     
 -8 [[Terms/Obligation\|Obligation]] — performance of responsibility without awareness
     
--9 [[Terms/Choice\|Choice]] — awareness of alternatives born from presence
+-9 [[Terms/Choice\|Terms/Choice]] — awareness of alternatives born from presence
     
 -10 [[Terms/Responsibility\|Responsibility]] — awareness of cause without moral weight
     

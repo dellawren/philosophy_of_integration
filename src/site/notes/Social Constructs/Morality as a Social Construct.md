@@ -36,7 +36,7 @@ Integration replaces morality with coherence, not chaos.
     
 - [[Terms/Natural Consequence\|Natural Consequence]]
     
-- [[Terms/Awareness\|Awareness]]
+- [[Terms/Awareness\|Terms/Awareness]]
     
 - [[Terms/Identity\|Identity]]
     

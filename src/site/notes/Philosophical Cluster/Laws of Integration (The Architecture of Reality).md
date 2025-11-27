@@ -40,11 +40,11 @@ Integration is where they converge.
 
 ## **The Continuum**
 
-1. **[[Terms/Safety\|Safety]] → [[Terms/Awareness\|Awareness]]**  
+1. **[[Terms/Safety\|Safety]] → [[Terms/Awareness\|Terms/Awareness]]**  
     The Ladder begins with safety because the Axis cannot function when the nervous system is in threat mode.  
     Awareness reopens only when fear stops controlling perception.
     
-2. **[[Terms/Awareness\|Awareness]] → [[Terms/Truth\|Truth]]**  
+2. **[[Terms/Awareness\|Terms/Awareness]] → [[Terms/Truth\|Truth]]**  
     On the Axis, this is the shift from _Story_ to _Seeing_.  
     On the Ladder, it marks the return to unfiltered contact with reality.
     
@@ -53,12 +53,12 @@ Integration is where they converge.
     The Axis names this _Reflection_.  
     The Ladder names this the beginning of movement.
     
-4. **[[Terms/Responsibility\|Responsibility]] → [[Terms/Choice\|Choice]]**  
+4. **[[Terms/Responsibility\|Responsibility]] → [[Terms/Choice\|Terms/Choice]]**  
     Reflection transforms into direction.  
     This is the moment the Axis flips from _Reflection_ back into _Creation_.  
     On the Ladder, it’s the emergence of agency without control.
     
-5. **[[Terms/Choice\|Choice]] → [[Terms/Integration\|Integration]]**  
+5. **[[Terms/Choice\|Terms/Choice]] → [[Terms/Integration\|Integration]]**  
     Repeated clean choices accumulate into coherence.  
     The Ladder stabilizes what the Axis initiates.
     

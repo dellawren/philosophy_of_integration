@@ -8,7 +8,7 @@
 If _Control and Coherence_ describes how society manages fragmentation,  
 _Awareness and Truth_ describes how perception heals it.
 
-This cluster — [[Terms/Awareness\|Awareness]], [[Terms/Truth\|Truth]], [[Terms/Responsibility\|Responsibility]], and [[Terms/Freedom\|Freedom]] — forms the architecture of perception itself: the way consciousness relates to experience and interprets reality.  
+This cluster — [[Terms/Awareness\|Terms/Awareness]], [[Terms/Truth\|Truth]], [[Terms/Responsibility\|Responsibility]], and [[Terms/Freedom\|Freedom]] — forms the architecture of perception itself: the way consciousness relates to experience and interprets reality.  
 It is here that integration begins not with action, but with _seeing._
 
 Awareness reveals.  

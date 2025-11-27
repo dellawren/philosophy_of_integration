@@ -100,6 +100,14 @@ Integration doesn’t stay inside of you — it changes how you move with people
 
 These are the definitions for depth. Clear, concise, and rooted in your language so readers can understand the philosophy without getting lost.
 
+## **Articles**
+
+These are the living conversations — essays that move between philosophy, story, and lived experience. They’re pieces that didn’t originate inside the formal framework but naturally point back to it. Articles are where ideas breathe, evolve, and meet the world without pressure. They offer clarity through reflection, not instruction.
+
+## **Verses**
+
+These are distilled insights — the poetry, fragments, and stripped-down truths that arrive before the explanation. Verse speaks from the centre rather than about it. They’re brief, resonant pieces that carry the tone of the framework without the structure. Think of them as small apertures into the larger philosophy.
+
 ---
 ## A Final Note Before You Wander
 

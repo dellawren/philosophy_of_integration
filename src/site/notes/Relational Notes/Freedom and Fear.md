@@ -15,7 +15,7 @@ The four concepts form a continuum of human motivation:
     
 - **[[Terms/Obligation\|Obligation]]**: fear disguised as duty — compliance for belonging.
     
-- **[[Terms/Choice\|Choice]]**: awareness of alternatives born from presence.
+- **[[Terms/Choice\|Terms/Choice]]**: awareness of alternatives born from presence.
     
 - **[[Terms/Freedom\|Freedom]]**: the embodiment of truth without resistance or demand.
     
@@ -60,5 +60,5 @@ that truth is safest when it is free, and fear is gentlest when it is known.
 
 ---
 
-See also [[Relational Notes/Power and Responsibility\|Power and Responsibility]] · [[Relational Notes/Control and Coherence\|Control and Coherence]] · [[Terms/Choice\|Choice]] · [[Terms/Integration\|Integration]]
+See also [[Relational Notes/Power and Responsibility\|Power and Responsibility]] · [[Relational Notes/Control and Coherence\|Control and Coherence]] · [[Terms/Choice\|Terms/Choice]] · [[Terms/Integration\|Integration]]
 See also [[References/Philosophy of Integration\|Philosophy of Integration]]

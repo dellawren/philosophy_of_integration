@@ -186,4 +186,4 @@ The moment you choose from coherence, the chain shifts —  and the loop loses i
     
 ## **See Also**
 
-[[Philosophical Cluster/Integration – Reflection – Coherence – Balance\|Integration – Reflection – Coherence – Balance]], [[Terms/Integration\|Integration]], [[Terms/Chain Architecture\|Chain Architecture]], [[Terms/Coherence\|Coherence]], [[Terms/Awareness\|Awareness]]
+[[Philosophical Cluster/Integration – Reflection – Coherence – Balance\|Integration – Reflection – Coherence – Balance]], [[Terms/Integration\|Integration]], [[Terms/Chain Architecture\|Chain Architecture]], [[Terms/Coherence\|Coherence]], [[Terms/Awareness\|Terms/Awareness]]

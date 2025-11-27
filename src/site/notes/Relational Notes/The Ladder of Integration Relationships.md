@@ -34,13 +34,13 @@ Safety isn’t created by guarantees; it’s created by truth.
 The nervous system often returns to this rung unexpectedly.  
 Circling back to Safety is not failure — it’s the body updating its capacity for presence.
 
-**Connected:** [[Terms/Fear\|Fear]], [[Terms/Control\|Terms/Control]], [[Terms/Awareness\|Awareness]], [[Terms/Stability\|Stability]], [[Philosophical Foundations/Circling\|Circling]]
+**Connected:** [[Terms/Fear\|Fear]], [[Terms/Control\|Terms/Control]], [[Terms/Awareness\|Terms/Awareness]], [[Terms/Stability\|Stability]], [[Philosophical Foundations/Circling\|Circling]]
 
 ---
 
 # **2. Awareness — The Return to Reality**
 
-[[Terms/Awareness\|Awareness]] emerges when the nervous system stops triaging the moment as danger.  
+[[Terms/Awareness\|Terms/Awareness]] emerges when the nervous system stops triaging the moment as danger.  
 Reaction pauses.  
 [[Relational Notes/Awareness and Truth - The Architecture of Perception\|Perception]] widens.  
 The story loosens its grip, and the world becomes visible again.
@@ -76,7 +76,7 @@ Truth ends the internal argument.
 Truth is often seen in layers.  
 Each circling back reveals a new angle, a deeper pattern, a clearer coherence.
 
-**Connected:** [[Terms/Awareness\|Awareness]], [[Terms/Ethics\|Ethics]], [[Terms/Cause and Effect\|Cause and Effect]], [[Terms/Coherence\|Coherence]], [[Philosophical Foundations/Circling\|Circling]]
+**Connected:** [[Terms/Awareness\|Terms/Awareness]], [[Terms/Ethics\|Ethics]], [[Terms/Cause and Effect\|Cause and Effect]], [[Terms/Coherence\|Coherence]], [[Philosophical Foundations/Circling\|Circling]]
 
 ---
 
@@ -96,13 +96,13 @@ Responsibility is simply the recognition that your actions participate in the we
 People often revisit this rung when old patterns surface.  
 Circling doesn’t erase responsibility — it refines it.
 
-**Connected:** [[Terms/Cause and Effect\|Cause and Effect]], [[Terms/Ethics\|Ethics]], [[Terms/Blame\|Blame]], [[Terms/Choice\|Choice]], [[Philosophical Foundations/Circling\|Circling]]
+**Connected:** [[Terms/Cause and Effect\|Cause and Effect]], [[Terms/Ethics\|Ethics]], [[Terms/Blame\|Blame]], [[Terms/Choice\|Terms/Choice]], [[Philosophical Foundations/Circling\|Circling]]
 
 ---
 
 # **5. Choice — Direction Without Control**
 
-[[Terms/Choice\|Choice]] is not power over outcome; it’s alignment with truth.
+[[Terms/Choice\|Terms/Choice]] is not power over outcome; it’s alignment with truth.
 
 Choice becomes possible only when fear no longer chooses for you.  
 You don’t choose to prevent disaster — you choose because you know what direction is true.
@@ -116,7 +116,7 @@ It’s coherence with it.
 Choice becomes cleaner as you revisit earlier rungs.  
 Circling expands agency.
 
-**Connected:** [[Terms/Responsibility\|Responsibility]], [[Terms/Freedom\|Freedom]], [[Terms/Situated Determinism\|Situated Determinism]], [[Terms/Awareness\|Awareness]], [[Philosophical Foundations/Circling\|Circling]]
+**Connected:** [[Terms/Responsibility\|Responsibility]], [[Terms/Freedom\|Freedom]], [[Terms/Situated Determinism\|Situated Determinism]], [[Terms/Awareness\|Terms/Awareness]], [[Philosophical Foundations/Circling\|Circling]]
 
 ---
 

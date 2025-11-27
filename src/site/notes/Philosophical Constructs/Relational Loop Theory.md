@@ -29,7 +29,7 @@ This construct unites scientific cause and effect, mathematical feedback, and sp
 
 ### **Creation and Reflection**
 
-**[[Terms/Awareness\|Awareness]] is the axis of the Relational Loop Theory — the meeting point between cause and effect.**
+**[[Terms/Awareness\|Terms/Awareness]] is the axis of the Relational Loop Theory — the meeting point between cause and effect.**
 
 When awareness meets **[[Terms/Cause\|cause]]**, it becomes **creation** — the moment potential moves into form.
 
@@ -68,6 +68,6 @@ Balance emerges through the willingness to stay present within the loop, even wh
 [[Philosophical Constructs/Law of Cause and Effect\|Law of Cause and Effect]]  
 [[Philosophical Constructs/The Natural Law of Balance\|The Natural Law of Balance]]  
 [[Terms/Coherence\|Coherence]]  
-[[Terms/Awareness\|Awareness]]  
+[[Terms/Awareness\|Terms/Awareness]]  
 [[Terms/Consequence\|Consequence]]  
 [[Philosophical Cluster/Integration – Reflection – Coherence – Balance\|Integration – Reflection – Coherence – Balance]]

@@ -60,7 +60,7 @@ Integration and coherence both return awareness to wholeness by dissolving the i
     
 - [[Terms/Integration\|Integration]] – the process by which wholeness becomes realized awareness.
     
-- [[Terms/Awareness\|Awareness]] – the witness of wholeness.
+- [[Terms/Awareness\|Terms/Awareness]] – the witness of wholeness.
     
 
 ---

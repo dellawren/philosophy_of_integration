@@ -14,7 +14,7 @@ Every collapse reveals where safety has not yet been established, where truth is
 
 **References:**  
 [[Terms/Safety\|Safety]]  
-[[Terms/Awareness\|Awareness]]  
+[[Terms/Awareness\|Terms/Awareness]]  
 [[Terms/Creation and Reflection\|Creation and Reflection]]  
 [[Terms/Axis of Awareness\|Axis of Awareness]]  
 [[Terms/Fear\|Fear]]  

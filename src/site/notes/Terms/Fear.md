@@ -17,4 +17,4 @@ When fear is met rather than managed, it transforms from contraction into clarit
 > Fear is the boundary between perception and truth.
 
 See also [[References/Philosophy of Integration\|Philosophy of Integration]], [[Relational Notes/Control and Coherence\|Control and Coherence]]
-See also [[Terms/Control\|Terms/Control]], [[Terms/Systemic Obligation\|Systemic Obligation]], [[Terms/Integration\|Integration]], [[Terms/Cause and Effect\|Cause and Effect]], [[Terms/Awareness\|Awareness]]
+See also [[Terms/Control\|Terms/Control]], [[Terms/Systemic Obligation\|Systemic Obligation]], [[Terms/Integration\|Integration]], [[Terms/Cause and Effect\|Cause and Effect]], [[Terms/Awareness\|Terms/Awareness]]

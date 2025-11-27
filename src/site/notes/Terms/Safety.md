@@ -17,5 +17,5 @@ It is what allows the self to stop defending and start perceiving.
 > Safety is the body’s permission for awareness to remain.
 
 See also [[References/Philosophy of Integration\|Philosophy of Integration]], [[Relational Notes/The Ladder of Integration Relationships\|The Ladder of Integration Relationships]]
-See also [[Terms/Fear\|Fear]], [[Terms/Control\|Terms/Control]], [[Terms/Integration\|Integration]], [[Terms/Awareness\|Awareness]], [[Terms/Freedom\|Freedom]]
+See also [[Terms/Fear\|Fear]], [[Terms/Control\|Terms/Control]], [[Terms/Integration\|Integration]], [[Terms/Awareness\|Terms/Awareness]], [[Terms/Freedom\|Freedom]]
 

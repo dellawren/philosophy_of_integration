@@ -47,7 +47,7 @@ This loop sustains fragmentation and fuels the systems built upon it.
 
 ### **Integration Point**
 
-The antidote to both fear and control is not courage, but [[Terms/Awareness\|Awareness]].  
+The antidote to both fear and control is not courage, but [[Terms/Awareness\|Terms/Awareness]].  
 When fear is met without judgment, it dissolves; when control is seen clearly, it releases.  
 [[Terms/Integration\|Integration]] does not destroy these mechanisms — it returns them to their original purpose:  
 fear as information, control as structure.

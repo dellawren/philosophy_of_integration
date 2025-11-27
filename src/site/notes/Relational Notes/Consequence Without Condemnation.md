@@ -14,7 +14,7 @@ Condemnation arises from fear disguised as virtue. It punishes difference to pre
 ---
 
 ## The Turn Toward Consequence  
-When [[Terms/Awareness\|awareness]] matures, [[Terms/Punishment\|punishment]] loses purpose. Consequence remains — but it is no longer moralized. It becomes information. We learn through the feedback of reality, not the fear of rejection.  
+When [[Terms/Awareness\|Terms/Awareness]] matures, [[Terms/Punishment\|punishment]] loses purpose. Consequence remains — but it is no longer moralized. It becomes information. We learn through the feedback of reality, not the fear of rejection.  
 
 ---
 
