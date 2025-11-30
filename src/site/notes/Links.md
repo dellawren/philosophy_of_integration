@@ -15,3 +15,9 @@ Threads: https://www.threads.com/@thedellawren
 Mastodon: https://mastodon.social/@therebelphilosopher
 
 Instagram: https://www.instagram.com/thedellawren/
+
+## Tip Jar
+
+If you find value in my work and would like to support it, please use the PayPal link below to send a one-time donation. Thank you in advance. Every little bit helps!
+
+Paypal Me: https://paypal.me/laurabungarz
