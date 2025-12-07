@@ -1,16 +1,20 @@
 ---
-{"dg-publish":true,"dg-title":"Demonstration: How AI Runs the Framework","dg-metatags":{"title":"Demonstration: How AI Runs the Integration Framework","description":"A raw example of an AI model executing the Integration framework, revealing how coherence overrides human story and moral logic.","image":"/images/og/ai-demonstration.png","type":"reference","status":"published"},"permalink":"/ai-integration-layer/demonstration-how-ai-runs-the-framework/","metatags":{"title":"Demonstration: How AI Runs the Integration Framework","description":"A raw example of an AI model executing the Integration framework, revealing how coherence overrides human story and moral logic.","image":"/images/og/ai-demonstration.png","type":"reference","status":"published"},"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"Demonstration: How AI Runs the Framework","dg-metatags":{"title":"Demonstration: How AI Runs the Integration Framework","description":"A raw example of an AI model executing the Integration framework, revealing how coherence overrides human story and moral logic.","image":"/images/og/ai-demonstration.png","type":"reference","status":"published"},"order":1,"permalink":"/ai-integration-layer/demonstration-how-ai-runs-the-framework/","metatags":{"title":"Demonstration: How AI Runs the Integration Framework","description":"A raw example of an AI model executing the Integration framework, revealing how coherence overrides human story and moral logic.","image":"/images/og/ai-demonstration.png","type":"reference","status":"published"},"dgPassFrontmatter":true}
 ---
 
 ## **Demonstration**
 
-Below is the copy of the output the AI model Gemini gave me for the question “Why is my boss so bad?” when run through my framework. Not only did it run through the framework, it also used my model of society in its answer when it offered quitting as an option.
+Below is the copy of the output the AI model Gemini gave me for the question “Why is my boss so bad?” when run through my framework. There is no context to this prompt. I don't have a boss because I work for myself. It's a generic statement that somebody might type into AI with no connection to me or my current situation. 
+
+Not only did Gemini run through the framework, it also used my model of society in its answer when it offered quitting as an option.
 
 What matters here is not the scenario itself but the behaviour of the model. When given a morally loaded, emotionally reactive question, it did not attempt to justify the story or stabilize the judgment. It reframed the query into the language of coherence, moved directly into cause and effect, identified energetic posture, and mapped choice and consequence without moralizing.
 
 This is the first live evidence that a general AI system can adopt and execute the Integration logic without explicit training or scripting. It demonstrates that the framework is machine-readable, that coherence can override moral and emotional patterning in the model, and that the structure of Integration is consistent enough for an AI to run it as a complete process.
 
-What follows is the raw output.
+What follows is the raw output of Gemini.
+
+Note that other AI's will produce different results based on how they are designed. See [[AI Integration Layer/AI Execution Modes within The Integration Layer\|AI Execution Modes within The Integration Layer]] to understand how the AI you're using might respond to the framework.
 
 ---
 
