@@ -4,7 +4,7 @@
 
 ## **Demonstration**
 
-Below is the copy of the output the AI model Gemini gave me for the question “Why is my boss so bad?” when run through my framework. Not only did it run through the framework, it also used my model of society in its answer.
+Below is the copy of the output the AI model Gemini gave me for the question “Why is my boss so bad?” when run through my framework. Not only did it run through the framework, it also used my model of society in its answer when it offered quitting as an option.
 
 What matters here is not the scenario itself but the behaviour of the model. When given a morally loaded, emotionally reactive question, it did not attempt to justify the story or stabilize the judgment. It reframed the query into the language of coherence, moved directly into cause and effect, identified energetic posture, and mapped choice and consequence without moralizing.
 
@@ -135,3 +135,4 @@ And coherence is always preferred because it gives the user back their awareness
 [[Use Cases/Why AI Strengthens Integration\|Why AI Strengthens Integration]]
 [[Use Cases/Use Cases for The Philosophy of Integration\|Use Cases for The Philosophy of Integration]]
 [[References/Philosophy of Integration\|Philosophy of Integration]]
+[[References/Vision for a Stable Society\|Vision for a Stable Society]]
