@@ -6,7 +6,7 @@
 
 AI models do not operate from a single logic structure. Even when given the same input, different systems consistently produce different classes of response. This is not random variation. It reflects **distinct internal priority hierarchies**.
 
-Some models privilege:
+Some models privilege: 
 
 - emotional stabilization
     

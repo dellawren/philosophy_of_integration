@@ -67,6 +67,29 @@ Tarot is listed here as _in development_ and will be expanded once the structure
 
 ---
 
+### **Expanded Use Case: Parenting Dynamics (in development)**
+
+#### **Purpose**:
+
+To provide parents with tools to **empower** their children through **emotional awareness**, **self-regulation**, and **sovereignty**, without relying on control, punishment, or rigid parenting systems.
+
+#### **How it functions**:
+
+- **Emotional Clarity**: Parents can see their child’s emotional needs clearly, without getting caught in **emotional reactivity** or **attachment-driven behaviors**. The framework can help parents recognize when they are **over-controlling** or acting out of **fear** rather than **empowerment**.
+    
+- **Sovereign Choice**: Helps parents make decisions from a place of **awareness**, understanding the **long-term consequences** of controlling or overly directing their child’s path. Parents can learn to offer **guidance** without enforcing compliance.
+    
+- **Boundary Setting**: The framework can help parents establish **healthy boundaries** that respect both their child’s autonomy and the need for **nurturing control** (i.e., providing guidance and protection without overriding the child’s natural development).
+    
+- **Coherent Path for Both**: Provides a **coherent path** for both the child and the parent—allowing the parent to model emotional regulation, while giving the child the freedom to **explore**, **make mistakes**, and **learn** at their own pace.
+    
+#### **Pairing with AI**:
+
+- **Coherence Mapping for Parenting**: AI can serve as a **neutral sounding board** for parents to **map out choices**—showing the potential long-term effects of their **parenting style**. It can **reflect back** their emotional posture and help them see where they might be acting out of **fear** or **control** instead of **empowerment**.
+    
+- **Distortion-Free Feedback**: AI can help parents recognize when their approach may be leading to **over-control** or creating **dependence**, rather than **empowering** their child’s emotional independence. It can act as a **mirror** that clarifies emotional dynamics without judgment.
+
+---
 ## **Additional Future Use Cases**
 
 These are possible directions for the framework to go in. Note that these are not in development.
