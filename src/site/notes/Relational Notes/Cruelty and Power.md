@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-title":"Cruelty and Power","permalink":"/relational-notes/cruelty-and-power/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-title":"Cruelty and Power","order":6,"permalink":"/relational-notes/cruelty-and-power/","dgPassFrontmatter":true}
 ---
 
 ## **Overview**
