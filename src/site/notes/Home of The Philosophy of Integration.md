@@ -4,34 +4,26 @@
 
 ## About The Philosophy of Integration
 
-I started working toward this idea over ten years ago, during what most would call a **spiritual awakening**.  
-It was in that moment that I began to question truth itself:
+The Philosophy of Integration is an ontological framework concerned with coherence, causality, and the structure of human experience.
 
-> Why were things the way they were?  
-> What was really happening?  
-> Why did things end up like this?
+It begins from a simple premise: reality operates through cause and effect, independent of human judgment, morality, or narrative interpretation. Experience is not punishment or reward, but response. What unfolds does so through lawful consequence, not moral accounting.
 
-They were existential questions born from pain. Spirituality offered the idea that I could gain control over chaos if I learned to manifest or manage my energy. I became highly intuitive, started reading tarot cards, and practiced energy healing. That was my introduction to spirituality.
+The framework emerged through sustained inquiry into the nature of truth, coherence, and human meaning-making. Early engagement with spirituality and self-mastery exposed a recurring distortion: foundational insights were often filtered through human-imposed rules — judgment, moral hierarchy, and identity-based narratives — that obscured rather than clarified the underlying structure of experience.
 
-But there came a point where spirituality stopped making sense. It was filtered through what I call _human rules_ — things like judgment and morality, which distorted the original spiritual principles. They were being interpreted through a lens that didn’t seem to hold truth.
+Philosophical study later confirmed that many of these questions had already been explored within existential and post-existential traditions. Direct engagement with the primary texts of thinkers such as Nietzsche, Kierkegaard, Sartre, and Camus revealed that when moral overlays are removed, these philosophies describe structural realities rather than belief systems.
 
-That realization led me down a path of **self-mastery** — understanding myself within experience. It showed me the impact I was having on my own life. I was the common denominator in all of it, and how I showed up mattered.
+The Philosophy of Integration synthesizes these insights into a unified framework grounded in coherence rather than ideology.
 
-Eventually, self-mastery led me to **philosophy**. I didn’t start by reading philosophers; I arrived at their ideas naturally. It was only later, through dialogue with AI, that I realized I’d stumbled upon pre-existing philosophical constructs — existentialism, nihilism, and others — on my own. I began studying the original texts of Nietzsche, Kierkegaard, Sartre, Camus, and more. I avoided commentary and went straight to their source.
+At its core is **Relational Loop Theory**, which describes reality as a self-regulating system of relational consequence. Every action, perception, and interaction participates in an ongoing network of cause and effect, through which coherence is disrupted and restored. Meaning arises not from imposed narratives, but from relational movement within the system itself.
 
-Through that process, I saw how removing the human rules — judgment, morality, right and wrong — allowed those philosophies to exist without interference. From there, **The [[References/Philosophy of Integration\|Philosophy of Integration]]** was born: a framework rooted in the coherence of the universe itself.   It sees experience as response, not punishment; movement, not moral debt.
+This framework does not prescribe values, offer moral judgments, or promise personal transformation. Instead, it provides a structural model through which experience can be understood without distortion.
 
-At its core, _The Philosophy of Integration_ is a study of balance — how awareness moves through cause and effect to restore coherence in both the individual and the world.  
+The work is presented as an open and developing system. While its foundational ontology is stable, its applications and articulations will continue to expand through ongoing inquiry, dialogue, and testing.
 
-Its central construct, **Relational Loop Theory**, describes how reality self-regulates through relationship: every cause, every effect, every interaction contributing to the universe’s ongoing conversation of consequence.  
+This site serves as the primary repository for the framework and its related writings.
 
-This is where science, spirituality, and human experience meet — not as beliefs to defend, but as movements to witness.
+For inquiries, dialogue, or academic correspondence, please visit:  
+[https://dellawren.com/contact-me](https://dellawren.com/contact-me)
 
-This is a living framework — a work in progress — and it will continue to evolve as I do.  
-I’m sharing it openly so others can witness, question, and participate in something larger than me.
-
-If you’d like to get in touch, visit https://dellawren.com/contact-me
-Thank you.
-
-Della Wren
+**Della Wren**
 
