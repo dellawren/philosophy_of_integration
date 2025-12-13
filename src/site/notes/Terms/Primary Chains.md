@@ -16,4 +16,4 @@ Primary Chains are frequently misunderstood as identity, pathology, or personal 
 [[Terms/Chain Architecture\|Chain Architecture]]  
 [[The Architecture of Chains/Trauma Inside the Chain\|Trauma Inside the Chain]]  
 [[Terms/Cause and Effect\|Cause and Effect]]  
-[[Threat Prediction\|Threat Prediction]]
+[[Terms/Threat Prediction\|Threat Prediction]]
