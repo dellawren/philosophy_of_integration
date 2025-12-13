@@ -12,10 +12,10 @@ Emotion cannot be corrected, suppressed, transcended, or moralized without reinf
 > Emotion is effect. Identity is choice.
 
 **References:**  
-[[The Architecture of Chains/13. Experience, Thought, Feeling\|13. Experience, Thought, Feeling]]  
+[[The Architecture of Chains/Experience, Thought, Feeling\|Experience, Thought, Feeling]]  
 [[Terms/Trauma Identity\|Trauma Identity]]  
 [[Terms/Neutral Memory\|Neutral Memory]]  
 [[Terms/Fear as Effect\|Fear as Effect]]  
 [[Terms/Interpretation\|Interpretation]]  
 [[Philosophical Foundations/The Correction Sequence\|The Correction Sequence]]
-[[The Architecture of Chains/18. Working With the Chain\|18. Working With the Chain]]
+[[The Architecture of Chains/Working With the Chain\|Working With the Chain]]

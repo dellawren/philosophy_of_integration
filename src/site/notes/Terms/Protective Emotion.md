@@ -16,4 +16,4 @@ In Integration, protective emotion is not suppressed or corrected. It is recogni
 [[Terms/Trauma\|Trauma]] • [[Terms/Survival Logic\|Survival Logic]] • [[Terms/Fragmentation\|Fragmentation]] • [[Terms/Distorted Time\|Distorted Time]] • [[Terms/Looping Memory\|Looping Memory]] • [[Terms/Reactive Interpretation\|Reactive Interpretation]]
 
 **See also:**  
-[[Terms/Boundaries\|Boundaries]] • [[Terms/Cruelty\|Cruelty]] • [[Terms/Trauma Identity\|Trauma Identity]] • [[The Architecture of Chains/17. Memory as Architecture\|17. Memory as Architecture]]• [[The Architecture of Chains/16. Closing the Chain\|16. Closing the Chain]]
+[[Terms/Boundaries\|Boundaries]] • [[Terms/Cruelty\|Cruelty]] • [[Terms/Trauma Identity\|Trauma Identity]] • [[The Architecture of Chains/Memory as Architecture\|Memory as Architecture]]• [[The Architecture of Chains/Closing the Chain\|Closing the Chain]]

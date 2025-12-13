@@ -50,7 +50,7 @@ Della
 [[References/Philosophy of Integration\|Philosophy of Integration]]
 [[Terms/Morality\|Morality]]
 [[Social Constructs/Morality as a Social Construct\|Morality as a Social Construct]]
-[[The Architecture of Chains/08. The Chain and Experience\|08. The Chain and Experience]]
+[[The Architecture of Chains/The Chain and Experience\|The Chain and Experience]]
 
 
 

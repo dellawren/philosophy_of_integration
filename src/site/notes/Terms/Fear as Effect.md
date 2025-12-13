@@ -16,4 +16,4 @@ Unlike the moral or psychological story that treats fear as something to conquer
 [[Terms/Distortion Loop\|Distortion Loop]]  
 [[Terms/Chain Architecture\|Chain Architecture]]  
 [[Terms/Invisible Distortion\|Invisible Distortion]]  
-[[The Architecture of Chains/12. Trauma Inside the Chain\|12. Trauma Inside the Chain]]
+[[The Architecture of Chains/Trauma Inside the Chain\|Trauma Inside the Chain]]

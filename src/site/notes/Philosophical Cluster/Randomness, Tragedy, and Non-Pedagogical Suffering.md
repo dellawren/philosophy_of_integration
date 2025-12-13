@@ -89,4 +89,4 @@ It asks us to return to ourselves when we can.
 
 ## **See Also**
 
-[[Philosophical Constructs/Power and Structural Injustice\|Power and Structural Injustice]], [[Terms/Trauma Identity\|Trauma Identity]], [[The Architecture of Chains/12. Trauma Inside the Chain\|12. Trauma Inside the Chain]], [[Terms/Identity\|Identity]],[[Terms/Trauma\|Trauma]], [[References/Philosophy of Integration\|Philosophy of Integration]], [[Terms/Integration\|Integration]], [[Terms/Cause and Effect\|Cause and Effect]]
+[[Philosophical Constructs/Power and Structural Injustice\|Power and Structural Injustice]], [[Terms/Trauma Identity\|Trauma Identity]], [[The Architecture of Chains/Trauma Inside the Chain\|Trauma Inside the Chain]], [[Terms/Identity\|Identity]],[[Terms/Trauma\|Trauma]], [[References/Philosophy of Integration\|Philosophy of Integration]], [[Terms/Integration\|Integration]], [[Terms/Cause and Effect\|Cause and Effect]]

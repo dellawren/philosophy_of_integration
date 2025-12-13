@@ -13,13 +13,13 @@ In Integration, trauma is understood as architecture, not pathology. It is the s
 
 > Trauma is not the wound — it is the shape the chain had to take to survive it.
 
-See [[The Architecture of Chains/12. Trauma Inside the Chain\|12. Trauma Inside the Chain]]  
+See [[The Architecture of Chains/Trauma Inside the Chain\|Trauma Inside the Chain]]  
 See [[Terms/Distorted Chain\|Distorted Chain]]  
 See [[Terms/Distortion Loop\|Distortion Loop]]  
 See [[Terms/Invisible Distortion\|Invisible Distortion]]  
 See [[Terms/Survival Logic\|Survival Logic]]  
-See [[The Architecture of Chains/17. Memory as Architecture\|17. Memory as Architecture]]  
-See [[The Architecture of Chains/16. Closing the Chain\|16. Closing the Chain]]  
+See [[The Architecture of Chains/Memory as Architecture\|Memory as Architecture]]  
+See [[The Architecture of Chains/Closing the Chain\|Closing the Chain]]  
 See [[Terms/Story Logic\|Story Logic]]  
 See [[Terms/Neutrality\|Neutrality]]  
 See [[Terms/Cruelty\|Cruelty]]  

@@ -122,7 +122,7 @@ See [[Terms/Fear as Effect\|Fear as Effect]]
 ### **3. Memory does not need to be processed.**
 
 It becomes neutral when awareness returns to the original distortion.  
-See [[The Architecture of Chains/17. Memory as Architecture\|17. Memory as Architecture]]
+See [[The Architecture of Chains/Memory as Architecture\|Memory as Architecture]]
 See [[Terms/Neutral Memory\|Neutral Memory]]
 
 ### **4. Identity does not need to be dismantled.**
@@ -139,7 +139,7 @@ See [[Terms/Replacement\|Replacement]]
 
 There is only architecture that becomes obsolete in the presence of awareness.  
 See [[Terms/Integration\|Integration]]  
-See [[The Architecture of Chains/16. Closing the Chain\|16. Closing the Chain]]
+See [[The Architecture of Chains/Closing the Chain\|Closing the Chain]]
 
 ---
 

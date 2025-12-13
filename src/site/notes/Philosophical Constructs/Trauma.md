@@ -33,17 +33,17 @@ Trauma is the shape their chain took in response.
 
 ## Linked Concepts
 
-See [[The Architecture of Chains/12. Trauma Inside the Chain\|12. Trauma Inside the Chain]]
+See [[The Architecture of Chains/Trauma Inside the Chain\|Trauma Inside the Chain]]
 See [[Philosophical Constructs/Trauma and Self-Protection\|Trauma and Self-Protection]]  
 See [[Terms/Distorted Chain\|Distorted Chain]]  
 See [[Terms/Survival Logic\|Survival Logic]]  
 See [[Terms/Invisible Distortion\|Invisible Distortion]]  
-See [[The Architecture of Chains/17. Memory as Architecture\|17. Memory as Architecture]]
+See [[The Architecture of Chains/Memory as Architecture\|Memory as Architecture]]
 See [[Terms/Neutral Memory\|Neutral Memory]]  
 See [[Terms/Fear as Effect\|Fear as Effect]]  
 See [[Terms/Interpretation\|Interpretation]]  
 See [[Terms/Identity Architecture\|Identity Architecture]]  
-See [[The Architecture of Chains/14. Developmental Chains\|14. Developmental Chains]]
-See [[The Architecture of Chains/16. Closing the Chain\|16. Closing the Chain]]
+See [[The Architecture of Chains/Developmental Chains\|Developmental Chains]]
+See [[The Architecture of Chains/Closing the Chain\|Closing the Chain]]
 See [[Terms/Replacement\|Replacement]]  
 See [[References/Philosophy of Integration\|Philosophy of Integration]]

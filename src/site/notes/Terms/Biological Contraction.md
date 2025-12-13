@@ -16,4 +16,4 @@ In Integration, biological contraction is treated as architecture, not emotion. 
 [[Terms/Capacity\|Capacity]] • [[Terms/Trauma\|Trauma]] • [[Terms/Survival Logic\|Survival Logic]] • [[Terms/Protective Emotion\|Protective Emotion]] • [[Terms/Fragmentation\|Fragmentation]] • [[Terms/Distorted Time\|Distorted Time]]
 
 **See also:**  
-[[Terms/Looping Memory\|Looping Memory]] • [[Terms/Reactive Interpretation\|Reactive Interpretation]] • [[The Architecture of Chains/17. Memory as Architecture\|17. Memory as Architecture]]• [[The Architecture of Chains/16. Closing the Chain\|16. Closing the Chain]]
+[[Terms/Looping Memory\|Looping Memory]] • [[Terms/Reactive Interpretation\|Reactive Interpretation]] • [[The Architecture of Chains/Memory as Architecture\|Memory as Architecture]]• [[The Architecture of Chains/Closing the Chain\|Closing the Chain]]

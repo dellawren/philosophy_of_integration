@@ -13,7 +13,7 @@ In Integration, memory is neither threat nor identity. It is neutral data. Traum
 > “Memory is not the story. Memory is the structure the story left behind.”
 
 **Linked Terms:**  
-[[The Architecture of Chains/17. Memory as Architecture\|17. Memory as Architecture]] • [[Terms/Looping Memory\|Looping Memory]] • [[Terms/Neutral Memory\|Neutral Memory]] • [[Terms/Trauma\|Trauma]] • [[Terms/Distorted Time\|Distorted Time]] • [[Terms/Survival Logic\|Survival Logic]]
+[[The Architecture of Chains/Memory as Architecture\|Memory as Architecture]] • [[Terms/Looping Memory\|Looping Memory]] • [[Terms/Neutral Memory\|Neutral Memory]] • [[Terms/Trauma\|Trauma]] • [[Terms/Distorted Time\|Distorted Time]] • [[Terms/Survival Logic\|Survival Logic]]
 
 **See also:**  
-[[Terms/Trauma Identity\|Trauma Identity]] • [[Terms/Interpretation\|Interpretation]] • [[The Architecture of Chains/16. Closing the Chain\|16. Closing the Chain]]
+[[Terms/Trauma Identity\|Trauma Identity]] • [[Terms/Interpretation\|Interpretation]] • [[The Architecture of Chains/Closing the Chain\|Closing the Chain]]

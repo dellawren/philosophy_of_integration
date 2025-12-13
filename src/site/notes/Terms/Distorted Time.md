@@ -13,7 +13,7 @@ In Integration, distorted time is recognized as architectural, not emotional. It
 > “Time doesn’t repeat — the chain does.”
 
 **Linked Terms:**  
-[[Terms/Trauma\|Trauma]] • [[Terms/Looping Memory\|Looping Memory]] • [[The Architecture of Chains/17. Memory as Architecture\|17. Memory as Architecture]] • [[Terms/Fragmentation\|Fragmentation]] • [[Terms/Survival Logic\|Survival Logic]]
+[[Terms/Trauma\|Trauma]] • [[Terms/Looping Memory\|Looping Memory]] • [[The Architecture of Chains/Memory as Architecture\|Memory as Architecture]] • [[Terms/Fragmentation\|Fragmentation]] • [[Terms/Survival Logic\|Survival Logic]]
 
 **See also:**  
-[[Terms/Reactive Interpretation\|Reactive Interpretation]] • [[Terms/Distortion Loop\|Distortion Loop]] • [[The Architecture of Chains/16. Closing the Chain\|16. Closing the Chain]]
+[[Terms/Reactive Interpretation\|Reactive Interpretation]] • [[Terms/Distortion Loop\|Distortion Loop]] • [[The Architecture of Chains/Closing the Chain\|Closing the Chain]]

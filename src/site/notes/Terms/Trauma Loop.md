@@ -10,11 +10,11 @@ A trauma loop ends not through force, but through awareness, neutrality, and rep
 
 > A trauma loop is not a failure — it’s the architecture waiting for completion.
 
-See [[The Architecture of Chains/12. Trauma Inside the Chain\|12. Trauma Inside the Chain]]
+See [[The Architecture of Chains/Trauma Inside the Chain\|Trauma Inside the Chain]]
 See [[Terms/Distorted Chain\|Distorted Chain]]  
 See [[Terms/Survival Logic\|Survival Logic]]  
-See [[The Architecture of Chains/17. Memory as Architecture\|17. Memory as Architecture]]
+See [[The Architecture of Chains/Memory as Architecture\|Memory as Architecture]]
 See [[Terms/Fear as Effect\|Fear as Effect]]  
 See [[Terms/Chain Split\|Chain Split]]  
-See [[The Architecture of Chains/16. Closing the Chain\|16. Closing the Chain]]
+See [[The Architecture of Chains/Closing the Chain\|Closing the Chain]]
 See [[References/Philosophy of Integration\|Philosophy of Integration]]

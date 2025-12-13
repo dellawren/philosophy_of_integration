@@ -37,7 +37,7 @@ Replacement, not correction, is the only coherent response. A distorted chain ca
 [[Terms/Distortion\|Distortion]]  
 [[Terms/Distortion Loop\|Distortion Loop]]  
 [[Terms/Invisible Distortion\|Invisible Distortion]]  
-[[The Architecture of Chains/12. Trauma Inside the Chain\|12. Trauma Inside the Chain]]  
+[[The Architecture of Chains/Trauma Inside the Chain\|Trauma Inside the Chain]]  
 [[Terms/Survival Logic\|Survival Logic]]  
 [[Terms/Protective Emotion\|Protective Emotion]]  
 [[Terms/Reactive Interpretation\|Reactive Interpretation]]  

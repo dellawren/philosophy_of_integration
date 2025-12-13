@@ -13,4 +13,4 @@ In Integration, survival logic is seen as architecture masquerading as truth. On
 > “The chain can sound like wisdom when it’s really fear.”
 
 **Linked Terms:** [[Terms/Trauma\|Trauma]], [[Terms/Trauma Identity\|Trauma Identity]], [[Terms/Story Logic\|Story Logic]], [[Terms/Cruelty\|Cruelty]], [[Terms/Boundaries\|Boundaries]], [[Terms/Distorted Power\|Distorted Power]], [[Terms/Neutrality\|Neutrality]]  
-**See also:** [[Terms/Fragmentation\|Fragmentation]], [[Terms/Distortion Loop\|Distortion Loop]], [[Terms/Interpretation\|Interpretation]], [[The Architecture of Chains/16. Closing the Chain\|16. Closing the Chain]], [[The Architecture of Chains/17. Memory as Architecture\|17. Memory as Architecture]], [[References/Philosophy of Integration\|Philosophy of Integration]]
+**See also:** [[Terms/Fragmentation\|Fragmentation]], [[Terms/Distortion Loop\|Distortion Loop]], [[Terms/Interpretation\|Interpretation]], [[The Architecture of Chains/Closing the Chain\|Closing the Chain]], [[The Architecture of Chains/Memory as Architecture\|Memory as Architecture]], [[References/Philosophy of Integration\|Philosophy of Integration]]

@@ -43,6 +43,6 @@ Awareness becomes the interpreter.
 [[Terms/Story Logic\|Story Logic]]  
 [[Terms/Boundaries\|Boundaries]]  
 [[Terms/Cruelty\|Cruelty]]  
-[[The Architecture of Chains/17. Memory as Architecture\|17. Memory as Architecture]]
-[[The Architecture of Chains/16. Closing the Chain\|16. Closing the Chain]]
+[[The Architecture of Chains/Memory as Architecture\|Memory as Architecture]]
+[[The Architecture of Chains/Closing the Chain\|Closing the Chain]]
 [[References/Philosophy of Integration\|Philosophy of Integration]]

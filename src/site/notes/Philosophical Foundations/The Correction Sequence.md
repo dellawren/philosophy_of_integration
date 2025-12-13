@@ -227,14 +227,14 @@ Integration is the state in which the old architecture no longer organizes perce
 
 # **See also**
 
-[[The Architecture of Chains/12. Trauma Inside the Chain\|12. Trauma Inside the Chain]]  
+[[The Architecture of Chains/Trauma Inside the Chain\|Trauma Inside the Chain]]  
 [[Terms/Distorted Chain\|Distorted Chain]]  
 [[Terms/Distortion Loop\|Distortion Loop]]  
 [[Terms/Replacement\|Replacement]]  
 [[Terms/Neutral Memory\|Neutral Memory]]  
-[[The Architecture of Chains/17. Memory as Architecture\|17. Memory as Architecture]]
+[[The Architecture of Chains/Memory as Architecture\|Memory as Architecture]]
 [[Terms/Story Logic\|Story Logic]]  
 [[Terms/Identity Architecture\|Identity Architecture]]  
 [[Terms/Structural Awareness\|Structural Awareness]]  
-[[The Architecture of Chains/16. Closing the Chain\|16. Closing the Chain]]  
+[[The Architecture of Chains/Closing the Chain\|Closing the Chain]]  
 [[References/Philosophy of Integration\|Philosophy of Integration]]

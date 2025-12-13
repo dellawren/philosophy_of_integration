@@ -1,0 +1,59 @@
+---
+{"dg-publish":true,"dg-title":"The Chain and Experience","dg-metatags":{"og:title":"The Chain and Experience: How Relationships Shape Perception and Life","description":"An examination of how relational chains influence our lived experience — how what we carry in connection colours our perception, choices and inner world, and how awareness can re-shape that landscape.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"order":8,"permalink":"/the-architecture-of-chains/the-chain-and-experience/","metatags":{"og:title":"The Chain and Experience: How Relationships Shape Perception and Life","description":"An examination of how relational chains influence our lived experience — how what we carry in connection colours our perception, choices and inner world, and how awareness can re-shape that landscape.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+---
+
+Experience is the first layer of the chain.  
+It is the moment where something occurs **before** interpretation, meaning, or emotion takes shape.
+
+This is the level of: 
+
+- sensation
+    
+- event
+    
+- circumstance
+    
+- interaction
+    
+- stimulus
+    
+- the observable movement of life
+    
+
+Experience enters the chain like this:
+
+**Cause → Effect → Awareness**
+
+At this stage, the chain is pure.  
+It has not yet been filtered through history, story, or identity.
+
+Experience is **raw data** — the world touching your nervous system.
+
+But because humans rarely meet experience without interpretation,  
+most people never encounter experience directly.  
+They encounter the _interpretation_ of experience.
+
+Coherent chains allow you to feel the moment as it is.  
+Distorted chains convert experience into something else before you consciously register it.
+
+This is how distortion alters reality:
+
+- you’re not experiencing what happened
+    
+- you’re experiencing what the chain _made_ of what happened
+    
+
+Experience is the input.  
+The chain determines the output.
+
+# **See Also**
+
+- [[Terms/Emotional Feedback\|Emotional Feedback]]
+    
+- [[Terms/Interpretation\|Interpretation]]
+    
+- [[Terms/Structural Awareness\|Structural Awareness]]
+    
+- [[Terms/Coherence\|Coherence]]
+    
+- [[Terms/Distortion\|Distortion]]

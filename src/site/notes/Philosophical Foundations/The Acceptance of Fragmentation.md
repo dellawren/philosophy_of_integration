@@ -214,7 +214,7 @@ Coherence restores.
 
 [[Relational Notes/Control and Fear - The Machinery of Fragmentation\|Control and Fear - The Machinery of Fragmentation]]  
 [[Terms/Story Logic\|Story Logic]]  
-[[The Architecture of Chains/12. Trauma Inside the Chain\|12. Trauma Inside the Chain]]
+[[The Architecture of Chains/Trauma Inside the Chain\|Trauma Inside the Chain]]
 [[Terms/Survival Logic\|Survival Logic]]  
 [[Terms/Non-Interference\|Non-Interference]]  
 [[Philosophical Foundations/The Law of Awareness\|The Law of Awareness]]

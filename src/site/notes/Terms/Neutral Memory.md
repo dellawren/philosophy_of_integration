@@ -10,8 +10,8 @@ In Integration, neutral memory is the final indicator of a closed chain. A chain
 
 > You don’t lose the past; you release the distortion that once defined it.
 
-See [[The Architecture of Chains/17. Memory as Architecture\|17. Memory as Architecture]]
-See [[The Architecture of Chains/16. Closing the Chain\|16. Closing the Chain]]
+See [[The Architecture of Chains/Memory as Architecture\|Memory as Architecture]]
+See [[The Architecture of Chains/Closing the Chain\|Closing the Chain]]
 See [[Terms/Distorted Chain\|Distorted Chain]]  
 See [[Terms/Identity Architecture\|Identity Architecture]]  
 See [[Terms/Fear as Effect\|Fear as Effect]]  

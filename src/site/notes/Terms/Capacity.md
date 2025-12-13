@@ -13,4 +13,4 @@ In Integration, capacity becomes one of the clearest indicators of where the sys
 > “Trauma enters where capacity ends. Integration begins where capacity returns.”
 
 **Linked Terms:** [[Terms/Trauma\|Trauma]], [[Terms/Fragmentation\|Fragmentation]], [[Terms/Survival Logic\|Survival Logic]], [[Terms/Story Logic\|Story Logic]], [[Terms/Boundaries\|Boundaries]], [[Terms/Neutrality\|Neutrality]]  
-**See also:** [[Terms/Trauma Identity\|Trauma Identity]], [[Terms/Distorted Chain\|Distorted Chain]], [[The Architecture of Chains/17. Memory as Architecture\|17. Memory as Architecture]], [[The Architecture of Chains/16. Closing the Chain\|16. Closing the Chain]], [[References/Philosophy of Integration\|Philosophy of Integration]]
+**See also:** [[Terms/Trauma Identity\|Trauma Identity]], [[Terms/Distorted Chain\|Distorted Chain]], [[The Architecture of Chains/Memory as Architecture\|Memory as Architecture]], [[The Architecture of Chains/Closing the Chain\|Closing the Chain]], [[References/Philosophy of Integration\|Philosophy of Integration]]
