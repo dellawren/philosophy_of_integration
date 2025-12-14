@@ -55,7 +55,6 @@ The following essays appear in the order they are presented on the site:
 - [[Philosophical Foundations/The Acceptance of Fragmentation\|The Acceptance of Fragmentation]]  
     An examination of fragmentation as a structural condition rather than a failure to be resolved.
 
-    
 - [[Philosophical Foundations/Circling\|Circling]]  
     An analysis of repetitive patterns, return, and stalled movement within experiential systems.
     
