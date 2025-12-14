@@ -86,7 +86,7 @@ This is how trauma becomes invisible:
 It hides inside what feels normal.
 
 **See:**  
-[[The Architecture of Chains/Developmental Chains\|Developmental Chains]] • [[Terms/Identity Architecture\|Identity Architecture]] • [[Terms/Invisible Distortion\|Invisible Distortion]]
+ [[Terms/Identity Architecture\|Identity Architecture]] • [[Terms/Invisible Distortion\|Invisible Distortion]]
 
 ---
 
@@ -252,4 +252,4 @@ Trauma doesn’t break coherence — it marks where coherence wasn’t available
 
 ## **See Also**
 
-[[Terms/Distortion Loop\|Distortion Loop]] • [[Terms/Invisible Distortion\|Invisible Distortion]] • [[Terms/Chain Split\|Chain Split]] • [[Terms/Replacement\|Replacement]] • [[Terms/Fear as Effect\|Fear as Effect]] • [[Terms/Emotional Feedback\|Emotional Feedback]] • [[Terms/Survival Logic\|Survival Logic]] • [[Terms/Circular Time\|Circular Time]] • [[The Architecture of Chains/Developmental Chains\|Developmental Chains]] • [[Terms/Trauma\|Terms/Trauma]]
+[[Terms/Distortion Loop\|Distortion Loop]] • [[Terms/Invisible Distortion\|Invisible Distortion]] • [[Terms/Chain Split\|Chain Split]] • [[Terms/Replacement\|Replacement]] • [[Terms/Fear as Effect\|Fear as Effect]] • [[Terms/Emotional Feedback\|Emotional Feedback]] • [[Terms/Survival Logic\|Survival Logic]] • [[Terms/Circular Time\|Circular Time]] • [[Terms/Trauma\|Terms/Trauma]]

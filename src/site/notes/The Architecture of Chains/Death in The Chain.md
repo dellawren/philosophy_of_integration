@@ -166,7 +166,6 @@ Awareness and choice return to those still living.
 # See Also
 [[Terms/Chain Architecture\|Chain Architecture]]  
 [[The Architecture of Chains/Trauma Inside the Chain\|Trauma Inside the Chain]]
-[[The Architecture of Chains/Developmental Chains\|Developmental Chains]]
 [[Terms/Invisible Distortion\|Invisible Distortion]]  
 [[Terms/Identity Architecture\|Identity Architecture]]  
 [[The Architecture of Chains/Memory as Architecture\|Memory as Architecture]]

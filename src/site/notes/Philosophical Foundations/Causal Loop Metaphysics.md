@@ -157,4 +157,4 @@ It turns your system into a map of reality — not a method for self-improvement
 [[Relational Notes/The Ladder of Integration Relationships\|The Ladder of Integration Relationships]]
 [[Terms/Axis of Awareness\|Axis of Awareness]]
 [[References/Philosophy of Integration\|Philosophy of Integration]]
-[[Philosophical Foundations/Time, Perception, and Return\|Time, Perception, and Return]] _(future optional page if you want to expand)_  
+

@@ -34,9 +34,6 @@ The following essays appear in the order they are presented on the site:
 - [[Philosophical Foundations/The Law of Awareness\|The Law of Awareness]]  
     An exploration of awareness as a participatory function rather than a moral or metaphysical ideal.
     
-- [[Philosophical Foundations/Where Integration Sits in the Landscape of Philosophy\|Where Integration Sits in the Landscape of Philosophy]]  
-    A high-level orientation placing Integration among major philosophical traditions without synthesis or allegiance.
-    
 - [[Philosophical Foundations/Phenomenology - Why Experience Matters More Than Belief\|Phenomenology - Why Experience Matters More Than Belief]]  
     An examination of experience as primary data, distinct from belief, interpretation, or doctrine.
     
@@ -52,23 +49,15 @@ The following essays appear in the order they are presented on the site:
 - [[Philosophical Foundations/Non-Duality vs Integration\|Non-Duality vs Integration]]  
     A contrast between transcendence-oriented non-dual models and Integration’s insistence on consequence and participation.
     
-- [[Philosophical Foundations/Time, Perception, and Return\|Time, Perception, and Return]]  
-    An exploration of time, recurrence, and experiential return within causal systems.
-    
 - [[Philosophical Foundations/Causal Loop Metaphysics\|Causal Loop Metaphysics]]  
     A treatment of metaphysics grounded in loops, feedback, and relational causality rather than substances or essences.
     
 - [[Philosophical Foundations/The Acceptance of Fragmentation\|The Acceptance of Fragmentation]]  
     An examination of fragmentation as a structural condition rather than a failure to be resolved.
-    
-- [[Philosophical Foundations/The Side Effect Model of Control\|The Side Effect Model of Control]]  
-    A critique of control as a strategy and its unintended systemic consequences.
+
     
 - [[Philosophical Foundations/Circling\|Circling]]  
     An analysis of repetitive patterns, return, and stalled movement within experiential systems.
-    
-- [[Philosophical Foundations/The Integrated Question\|The Integrated Question]]  
-    A reframing of inquiry itself once moral, spiritual, and meaning-based assumptions are removed.
     
 - [[Philosophical Foundations/The Correction Sequence\|The Correction Sequence]]  
     A philosophical exploration of re-alignment through consequence rather than prescription.

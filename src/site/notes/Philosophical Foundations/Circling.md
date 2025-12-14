@@ -65,7 +65,6 @@ the self reconciling its fragments through lived repetition, not moral improveme
 > “Circling is the universe keeping its promise that nothing unfinished stays that way.”
 
 ## See Also
-[[Philosophical Foundations/Time, Perception, and Return\|Time, Perception, and Return]]  
 [[Philosophical Foundations/Causal Loop Metaphysics\|Causal Loop Metaphysics]]  
 [[Philosophical Constructs/Relational Loop Theory\|Relational Loop Theory]]  
 [[Relational Notes/The Ladder of Integration Relationships\|The Ladder of Integration Relationships]]

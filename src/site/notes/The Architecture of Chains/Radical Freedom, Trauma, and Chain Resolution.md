@@ -84,7 +84,5 @@ It is what becomes available once coherence is no longer being prevented.
 [[The Architecture of Chains/Biological Mirrors of The Chain\|Biological Mirrors of The Chain]]
 [[The Architecture of Chains/Closing the Chain\|Closing the Chain]]
 [[The Architecture of Chains/Memory as Architecture\|Memory as Architecture]]
-[[The Architecture of Chains/Developmental Chains\|Developmental Chains]]
-[[The Architecture of Chains/Working With the Chain\|Working With the Chain]]
 [[Terms/Trauma\|Trauma]]
 [[Terms/Freedom\|Freedom]]

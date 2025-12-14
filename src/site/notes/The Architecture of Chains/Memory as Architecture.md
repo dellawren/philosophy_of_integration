@@ -11,7 +11,7 @@ Memory doesn’t store what happened; it stores what the chain _became_ when it 
 > **Memory is the architecture of the chain written in time.**
 
 **See:**  
-[[Terms/Chain Architecture\|Chain Architecture]] • [[The Architecture of Chains/Trauma Inside the Chain\|Trauma Inside the Chain]] • [[Terms/Neutral Memory\|Neutral Memory]] • [[Terms/Distorted Chain\|Distorted Chain]] • [[Terms/Structural Awareness\|Structural Awareness]] • [[The Architecture of Chains/Developmental Chains\|Developmental Chains]] • [[References/Philosophy of Integration\|Philosophy of Integration]]
+[[Terms/Chain Architecture\|Chain Architecture]] • [[The Architecture of Chains/Trauma Inside the Chain\|Trauma Inside the Chain]] • [[Terms/Neutral Memory\|Neutral Memory]] • [[Terms/Distorted Chain\|Distorted Chain]] • [[Terms/Structural Awareness\|Structural Awareness]] • [[References/Philosophy of Integration\|Philosophy of Integration]]
 
 ---
 
