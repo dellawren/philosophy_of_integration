@@ -1,6 +1,6 @@
 ---
 title: Home
 permalink: /
-layout: index
+layout: layouts/index.njk
 ---
 
