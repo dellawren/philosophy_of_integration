@@ -13,15 +13,15 @@ Integration does not erase the identity — it dissolves the distortion that cre
 
 > Trauma identity isn’t your truth — it’s your architecture.
 
-See [[The Architecture of Chains/Trauma Inside the Chain\|Trauma Inside the Chain]]  
+See [[Human Mechanics/Trauma Inside the Chain\|Trauma Inside the Chain]]  
 See [[Terms/Invisible Distortion\|Invisible Distortion]]  
-See [[The Architecture of Chains/Memory as Architecture\|Memory as Architecture]]  
+See [[The Architecture of Integration/Memory as Architectural Persistence\|Memory as Architectural Persistence]]  
 See [[Terms/Interpretation\|Interpretation]]  
-See [[Terms/Identity Architecture\|Identity Architecture]]  
+See [[Identity Architecture\|Identity Architecture]]  
 See [[Terms/Neutral Memory\|Neutral Memory]]  
 See [[Terms/Story Logic\|Story Logic]]  
 See [[Terms/Boundaries\|Boundaries]]  
 See [[Terms/Distorted Power\|Distorted Power]]  
 See [[Terms/Neutrality\|Neutrality]]  
-See [[The Architecture of Chains/Closing the Chain\|Closing the Chain]]  
+See [[The Architecture of Integration/Closing the Chain\|Closing the Chain]]  
 See [[References/Philosophy of Integration\|Philosophy of Integration]]

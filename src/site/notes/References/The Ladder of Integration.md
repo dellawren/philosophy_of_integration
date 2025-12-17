@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-title":"The Ladder of Integration","order":4,"dg-metatags":{"og:title":"The Ladder of Integration — References | The Philosophy of Integration","description":"Explore The Ladder of Integration — the structural map that traces consciousness from fear and fragmentation to awareness, truth and embodied choice.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/references/the-ladder-of-integration/","metatags":{"og:title":"The Ladder of Integration — References | The Philosophy of Integration","description":"Explore The Ladder of Integration — the structural map that traces consciousness from fear and fragmentation to awareness, truth and embodied choice.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
+This is interpretative. It's how humans see the world.
 
 - **[[Terms/Safety\|Safety]]** → fear as information, not danger
 - -Anchors between [[Terms/Fear\|Fear]], [[Terms/Control\|Terms/Control]], [[Terms/Awareness\|Terms/Awareness]]
@@ -18,19 +19,19 @@
     > The shift from self-protection to self-observation.
     
 - **[[Terms/Truth\|Truth]]** → perceiving what’s real, not what’s safe
-  - Connects [[Terms/Awareness\|Terms/Awareness]] with [[Terms/Ethics\|Ethics]], [[Terms/Cause and Effect\|Cause and Effect]], and [[Terms/Control\|Terms/Control]].
+  - Connects [[Terms/Awareness\|Terms/Awareness]] with [[Terms/Ethics\|Terms/Ethics]], [[Terms/Cause and Effect\|Cause and Effect]], and [[Terms/Control\|Terms/Control]].
 - Marks the point where perception begins to organize reality instead of resisting it.
     
     > Seeing what is, rather than what feels safe to believe.
     
-- **[[Terms/Responsibility\|Responsibility]]** → owning one’s participation in cause and effect
-  - Crosses the ethical cluster ([[Terms/Cause and Effect\|Cause and Effect]], [[Terms/Ethics\|Ethics]], [[Terms/Freedom\|Freedom]]).
+- **[[Terms/Responsibility\|Terms/Responsibility]]** → owning one’s participation in cause and effect
+  - Crosses the ethical cluster ([[Terms/Cause and Effect\|Cause and Effect]], [[Terms/Ethics\|Terms/Ethics]], [[Terms/Freedom\|Freedom]]).
 - This rung shows the first expression of coherence: awareness now _acts._
     
     > Conscious participation replaces blame.
     
 - **[[Terms/Choice\|Terms/Choice]]** → recognizing agency within constraint
-  - Sits between [[Terms/Responsibility\|Responsibility]], [[Terms/Freedom\|Freedom]], and [[Terms/Situated Determinism\|Situated Determinism]].
+  - Sits between [[Terms/Responsibility\|Terms/Responsibility]], [[Terms/Freedom\|Freedom]], and [[Terms/Situated Determinism\|Situated Determinism]].
 - Marks the turning point from reactive living to deliberate creation.
     
     > Awareness deciding how to move.
@@ -42,11 +43,10 @@
     > Inclusion replaces opposition.
     
 - **[[Terms/Freedom\|Freedom]]** → living without internal division
-  - The crown of the web, touching [[Terms/Power\|Power]], [[Terms/Integration\|Integration]], and [[Terms/Responsibility\|Responsibility]].
+  - The crown of the web, touching [[Terms/Power\|Terms/Power]], [[Terms/Integration\|Integration]], and [[Terms/Responsibility\|Terms/Responsibility]].
 - Represents life beyond fragmentation — awareness embodied.
     
     > Freedom is the stillness that follows coherence.
 
 
-See also [[Relational Notes/The Ladder of Integration Relationships\|The Ladder of Integration Relationships]]
 

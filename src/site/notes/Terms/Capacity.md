@@ -2,15 +2,57 @@
 {"dg-publish":true,"dg-title":"Capacity","dg-metatags":{"og:title":"Capacity: The Threshold Between Awareness and Distortion","description":"A Stillhouse definition of capacity as the system’s ability to hold experience without collapsing into distortion, survival logic, or reactive interpretation.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/terms/capacity/","metatags":{"og:title":"Capacity: The Threshold Between Awareness and Distortion","description":"A Stillhouse definition of capacity as the system’s ability to hold experience without collapsing into distortion, survival logic, or reactive interpretation.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
-**Capacity** — the system’s ability to hold experience without collapsing into distortion, story, or survival logic.
+**Capacity** — the amount of experience a system can hold **without reorganizing into protective architecture**.
 
-Capacity is not strength, resilience, or emotional skill. It is the amount of awareness available at any given moment. When capacity is high, the chain can process intensity, consequence, truth, and memory without bending. When capacity is low, even small experiences can overwhelm the architecture and trigger contraction.
+Within the framework, capacity refers to **available awareness**, not skill, resilience, emotional intelligence, or regulation.
 
-Capacity fluctuates. It widens with coherence and narrows with trauma, exhaustion, fear, fragmentation, or overload. When capacity drops below the threshold an experience requires, distortion enters the chain: time splits, memory loops, survival logic activates, and the system reorganizes around protection rather than truth.
+When capacity is sufficient, experience passes through the chain without distortion.  
+When experience exceeds capacity, the chain bends automatically to preserve continuity.
 
-In Integration, capacity becomes one of the clearest indicators of where the system actually is. It is never a moral measure. It simply tells the truth about whether awareness is available. Trauma dissolves and coherence stabilizes when capacity returns — because the system can finally hold what it once had to survive.
+Capacity is **situational and fluctuating**, not personal or moral.
 
-> “Trauma enters where capacity ends. Integration begins where capacity returns.”
+---
 
-**Linked Terms:** [[Terms/Trauma\|Trauma]], [[Terms/Fragmentation\|Fragmentation]], [[Terms/Survival Logic\|Survival Logic]], [[Terms/Story Logic\|Story Logic]], [[Terms/Boundaries\|Boundaries]], [[Terms/Neutrality\|Neutrality]]  
-**See also:** [[Terms/Trauma Identity\|Trauma Identity]], [[Terms/Distorted Chain\|Distorted Chain]], [[The Architecture of Chains/Memory as Architecture\|Memory as Architecture]], [[The Architecture of Chains/Closing the Chain\|Closing the Chain]], [[References/Philosophy of Integration\|Philosophy of Integration]]
+### **Framework Usage**
+
+Capacity explains:
+
+- why the same event produces different outcomes in different systems
+    
+- why trauma forms without intention
+    
+- why awareness can disappear and later return
+    
+- why distortion is structural, not chosen
+    
+
+Capacity does not describe _what should happen_.  
+It describes **what the system can currently hold**.
+
+---
+
+### **Structural Notes**
+
+- Capacity sets the threshold at which distortion enters the chain
+    
+- Trauma corresponds to experience exceeding capacity
+    
+- Awareness remains present only while capacity allows
+    
+- Integration becomes possible when capacity is sufficient for awareness to stay available
+    
+
+---
+
+> **Capacity names the limit of awareness, not the quality of the person.**
+
+---
+
+### **Linked Concepts**
+
+[[Terms/Trauma\|Trauma]]  
+[[Terms/Survival Logic\|Survival Logic]]  
+[[Terms/Story Logic\|Story Logic]]  
+[[Terms/Neutrality\|Neutrality]]  
+[[The Architecture of Integration/Memory as Architectural Persistence\|Memory as Architectural Persistence]]  
+[[The Architecture of Integration/Closing the Chain\|Closing the Chain]]

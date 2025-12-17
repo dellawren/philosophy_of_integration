@@ -16,5 +16,4 @@ Its tension signals where control has replaced trust, and where understanding is
 **Linked Concepts**
 
 [[References/Philosophy of Integration\|Philosophy of Integration]]
-[[Philosophical Constructs/Law of Cause and Effect\|Law of Cause and Effect]]
-[[Philosophical Constructs/Law of Natural Coherence\|Law of Natural Coherence]]
+

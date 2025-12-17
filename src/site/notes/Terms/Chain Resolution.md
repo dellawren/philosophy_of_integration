@@ -16,7 +16,7 @@ Chain Resolution is often quiet. Its presence is marked not by change effort, bu
 [[Terms/Chain Architecture\|Chain Architecture]]  
 [[Terms/Cause and Effect\|Cause and Effect]]  
 [[Terms/Non-Interference\|Non-Interference]]  
-[[Terms/Distortion and Interference\|Distortion and Interference]]  
+[[Distortion and Interference\|Distortion and Interference]]  
 [[Terms/Primary Chains\|Primary Chains]]  
 [[Terms/Secondary Chains\|Secondary Chains]]
 [[References/Philosophy of Integration\|Philosophy of Integration]]

@@ -2,12 +2,13 @@
 {"dg-publish":true,"dg-title":"Replacement","permalink":"/terms/replacement/","dgPassFrontmatter":true}
 ---
 
-**Replacement** — the act of shifting into a coherent chain rather than attempting to fix a distorted one.
+**Replacement** — the transition from a distorted causal chain to a coherent one through non-participation in the former.
 
-Healing doesn’t repair the old architecture. Replacement installs a new one. You choose the interpretation aligned with truth, and the old pattern loses power through non-participation.
+Replacement does not modify, heal, or correct an existing chain. It occurs when awareness recognizes that a chain no longer reflects present conditions and ceases to supply it with interpretation, energy, or repetition. The original chain remains structurally intact but inactive.
 
-In Integration, replacement is the mechanism of transformation. It is clean, rapid, and permanent because coherence does not loop.
+Within the Philosophy of Integration, replacement is the primary mechanism by which distortion resolves. A coherent chain does not compete with a distorted one; it renders it obsolete. When awareness aligns with present cause and effect, the prior architecture falls out of use without resistance.
 
-> “You don’t fix the pattern — you stop feeding it.”
+Replacement is therefore structural, not emotional. It reflects a change in participation rather than a change in content.
 
-**See also:** [[Terms/Chain Split\|Chain Split]], [[Terms/Coherence\|Coherence]], [[Terms/Structural Awareness\|Structural Awareness]], [[References/Philosophy of Integration\|Philosophy of Integration]]
+**See also:**  
+[[Terms/Chain Split\|Chain Split]] • [[Terms/Coherence\|Coherence]] • [[Structural Awareness\|Structural Awareness]] • [[References/Philosophy of Integration\|Philosophy of Integration]]

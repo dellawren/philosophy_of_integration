@@ -31,8 +31,11 @@ This section exists to prevent misclassification and to support informed dialogu
 
 The following essays appear in the order they are presented on the site:
 
-- [[Philosophical Foundations/The Law of Awareness\|The Law of Awareness]]  
-    An exploration of awareness as a participatory function rather than a moral or metaphysical ideal.
+- [[Philosophical Foundations/Where Integration Sits in the Landscape of Philosophy\|Where Integration Sits in the Landscape of Philosophy]]  
+    A high-level orientation placing Integration among major philosophical traditions without synthesis or allegiance.
+    
+- [[Philosophical Foundations/Ontology\|Ontology]]  
+    A clarification of Integration’s ontological position: reality as relational, causal, and self-regulating rather than moral, ideal, or hierarchical.
     
 - [[Philosophical Foundations/Phenomenology - Why Experience Matters More Than Belief\|Phenomenology - Why Experience Matters More Than Belief]]  
     An examination of experience as primary data, distinct from belief, interpretation, or doctrine.
@@ -49,18 +52,26 @@ The following essays appear in the order they are presented on the site:
 - [[Philosophical Foundations/Non-Duality vs Integration\|Non-Duality vs Integration]]  
     A contrast between transcendence-oriented non-dual models and Integration’s insistence on consequence and participation.
     
-- [[Philosophical Foundations/Causal Loop Metaphysics\|Causal Loop Metaphysics]]  
-    A treatment of metaphysics grounded in loops, feedback, and relational causality rather than substances or essences.
+- [[Philosophical Foundations/Psychology and Integration\|Psychology and Integration]]
+    An examination of psychological models through causal mediation, including how pathology, behaviour, and “coping” emerge from unresolved chains rather than defective individuals.
     
-- [[Philosophical Foundations/The Acceptance of Fragmentation\|The Acceptance of Fragmentation]]  
-    An examination of fragmentation as a structural condition rather than a failure to be resolved.
-
-- [[Philosophical Foundations/Circling\|Circling]]  
-    An analysis of repetitive patterns, return, and stalled movement within experiential systems.
+- [[Philosophical Foundations/Pathology, Trauma, and Causal Mediation\|Pathology, Trauma, and Causal Mediation]]  
+    A reframing of mental health and diagnosis using the Causal Mediation Principle, distinguishing structural survival responses from personal disorder.
     
-- [[Philosophical Foundations/The Correction Sequence\|The Correction Sequence]]  
-    A philosophical exploration of re-alignment through consequence rather than prescription.
+- [[Philosophical Foundations/Child Development\|Child Development]]
+    An exploration of how early relational environments shape chain architecture, capacity, and survival logic without moralizing caregivers or children.
     
+- [[Philosophical Foundations/Sociology and Integration\|Sociology and Integration]]
+    A look at how collective systems distribute consequence, normalize distortion, and externalize responsibility through structure rather than intent.
+    
+- [[Philosophical Foundations/Politics and Integration\|Politics and Integration]]
+    An analysis of governance, law, and power as large-scale causal mediation systems — and why control-based models inevitably reproduce instability.
+    
+- [[Philosophical Foundations/Religion and Integration\|Religion and Integration]]
+    A contextual reading of religious systems as early coherence technologies that preserved order, meaning, and belonging before causal understanding was available.
+    
+- [[Philosophical Foundations/Spirituality and Integration\|Spirituality and Integration]] 
+    A reflection on spirituality as an experiential language for coherence — and why Integration retains the experience while releasing transcendence, bypass, and moral immunity.
 
 ---
 

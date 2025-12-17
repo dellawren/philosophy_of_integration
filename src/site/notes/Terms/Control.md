@@ -2,25 +2,24 @@
 {"dg-publish":true,"dg-title":"Control","permalink":"/terms/control/","dgPassFrontmatter":true}
 ---
 
-**Control** — the attempt to override or manage another person’s causal loop.  
-In Integration, control is not authority, guidance, or protection. It is interference: a foreign cause introduced into a sequence that does not belong to the one imposing it.
+**Control** — the introduction of an external cause into another person’s causal sequence.
 
-Control arises from distrust — the belief that natural consequence is insufficient and must be supplemented, corrected, or accelerated. But every act of control disrupts the causal loop it attempts to “fix,” generating new fragmentation and additional consequences.
+Within the Integration framework, control is not authority, guidance, care, or coordination. It is **interference**: an action taken to redirect, suppress, accelerate, or manage a causal loop that does not belong to the one acting.
 
-Control is structurally identical to a medication with side effects.  
-It suppresses the expression of the original cause, creates new problems, and then demands further control to manage the complications it created. The system becomes more chaotic precisely because the original cause was never allowed to resolve.
+Control arises when natural consequence is judged insufficient and is replaced with imposed outcome. Rather than allowing a chain to complete, control inserts an additional cause, altering the sequence and producing secondary effects that did not originate in the original loop.
 
-Control therefore does not create order — it destabilizes it. What appears as “necessary intervention” is simply interference looping back on itself.
+Because control interrupts rather than resolves cause and effect, it generates new conditions that require further management. The original cause remains active, while the imposed intervention creates additional consequences that must also be regulated. This produces escalation rather than stability.
 
-> **Control is the chaos everyone was trying to prevent.**
+Control does not eliminate uncertainty. It redistributes it.
 
-See [[References/Philosophy of Integration\|Philosophy of Integration]], [[Relational Notes/Control and Coherence\|Control and Coherence]]
-See also [[Terms/Systemic Obligation\|Systemic Obligation]] - how control becomes culture.
-See also [[Terms/Morality\|Terms/Morality]] - how control disguises itself as virtue.
-See also [[Terms/Ethics\|Ethics]] - the emergence of self-regulating coherence
-See also [[Terms/Cause and Effect\|Cause and Effect]] - natural order beyond manipulation
-See also [[Terms/Integration\|Integration]] - the dissolution of control through awareness.
-See also [[Philosophical Constructs/The Non-Interference Principle\|The Non-Interference Principle]], [[Philosophical Foundations/The Acceptance of Fragmentation\|The Acceptance of Fragmentation]], [[Terms/Cause and Effect\|Cause and Effect]]
+In Integration, control is therefore understood as a **structural destabilizer**, not a corrective mechanism. Order emerges from completed causality; control substitutes completion with management.
 
+> Control is interference mistaken for resolution.
 
-
+**See also:**  
+[[References/Philosophy of Integration\|Philosophy of Integration]]  
+[[Terms/Cause and Effect\|Cause and Effect]]  
+[[Terms/Systemic Obligation\|Systemic Obligation]]  
+[[Terms/Morality\|Terms/Morality]]  
+[[Terms/Ethics\|Terms/Ethics]]  
+[[Terms/Integration\|Integration]]

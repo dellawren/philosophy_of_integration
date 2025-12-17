@@ -2,19 +2,26 @@
 {"dg-publish":true,"dg-title":"Ethics","permalink":"/terms/ethics/","dgPassFrontmatter":true}
 ---
 
-**Ethics** is the natural expression of inner coherence — the alignment between awareness, truth, and action.  
-It is not a code or rulebook, but the living rhythm of cause and effect perceived through awareness.
+**Ethics** — the expression of internal coherence in action.
 
-In Stillhouse philosophy, ethics is the _instrument of coherence_ that restores natural balance when it has been lost.  
+Within the Philosophy of Integration, ethics refers to the alignment between awareness, truth, and behaviour as it naturally manifests through cause and effect. Ethics is not a rule system, moral framework, or set of prescribed values. It is the _functional outcome_ of coherence.
 
-It arises organically from integration, not instruction. Moral systems attempt to legislate this alignment from the outside; ethics simply reveal it from within.
+Ethics arises when awareness accurately perceives consequence and action follows without distortion. It does not require enforcement, justification, or instruction. When coherence is present, ethical action occurs automatically because the system is no longer divided against itself.
 
-Where [[Terms/Morality\|morality]] seeks obedience, ethics seek understanding.  
-Where morality enforces control, ethics restores coherence.
+Ethics is situational and self-regulating.  
+It adapts to context without contradiction because it is grounded in awareness rather than obedience.
 
-Ethics are therefore situational, fluid, and self-regulating — a mirror of one’s internal integrity rather than conformity to external law.
+Ethics differs from morality in structure, not intention.  
+Morality attempts to impose behaviour externally.  
+Ethics reflects internal alignment.
 
-> Ethics are not learned through punishment, but remembered through awareness.
+Ethics does not prevent harm through control.  
+It minimizes harm through clarity.
 
-See [[References/Philosophy of Integration\|Philosophy of Integration]]
-See also [[Terms/Morality\|morality]] as the social distortion of internal coherence.
+---
+
+**Linked Terms:**  
+[[Terms/Coherence\|Coherence]] • [[Terms/Cause and Effect\|Cause and Effect]] • [[Terms/Responsibility\|Responsibility]] • [[Terms/Awareness\|Awareness]]
+
+**See also:**  
+[[References/Philosophy of Integration\|Philosophy of Integration]] • [[Terms/Morality\|Morality]]

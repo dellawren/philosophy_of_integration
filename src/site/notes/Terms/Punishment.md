@@ -2,18 +2,13 @@
 {"dg-publish":true,"dg-title":"Punishment","permalink":"/terms/punishment/","dgPassFrontmatter":true}
 ---
 
+**Punishment** — the imposition of suffering as a means of enforcing moral order or restoring perceived balance.
 
-**Punishment** is the externalization of guilt — society’s attempt to restore imagined order through control.  
-It is rooted in the belief that suffering can balance a moral equation, that pain can correct truth.
+Punishment operates on the assumption that pain can correct behaviour or compensate for harm. It externalizes guilt by transferring responsibility for resolution to an authority, system, or rule set rather than allowing cause and effect to complete naturally.
 
-Punishment assumes separation: wrongdoer and victim, good and evil, power and submission.  
-It denies integration by making pain a requirement for redemption, ensuring that control — not awareness — remains the governing force.
+Within the Philosophy of Integration, punishment is understood as a substitute for consequence. It interrupts causal continuity by inserting control where awareness would otherwise produce correction. Rather than resolving a chain, punishment displaces it, creating secondary effects such as shame, resentment, compliance, or rebellion.
 
-> Punishment is how systems mimic consequence without understanding cause and effect.
+Punishment is therefore not corrective but regulatory. It maintains order through enforcement rather than coherence.
 
-In The Stillhouse view, consequence is natural, not moral. Cause and effect operate without judgment; they are self-correcting through awareness.  
-Punishment intervenes in that process, replacing evolution with enforcement.
-
-See [[References/Philosophy of Integration\|Philosophy of Integration]]
-See [[Terms/Cause and Effect\|Cause and Effect]]  
-See also [[Terms/Guilt\|Guilt]], [[Terms/Forgiveness\|Forgiveness]], [[Terms/Shame\|Shame]], and [[Terms/Control\|Terms/Control]] for how integration replaces retribution with understanding.
+**See also:**  
+[[Terms/Cause and Effect\|Cause and Effect]] • [[Terms/Guilt\|Guilt]] • [[Terms/Shame\|Shame]] • [[Terms/Control\|Terms/Control]] • [[References/Philosophy of Integration\|Philosophy of Integration]]

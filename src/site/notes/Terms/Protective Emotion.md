@@ -13,7 +13,7 @@ In Integration, protective emotion is not suppressed or corrected. It is recogni
 > “Protective emotion shields the place awareness couldn’t reach.”
 
 **Linked Terms:**  
-[[Terms/Trauma\|Trauma]] • [[Terms/Survival Logic\|Survival Logic]] • [[Terms/Fragmentation\|Fragmentation]] • [[Terms/Distorted Time\|Distorted Time]] • [[Terms/Looping Memory\|Looping Memory]] • [[Terms/Reactive Interpretation\|Reactive Interpretation]]
+[[Terms/Trauma\|Terms/Trauma]] • [[Terms/Survival Logic\|Survival Logic]] • [[Fragmentation\|Fragmentation]] • [[Terms/Distorted Time\|Distorted Time]] • [[Terms/Looping Memory\|Looping Memory]] • [[Terms/Reactive Interpretation\|Reactive Interpretation]]
 
 **See also:**  
-[[Terms/Boundaries\|Boundaries]] • [[Terms/Cruelty\|Cruelty]] • [[Terms/Trauma Identity\|Trauma Identity]] • [[The Architecture of Chains/Memory as Architecture\|Memory as Architecture]]• [[The Architecture of Chains/Closing the Chain\|Closing the Chain]]
+[[Terms/Boundaries\|Boundaries]] • [[Terms/Cruelty\|Cruelty]] • [[Terms/Trauma Identity\|Trauma Identity]] • [[The Architecture of Integration/Memory as Architectural Persistence\|Memory as Architectural Persistence]]• [[The Architecture of Integration/Closing the Chain\|Closing the Chain]]

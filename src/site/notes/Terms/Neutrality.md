@@ -10,6 +10,6 @@ Within Integration, neutrality is the stabilizing ground that replaces reactivit
 
 > Neutrality is where awareness becomes strong enough to stop performing.
 
-**Linked Terms:** [[Terms/Awareness\|Awareness]], [[Terms/Story Logic\|Story Logic]], [[Terms/Responsibility\|Responsibility]], [[Terms/Boundaries\|Boundaries]], [[Terms/Coherence\|Coherence]], [[Terms/Distortion\|Distortion]]  
+**Linked Terms:** [[Terms/Awareness\|Awareness]], [[Terms/Story Logic\|Story Logic]], [[Terms/Responsibility\|Terms/Responsibility]], [[Terms/Boundaries\|Boundaries]], [[Terms/Coherence\|Coherence]], [[Terms/Distortion\|Distortion]]  
 **See also:** [[Terms/Sovereignty\|Sovereignty]], [[Terms/Cause and Effect\|Cause and Effect]], [[Terms/Integration\|Integration]]
 [[References/Philosophy of Integration\|Philosophy of Integration]]

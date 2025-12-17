@@ -14,4 +14,4 @@ Within the Integration framework, Chain Coupling explains why trauma rarely appe
 [[Terms/Chain Architecture\|Chain Architecture]]  
 [[Terms/Primary Chains\|Primary Chains]]  
 [[Terms/Secondary Chains\|Secondary Chains]]  
-[[The Architecture of Chains/Trauma Inside the Chain\|Trauma Inside the Chain]]
+[[Human Mechanics/Trauma Inside the Chain\|Trauma Inside the Chain]]

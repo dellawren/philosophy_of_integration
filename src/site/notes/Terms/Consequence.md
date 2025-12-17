@@ -18,4 +18,4 @@ Nothing escapes consequence because nothing stands outside relationship.
 Links
 
 [[References/Philosophy of Integration\|Philosophy of Integration]]
-[[Philosophical Constructs/Law of Cause and Effect\|Law of Cause and Effect]]
+

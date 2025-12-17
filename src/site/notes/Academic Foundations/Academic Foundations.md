@@ -33,7 +33,7 @@ This section exists to support clarity, critique, and responsible interpretation
 
 ## Included Documents
 
-- [[Academic Foundations/Ontology\|Ontology]]  
+- [[Academic Foundations/Ontology\|Academic Foundations/Ontology]]  
     Ontological assumptions concerning relational reality, causality, coherence, and distortion.
     
 - [[Academic Foundations/Epistemology\|Epistemology]]  

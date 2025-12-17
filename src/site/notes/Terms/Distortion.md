@@ -2,13 +2,15 @@
 {"dg-publish":true,"dg-title":"Distortion","permalink":"/terms/distortion/","dgPassFrontmatter":true}
 ---
 
-**Distortion** — the bend in the cause-and-effect chain where interpretation overrides truth and redirects awareness back into an inherited or protective pattern.
+**Distortion** — a structural deviation in a cause-and-effect chain where interpretation replaces direct contact with present conditions.
 
-Distortion isn’t error, flaw, or moral failure. It is the structural shift that occurs when the original chain is interrupted by fear, conditioning, identity formation, or survival logic. Instead of awareness following the moment, awareness follows the pattern that once kept the system safe. Distortion is always functional in origin — it preserved connection, stability, or survival — but over time, it becomes a loop that replaces truth with repetition.
+Distortion is not error, pathology, or moral failure. It is a **functional redirection** of awareness that occurs when a chain is mediated by fear, conditioning, identity formation, or survival logic. Instead of tracking current input, awareness follows an inherited or protective pattern that once preserved stability or continuity.
 
-In The Philosophy of Integration, distortion is not something to fix or heal. It is something to _see._ Once the architecture is visible, the distortion loses its authority. It doesn’t need resolution; it needs replacement. Coherence emerges not by correcting the bend, but by choosing a new chain that no longer requires it.
+A distorted chain remains operational. Cause and effect continue, but their outputs reflect prior conditions rather than present reality. Distortion originates as an adaptive response and persists as a repeating architecture when no longer required.
 
-> “Distortion is not the enemy — it is the shape your life took when you didn’t yet have a choice.”
+Within _The Philosophy of Integration_, distortion is not corrected or resolved. It is identified as a structural condition. Once visible, it loses causal authority and is replaced by a coherent sequence aligned with current conditions.
+
+Distortion ends through replacement, not repair.
 
 **See also:**  
-[[Terms/Distortion Loop\|Distortion Loop]], [[Terms/Invisible Distortion\|Invisible Distortion]], [[Terms/Identity Architecture\|Identity Architecture]], [[Terms/Survival Logic\|Survival Logic]], [[Terms/Chain Split\|Chain Split]], [[Terms/Replacement\|Replacement]], [[Terms/Coherence\|Coherence]]
+[[Terms/Distortion Loop\|Distortion Loop]] · [[Terms/Invisible Distortion\|Invisible Distortion]] · [[Identity Architecture\|Identity Architecture]] · [[Terms/Survival Logic\|Survival Logic]] · [[Terms/Chain Split\|Chain Split]] · [[Terms/Replacement\|Terms/Replacement]] · [[Terms/Coherence\|Coherence]]

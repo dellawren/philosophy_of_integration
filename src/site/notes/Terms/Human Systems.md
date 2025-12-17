@@ -13,4 +13,4 @@ When seen through the Stillhouse lens, human systems are neither villains nor gu
 > “Systems don’t shape humanity — humanity’s distortions shape the system.”
 
 **See also:**  
-[[Terms/Human Rules\|Human Rules]], [[Terms/Invisible Distortion\|Invisible Distortion]], [[Terms/Survival Logic\|Survival Logic]], [[Terms/Identity Architecture\|Identity Architecture]], [[Terms/Performance\|Performance]], [[Terms/Belonging\|Belonging]]
+[[Terms/Human Rules\|Human Rules]], [[Terms/Invisible Distortion\|Invisible Distortion]], [[Terms/Survival Logic\|Survival Logic]], [[Identity Architecture\|Identity Architecture]], [[Terms/Performance\|Performance]], [[Terms/Belonging\|Belonging]]

@@ -11,4 +11,4 @@ In Integration, interpretation is understood as a _structural byproduct._ It rev
 > “Interpretation isn’t wisdom — it’s the story your architecture tells about the moment.”
 
 **See also:**  
-[[Terms/Distortion\|Distortion]], [[Terms/Structural Awareness\|Structural Awareness]], [[Terms/Emotional Feedback\|Emotional Feedback]], [[Terms/Identity Architecture\|Identity Architecture]], [[Terms/Coherence\|Coherence]], [[Terms/Replacement\|Replacement]]
+[[Terms/Distortion\|Distortion]], [[Structural Awareness\|Structural Awareness]], [[Terms/Coherence\|Coherence]], [[Terms/Replacement\|Terms/Replacement]]

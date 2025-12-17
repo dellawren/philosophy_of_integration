@@ -10,5 +10,5 @@ Within Integration, story logic is treated as noise rather than information. It 
 
 > Story logic distracts; awareness clarifies.
 
-**Linked Terms:** Memory, [[Terms/Identity\|Identity]], [[Terms/Distortion\|Distortion]], [[Terms/Cruelty\|Cruelty]], [[Terms/Narrative Self\|Narrative Self]], [[Terms/Neutrality\|Terms/Neutrality]]  
-**See also:** [[The Architecture of Chains/The Parts of The Chain/Awareness\|Awareness]], [[Terms/Integration\|Integration]], [[Terms/Coherence\|Coherence]], [[References/Philosophy of Integration\|Philosophy of Integration]]
+**Linked Terms:** Memory, [[Terms/Identity\|Terms/Identity]], [[Terms/Distortion\|Distortion]], [[Terms/Cruelty\|Cruelty]], [[Terms/Narrative Self\|Narrative Self]], [[Terms/Neutrality\|Terms/Neutrality]]  
+**See also:** [[The Architecture of Integration/The Parts of The Chain/Awareness\|Awareness]], [[Terms/Integration\|Integration]], [[Terms/Coherence\|Coherence]], [[References/Philosophy of Integration\|Philosophy of Integration]]

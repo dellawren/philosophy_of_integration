@@ -10,4 +10,4 @@ A chain split is the birth of agency. Not moral agency — structural agency.
 
 > “Choice doesn’t happen before awareness. It happens because of it.”
 
-**See also:** [[Terms/Replacement\|Replacement]], [[Terms/Structural Awareness\|Structural Awareness]], [[Terms/Distortion Loop\|Distortion Loop]], [[References/Philosophy of Integration\|Philosophy of Integration]]
+**See also:** [[Terms/Replacement\|Terms/Replacement]], [[Structural Awareness\|Structural Awareness]], [[Terms/Distortion Loop\|Distortion Loop]], [[References/Philosophy of Integration\|Philosophy of Integration]]

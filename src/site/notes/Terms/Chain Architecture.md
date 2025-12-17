@@ -10,4 +10,4 @@ Within The Stillhouse, chain architecture is the foundation of Integration. Once
 
 > “The universe doesn’t speak in morality. It speaks in sequence.”
 
-**See also:** [[Terms/Structural Awareness\|Structural Awareness]], [[Terms/Coherence\|Coherence]], [[Terms/Replacement\|Replacement]], [[References/Philosophy of Integration\|Philosophy of Integration]]
+**See also:** [[Structural Awareness\|Structural Awareness]], [[Terms/Coherence\|Coherence]], [[Terms/Replacement\|Terms/Replacement]], [[References/Philosophy of Integration\|Philosophy of Integration]]

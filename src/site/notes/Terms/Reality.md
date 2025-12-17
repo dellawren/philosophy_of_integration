@@ -15,6 +15,6 @@ Interpretation from the outside is not insight — it is interference.
 > “Reality is the moment before the mind explains.”
 
 **References:**  
-[[Terms/Cause and Effect\|Cause and Effect]] • [[Terms/Coherence\|Coherence]] • [[Terms/Truth\|Truth]] • [[Terms/Distortion\|Distortion]] • [[Terms/Interpretation\|Interpretation]] • [[Philosophical Constructs/Internal and External Cause\|Internal and External Cause]]
+[[Terms/Cause and Effect\|Cause and Effect]] • [[Terms/Coherence\|Coherence]] • [[Terms/Truth\|Truth]] • [[Terms/Distortion\|Distortion]] • [[Terms/Interpretation\|Interpretation]] 
 
 [[References/Philosophy of Integration\|Philosophy of Integration]]

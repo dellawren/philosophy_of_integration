@@ -22,4 +22,4 @@ Control collapses the self outward; boundaries return the self inward.
 This transition marks the shift from fragmentation to sovereignty.
 
 ## See also
-[[Terms/Responsibility\|Responsibility]], [[Terms/Sovereignty\|Sovereignty]], [[Terms/Distorted Power\|Distorted Power]], [[Terms/Cruelty\|Cruelty]], [[Terms/Neutrality\|Terms/Neutrality]]
+[[Terms/Responsibility\|Terms/Responsibility]], [[Terms/Sovereignty\|Sovereignty]], [[Terms/Distorted Power\|Distorted Power]], [[Terms/Cruelty\|Cruelty]], [[Terms/Neutrality\|Terms/Neutrality]]

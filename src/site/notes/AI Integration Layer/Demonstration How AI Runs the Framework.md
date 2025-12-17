@@ -139,4 +139,4 @@ And coherence is always preferred because it gives the user back their awareness
 [[Use Cases/Why AI Strengthens Integration\|Why AI Strengthens Integration]]
 [[Use Cases/Use Cases for The Philosophy of Integration\|Use Cases for The Philosophy of Integration]]
 [[References/Philosophy of Integration\|Philosophy of Integration]]
-[[References/Vision for a Stable Society\|Vision for a Stable Society]]
+[[Articles/Vision for a Stable Society\|Vision for a Stable Society]]

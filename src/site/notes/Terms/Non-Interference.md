@@ -12,4 +12,4 @@ In Stillhouse philosophy, non-interference honours the self-resolving nature of 
 > **“To interfere is to fragment. To stay outside the loop is to trust reality.”**
 
 **References:**  
-[[Terms/Structural Trust\|Structural Trust]] • [[Terms/Sovereignty\|Sovereignty]] • [[Terms/Fragmentation\|Fragmentation]] • [[Terms/Cause and Effect\|Cause and Effect]] • [[Terms/Reality\|Reality]] • [[Terms/Responsibility\|Responsibility]]
+[[Terms/Structural Trust\|Structural Trust]] • [[Terms/Sovereignty\|Sovereignty]] • [[Fragmentation\|Fragmentation]] • [[Terms/Cause and Effect\|Cause and Effect]] • [[Terms/Reality\|Reality]] • [[Terms/Responsibility\|Terms/Responsibility]]

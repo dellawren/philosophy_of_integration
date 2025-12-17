@@ -2,12 +2,19 @@
 {"dg-publish":true,"dg-title":"Circular Time","permalink":"/terms/circular-time/","dgPassFrontmatter":true}
 ---
 
-**Circular Time** — the temporal experience of looping patterns produced by a distorted chain.
+**Circular Time** — the experiential repetition of time produced by a looping causal architecture.
 
-Circular time feels like returning to the same emotional landscapes over and over. It’s not mystical or symbolic — it’s architectural. The chain bends, the loop forms, and time reflects that shape.
+Circular time occurs when a causal chain cannot complete and instead re-enters itself. The resulting temporal experience feels repetitive, stalled, or recursive, marked by the return of similar emotional states, relational patterns, or situational outcomes. This is not symbolic, psychological, or mystical; it is a direct expression of the chain’s structure.
 
-In Integration, circular time dissolves the moment you stop feeding the distortion. When the chain straightens, time straightens with it.
+Within the Philosophy of Integration, time reflects architecture.  
+When a chain is coherent, temporal experience progresses linearly.  
+When a chain is distorted or unresolved, temporal experience curves inward and repeats.
 
-> “You call it a pattern. Time calls it a circle.”
+Circular time persists as long as participation in the distorted chain continues. It dissolves immediately when the loop is exited, not through resolution or healing, but through **non-participation**. When the chain straightens, temporal experience reorganizes accordingly.
 
-**See also:** [[Terms/Temporal Architecture\|Temporal Architecture]], [[Terms/Replacement\|Replacement]], [[References/Philosophy of Integration\|Philosophy of Integration]]
+Circular time therefore indicates **structural repetition**, not fate, pattern-making, or destiny.
+
+---
+
+**See also:**  
+[[Terms/Temporal Architecture\|Temporal Architecture]] · [[Terms/Replacement\|Replacement]] · [[Terms/Cause and Effect\|Cause and Effect]] · [[Terms/Chain Jumping\|Chain Jumping]] · [[References/Philosophy of Integration\|Philosophy of Integration]]

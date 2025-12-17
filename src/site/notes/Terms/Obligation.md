@@ -2,7 +2,6 @@
 {"dg-publish":true,"dg-title":"Obligation","permalink":"/terms/obligation/","dgPassFrontmatter":true}
 ---
 
-
 **Obligation** is the performance of responsibility without awareness.  
 It is what remains when truth is replaced by expectation — when choice becomes debt.
 
@@ -18,5 +17,5 @@ Freedom begins when the performance of obligation is seen for what it is — an 
 > Obligation is the ghost of belonging — proof that fear still writes the script.
 
 See [[References/Philosophy of Integration\|Philosophy of Integration]]
-See [[Terms/Responsibility\|Responsibility]]  
+See [[Terms/Responsibility\|Terms/Responsibility]]  
 See also [[Relational Notes/Freedom and Fear\|Freedom and Fear]], [[Relational Notes/Control and Coherence\|Control and Coherence]], and [[Terms/Systemic Release\|Terms/Systemic Release]] for how awareness transforms duty into clean response.

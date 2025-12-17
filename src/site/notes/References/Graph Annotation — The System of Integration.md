@@ -2,8 +2,9 @@
 {"dg-publish":true,"order":3,"dg-metatags":{"og:title":"Graph Annotation — The System of Integration References","description":"Visual-map and annotated graph outlining The System of Integration — a structural overview of concepts, connections and philosophical architecture behind the framework.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/references/graph-annotation-the-system-of-integration/","metatags":{"og:title":"Graph Annotation — The System of Integration References","description":"Visual-map and annotated graph outlining The System of Integration — a structural overview of concepts, connections and philosophical architecture behind the framework.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
+The diagram is an interpretive visualization of the framework at a particular stage of its development. It does not define causal mechanics or canonical structure.
 
-This map is a visual expression of coherence.
+It is a visual expression of coherence.
 Each node represents a principle within _The System of Integration_ — a living framework that traces how truth moves through awareness, ethics, and society.
 
 The central cluster reveals _The Philosophy of Integration_ as the organizing field.  

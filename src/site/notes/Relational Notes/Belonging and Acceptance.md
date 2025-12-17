@@ -37,9 +37,9 @@ The world doesn’t grant you belonging; it mirrors it back once you’ve accept
 
 ## See Also
 
-[[Terms/Wholeness\|Wholeness]]  
+[[Wholeness\|Wholeness]]  
 [[Terms/Coherence\|Coherence]]  
-Identity
+[[Human Interpretation Layer/Identity\|Identity]]
 [[Terms/Acceptance\|Acceptance]]  
 [[Terms/Balance\|Balance]]  
 [[Relational Notes/Freedom and Fear\|Freedom and Fear]]

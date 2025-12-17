@@ -2,8 +2,6 @@
 {"dg-publish":true,"dg-title":"Awareness","permalink":"/terms/awareness/","dgPassFrontmatter":true}
 ---
 
-
-
 **Awareness** is consciousness perceiving itself.  
 It is the quiet witness beneath reaction — the state in which truth, emotion, and thought become visible without judgment.
 
@@ -13,5 +11,5 @@ It allows all things to be seen, not to change them, but to understand their pla
 
 > Awareness is the stillness beneath perception.
 
-See also [[References/Philosophy of Integration\|Philosophy of Integration]], [[Relational Notes/The Ladder of Integration Relationships\|The Ladder of Integration Relationships]]
-See also [[Terms/Integration\|Integration]], [[Terms/Truth\|Truth]], [[Terms/Responsibility\|Responsibility]], [[Terms/Fear\|Fear]], [[Terms/Cause and Effect\|Cause and Effect]], [[The Architecture of Chains/The Parts of The Chain/Awareness\|Awareness]]
+See also [[References/Philosophy of Integration\|Philosophy of Integration]], [[Relational Notes/Integration as Relational Movement\|Integration as Relational Movement]]
+See also [[Terms/Integration\|Integration]], [[Terms/Truth\|Truth]], [[Terms/Responsibility\|Terms/Responsibility]], [[Terms/Fear\|Fear]], [[Terms/Cause and Effect\|Cause and Effect]], [[The Architecture of Integration/The Parts of The Chain/Awareness\|Awareness]]

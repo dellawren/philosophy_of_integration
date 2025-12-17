@@ -4,120 +4,132 @@
 
 ## **Overview**
 
-Trauma and coherence are often treated as opposites, but in this framework they belong to a single architecture. Trauma is the exact moment awareness becomes unavailable. Coherence is what emerges when awareness returns. Trauma is not outside the chain; it _is the chain_, reorganized around survival. Coherence is not the absence of trauma; it is the restoration of the architecture once protection is no longer required.
+Trauma and coherence are not opposites.  
+They are configurations of the same causal architecture under different capacity conditions.
 
-Trauma collapses coherence.  
-Coherence dissolves trauma.  
-Together, they reveal how the chain adapts, survives, and eventually realigns with truth.
+Trauma occurs when awareness is unavailable under load.  
+Coherence becomes possible when awareness can register sequence without survival override.
 
----
+Trauma reorganizes the chain around protection.  
+Coherence reorganizes the chain around continuity.
 
-## **The Arc of Trauma**
-
-Trauma enters when an experience overwhelms awareness faster than the chain can process.  
-The chain bends, and that bend becomes architecture:
-
-- distorted time
-    
-- protective emotion
-    
-- identity attachment
-    
-- looping memory
-    
-- biological contraction
-    
-- survival logic
-    
-- reactive interpretation
-    
-- relational distortion (cruelty, collapse, defensiveness)
-    
-- narrative distortion (story logic, trauma identity)
-    
-
-Trauma is not the event; it is the structure that formed to carry the event when awareness could not.  
-It becomes the orientation of the chain — shaping perception, behaviour, boundaries, and meaning.  
-Not because the danger persists, but because the architecture that protected the system remains active until awareness can reorganize it.
+Trauma is not outside the architecture.  
+It is the architecture operating under constraint.
 
 ---
 
-## **The Turn Toward Coherence**
+## **Trauma: Protective Architecture**
 
-Coherence emerges when awareness becomes available again.  
-It begins quietly:
+Trauma forms when experience exceeds the system’s capacity to process it in sequence.
 
-- noticing distortion without identifying with it
+Under these conditions, the chain reorganizes around survival:
+
+- time loses linearity
     
-- separating emotion from identity
+- emotion becomes protective
     
-- recognizing story logic as narrative, not reality
+- memory fragments
     
-- seeing cruelty and defensiveness as architectural signals
+- interpretation narrows
     
-- allowing the emotional backlog to move
+- identity attaches to threat
     
-- returning memory to neutrality
+- biological systems contract
     
-- letting the system step out of circular time
+- behavior compensates
     
-- closing or replacing the chain
+- relational patterns distort
+    
+
+Trauma is not the event.  
+It is the structure that formed to carry the event when awareness was unavailable.
+
+The resulting architecture persists not because danger remains, but because the conditions that required protection have not yet been superseded.
+
+---
+
+## **Coherence: Continuity Restored**
+
+Coherence becomes available when capacity exceeds load.
+
+In this configuration:
+
+- awareness registers sequence directly
+    
+- interpretation loses priority
+    
+- emotion remains signal rather than directive
+    
+- memory can be held without activation
+    
+- time regains linearity
+    
+- behavior aligns proportionally
     
 
 Coherence does not oppose trauma.  
-It grows beyond it.
+It renders trauma unnecessary.
 
-Where trauma contracted, coherence opens.  
-Where trauma protected, coherence stabilizes.  
-Where trauma narrated, coherence clarifies.
+Where trauma constrained sequence, coherence restores continuity.
 
-Boundaries return.  
-Control relaxes.  
-Neutrality reappears.
+---
+
+## **Structural Relationship**
+
+Trauma and coherence do not coexist at the same operational layer.
+
+- Trauma indicates insufficient capacity under pressure.
+    
+- Coherence indicates sufficient capacity to sustain awareness without protective override.
+    
+
+As coherence becomes available, the architectural functions trauma performed lose necessity.
+
+Protection releases.  
+Orientation shifts.  
+The chain resumes completion.
 
 ---
 
 ## **Integration Point**
 
-Integration arrives when trauma is no longer the architecture, but the information.
+Integration occurs when trauma no longer functions as orientation and becomes information.
 
 At this point:
 
 - the chain reorganizes
     
-- identity loosens its survival posture
+- identity releases survival posture
     
-- memory loses its charge
+- memory neutralizes
     
 - emotion completes
     
 - interpretation recalibrates
     
-- time moves again
-    
-- behaviour shifts without effort
+- behavior reorganizes without enforcement
     
 
-Trauma stops functioning as orientation.  
-Coherence restores the person to themselves — not by healing the wound, but by replacing the architecture that formed around it.
+Coherence does not heal trauma.  
+It replaces the architecture trauma required.
 
-> Trauma shows where coherence broke.  
-> Integration shows how it returns.
+> Trauma marks where continuity was interrupted.  
+> Coherence restores access to sequence.
 
 ---
 
-## **See also**
+## **See Also**
 
 [[Terms/Trauma\|Terms/Trauma]]  
 [[Terms/Trauma Identity\|Trauma Identity]]  
-[[The Architecture of Chains/Trauma Inside the Chain\|Trauma Inside the Chain]]  
-[[The Architecture of Chains/Memory as Architecture\|Memory as Architecture]]  
+[[Human Mechanics/Trauma Inside the Chain\|Trauma Inside the Chain]]  
+[[The Architecture of Integration/Memory as Architectural Persistence\|Memory as Architectural Persistence]]  
 [[Terms/Neutral Memory\|Neutral Memory]]  
 [[Terms/Story Logic\|Story Logic]]  
 [[Terms/Boundaries\|Boundaries]]  
 [[Terms/Cruelty\|Cruelty]]  
 [[Terms/Distorted Power\|Distorted Power]]  
-[[Terms/Distorted Chain\|Distorted Chain]]  
-[[Terms/Identity Architecture\|Identity Architecture]]  
-[[The Architecture of Chains/Closing the Chain\|Closing the Chain]]  
+[[Identity Architecture\|Identity Architecture]]  
+[[The Architecture of Integration/Closing the Chain\|Closing the Chain]]  
+[[Terms/Cause and Effect\|Cause and Effect]]  
 [[References/Philosophy of Integration\|Philosophy of Integration]]

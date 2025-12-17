@@ -31,4 +31,4 @@ Integration recognizes chaos as the reason control fails.
 > Interference does.**
 
 **References:**  
-[[Terms/Control\|Control]] • [[Terms/Fragmentation\|Fragmentation]] • [[Terms/Cause and Effect\|Cause and Effect]] • [[Terms/Non-Interference\|Non-Interference]]
+[[Terms/Control\|Terms/Control]] • [[Terms/Cause and Effect\|Cause and Effect]] • [[Terms/Non-Interference\|Non-Interference]]

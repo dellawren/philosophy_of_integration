@@ -13,7 +13,7 @@ In Integration, looping memory is not something to suppress or decode. It is the
 > “A memory loops only because it hasn’t landed yet.”
 
 **Linked Terms:**  
-[[Terms/Trauma\|Trauma]] • [[Terms/Distorted Time\|Distorted Time]] • [[The Architecture of Chains/Memory as Architecture\|Memory as Architecture]]• [[Terms/Fragmentation\|Fragmentation]] • [[Terms/Survival Logic\|Survival Logic]]
+[[Terms/Trauma\|Terms/Trauma]] • [[Terms/Distorted Time\|Distorted Time]] • [[The Architecture of Integration/Memory as Architectural Persistence\|Memory as Architectural Persistence]]• [[Fragmentation\|Fragmentation]] • [[Terms/Survival Logic\|Survival Logic]]
 
 **See also:**  
-[[Terms/Reactive Interpretation\|Reactive Interpretation]] • [[Terms/Trauma Identity\|Trauma Identity]] • [[Terms/Distortion Loop\|Distortion Loop]] • [[The Architecture of Chains/Closing the Chain\|Closing the Chain]]
+[[Terms/Reactive Interpretation\|Reactive Interpretation]] • [[Terms/Trauma Identity\|Trauma Identity]] • [[Terms/Distortion Loop\|Distortion Loop]] • [[The Architecture of Integration/Closing the Chain\|Closing the Chain]]

@@ -2,16 +2,15 @@
 {"dg-publish":true,"dg-title":"Responsibility","permalink":"/terms/responsibility/","dgPassFrontmatter":true}
 ---
 
+**Responsibility** — awareness of one’s position within a causal sequence and the capacity to respond without distortion.
 
+Responsibility is not obligation, guilt, duty, or moral burden. It does not require self-judgment or correction. Within the Philosophy of Integration, responsibility refers to the maintenance of awareness in the presence of cause and effect.
 
-**Responsibility** is the ability to respond with awareness rather than reaction.  
-It is not burden, guilt, or duty — it is participation in cause and effect with consciousness intact.
+To be responsible is to recognize one’s participation in a chain without collapsing into blame, defense, or justification. It is the point at which awareness remains available long enough for consequence to be seen clearly and responded to coherently.
 
-In Stillhouse philosophy, responsibility replaces blame.  
-It acknowledges impact without attaching shame.  
-To be responsible is to remain present in the pattern — to see one’s role within consequence and choose coherence over defense.
+Responsibility replaces blame by removing moral overlay. It does not ask who is at fault; it identifies where awareness is located. When responsibility is present, reaction gives way to response and the chain is allowed to complete without interference.
 
-> Responsibility is awareness in motion.
+Responsibility is therefore structural, not ethical in the moral sense. It is the condition that allows ethics to arise naturally from coherence rather than enforcement.
 
-See also [[References/Philosophy of Integration\|Philosophy of Integration]], [[Relational Notes/The Ladder of Integration Relationships\|The Ladder of Integration Relationships]]
-See also [[Terms/Ethics\|Ethics]], [[Terms/Cause and Effect\|Cause and Effect]], [[Terms/Awareness\|Terms/Awareness]], [[Terms/Blame\|Blame]], [[Terms/Integration\|Integration]]
+**See also:**  
+[[References/Philosophy of Integration\|Philosophy of Integration]] • [[Terms/Ethics\|Ethics]] • [[Terms/Cause and Effect\|Cause and Effect]] • [[Terms/Awareness\|Awareness]] • [[Terms/Blame\|Blame]] • [[Terms/Integration\|Integration]]

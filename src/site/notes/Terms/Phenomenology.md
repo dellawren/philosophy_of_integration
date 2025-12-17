@@ -2,13 +2,16 @@
 {"dg-publish":true,"dg-title":"Phenomenology","permalink":"/terms/phenomenology/","dgPassFrontmatter":true}
 ---
 
-**Phenomenology** — the study of lived experience as the primary source of understanding.  
-It claims that truth is encountered through direct experience, not through beliefs, theories, or inherited concepts about reality.
+**Phenomenology** — the philosophical study of experience as it is lived, prior to interpretation, explanation, or theory.
 
-Phenomenology shifts philosophy out of abstraction and back into life. It values how reality is _felt, perceived, and lived_ rather than how it is explained. It reminds us that the meaning of anything begins where we experience it, not where we rationalize it.
+Phenomenology treats **direct experience** as the primary data of understanding. Rather than beginning with abstract models, beliefs, or external explanations, it examines how reality appears to consciousness in real time: perception, sensation, presence, and immediacy.
 
-[[Terms/Integration\|Integration]] builds on this by adding awareness to experience — seeing not only _what happened_, but how it is being held, interpreted, or distorted. Experience is the doorway; integration is the movement through it.
+Within this approach, meaning is not imposed from outside experience. It arises from the structure of experience itself. What matters is not what something is supposed to mean, but **how it is encountered**.
 
-> Experience shows us life; awareness lets us live it.
+In the Stillhouse framework, phenomenology establishes the **ground condition** for Integration. Experience is the point of contact; awareness is what reveals how that experience is being structured, filtered, or distorted. Integration does not replace phenomenology. It extends it by accounting for architecture, capacity, and causal sequence.
 
-See also: _[[Philosophical Foundations/Phenomenology - Why Experience Matters More Than Belief\|Phenomenology - Why Experience Matters More Than Belief]]_
+Phenomenology answers _what is happening as it is lived_.  
+Integration answers _how that happening is being held_.
+
+**See also:**  
+[[Terms/Integration\|Integration]] • [[Terms/Awareness\|Terms/Awareness]] • [[Terms/Experience\|Experience]] • [[Terms/Architecture\|Architecture]] • [[References/Philosophy of Integration\|Philosophy of Integration]]

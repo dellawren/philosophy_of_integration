@@ -2,15 +2,20 @@
 {"dg-publish":true,"dg-title":"Survival Logic","permalink":"/terms/survival-logic/","dgPassFrontmatter":true}
 ---
 
-**Survival Logic** — the reasoning produced inside a distorted chain that feels moral, necessary, or selfless, but is actually protective architecture.
+**Survival Logic** — the internally consistent reasoning produced by a chain operating under threat conditions.
 
-Survival logic forms at the exact moment trauma bends the chain. It is not thought — it is architecture thinking for you. It narrows perception, restricts choice, and presents itself as wisdom, loyalty, restraint, generosity, responsibility, or sacrifice. It sounds reasonable because its purpose is to keep the system alive, not coherent.
+Survival logic is not belief, cognition, or character. It is **architectural reasoning** generated when awareness becomes unavailable and the chain reorganizes around protection. Its function is continuity, not truth.
 
-Survival logic explains why you “must” stay small, compliant, silent, pleasing, hypervigilant, controlling, or over-responsible. It justifies boundaries collapsing or hardening. It fuels story logic, shapes trauma identity, and can even generate cruelty when overwhelm spills outward. Survival logic is not identity — it is the chain protecting itself from what once exceeded its capacity.
+Within survival logic, perception narrows, options reduce, and behaviour appears constrained or compulsory. The logic presents itself as necessity, morality, loyalty, duty, restraint, sacrifice, or responsibility because those frames stabilize the system under threat. The reasoning feels accurate because it is internally coherent within the distorted architecture that produced it.
 
-In Integration, survival logic is seen as architecture masquerading as truth. Once awareness becomes available and the distortion dissolves, the logic dissolves with it. What felt like inevitability becomes optional. What felt like character becomes context. What felt like self becomes information.
+Survival logic persists as long as the conditions that required it remain structurally active. When awareness returns and the chain reorients to present conditions, survival logic dissolves without argument or correction. What appeared inevitable becomes optional because the architecture that required it is no longer governing the sequence.
 
-> “The chain can sound like wisdom when it’s really fear.”
+Survival logic is therefore **contextual, temporary, and functional**. It describes how a system reasons while protecting capacity, not how it reasons when coherence is available.
 
-**Linked Terms:** [[Terms/Trauma\|Trauma]], [[Terms/Trauma Identity\|Trauma Identity]], [[Terms/Story Logic\|Story Logic]], [[Terms/Cruelty\|Cruelty]], [[Terms/Boundaries\|Boundaries]], [[Terms/Distorted Power\|Distorted Power]], [[Terms/Neutrality\|Neutrality]]  
-**See also:** [[Terms/Fragmentation\|Fragmentation]], [[Terms/Distortion Loop\|Distortion Loop]], [[Terms/Interpretation\|Interpretation]], [[The Architecture of Chains/Closing the Chain\|Closing the Chain]], [[The Architecture of Chains/Memory as Architecture\|Memory as Architecture]], [[References/Philosophy of Integration\|Philosophy of Integration]]
+> Survival logic is coherence within threat conditions, not truth within reality.
+
+**Linked Terms:**  
+[[Terms/Trauma\|Trauma]] • [[Terms/Distorted Chain\|Distorted Chain]] • [[Terms/Story Logic\|Story Logic]] • [[Terms/Distorted Power\|Distorted Power]] • [[Terms/Neutrality\|Neutrality]]
+
+**See also:**  
+[[Terms/Distortion Loop\|Distortion Loop]] • [[Terms/Interpretation\|Interpretation]] • [[The Architecture of Integration/Closing the Chain\|Closing the Chain]] • [[The Architecture of Integration/Memory as Architectural Persistence\|Memory as Architectural Persistence]] • [[References/Philosophy of Integration\|Philosophy of Integration]]

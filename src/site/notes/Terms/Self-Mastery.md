@@ -12,6 +12,4 @@ In Integration, self-mastery is not control — it is participation with oneself
 
 > True self-mastery is not the tightening of the reins, but the softening into truth.
 
-See [[Philosophical Constructs/Self-Mastery as a Philosophical Construct\|Self-Mastery as a Philosophical Construct]]
 See [[Terms/Integration\|Integration]]  
-See also [[Philosophical Constructs/Coping vs Healing\|Coping vs Healing]]

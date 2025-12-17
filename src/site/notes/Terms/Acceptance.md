@@ -17,4 +17,4 @@ It restores internal power, making choice possible again — not by control, but
 
 See [[References/Philosophy of Integration\|Philosophy of Integration]]
 See [[Terms/Integration\|Integration]]  
-See also [[Terms/Shame\|Shame]], [[Terms/Guilt\|Guilt]], [[Terms/Forgiveness\|Forgiveness]], and [[Terms/Responsibility\|Responsibility]] for how awareness transforms reaction into alignment.
+See also [[Terms/Shame\|Shame]], [[Terms/Guilt\|Guilt]], and [[Terms/Responsibility\|Terms/Responsibility]] for how awareness transforms reaction into alignment.

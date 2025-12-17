@@ -10,4 +10,4 @@ In The Philosophy of Integration, human rules are not considered guidance; they 
 
 > “When awareness is absent, rules become the substitute — and the substitute becomes the cage.”
 
-**See also:** [[Terms/Invisible Distortion\|Invisible Distortion]], [[Terms/Survival Logic\|Survival Logic]], [[Terms/Identity Architecture\|Identity Architecture]], [[Terms/Coherence\|Coherence]], [[Terms/Human Systems\|Human Systems]], [[Terms/Belonging\|Belonging]]
+**See also:** [[Terms/Invisible Distortion\|Invisible Distortion]], [[Terms/Survival Logic\|Survival Logic]], [[Identity Architecture\|Identity Architecture]], [[Terms/Coherence\|Coherence]], [[Terms/Human Systems\|Human Systems]], [[Terms/Belonging\|Belonging]]

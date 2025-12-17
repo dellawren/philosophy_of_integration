@@ -10,6 +10,6 @@ In the conventional world, stability is a social marker. In The Stillhouse, it i
 
 > “Stability is not the world holding still. It’s you no longer needing it to.”
 
-**See also:** Natural Consequence, [[Terms/Control\|Terms/Control]], [[Terms/Fear\|Fear]], [[Terms/Responsibility\|Responsibility]]
+**See also:** Natural Consequence, [[Terms/Control\|Terms/Control]], [[Terms/Fear\|Fear]], [[Terms/Responsibility\|Terms/Responsibility]]
 
 [[References/Philosophy of Integration\|Philosophy of Integration]]

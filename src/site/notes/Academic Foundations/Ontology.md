@@ -150,5 +150,4 @@ But revisions will not contradict these core assumptions without explicit redefi
 
 - [[Academic Foundations/Epistemology\|Epistemology]]
     
-- [[Philosophical Constructs/Relational Loop Theory\|Relational Loop Theory]]
     

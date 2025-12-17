@@ -13,4 +13,4 @@ Performance dissolves automatically when the chain is replaced. There is no need
 > “Performance isn’t who you are — it’s who the distortion needed you to be.”
 
 **See also:**  
-[[Terms/Identity Architecture\|Identity Architecture]], [[Terms/Invisible Distortion\|Invisible Distortion]], [[Terms/Survival Logic\|Survival Logic]], [[Terms/Belonging\|Belonging]], [[Terms/Human Rules\|Human Rules]], [[Terms/Human Systems\|Human Systems]], [[Terms/Coherence\|Coherence]]
+[[Identity Architecture\|Identity Architecture]], [[Terms/Invisible Distortion\|Invisible Distortion]], [[Terms/Survival Logic\|Survival Logic]], [[Terms/Belonging\|Belonging]], [[Terms/Human Rules\|Human Rules]], [[Terms/Human Systems\|Human Systems]], [[Terms/Coherence\|Coherence]]

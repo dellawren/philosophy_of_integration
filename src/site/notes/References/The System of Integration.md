@@ -3,9 +3,11 @@
 ---
 
 
-### **Updated Overview**
+### **Overview**
 
-The **System of Integration** is the full architecture of Stillhouse philosophy — a unified model of human, ethical, and societal coherence.  
+This document describes the historical organization and conceptual evolution of my body of work. It does not define causal mechanics or canonical structure within the current framework.
+
+The **System of Integration** is the full architecture of integrative philosophy — a unified model of human, ethical, and societal coherence.  
 It now unfolds through three volumes of understanding, each carrying the essence of the four original frameworks.
 
 ---
@@ -31,7 +33,7 @@ They answer: **“Why does fragmentation exist, and what restores coherence?”*
 
 ### **Volume II – The Practice of Integration (The How)**
 
-See [[References/The Practice of Integration (How)\|The Practice of Integration (How)]], [[Relational Notes/The Ladder of Integration Relationships\|The Ladder of Integration Relationships]]
+See  [[Relational Notes/Integration as Relational Movement\|Integration as Relational Movement]]
 
 This volume embodies **The [[Terms/Ladder\|Ladder]] of Integration Relationships**, the lived curriculum of awareness.  
 It traces how consciousness matures through safety, truth, and choice until freedom becomes embodied.  
@@ -73,7 +75,7 @@ It answers: **“How is reality perceived through integration?”**
 
 - **[[References/Philosophy of Integration\|Philosophy]]** — the ontology (what reality is)
     
-- **[[Relational Notes/The Ladder of Integration Relationships\|Ladder]]** — the process (how awareness matures)
+- **[[Relational Notes/Integration as Relational Movement\|Ladder]]** — the process (how awareness matures)
     
 - **[[Terms/Architecture\|Architecture]]** — the epistemology (how perception functions)
     

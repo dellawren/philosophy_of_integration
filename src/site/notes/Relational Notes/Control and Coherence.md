@@ -2,8 +2,7 @@
 {"dg-publish":true,"order":4,"dg-metatags":{"og:title":"Control and Coherence: From Fragmentation to Alignment","description":"Exploring how control can distort or destroy — and how coherence emerges when internal structure aligns with truth rather than fear.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/relational-notes/control-and-coherence/","metatags":{"og:title":"Control and Coherence: From Fragmentation to Alignment","description":"Exploring how control can distort or destroy — and how coherence emerges when internal structure aligns with truth rather than fear.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
-
-### **Overview**
+## **Overview**
 
 Where morality seeks control, ethics seek coherence.  
 Where obligation enforces sameness, release restores truth.  
@@ -15,7 +14,7 @@ The four concepts form a continuum of awareness:
     
 - **[[Terms/Systemic Obligation\|Systemic Obligation]]**: internalized control masquerading as belonging.
     
-- **[[Terms/Ethics\|Ethics]]**: awareness of truth expressed as self-regulating coherence.
+- **[[Terms/Ethics\|Terms/Ethics]]**: awareness of truth expressed as self-regulating coherence.
     
 - **[[Terms/Systemic Release\|Terms/Systemic Release]]**: the act of reclaiming sovereignty through non-compliance with fragmentation.
     

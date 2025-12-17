@@ -2,13 +2,28 @@
 {"dg-publish":true,"dg-title":"Existentialism & Integration","order":6,"dg-metatags":{"og:title":"Existentialism & Integration — The Philosophy of Integration","description":"Explore how existential themes intersect with Integration: freedom, meaning, alienation and choice reframed through coherence, awareness, and conscious being.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/philosophical-foundations/existentialism-and-integration/","metatags":{"og:title":"Existentialism & Integration — The Philosophy of Integration","description":"Explore how existential themes intersect with Integration: freedom, meaning, alienation and choice reframed through coherence, awareness, and conscious being.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
 ---
 
-Existentialism centers on the idea that life has no inherent meaning, and that humans are responsible for creating purpose through choice. It brings freedom and burden in the same breath: if nothing is predetermined, then we are accountable for the lives we shape. Existentialism calls us to live authentically — to choose with awareness rather than follow inherited systems or roles.
+### **Existentialism**
 
-Where existentialism can become heavy is in its weight of responsibility. When meaning is self-created, many feel the pressure to _get life right_, to choose a purpose “worthy enough,” or to justify their existence through achievement or identity. Authenticity becomes another performance to measure.
+Existentialism centers on the claim that life has no inherent meaning and that humans are responsible for how they live within that absence. Meaning is not discovered but constructed through choice. Freedom and responsibility arise together: if nothing is predetermined, then each person participates in shaping their life through awareness and action.
 
-**Where Integration builds on this:**  
-[[Terms/Integration\|Integration]] agrees that meaning is not given — but it removes the burden. In Integration, meaning isn’t a requirement for existence. You don’t need a purpose to justify being here. Instead of demanding that we _create_ meaning, Integration invites us to live with awareness inside the experience we’re already in. Choice becomes less about defining ourselves and more about staying coherent with who we are.
+Rather than following inherited roles, existentialism emphasizes authenticity — living in accordance with one’s own perception rather than external scripts.
 
-> Meaning is optional — [[Terms/Coherence\|Coherence]] is enough.
+Where existentialism becomes heavy is in its emphasis on authorship. When meaning must be created, existence can feel like a task that needs justification. Choice becomes evaluative. Authenticity risks collapsing into performance. Responsibility turns into pressure.
 
-**See also:** _[[Philosophical Foundations/Absurdism & The Release of Meaning\|Absurdism & The Release of Meaning]]_
+---
+
+### **Integration’s Relation**
+
+[[Terms/Integration\|Integration]] aligns with existentialism’s refusal of pre-given meaning, but diverges at the point of burden.
+
+Meaning is not required.
+
+Integration does not ask the individual to _create_ purpose in order to legitimize existence. It removes the demand entirely. Awareness replaces authorship. Coherence replaces justification. Life does not need to mean something in order to be lived truthfully.
+
+Choice remains — but it is no longer tasked with defining the self.
+
+> Meaning is optional. [[Terms/Coherence\|Coherence]] is sufficient.
+
+---
+
+**See also:** [[Philosophical Foundations/Absurdism & The Release of Meaning\|Absurdism & The Release of Meaning]]

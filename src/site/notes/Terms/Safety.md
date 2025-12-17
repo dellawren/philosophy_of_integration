@@ -2,20 +2,16 @@
 {"dg-publish":true,"dg-title":"Safety","permalink":"/terms/safety/","dgPassFrontmatter":true}
 ---
 
+**Safety** — the nervous system’s recognition that awareness can remain present without immediate threat.
 
+Safety is not the absence of danger, risk, or uncertainty. It is the internal condition that allows perception to stay open without triggering survival override. Within the Philosophy of Integration, safety describes the threshold at which awareness becomes available rather than contracted.
 
-**Safety** is the perception of stability within experience.  
-It is not the absence of threat, but the nervous system’s recognition that awareness can stay open without harm.
+Safety operates at both biological and experiential levels. When safety is present, the system can process cause and effect without collapsing into control, reactivity, or narrative substitution. When safety is absent, awareness narrows and perception reorganizes around threat prediction.
 
-In Stillhouse philosophy, safety is both biological and existential.  
-It is the bridge between fear and awareness — the space where the body learns that truth does not endanger it.
+Safety is therefore a prerequisite for coherence, not a guarantee of comfort. It does not eliminate fear; it allows fear to be registered without governing interpretation or action. Control attempts to simulate safety through predictability and enforcement. Integration restores safety by stabilizing awareness within uncertainty.
 
-Control tries to manufacture safety through predictability; integration restores it through trust.  
-True safety arises when fear is understood, not removed.  
-It is what allows the self to stop defending and start perceiving.
+Safety marks the point where the system no longer needs to defend against experience in order to remain intact.
 
-> Safety is the body’s permission for awareness to remain.
-
-See also [[References/Philosophy of Integration\|Philosophy of Integration]], [[Relational Notes/The Ladder of Integration Relationships\|The Ladder of Integration Relationships]]
-See also [[Terms/Fear\|Fear]], [[Terms/Control\|Terms/Control]], [[Terms/Integration\|Integration]], [[Terms/Awareness\|Terms/Awareness]], [[Terms/Freedom\|Freedom]]
+**See also:**  
+[[References/Philosophy of Integration\|Philosophy of Integration]] • [[Terms/Fear\|Fear]] • [[Terms/Control\|Control]] • [[Terms/Awareness\|Awareness]] • [[Terms/Integration\|Integration]] • [[Terms/Freedom\|Freedom]]
 

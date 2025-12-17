@@ -15,5 +15,5 @@ In the Integration framework, Load Distribution clarifies why secondary patterns
 [[Terms/Chain Coupling\|Chain Coupling]]  
 [[Terms/Primary Chains\|Primary Chains]]  
 [[Terms/Secondary Chains\|Secondary Chains]]  
-[[Terms/Chain Resolution\|Chain Resolution]]
+[[Terms/Chain Resolution\|Terms/Chain Resolution]]
 [[References/Philosophy of Integration\|Philosophy of Integration]]

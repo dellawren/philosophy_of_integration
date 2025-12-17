@@ -13,7 +13,7 @@ In Integration, reactive interpretation is understood as architecture, not ident
 > “Interpretation protects when awareness cannot.”
 
 **Linked Terms:**  
-[[Terms/Survival Logic\|Survival Logic]] • [[Terms/Story Logic\|Story Logic]] • [[Terms/Fragmentation\|Fragmentation]] • [[Terms/Protective Emotion\|Protective Emotion]] • [[Terms/Distorted Time\|Distorted Time]] • [[Terms/Looping Memory\|Looping Memory]]
+[[Terms/Survival Logic\|Survival Logic]] • [[Terms/Story Logic\|Story Logic]] • [[Terms/Protective Emotion\|Protective Emotion]] • [[Terms/Distorted Time\|Distorted Time]] • [[Terms/Looping Memory\|Looping Memory]]
 
 **See also:**  
-[[Terms/Distortion Loop\|Distortion Loop]] • [[Terms/Trauma\|Trauma]] • [[Terms/Trauma Identity\|Trauma Identity]] • [[Terms/Neutrality\|Neutrality]]
+[[Terms/Distortion Loop\|Distortion Loop]] • [[Terms/Trauma\|Terms/Trauma]] • [[Terms/Trauma Identity\|Trauma Identity]] • [[Terms/Neutrality\|Neutrality]]

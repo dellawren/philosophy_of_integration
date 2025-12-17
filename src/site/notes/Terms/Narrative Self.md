@@ -11,5 +11,5 @@ Within Integration, the narrative self is recognized as an artefact of story log
 
 > The narrative self is what you become when the story speaks louder than you do.
 
-**Linked Terms:** [[Terms/Story Logic\|Story Logic]], [[Terms/Identity\|Identity]], [[Terms/Neutral Memory\|Neutral Memory]], [[Terms/Neutrality\|Neutrality]], [[Terms/Distortion\|Distortion]], [[Terms/Awareness\|Awareness]]  
+**Linked Terms:** [[Terms/Story Logic\|Story Logic]], [[Terms/Identity\|Terms/Identity]], [[Terms/Neutral Memory\|Neutral Memory]], [[Terms/Neutrality\|Neutrality]], [[Terms/Distortion\|Distortion]], [[Terms/Awareness\|Awareness]]  
 **See also:** Narrative Mind, [[Terms/Integration\|Integration]], [[Terms/Coherence\|Coherence]]

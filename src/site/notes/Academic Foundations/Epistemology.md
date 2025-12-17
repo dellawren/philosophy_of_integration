@@ -153,7 +153,7 @@ Understanding is always subject to refinement through consequence.
 
 **See Also**
 
-- [[Academic Foundations/Ontology\|Ontology]]
+- [[Academic Foundations/Ontology\|Academic Foundations/Ontology]]
     
 - [[Academic Foundations/Methodological Commitments\|Methodological Commitments]]
     

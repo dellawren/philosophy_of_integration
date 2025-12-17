@@ -32,7 +32,7 @@ Stability becomes a function of coherence, not control.
     
 - [[Terms/Fear\|Fear]]
     
-- [[Terms/Responsibility\|Responsibility]]
+- [[Terms/Responsibility\|Terms/Responsibility]]
     
 - [[Terms/Awareness\|Terms/Awareness]]
     

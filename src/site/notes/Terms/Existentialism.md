@@ -2,13 +2,18 @@
 {"dg-publish":true,"dg-title":"Existentialism","permalink":"/terms/existentialism/","dgPassFrontmatter":true}
 ---
 
-**Existentialism** — a philosophy that centers human freedom, choice, and responsibility in a world without inherent meaning.  
-It begins with the recognition that life does not come pre-assigned with purpose, and that each person must decide how to live — consciously and authentically — within that truth.
+**Existentialism** — a philosophical position that places human freedom, choice, and responsibility at the center of existence in the absence of inherent or pre-given meaning.
 
-Existentialism encourages self-awareness and personal agency, but it often becomes heavy when “creating meaning” turns into another form of pressure or self-judgment. People feel responsible not just for their choices, but for justifying their existence.
+Existentialism begins from the claim that life does not arrive with an assigned purpose. Meaning, value, and direction are understood as human constructions rather than objective features of reality. Within this view, individuals are responsible for how they act, choose, and relate to the conditions of their existence.
 
-Through the lens of Integration, existentialism is valuable for its recognition of choice — but meaning is optional. Integration removes the burden to _make life meaningful_ and replaces it with coherence.
+The tradition emphasizes agency and accountability, but often carries an implicit burden: the expectation that one must actively _create_ meaning in order for life to be justified or authentic. This can shift responsibility from action and consequence into narrative self-validation.
 
-> You don’t need meaning to exist — you only need awareness to live.
+From the perspective of Integration, existentialism correctly identifies choice as central, but overextends meaning as a requirement. Integration treats meaning as optional rather than necessary. Coherence does not depend on narrative purpose, but on accurate participation in cause and effect.
 
-See also: _[[Philosophical Foundations/Existentialism & Integration\|Existentialism & Integration]]_ — the inhale of creation and the exhale of consequence.”
+Existence does not require justification.  
+It only requires awareness.
+
+---
+
+**See also:**  
+[[Philosophical Foundations/Existentialism & Integration\|Existentialism & Integration]] • [[References/Philosophy of Integration\|Philosophy of Integration]] • [[Terms/Choice\|Choice]] • [[Terms/Cause and Effect\|Cause and Effect]]

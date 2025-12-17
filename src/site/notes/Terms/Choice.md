@@ -2,8 +2,6 @@
 {"dg-publish":true,"dg-title":"Choice","permalink":"/terms/choice/","dgPassFrontmatter":true}
 ---
 
-
-
 **Choice** is the conscious recognition of agency within limitation.  
 It is not unlimited freedom, but awareness of participation in cause and effect.
 
@@ -15,5 +13,5 @@ Every choice is an act of self-creation — a statement of who we are within the
 
 > Choice is awareness deciding how to move.
 
-See also [[References/Philosophy of Integration\|Philosophy of Integration]], [[Relational Notes/The Ladder of Integration Relationships\|The Ladder of Integration Relationships]]
-See also [[Terms/Freedom\|Freedom]], [[Terms/Responsibility\|Responsibility]], [[Terms/Cause and Effect\|Cause and Effect]], [[Terms/Awareness\|Terms/Awareness]], [[Terms/Integration\|Integration]], [[The Architecture of Chains/The Parts of The Chain/Choice\|Choice]]
+See also [[References/Philosophy of Integration\|Philosophy of Integration]], [[Relational Notes/Integration as Relational Movement\|Integration as Relational Movement]]
+See also [[Terms/Freedom\|Freedom]], [[Terms/Responsibility\|Terms/Responsibility]], [[Terms/Cause and Effect\|Cause and Effect]], [[Terms/Awareness\|Terms/Awareness]], [[Terms/Integration\|Integration]], [[The Architecture of Integration/The Parts of The Chain/Choice\|Choice]]

@@ -2,15 +2,18 @@
 {"dg-publish":true,"dg-title":"Guilt","permalink":"/terms/guilt/","dgPassFrontmatter":true}
 ---
 
+**Guilt** — the internalization of responsibility as moral debt.
 
-**Guilt** is the belief that one must make amends to re-enter belonging.  
-It is a transactional emotion — the mind’s attempt to pay for perceived harm, real or imagined.
+In the Stillhouse framework, guilt is not the recognition of impact or consequence. It is the belief that harm creates a deficit in worth that must be repaid to restore belonging. Guilt treats responsibility as a transaction rather than a relationship to cause and effect.
 
-Unlike shame, which says _I am wrong_, guilt says _I did wrong_ — but both are rooted in the same distortion: that worth can be lost.  
-Clean responsibility acknowledges cause and effect without self-condemnation. Guilt weaponizes that awareness and turns it inward.
+Where **shame** collapses identity (“I am wrong”), guilt localizes fault (“I did wrong”) but retains the same underlying distortion: that belonging is conditional and can be lost. As a result, guilt binds awareness to repair narratives, self-punishment, or appeasement rather than to clear participation in consequence.
 
-> Guilt keeps one bound to the story; responsibility releases one from it.
+Guilt differs from responsibility in that it adds moral valuation to effect. Responsibility observes cause and effect without self-condemnation. Guilt converts that observation into internal penalty.
 
-See [[References/Philosophy of Integration\|Philosophy of Integration]]
-See also [[Terms/Shame\|Shame]], [[Terms/Punishment\|Punishment]], [[Terms/Responsibility\|Responsibility]], and [[Terms/Forgiveness\|Forgiveness]] for how awareness transforms moral emotions into self-knowledge.
+> Guilt is responsibility filtered through moral debt.
 
+**Linked Terms:**  
+[[Terms/Shame\|Shame]] • [[Terms/Punishment\|Punishment]] • [[Terms/Responsibility\|Terms/Responsibility]] • [[Terms/Morality\|Morality]]
+
+**See also:**  
+[[References/Philosophy of Integration\|Philosophy of Integration]]

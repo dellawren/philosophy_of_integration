@@ -18,4 +18,4 @@ Integration treats trauma as an unfinished internal event — not a self. It foc
 This view removes shame, removes permanence, and removes the idea that trauma must be retold to be resolved. Trauma becomes a signal, not a definition. It becomes usable information rather than personal fate.
 
 ## Linked Concepts
-[[Terms/Fragmentation\|Fragmentation]], [[Terms/Story Logic\|Story Logic]], [[Terms/Neutrality\|Neutrality]], [[Terms/Boundaries\|Boundaries]], [[Terms/Cruelty\|Cruelty]], [[Terms/Coherence\|Coherence]], [[References/Philosophy of Integration\|Philosophy of Integration]]
+[[Fragmentation\|Fragmentation]], [[Terms/Story Logic\|Story Logic]], [[Terms/Neutrality\|Neutrality]], [[Terms/Boundaries\|Boundaries]], [[Terms/Cruelty\|Cruelty]], [[Terms/Coherence\|Coherence]], [[References/Philosophy of Integration\|Philosophy of Integration]]

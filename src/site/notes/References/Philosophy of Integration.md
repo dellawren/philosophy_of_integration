@@ -3,11 +3,6 @@
 ---
 
 
-
-_(A Framework for Wholeness in a Fragmented World)_
-
-#core
-
 ### **1. The Premise: Fragmentation as the Human Condition**
 
 - Humanity has been taught to divide itself — mind from body, logic from emotion, spirit from form, self from system.
@@ -71,7 +66,7 @@ the quiet recognition of connection between what was lived and what is real.
 ---
 ### **4. Ethics: Integration as Responsibility**
 
-- [[Terms/Ethical Living\|Ethical Living]] is not compliance with moral rules; it’s coherence with truth.
+- [[Ethical Living\|Ethical Living]] is not compliance with moral rules; it’s coherence with truth.
     
 - [[Terms/Morality\|Terms/Morality]], as society defines it, is often an instrument of control — a human attempt to legislate consequence instead of understanding cause and effect.
     
@@ -240,7 +235,7 @@ Those who remain attentive through error discover that even confusion participat
 
 ---
 
-### **9. The Stillhouse Declaration**
+### **9. The Declaration**
 
 _A human being is not a puzzle to be solved but a system to be understood._  
 We are not meant to master the mind, suppress emotion, or transcend the body.  

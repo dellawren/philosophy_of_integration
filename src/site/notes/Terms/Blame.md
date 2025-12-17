@@ -2,8 +2,6 @@
 {"dg-publish":true,"dg-title":"Blame","permalink":"/terms/blame/","dgPassFrontmatter":true}
 ---
 
-
-
 **Blame** is resistance to consequence.  
 It’s the mind’s attempt to outsource responsibility, to find a story that explains pain without requiring awareness.
 
@@ -16,4 +14,4 @@ It is replaced by responsibility — not in the punitive sense, but as ownership
 > Blame ends where awareness begins.
 
 See also [[References/Philosophy of Integration\|Philosophy of Integration]]
-See also [[Terms/Cause and Effect\|Cause and Effect]], [[Terms/Morality\|Terms/Morality]], [[Terms/Control\|Terms/Control]], [[Terms/Ethics\|Ethics]], [[Terms/Responsibility\|Responsibility]]
+See also [[Terms/Cause and Effect\|Cause and Effect]], [[Terms/Morality\|Terms/Morality]], [[Terms/Control\|Terms/Control]], [[Terms/Ethics\|Terms/Ethics]], [[Terms/Responsibility\|Terms/Responsibility]]

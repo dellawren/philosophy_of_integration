@@ -2,15 +2,16 @@
 {"dg-publish":true,"dg-title":"Architecture","permalink":"/terms/architecture/","dgPassFrontmatter":true}
 ---
 
+**Architecture** — the structural conditions through which perception organizes experience.
 
-**Architecture** — the structural intelligence through which perception forms reality.
+Within the Stillhouse system, Architecture refers to how awareness relates to reality before interpretation, story, or control intervene. It describes the configuration of perception itself — what becomes visible, what is filtered, and what coherence or distortion is possible.
 
-Within The Stillhouse system, the Architecture describes how awareness and truth interrelate — the scaffolding of perception itself. It’s not just how we _see_ but how we _make meaning_. When the Architecture is coherent, awareness perceives truth directly. When fragmented, perception collapses into distortion and projection.
+Architecture is not personal and not psychological. It is patterned.  
+When coherent, perception aligns directly with cause and effect.  
+When distorted, perception collapses into projection, narrative, or defense.
 
-Unlike the Machinery, which reacts, the Architecture reveals. It’s the transparent framework of Integration — showing that perception isn’t personal; it’s patterned.
+Architecture does not act. It reveals.
 
-> “The world doesn’t change when you see it differently — it changes because seeing is creation itself.”
-
-See [[References/Philosophy of Integration\|Philosophy of Integration]]
-See also [[References/The Practice of Integration (How)\|The Practice of Integration (How)]], [[References/Commentary on Cause and Effect (The Seeing)\|Commentary on Cause and Effect (The Seeing)]]
+**See:** [[References/Philosophy of Integration\|Philosophy of Integration]]  
+**See also:** [[References/Commentary on Cause and Effect (The Seeing)\|Commentary on Cause and Effect (The Seeing)]]
 
