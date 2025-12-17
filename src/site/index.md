@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: home
 permalink: /
+layout: index
 ---
 
