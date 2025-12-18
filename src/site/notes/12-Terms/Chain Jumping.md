@@ -15,4 +15,4 @@ Chain jumping is therefore the experiential result of moving from **circular tim
 ---
 
 **See also:**  
-[[12-Terms/Temporal Architecture\|Temporal Architecture]] · [[12-Terms/Circular Time\|Circular Time]] · [[12-Terms/Replacement\|Replacement]] · [[12-Terms/Cause and Effect\|Cause and Effect]] · [[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[12-Terms/Temporal Architecture\|Temporal Architecture]] · [[12-Terms/Circular Time\|Circular Time]] · [[12-Terms/Replacement\|Replacement]] · [[12-Terms/Cause and Effect\|Cause and Effect]] · [[References/Philosophy of Integration\|Philosophy of Integration]]

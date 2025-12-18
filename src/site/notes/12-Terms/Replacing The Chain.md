@@ -55,4 +55,4 @@ Replacement is immediate once the system recognizes which architecture is cohere
 [[12-Terms/Interpretation\|Interpretation]]  
 [[Structural Awareness\|Structural Awareness]]  
 [[12-Terms/Coherence\|Coherence]]  
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[References/Philosophy of Integration\|Philosophy of Integration]]

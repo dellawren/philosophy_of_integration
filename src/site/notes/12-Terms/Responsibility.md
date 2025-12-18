@@ -13,4 +13,4 @@ Responsibility replaces blame by removing moral overlay. It does not ask who is 
 Responsibility is therefore structural, not ethical in the moral sense. It is the condition that allows ethics to arise naturally from coherence rather than enforcement.
 
 **See also:**  
-[[13-References/Philosophy of Integration\|Philosophy of Integration]] • [[12-Terms/Ethics\|Ethics]] • [[12-Terms/Cause and Effect\|Cause and Effect]] • [[12-Terms/Awareness\|Awareness]] • [[12-Terms/Blame\|Blame]] • [[12-Terms/Integration\|Integration]]
+[[References/Philosophy of Integration\|Philosophy of Integration]] • [[12-Terms/Ethics\|Ethics]] • [[12-Terms/Cause and Effect\|Cause and Effect]] • [[12-Terms/Awareness\|Awareness]] • [[12-Terms/Blame\|Blame]] • [[12-Terms/Integration\|Integration]]

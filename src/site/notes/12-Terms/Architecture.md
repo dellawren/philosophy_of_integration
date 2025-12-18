@@ -12,6 +12,6 @@ When distorted, perception collapses into projection, narrative, or defense.
 
 Architecture does not act. It reveals.
 
-**See:** [[13-References/Philosophy of Integration\|Philosophy of Integration]]  
-**See also:** [[13-References/Commentary on Cause and Effect (The Seeing)\|Commentary on Cause and Effect (The Seeing)]]
+**See:** [[References/Philosophy of Integration\|Philosophy of Integration]]  
+**See also:** [[References/Commentary on Cause and Effect (The Seeing)\|Commentary on Cause and Effect (The Seeing)]]
 

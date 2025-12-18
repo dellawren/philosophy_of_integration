@@ -55,4 +55,4 @@ Without sovereignty, systems default to control, moral intrusion, or interpretiv
 [[12-Terms/Boundaries\|Boundaries]]  
 [[12-Terms/Neutrality\|Neutrality]]  
 [[12-Terms/Cause and Effect\|Cause and Effect]]  
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[References/Philosophy of Integration\|Philosophy of Integration]]

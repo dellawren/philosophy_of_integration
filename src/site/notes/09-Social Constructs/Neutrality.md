@@ -56,4 +56,4 @@ It is the absence of distortion at the point of perception.
 [[12-Terms/Responsibility\|Terms/Responsibility]]  
 [[12-Terms/Coherence\|Coherence]]  
 [[12-Terms/Distortion\|Distortion]]  
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[References/Philosophy of Integration\|Philosophy of Integration]]

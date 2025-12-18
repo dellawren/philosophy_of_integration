@@ -16,4 +16,4 @@ Guilt differs from responsibility in that it adds moral valuation to effect. Res
 [[12-Terms/Shame\|Shame]] • [[12-Terms/Punishment\|Punishment]] • [[12-Terms/Responsibility\|Terms/Responsibility]] • [[12-Terms/Morality\|Morality]]
 
 **See also:**  
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[References/Philosophy of Integration\|Philosophy of Integration]]

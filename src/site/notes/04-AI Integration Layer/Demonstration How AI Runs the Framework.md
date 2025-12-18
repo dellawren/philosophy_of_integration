@@ -138,5 +138,5 @@ And coherence is always preferred because it gives the user back their awareness
 [[11-Use Cases/Using AI As a Coherence Partner\|Using AI As a Coherence Partner]]
 [[11-Use Cases/Why AI Strengthens Integration\|Why AI Strengthens Integration]]
 [[11-Use Cases/Use Cases for The Philosophy of Integration\|Use Cases for The Philosophy of Integration]]
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[References/Philosophy of Integration\|Philosophy of Integration]]
 [[14-Articles/Vision for a Stable Society\|Vision for a Stable Society]]

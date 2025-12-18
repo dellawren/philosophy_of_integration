@@ -24,4 +24,4 @@ It minimizes harm through clarity.
 [[12-Terms/Coherence\|Coherence]] • [[12-Terms/Cause and Effect\|Cause and Effect]] • [[12-Terms/Responsibility\|Responsibility]] • [[12-Terms/Awareness\|Awareness]]
 
 **See also:**  
-[[13-References/Philosophy of Integration\|Philosophy of Integration]] • [[12-Terms/Morality\|Morality]]
+[[References/Philosophy of Integration\|Philosophy of Integration]] • [[12-Terms/Morality\|Morality]]

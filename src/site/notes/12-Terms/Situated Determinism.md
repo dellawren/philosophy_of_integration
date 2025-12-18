@@ -17,4 +17,4 @@ Non-action is as structurally valid as action.
 Situated determinism preserves inevitability without fatalism and freedom without exemption.
 
 **See also:**  
-[[12-Terms/Cause and Effect\|Cause and Effect]] • [[12-Terms/Awareness\|Awareness]] • [[12-Terms/Choice\|Choice]] • [[12-Terms/Freedom\|Freedom]] • [[12-Terms/Coherence\|Coherence]] • [[12-Terms/Chain Architecture\|Chain Architecture]] • [[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[12-Terms/Cause and Effect\|Cause and Effect]] • [[12-Terms/Awareness\|Awareness]] • [[12-Terms/Choice\|Choice]] • [[12-Terms/Freedom\|Freedom]] • [[12-Terms/Coherence\|Coherence]] • [[12-Terms/Chain Architecture\|Chain Architecture]] • [[References/Philosophy of Integration\|Philosophy of Integration]]

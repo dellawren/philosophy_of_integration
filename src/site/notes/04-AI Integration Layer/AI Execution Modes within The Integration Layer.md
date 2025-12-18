@@ -223,5 +223,5 @@ Confusion arises only when they are treated as interchangeable.
 
 [[04-AI Integration Layer/Demonstration How AI Runs the Framework\|Demonstration How AI Runs the Framework]]
 [[04-AI Integration Layer/Stability vs Coherence in System Design\|Stability vs Coherence in System Design]]
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[References/Philosophy of Integration\|Philosophy of Integration]]
 [[11-Use Cases/Using AI As a Coherence Partner\|Using AI As a Coherence Partner]]

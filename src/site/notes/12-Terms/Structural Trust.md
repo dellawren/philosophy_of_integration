@@ -12,4 +12,4 @@ In Integration, Structural Trust is the metaphysical foundation of ethics. It as
 > **“Structural Trust is fidelity to how the universe already works.”**
 
 **References:**  
-[[12-Terms/Non-Interference\|Non-Interference]] • [[12-Terms/Cause and Effect\|Cause and Effect]] • [[12-Terms/Sovereignty\|Sovereignty]]  • [[12-Terms/Coherence\|Coherence]] • [[12-Terms/Reality\|Reality]], [[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[12-Terms/Non-Interference\|Non-Interference]] • [[12-Terms/Cause and Effect\|Cause and Effect]] • [[12-Terms/Sovereignty\|Sovereignty]]  • [[12-Terms/Coherence\|Coherence]] • [[12-Terms/Reality\|Reality]], [[References/Philosophy of Integration\|Philosophy of Integration]]

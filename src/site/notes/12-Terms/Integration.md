@@ -15,5 +15,5 @@ As awareness settles into coherence, truth shifts from something we _think_ to s
 
 > Integration is not perfection — it’s permission for opposites to coexist without conflict.
 
-See [[13-References/Philosophy of Integration\|Philosophy of Integration]], [[08-Relational Notes/Integration as Relational Movement\|Integration as Relational Movement]], [[08-Relational Notes/Awareness and Truth - The Architecture of Perception\|Awareness and Truth - The Architecture of Perception]], 
+See [[References/Philosophy of Integration\|Philosophy of Integration]], [[08-Relational Notes/Integration as Relational Movement\|Integration as Relational Movement]], [[08-Relational Notes/Awareness and Truth - The Architecture of Perception\|Awareness and Truth - The Architecture of Perception]], 
 See also [[12-Terms/Cause and Effect\|Cause and Effect]], [[12-Terms/Situated Determinism\|Situated Determinism]], [[12-Terms/Systemic Release\|Terms/Systemic Release]], [[12-Terms/Systemic Obligation\|Systemic Obligation]], [[12-Terms/Awareness\|Terms/Awareness]],  [[12-Terms/Truth\|Truth]]

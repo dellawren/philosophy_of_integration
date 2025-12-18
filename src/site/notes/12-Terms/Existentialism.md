@@ -16,4 +16,4 @@ It only requires awareness.
 ---
 
 **See also:**  
-[[05-Philosophical Foundations/Existentialism & Integration\|Existentialism & Integration]] • [[13-References/Philosophy of Integration\|Philosophy of Integration]] • [[12-Terms/Choice\|Choice]] • [[12-Terms/Cause and Effect\|Cause and Effect]]
+[[05-Philosophical Foundations/Existentialism & Integration\|Existentialism & Integration]] • [[References/Philosophy of Integration\|Philosophy of Integration]] • [[12-Terms/Choice\|Choice]] • [[12-Terms/Cause and Effect\|Cause and Effect]]

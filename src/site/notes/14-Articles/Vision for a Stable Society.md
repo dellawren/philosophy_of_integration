@@ -24,4 +24,4 @@ Peace doesn’t happen because nobody fights or gets hurt. It happens when peopl
 
 This is not utopia. It’s simply the natural outcome of removing fear as the engine of civilization. A society built this way doesn’t suppress its humanity—it finally learns how to live it.
 
-See also [[13-References/Philosophy of Integration\|Philosophy of Integration]]
+See also [[References/Philosophy of Integration\|Philosophy of Integration]]

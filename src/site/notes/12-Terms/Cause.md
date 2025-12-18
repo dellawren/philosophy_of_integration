@@ -13,7 +13,7 @@ When understood without ego, it reveals responsibility without blame.
 
 > Cause is creation remembering itself in motion.
 
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[References/Philosophy of Integration\|Philosophy of Integration]]
 [[Law of Cause and Effect\|Law of Cause and Effect]]
 [[Law of Natural Coherence\|Law of Natural Coherence]]
 [[01-The Architecture of Integration/The Parts of The Chain/Cause\|Cause]]

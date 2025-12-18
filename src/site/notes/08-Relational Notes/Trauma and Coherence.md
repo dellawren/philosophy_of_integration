@@ -132,4 +132,4 @@ It replaces the architecture trauma required.
 [[Identity Architecture\|Identity Architecture]]  
 [[01-The Architecture of Integration/Closing the Chain\|Closing the Chain]]  
 [[12-Terms/Cause and Effect\|Cause and Effect]]  
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[References/Philosophy of Integration\|Philosophy of Integration]]

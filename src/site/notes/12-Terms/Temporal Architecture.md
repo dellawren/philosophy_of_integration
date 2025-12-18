@@ -41,4 +41,4 @@ Temporal architecture resolves when awareness becomes available and the chain co
 [[12-Terms/Chain Jumping\|Chain Jumping]]  
 [[12-Terms/Distortion Loop\|Distortion Loop]]  
 [[01-The Architecture of Integration/Closing the Chain\|Closing the Chain]]  
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[References/Philosophy of Integration\|Philosophy of Integration]]

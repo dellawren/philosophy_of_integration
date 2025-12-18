@@ -84,4 +84,4 @@ And each one points back to the same centre:
 [[11-Use Cases/Use Cases for The Philosophy of Integration\|Use Cases for The Philosophy of Integration]]
 [[11-Use Cases/Why AI Strengthens Integration\|Why AI Strengthens Integration]]
 [[11-Use Cases/Using AI As a Coherence Partner\|Using AI As a Coherence Partner]]
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[References/Philosophy of Integration\|Philosophy of Integration]]

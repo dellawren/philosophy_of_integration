@@ -76,4 +76,4 @@ Reaction is the system prioritizing relief over coherence.
 [[12-Terms/Survival Logic\|Survival Logic]]  
 [[12-Terms/Capacity\|Capacity]]  
 [[12-Terms/Integration\|Integration]]  
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[References/Philosophy of Integration\|Philosophy of Integration]]

@@ -112,4 +112,4 @@ These are possible directions for the framework to go in. Note that these are no
 
 [[11-Use Cases/Using AI As a Coherence Partner\|Using AI As a Coherence Partner]]
 [[11-Use Cases/Why AI Strengthens Integration\|Why AI Strengthens Integration]]
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[References/Philosophy of Integration\|Philosophy of Integration]]

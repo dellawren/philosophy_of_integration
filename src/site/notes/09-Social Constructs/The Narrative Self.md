@@ -60,4 +60,4 @@ It is something observed.
 [[12-Terms/Awareness\|Awareness]]  
 [[12-Terms/Distortion\|Distortion]]  
 [[01-The Architecture of Integration/Memory as Architectural Persistence\|Memory as Architectural Persistence]]  
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[References/Philosophy of Integration\|Philosophy of Integration]]

@@ -35,4 +35,4 @@ It requires only continued function.
 [[12-Terms/Distortion\|Distortion]] • [[12-Terms/Survival Logic\|Survival Logic]]
 
 **See also:**  
-[[06-Human Mechanics/Trauma Inside the Chain\|Trauma Inside the Chain]] • [[12-Terms/Chain Resolution\|Chain Resolution]] • [[12-Terms/Replacing The Chain\|Replacing the Chain]] • [[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[06-Human Mechanics/Trauma Inside the Chain\|Trauma Inside the Chain]] • [[12-Terms/Chain Resolution\|Chain Resolution]] • [[12-Terms/Replacing The Chain\|Replacing the Chain]] • [[References/Philosophy of Integration\|Philosophy of Integration]]

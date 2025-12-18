@@ -47,4 +47,4 @@ Victimization dissolves structurally when identity detaches from the narrative a
 [[12-Terms/Story Logic\|Story Logic]]   
 [[08-Relational Notes/Power and Responsibility\|Power and Responsibility]]  
 [[12-Terms/Integration\|Integration]]  
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[References/Philosophy of Integration\|Philosophy of Integration]]

@@ -17,4 +17,4 @@ See [[01-The Architecture of Integration/Memory as Architectural Persistence\|Me
 See [[12-Terms/Fear as Effect\|Fear as Effect]]  
 See [[12-Terms/Chain Split\|Chain Split]]  
 See [[01-The Architecture of Integration/Closing the Chain\|Closing the Chain]]
-See [[13-References/Philosophy of Integration\|Philosophy of Integration]]
+See [[References/Philosophy of Integration\|Philosophy of Integration]]

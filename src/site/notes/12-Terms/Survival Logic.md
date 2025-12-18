@@ -18,4 +18,4 @@ Survival logic is therefore **contextual, temporary, and functional**. It descri
 [[12-Terms/Trauma\|Trauma]] • [[12-Terms/Distorted Chain\|Distorted Chain]] • [[12-Terms/Story Logic\|Story Logic]] • [[12-Terms/Distorted Power\|Distorted Power]] • [[12-Terms/Neutrality\|Neutrality]]
 
 **See also:**  
-[[12-Terms/Distortion Loop\|Distortion Loop]] • [[12-Terms/Interpretation\|Interpretation]] • [[01-The Architecture of Integration/Closing the Chain\|Closing the Chain]] • [[01-The Architecture of Integration/Memory as Architectural Persistence\|Memory as Architectural Persistence]] • [[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[12-Terms/Distortion Loop\|Distortion Loop]] • [[12-Terms/Interpretation\|Interpretation]] • [[01-The Architecture of Integration/Closing the Chain\|Closing the Chain]] • [[01-The Architecture of Integration/Memory as Architectural Persistence\|Memory as Architectural Persistence]] • [[References/Philosophy of Integration\|Philosophy of Integration]]

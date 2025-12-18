@@ -16,4 +16,4 @@ Movement along the Ladder is not linear or permanent. Awareness may operate from
 [[12-Terms/Safety\|Safety]] • [[12-Terms/Truth\|Truth]] • [[12-Terms/Choice\|Terms/Choice]] • [[12-Terms/Integration\|Integration]] • [[12-Terms/Freedom\|Freedom]]
 
 **See also:**  
-[[13-References/Philosophy of Integration\|Philosophy of Integration]] 
+[[References/Philosophy of Integration\|Philosophy of Integration]] 

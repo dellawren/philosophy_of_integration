@@ -35,7 +35,7 @@ It is participation.
 ---
 
 **See also:**  
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]  
+[[References/Philosophy of Integration\|Philosophy of Integration]]  
 [[12-Terms/Phenomenology\|Phenomenology]]  
 [[05-Philosophical Foundations/Ontology\|Ontology]]  
 [[12-Terms/Architecture\|Architecture]]  

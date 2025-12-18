@@ -17,4 +17,4 @@ Circular time therefore indicates **structural repetition**, not fate, pattern-m
 ---
 
 **See also:**  
-[[12-Terms/Temporal Architecture\|Temporal Architecture]] · [[12-Terms/Replacement\|Replacement]] · [[12-Terms/Cause and Effect\|Cause and Effect]] · [[12-Terms/Chain Jumping\|Chain Jumping]] · [[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[12-Terms/Temporal Architecture\|Temporal Architecture]] · [[12-Terms/Replacement\|Replacement]] · [[12-Terms/Cause and Effect\|Cause and Effect]] · [[12-Terms/Chain Jumping\|Chain Jumping]] · [[References/Philosophy of Integration\|Philosophy of Integration]]

@@ -17,4 +17,4 @@ It is something **revealed** when integration is complete.
 [[12-Terms/Coherence\|Coherence]] • [[12-Terms/Integration\|Integration]] • [[12-Terms/Awareness\|Terms/Awareness]] • [[12-Terms/Cause and Effect\|Cause and Effect]] • [[12-Terms/Control\|Terms/Control]] • [[12-Terms/Responsibility\|Terms/Responsibility]]
 
 **See also:**  
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[References/Philosophy of Integration\|Philosophy of Integration]]

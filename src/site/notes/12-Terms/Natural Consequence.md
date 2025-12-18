@@ -12,4 +12,4 @@ In Integration philosophy, natural consequence is the real mechanism of balance.
 
 **See also:** [[12-Terms/Stability\|Stability]], [[12-Terms/Morality\|Terms/Morality]], [[12-Terms/Awareness\|Terms/Awareness]], [[12-Terms/Responsibility\|Terms/Responsibility]], [[12-Terms/Control\|Terms/Control]]
 
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[References/Philosophy of Integration\|Philosophy of Integration]]

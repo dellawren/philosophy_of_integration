@@ -13,6 +13,6 @@ It acts, not to dominate, but to restore balance through clarity.
 
 > Power is not what you take — it’s what moves through you when you stop resisting.
 
-See also [[13-References/Philosophy of Integration\|Philosophy of Integration]], [[08-Relational Notes/Control and Coherence\|Control and Coherence]]
+See also [[References/Philosophy of Integration\|Philosophy of Integration]], [[08-Relational Notes/Control and Coherence\|Control and Coherence]]
 See also [[12-Terms/Control\|Terms/Control]], [[12-Terms/Ethics\|Terms/Ethics]], [[12-Terms/Integration\|Integration]], [[12-Terms/Cause and Effect\|Cause and Effect]], [[12-Terms/Freedom\|Freedom]]
 

@@ -16,4 +16,4 @@ Within the framework, distorted power is the structural opposite of integrated p
 [[12-Terms/Cruelty\|Cruelty]] · [[12-Terms/Control\|Terms/Control]] · [[12-Terms/Fear\|Fear]] · [[12-Terms/Power\|Terms/Power]]
 
 **See also:**  
-[[12-Terms/Responsibility\|Terms/Responsibility]] · [[12-Terms/Coherence\|Coherence]] · [[12-Terms/Boundaries\|Terms/Boundaries]] · [[08-Relational Notes/Cruelty and Power\|Cruelty and Power]] · [[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[12-Terms/Responsibility\|Terms/Responsibility]] · [[12-Terms/Coherence\|Coherence]] · [[12-Terms/Boundaries\|Terms/Boundaries]] · [[08-Relational Notes/Cruelty and Power\|Cruelty and Power]] · [[References/Philosophy of Integration\|Philosophy of Integration]]

@@ -19,4 +19,4 @@ Chain Resolution is often quiet. Its presence is marked not by change effort, bu
 [[Distortion and Interference\|Distortion and Interference]]  
 [[12-Terms/Primary Chains\|Primary Chains]]  
 [[12-Terms/Secondary Chains\|Secondary Chains]]
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[References/Philosophy of Integration\|Philosophy of Integration]]

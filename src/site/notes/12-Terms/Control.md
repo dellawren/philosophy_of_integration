@@ -17,7 +17,7 @@ In Integration, control is therefore understood as a **structural destabilizer**
 > Control is interference mistaken for resolution.
 
 **See also:**  
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]  
+[[References/Philosophy of Integration\|Philosophy of Integration]]  
 [[12-Terms/Cause and Effect\|Cause and Effect]]  
 [[12-Terms/Systemic Obligation\|Systemic Obligation]]  
 [[12-Terms/Morality\|Terms/Morality]]  

@@ -57,4 +57,4 @@ When viewed through the lens of _The Philosophy of Integration_, these four idea
 
 ---
 
-See also [[13-References/Philosophy of Integration\|Philosophy of Integration]]
+See also [[References/Philosophy of Integration\|Philosophy of Integration]]

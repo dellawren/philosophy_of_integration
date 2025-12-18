@@ -42,4 +42,4 @@ A boundary marks the moment the system stops entering incoherence out of habit, 
 [[12-Terms/Distorted Power\|Distorted Power]]  
 [[12-Terms/Control\|Terms/Control]]  
 [[12-Terms/Neutrality\|Terms/Neutrality]]  
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[References/Philosophy of Integration\|Philosophy of Integration]]

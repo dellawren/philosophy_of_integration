@@ -116,4 +116,4 @@ Stability emerges through alignment rather than restriction.
 [[12-Terms/Morality\|Terms/Morality]]  
 [[08-Relational Notes/Boundaries and Control\|Boundaries and Control]]  
 [[08-Relational Notes/Control and Coherence\|Control and Coherence]]  
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[References/Philosophy of Integration\|Philosophy of Integration]]

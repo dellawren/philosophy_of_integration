@@ -20,4 +20,4 @@ Coherence therefore describes **perceptual fidelity**, not psychological ease or
 ---
 
 **See also:**  
-[[13-References/Philosophy of Integration\|Philosophy of Integration]] · [[12-Terms/Cause and Effect\|Cause and Effect]] · [[12-Terms/Awareness\|Awareness]] · [[12-Terms/Integration\|Integration]] · [[12-Terms/Balance\|Balance]] · [[08-Relational Notes/Control and Fear\|Control and Fear]] · [[12-Terms/Reality\|Reality]]
+[[References/Philosophy of Integration\|Philosophy of Integration]] · [[12-Terms/Cause and Effect\|Cause and Effect]] · [[12-Terms/Awareness\|Awareness]] · [[12-Terms/Integration\|Integration]] · [[12-Terms/Balance\|Balance]] · [[08-Relational Notes/Control and Fear\|Control and Fear]] · [[12-Terms/Reality\|Reality]]
