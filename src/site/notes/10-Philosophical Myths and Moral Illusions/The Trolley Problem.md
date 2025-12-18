@@ -182,4 +182,4 @@ Integration solves it by showing:
 
 That’s the solution.
 
-[[References/Philosophy of Integration\|Philosophy of Integration]], [[12-Terms/Morality\|Terms/Morality]], [[12-Terms/Ethics\|Terms/Ethics]], [[12-Terms/Distortion\|Distortion]], [[12-Terms/Cause and Effect\|Cause and Effect]]
+[[13-References/Philosophy of Integration\|Philosophy of Integration]], [[12-Terms/Morality\|Terms/Morality]], [[12-Terms/Ethics\|Terms/Ethics]], [[12-Terms/Distortion\|Distortion]], [[12-Terms/Cause and Effect\|Cause and Effect]]

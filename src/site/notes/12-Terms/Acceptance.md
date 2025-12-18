@@ -15,6 +15,6 @@ Where resistance divides, acceptance integrates. It transforms experience from s
 Through acceptance, shame dissolves, guilt quiets, and victimization loses its form.  
 It restores internal power, making choice possible again — not by control, but by clarity.
 
-See [[References/Philosophy of Integration\|Philosophy of Integration]]
+See [[13-References/Philosophy of Integration\|Philosophy of Integration]]
 See [[12-Terms/Integration\|Integration]]  
 See also [[12-Terms/Shame\|Shame]], [[12-Terms/Guilt\|Guilt]], and [[12-Terms/Responsibility\|Terms/Responsibility]] for how awareness transforms reaction into alignment.

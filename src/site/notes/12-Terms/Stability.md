@@ -12,4 +12,4 @@ In the conventional world, stability is a social marker. In The Stillhouse, it i
 
 **See also:** Natural Consequence, [[12-Terms/Control\|Terms/Control]], [[12-Terms/Fear\|Fear]], [[12-Terms/Responsibility\|Terms/Responsibility]]
 
-[[References/Philosophy of Integration\|Philosophy of Integration]]
+[[13-References/Philosophy of Integration\|Philosophy of Integration]]

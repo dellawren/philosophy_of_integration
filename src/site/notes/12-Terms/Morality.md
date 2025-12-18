@@ -17,4 +17,4 @@ Where [[12-Terms/Ethics\|ethics]] serves as an instrument to restore alignment, 
 
 > Morality governs through guilt; awareness governs through responsibility.
 
-See [[References/Philosophy of Integration\|Philosophy of Integration]], [[Ethical Living\|Ethical Living]]
+See [[13-References/Philosophy of Integration\|Philosophy of Integration]], [[Ethical Living\|Ethical Living]]

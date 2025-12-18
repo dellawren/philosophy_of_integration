@@ -121,4 +121,4 @@ Awareness restores access to reality without distortion.
 [[01-The Architecture of Integration/Memory as Architectural Persistence\|Memory as Architectural Persistence]]  
 [[01-The Architecture of Integration/Closing the Chain\|Closing the Chain]]  
 [[12-Terms/Cause and Effect\|Cause and Effect]]  
-[[References/Philosophy of Integration\|Philosophy of Integration]]
+[[13-References/Philosophy of Integration\|Philosophy of Integration]]

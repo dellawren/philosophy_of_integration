@@ -26,4 +26,4 @@ It makes the chain visible.
 [[12-Terms/Cause\|Cause]] • [[12-Terms/Cause and Effect\|Cause and Effect]] • [[12-Terms/Awareness\|Awareness]] • [[12-Terms/Coherence\|Coherence]] • [[12-Terms/Distorted Chain\|Distorted Chain]]
 
 **See also:**  
-[[References/Philosophy of Integration\|Philosophy of Integration]]
+[[13-References/Philosophy of Integration\|Philosophy of Integration]]

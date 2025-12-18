@@ -12,4 +12,4 @@ Within Integration, neutrality is the stabilizing ground that replaces reactivit
 
 **Linked Terms:** [[12-Terms/Awareness\|Awareness]], [[12-Terms/Story Logic\|Story Logic]], [[12-Terms/Responsibility\|Terms/Responsibility]], [[12-Terms/Boundaries\|Boundaries]], [[12-Terms/Coherence\|Coherence]], [[12-Terms/Distortion\|Distortion]]  
 **See also:** [[12-Terms/Sovereignty\|Sovereignty]], [[12-Terms/Cause and Effect\|Cause and Effect]], [[12-Terms/Integration\|Integration]]
-[[References/Philosophy of Integration\|Philosophy of Integration]]
+[[13-References/Philosophy of Integration\|Philosophy of Integration]]

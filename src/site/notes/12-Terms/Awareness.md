@@ -11,5 +11,5 @@ It allows all things to be seen, not to change them, but to understand their pla
 
 > Awareness is the stillness beneath perception.
 
-See also [[References/Philosophy of Integration\|Philosophy of Integration]], [[08-Relational Notes/Integration as Relational Movement\|Integration as Relational Movement]]
+See also [[13-References/Philosophy of Integration\|Philosophy of Integration]], [[08-Relational Notes/Integration as Relational Movement\|Integration as Relational Movement]]
 See also [[12-Terms/Integration\|Integration]], [[12-Terms/Truth\|Truth]], [[12-Terms/Responsibility\|Terms/Responsibility]], [[12-Terms/Fear\|Fear]], [[12-Terms/Cause and Effect\|Cause and Effect]], [[01-The Architecture of Integration/The Parts of The Chain/Awareness\|Awareness]]

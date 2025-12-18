@@ -15,5 +15,5 @@ Its tension signals where control has replaced trust, and where understanding is
 
 **Linked Concepts**
 
-[[References/Philosophy of Integration\|Philosophy of Integration]]
+[[13-References/Philosophy of Integration\|Philosophy of Integration]]
 

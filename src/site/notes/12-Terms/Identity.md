@@ -17,4 +17,4 @@ Awareness precedes it.
 [[12-Terms/Belonging\|Belonging]] • [[12-Terms/Control\|Terms/Control]] • [[12-Terms/Systemic Obligation\|Systemic Obligation]] • [[12-Terms/Story Logic\|Story Logic]] • [[12-Terms/Responsibility\|Terms/Responsibility]]
 
 **See also:**  
-[[References/Philosophy of Integration\|Philosophy of Integration]]
+[[13-References/Philosophy of Integration\|Philosophy of Integration]]

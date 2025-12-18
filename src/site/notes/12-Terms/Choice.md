@@ -13,5 +13,5 @@ Every choice is an act of self-creation — a statement of who we are within the
 
 > Choice is awareness deciding how to move.
 
-See also [[References/Philosophy of Integration\|Philosophy of Integration]], [[08-Relational Notes/Integration as Relational Movement\|Integration as Relational Movement]]
+See also [[13-References/Philosophy of Integration\|Philosophy of Integration]], [[08-Relational Notes/Integration as Relational Movement\|Integration as Relational Movement]]
 See also [[12-Terms/Freedom\|Freedom]], [[12-Terms/Responsibility\|Terms/Responsibility]], [[12-Terms/Cause and Effect\|Cause and Effect]], [[12-Terms/Awareness\|Terms/Awareness]], [[12-Terms/Integration\|Integration]], [[01-The Architecture of Integration/The Parts of The Chain/Choice\|Choice]]

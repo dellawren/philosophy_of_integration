@@ -17,5 +17,5 @@ Nothing escapes consequence because nothing stands outside relationship.
 
 Links
 
-[[References/Philosophy of Integration\|Philosophy of Integration]]
+[[13-References/Philosophy of Integration\|Philosophy of Integration]]
 

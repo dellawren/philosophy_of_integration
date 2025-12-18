@@ -44,7 +44,7 @@ It names the _kind of world_ the Philosophy of Integration is describing — one
 ---
 
 **See also:**  
-[[References/Philosophy of Integration\|Philosophy of Integration]]  
+[[13-References/Philosophy of Integration\|Philosophy of Integration]]  
 [[12-Terms/Phenomenology\|Phenomenology]]  
 [[12-Terms/Architecture\|Architecture]]  
 [[12-Terms/Cause and Effect\|Cause and Effect]]  

@@ -13,5 +13,5 @@ Safety is therefore a prerequisite for coherence, not a guarantee of comfort. It
 Safety marks the point where the system no longer needs to defend against experience in order to remain intact.
 
 **See also:**  
-[[References/Philosophy of Integration\|Philosophy of Integration]] • [[12-Terms/Fear\|Fear]] • [[12-Terms/Control\|Control]] • [[12-Terms/Awareness\|Awareness]] • [[12-Terms/Integration\|Integration]] • [[12-Terms/Freedom\|Freedom]]
+[[13-References/Philosophy of Integration\|Philosophy of Integration]] • [[12-Terms/Fear\|Fear]] • [[12-Terms/Control\|Control]] • [[12-Terms/Awareness\|Awareness]] • [[12-Terms/Integration\|Integration]] • [[12-Terms/Freedom\|Freedom]]
 

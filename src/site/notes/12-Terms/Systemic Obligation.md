@@ -56,4 +56,4 @@ Where systemic obligation dominates, truth becomes conditional and behaviour bec
 [[12-Terms/Belonging\|Belonging]]  
 [[12-Terms/Responsibility\|Responsibility]]  
 [[12-Terms/Non-Interference\|Non-Interference]]  
-[[References/Philosophy of Integration\|Philosophy of Integration]]
+[[13-References/Philosophy of Integration\|Philosophy of Integration]]

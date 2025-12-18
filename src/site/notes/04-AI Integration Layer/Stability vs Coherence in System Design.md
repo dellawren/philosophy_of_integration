@@ -147,5 +147,5 @@ ChatGPT runs my integration model flawlessly without prompting. Therefore, I use
 ## **See Also**
 
 [[04-AI Integration Layer/Demonstration How AI Runs the Framework\|Demonstration How AI Runs the Framework]]
-[[References/Philosophy of Integration\|Philosophy of Integration]]
+[[13-References/Philosophy of Integration\|Philosophy of Integration]]
 [[11-Use Cases/Using AI As a Coherence Partner\|Using AI As a Coherence Partner]]

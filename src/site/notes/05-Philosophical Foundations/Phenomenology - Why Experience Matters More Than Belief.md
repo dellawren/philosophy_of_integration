@@ -14,7 +14,7 @@ Phenomenology therefore shifts philosophy away from explanation and toward descr
 
 ### **Relation to Integration**
 
-The [[References/Philosophy of Integration\|Philosophy of Integration]] aligns with phenomenology in treating experience as primary, but extends the inquiry to include how experience is structured internally. Integration is concerned not only with what is lived, but with how awareness relates to that experience: whether it remains open, becomes distorted, or reorganizes around protection.
+The [[13-References/Philosophy of Integration\|Philosophy of Integration]] aligns with phenomenology in treating experience as primary, but extends the inquiry to include how experience is structured internally. Integration is concerned not only with what is lived, but with how awareness relates to that experience: whether it remains open, becomes distorted, or reorganizes around protection.
 
 Experience provides access.  
 Awareness determines coherence.

@@ -55,4 +55,4 @@ Where systemic obligation enforces behaviour through fear of exclusion, systemic
 [[12-Terms/Responsibility\|Responsibility]]  
 [[12-Terms/Non-Interference\|Non-Interference]]  
 [[12-Terms/Integration\|Integration]]  
-[[References/Philosophy of Integration\|Philosophy of Integration]]
+[[13-References/Philosophy of Integration\|Philosophy of Integration]]

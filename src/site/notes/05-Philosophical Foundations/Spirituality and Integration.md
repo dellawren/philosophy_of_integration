@@ -223,4 +223,4 @@ With Integration:
 [[12-Terms/Ethics\|Ethics]]  
 [[12-Terms/Cause and Effect\|Cause and Effect]]  
 [[12-Terms/Integration\|Integration]]  
-[[References/Philosophy of Integration\|Philosophy of Integration]]
+[[13-References/Philosophy of Integration\|Philosophy of Integration]]

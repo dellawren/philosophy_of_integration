@@ -128,4 +128,4 @@ It keeps the user oriented toward truth rather than story, and coherence rather 
 
 [[11-Use Cases/Use Cases for The Philosophy of Integration\|Use Cases for The Philosophy of Integration]]
 [[11-Use Cases/Why AI Strengthens Integration\|Why AI Strengthens Integration]]
-[[References/Philosophy of Integration\|Philosophy of Integration]]
+[[13-References/Philosophy of Integration\|Philosophy of Integration]]

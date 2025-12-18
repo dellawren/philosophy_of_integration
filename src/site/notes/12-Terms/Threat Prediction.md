@@ -19,4 +19,4 @@ Threat Prediction is not an error. It is a **coherent survival function** that r
 [[12-Terms/Secondary Chains\|Secondary Chains]]  
 [[06-Human Mechanics/Trauma Inside the Chain\|Trauma Inside the Chain]]  
 [[12-Terms/Chain Resolution\|Terms/Chain Resolution]]
-[[References/Philosophy of Integration\|Philosophy of Integration]]
+[[13-References/Philosophy of Integration\|Philosophy of Integration]]

@@ -11,4 +11,4 @@ Within the Philosophy of Integration, punishment is understood as a substitute f
 Punishment is therefore not corrective but regulatory. It maintains order through enforcement rather than coherence.
 
 **See also:**  
-[[12-Terms/Cause and Effect\|Cause and Effect]] • [[12-Terms/Guilt\|Guilt]] • [[12-Terms/Shame\|Shame]] • [[12-Terms/Control\|Terms/Control]] • [[References/Philosophy of Integration\|Philosophy of Integration]]
+[[12-Terms/Cause and Effect\|Cause and Effect]] • [[12-Terms/Guilt\|Guilt]] • [[12-Terms/Shame\|Shame]] • [[12-Terms/Control\|Terms/Control]] • [[13-References/Philosophy of Integration\|Philosophy of Integration]]

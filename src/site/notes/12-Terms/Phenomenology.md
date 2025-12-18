@@ -14,4 +14,4 @@ Phenomenology answers _what is happening as it is lived_.
 Integration answers _how that happening is being held_.
 
 **See also:**  
-[[12-Terms/Integration\|Integration]] • [[12-Terms/Awareness\|Terms/Awareness]] • [[12-Terms/Experience\|Experience]] • [[12-Terms/Architecture\|Architecture]] • [[References/Philosophy of Integration\|Philosophy of Integration]]
+[[12-Terms/Integration\|Integration]] • [[12-Terms/Awareness\|Terms/Awareness]] • [[12-Terms/Experience\|Experience]] • [[12-Terms/Architecture\|Architecture]] • [[13-References/Philosophy of Integration\|Philosophy of Integration]]

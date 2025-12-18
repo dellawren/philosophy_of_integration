@@ -24,4 +24,4 @@ When interference stops, balance resumes automatically.
 [[12-Terms/Coherence\|Coherence]] · [[12-Terms/Cause and Effect\|Cause and Effect]] · [[12-Terms/Integration\|Integration]] · [[12-Terms/Non-Interference\|Non-Interference]]
 
 **See also:**  
-[[08-Relational Notes/Consequence Without Condemnation\|Consequence Without Condemnation]] · [[08-Relational Notes/Control and Coherence\|Control and Coherence]] · [[08-Relational Notes/Power and Responsibility\|Power and Responsibility]] · [[References/Philosophy of Integration\|Philosophy of Integration]]
+[[08-Relational Notes/Consequence Without Condemnation\|Consequence Without Condemnation]] · [[08-Relational Notes/Control and Coherence\|Control and Coherence]] · [[08-Relational Notes/Power and Responsibility\|Power and Responsibility]] · [[13-References/Philosophy of Integration\|Philosophy of Integration]]

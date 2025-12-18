@@ -16,6 +16,6 @@ Freedom begins when the performance of obligation is seen for what it is — an 
 
 > Obligation is the ghost of belonging — proof that fear still writes the script.
 
-See [[References/Philosophy of Integration\|Philosophy of Integration]]
+See [[13-References/Philosophy of Integration\|Philosophy of Integration]]
 See [[12-Terms/Responsibility\|Terms/Responsibility]]  
 See also [[08-Relational Notes/Freedom and Fear\|Freedom and Fear]], [[08-Relational Notes/Control and Coherence\|Control and Coherence]], and [[12-Terms/Systemic Release\|Terms/Systemic Release]] for how awareness transforms duty into clean response.

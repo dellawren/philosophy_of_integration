@@ -175,5 +175,5 @@ Together, they form the movement from control to presence; from fear to trust; f
 
 > **Integration doesn’t ask you to ascend — it asks you to return.**
 
-See also [[References/Philosophy of Integration\|Philosophy of Integration]], [[References/The Ladder of Integration\|The Ladder of Integration]], [[Philosophical Foundations/Circling\|Philosophical Foundations/Circling]]
+See also [[13-References/Philosophy of Integration\|Philosophy of Integration]], [[13-References/The Ladder of Integration\|The Ladder of Integration]], [[Philosophical Foundations/Circling\|Philosophical Foundations/Circling]]
 

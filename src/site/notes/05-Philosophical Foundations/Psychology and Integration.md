@@ -211,7 +211,7 @@ It is an **architectural framework** that explains why psychological models desc
 
 ### **See Also**
 
-[[References/Philosophy of Integration\|Philosophy of Integration]]  
+[[13-References/Philosophy of Integration\|Philosophy of Integration]]  
 [[12-Terms/Causal Mediation Principle\|Causal Mediation Principle]]  
 [[08-Relational Notes/Trauma and Awareness\|Trauma and Awareness]]  
 [[12-Terms/Secondary Chains\|Secondary Chains]]  

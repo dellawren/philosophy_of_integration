@@ -11,4 +11,4 @@ In Integration, cruelty is recognized as a loop, not an identity. It is a tempor
 > Cruelty is never truth. It is the sound of a system that cannot hold itself.
 
 **Linked Terms:** Distorted Power, [[12-Terms/Control\|Terms/Control]],  [[12-Terms/Fear\|Fear]], [[12-Terms/Story Logic\|Story Logic]], [[12-Terms/Boundaries\|Terms/Boundaries]]  
-**See also:** [[12-Terms/Power\|Terms/Power]], [[12-Terms/Responsibility\|Terms/Responsibility]], [[12-Terms/Awareness\|Terms/Awareness]], [[08-Relational Notes/Cruelty and Power\|Cruelty and Power]], [[References/Philosophy of Integration\|Philosophy of Integration]]
+**See also:** [[12-Terms/Power\|Terms/Power]], [[12-Terms/Responsibility\|Terms/Responsibility]], [[12-Terms/Awareness\|Terms/Awareness]], [[08-Relational Notes/Cruelty and Power\|Cruelty and Power]], [[13-References/Philosophy of Integration\|Philosophy of Integration]]

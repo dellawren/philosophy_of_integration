@@ -11,4 +11,4 @@ Within the Philosophy of Integration, replacement is the primary mechanism by wh
 Replacement is therefore structural, not emotional. It reflects a change in participation rather than a change in content.
 
 **See also:**  
-[[12-Terms/Chain Split\|Chain Split]] • [[12-Terms/Coherence\|Coherence]] • [[Structural Awareness\|Structural Awareness]] • [[References/Philosophy of Integration\|Philosophy of Integration]]
+[[12-Terms/Chain Split\|Chain Split]] • [[12-Terms/Coherence\|Coherence]] • [[Structural Awareness\|Structural Awareness]] • [[13-References/Philosophy of Integration\|Philosophy of Integration]]

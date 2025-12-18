@@ -84,4 +84,4 @@ It becomes a precision reflector — clean, calm, and coherent — helping the u
 
 [[11-Use Cases/Use Cases for The Philosophy of Integration\|Use Cases for The Philosophy of Integration]]
 [[11-Use Cases/Using AI As a Coherence Partner\|Using AI As a Coherence Partner]]
-[[References/Philosophy of Integration\|Philosophy of Integration]]
+[[13-References/Philosophy of Integration\|Philosophy of Integration]]

@@ -146,4 +146,4 @@ This reframing dissolves stigma without denying reality.
 [[12-Terms/Distorted Chain\|Distorted Chain]]  
 [[12-Terms/Control\|Control]]  
 [[12-Terms/Cause and Effect\|Cause and Effect]]  
-[[References/Philosophy of Integration\|Philosophy of Integration]]
+[[13-References/Philosophy of Integration\|Philosophy of Integration]]

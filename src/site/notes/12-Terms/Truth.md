@@ -15,5 +15,5 @@ It does not justify, defend, accuse, or explain.
 Truth is simply the alignment between what happened and what awareness allows itself to acknowledge.
 
 > “Truth reveals itself when interpretation steps aside.”
-See also [[References/Philosophy of Integration\|Philosophy of Integration]], [[08-Relational Notes/Integration as Relational Movement\|Integration as Relational Movement]]
+See also [[13-References/Philosophy of Integration\|Philosophy of Integration]], [[08-Relational Notes/Integration as Relational Movement\|Integration as Relational Movement]]
 See also [[12-Terms/Awareness\|Terms/Awareness]], [[12-Terms/Integration\|Integration]], [[12-Terms/Ethics\|Terms/Ethics]], [[12-Terms/Cause and Effect\|Cause and Effect]], [[12-Terms/Reality\|Reality]]

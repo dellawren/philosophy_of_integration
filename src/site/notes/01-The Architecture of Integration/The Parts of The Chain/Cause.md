@@ -44,4 +44,4 @@ A cause reveals the conditions present at the moment the chain began — nothing
 ---
 ## **See Also**
 
-[[References/Philosophy of Integration\|Philosophy of Integration]], [[01-The Architecture of Integration/The Parts of The Chain/Awareness\|Awareness]], [[01-The Architecture of Integration/The Parts of The Chain/Choice\|Choice]], [[01-The Architecture of Integration/The Parts of The Chain/Effect\|Effect]], [[12-Terms/Cause\|Cause]], [[12-Terms/Chain Architecture\|Chain Architecture]], [[12-Terms/Truth\|Truth]], [[12-Terms/Reality\|Reality]]
+[[13-References/Philosophy of Integration\|Philosophy of Integration]], [[01-The Architecture of Integration/The Parts of The Chain/Awareness\|Awareness]], [[01-The Architecture of Integration/The Parts of The Chain/Choice\|Choice]], [[01-The Architecture of Integration/The Parts of The Chain/Effect\|Effect]], [[12-Terms/Cause\|Cause]], [[12-Terms/Chain Architecture\|Chain Architecture]], [[12-Terms/Truth\|Truth]], [[12-Terms/Reality\|Reality]]

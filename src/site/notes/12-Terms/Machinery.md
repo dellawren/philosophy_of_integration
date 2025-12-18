@@ -11,6 +11,6 @@ Where Integration restores coherence through awareness, the Machinery maintains 
 
 > “The Machinery doesn’t punish you; it preserves the illusion that you still need to be fixed.”
 
-See [[References/Philosophy of Integration\|Philosophy of Integration]]
-See also [[References/Commentary on Cause and Effect (The Seeing)\|Commentary on Cause and Effect (The Seeing)]], [[The Practice of Integration (How)\|The Practice of Integration (How)]]
+See [[13-References/Philosophy of Integration\|Philosophy of Integration]]
+See also [[13-References/Commentary on Cause and Effect (The Seeing)\|Commentary on Cause and Effect (The Seeing)]], [[The Practice of Integration (How)\|The Practice of Integration (How)]]
 

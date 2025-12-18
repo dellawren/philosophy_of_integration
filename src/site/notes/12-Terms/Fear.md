@@ -15,4 +15,4 @@ Fear therefore functions as structural feedback: it shows where perception has c
 ---
 
 **See also:**  
-[[12-Terms/Control\|Terms/Control]] • [[12-Terms/Systemic Obligation\|Systemic Obligation]] • [[12-Terms/Integration\|Integration]] • [[12-Terms/Cause and Effect\|Cause and Effect]] • [[12-Terms/Awareness\|Terms/Awareness]] • [[08-Relational Notes/Control and Coherence\|Control and Coherence]] • [[References/Philosophy of Integration\|Philosophy of Integration]]
+[[12-Terms/Control\|Terms/Control]] • [[12-Terms/Systemic Obligation\|Systemic Obligation]] • [[12-Terms/Integration\|Integration]] • [[12-Terms/Cause and Effect\|Cause and Effect]] • [[12-Terms/Awareness\|Terms/Awareness]] • [[08-Relational Notes/Control and Coherence\|Control and Coherence]] • [[13-References/Philosophy of Integration\|Philosophy of Integration]]

@@ -103,4 +103,4 @@ Choice becomes available not through insight, but through clarity.
 [[12-Terms/Coherence\|Coherence]]  
 [[12-Terms/Boundaries\|Boundaries]]  
 [[12-Terms/Cause and Effect\|Cause and Effect]]  
-[[References/Philosophy of Integration\|Philosophy of Integration]]
+[[13-References/Philosophy of Integration\|Philosophy of Integration]]

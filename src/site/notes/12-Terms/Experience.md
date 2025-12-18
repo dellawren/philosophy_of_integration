@@ -17,4 +17,4 @@ Experience cannot be wrong.
 It can only be met or overwritten.
 
 **See also:**  
-[[12-Terms/Awareness\|Terms/Awareness]] • [[12-Terms/Emotion\|Emotion]] • [[12-Terms/Effect\|Effect]] • [[12-Terms/Phenomenology\|Phenomenology]] • [[12-Terms/Cause and Effect\|Cause and Effect]] • [[References/Philosophy of Integration\|Philosophy of Integration]]
+[[12-Terms/Awareness\|Terms/Awareness]] • [[12-Terms/Emotion\|Emotion]] • [[12-Terms/Effect\|Effect]] • [[12-Terms/Phenomenology\|Phenomenology]] • [[12-Terms/Cause and Effect\|Cause and Effect]] • [[13-References/Philosophy of Integration\|Philosophy of Integration]]

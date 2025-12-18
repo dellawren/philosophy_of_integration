@@ -87,4 +87,4 @@ These essays are exploratory rather than foundational. They describe _where_ the
 
 ## **See Also**
 
-[[References/Philosophy of Integration\|Philosophy of Integration]]
+[[13-References/Philosophy of Integration\|Philosophy of Integration]]

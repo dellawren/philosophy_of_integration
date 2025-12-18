@@ -55,4 +55,4 @@ The moment the architecture changes, the loop dissolves.
 [[12-Terms/Narrative Self\|Narrative Self]]  
 [[12-Terms/Chain Split\|Chain Split]]  
 [[12-Terms/Replacement\|Terms/Replacement]]  
-[[References/Philosophy of Integration\|Philosophy of Integration]]
+[[13-References/Philosophy of Integration\|Philosophy of Integration]]

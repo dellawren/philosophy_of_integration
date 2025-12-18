@@ -23,4 +23,4 @@ Where boundaries are coherent, interaction stabilizes without negotiation.
 [[12-Terms/Responsibility\|Responsibility]] · [[12-Terms/Choice\|Choice]] · [[12-Terms/Awareness\|Awareness]] · [[12-Terms/Control\|Control]] · [[12-Terms/Cause and Effect\|Cause and Effect]]
 
 **See also:**  
-[[12-Terms/Neutrality\|Neutrality]] · [[12-Terms/Sovereignty\|Sovereignty]] · [[08-Relational Notes/Power and Responsibility\|Power and Responsibility]] · [[References/Philosophy of Integration\|Philosophy of Integration]]
+[[12-Terms/Neutrality\|Neutrality]] · [[12-Terms/Sovereignty\|Sovereignty]] · [[08-Relational Notes/Power and Responsibility\|Power and Responsibility]] · [[13-References/Philosophy of Integration\|Philosophy of Integration]]

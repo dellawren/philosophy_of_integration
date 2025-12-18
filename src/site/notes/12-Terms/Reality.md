@@ -17,4 +17,4 @@ Interpretation from the outside is not insight — it is interference.
 **References:**  
 [[12-Terms/Cause and Effect\|Cause and Effect]] • [[12-Terms/Coherence\|Coherence]] • [[12-Terms/Truth\|Truth]] • [[12-Terms/Distortion\|Distortion]] • [[12-Terms/Interpretation\|Interpretation]] 
 
-[[References/Philosophy of Integration\|Philosophy of Integration]]
+[[13-References/Philosophy of Integration\|Philosophy of Integration]]

@@ -11,4 +11,4 @@ Within the Philosophy of Integration, shame is understood as an energetic recoil
 Shame persists as long as perception is mediated by judgment rather than reality. It dissolves when awareness meets the self directly, without interpretation.
 
 **See also:**  
-[[12-Terms/Guilt\|Guilt]] • [[12-Terms/Victimization\|Victimization]] • [[12-Terms/Identity\|Identity]] • [[12-Terms/Distortion\|Distortion]] • [[12-Terms/Acceptance\|Acceptance]] • [[References/Philosophy of Integration\|Philosophy of Integration]]
+[[12-Terms/Guilt\|Guilt]] • [[12-Terms/Victimization\|Victimization]] • [[12-Terms/Identity\|Identity]] • [[12-Terms/Distortion\|Distortion]] • [[12-Terms/Acceptance\|Acceptance]] • [[13-References/Philosophy of Integration\|Philosophy of Integration]]
