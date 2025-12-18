@@ -175,4 +175,4 @@ No accumulation, mastery, or identity is implied.
 
 ### See Also
 
-[[Terms/Integration\|Integration]] · [[Terms/Coherence\|Coherence]] · [[Terms/Chain Architecture\|Chain Architecture]] · [[Terms/Awareness\|Awareness]] · [[Relational Loop Theory/Relational Loop Theory\|Relational Loop Theory]]
+[[12-Terms/Integration\|Integration]] · [[12-Terms/Coherence\|Coherence]] · [[12-Terms/Chain Architecture\|Chain Architecture]] · [[12-Terms/Awareness\|Awareness]] · [[02-Relational Loop Theory/Relational Loop Theory\|Relational Loop Theory]]
