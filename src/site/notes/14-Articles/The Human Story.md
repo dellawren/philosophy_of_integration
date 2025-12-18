@@ -49,7 +49,7 @@ Della
 [[12-Terms/Human Rules\|Human Rules]]
 [[13-References/Philosophy of Integration\|Philosophy of Integration]]
 [[12-Terms/Morality\|Terms/Morality]]
-[[09-Social Constructs/Morality as a Social Construct\|Morality as a Social Construct]]
+[[Social Constructs/Morality as a Social Construct\|Morality as a Social Construct]]
 [[The Chain and Experience\|The Chain and Experience]]
 
 
