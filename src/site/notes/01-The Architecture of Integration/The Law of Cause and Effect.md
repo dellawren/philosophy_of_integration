@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"The Law of Cause and Effect","order":14,"dg-metatags":{"og:title":"The Law of Cause and Effect","description":"Articulates the foundational law governing all chains, describing how cause, effect, and consequence operate without moral interpretation.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/01-the-architecture-of-integration/the-law-of-cause-and-effect/","metatags":{"og:title":"The Law of Cause and Effect","description":"Articulates the foundational law governing all chains, describing how cause, effect, and consequence operate without moral interpretation.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: The Law of Cause and Effect
+order: 14
+dg-metatags:
+  og:title: "The Law of Cause and Effect"
+  description: Articulates the foundational law governing all chains, describing how cause, effect, and consequence operate without moral interpretation.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 **Law of Cause and Effect** — the foundational constraint governing all chain execution.
 
 Cause and effect describe **continuity**, not meaning, justice, instruction, or correction.  
@@ -94,9 +99,9 @@ It does not suspend causality.
 
 ## See Also
 
-[[12-Terms/Chain Architecture\|Chain Architecture]]  
-[[01-The Architecture of Integration/The Parts of The Chain/Cause\|Cause]]  
-[[01-The Architecture of Integration/The Parts of The Chain/Effect\|Effect]]  
-[[01-The Architecture of Integration/Distorted Chains\|Distorted Chains]]  
-[[01-The Architecture of Integration/Replacement\|Replacement]]  
-[[12-Terms/Chain Resolution\|Terms/Chain Resolution]]
+[[Chain Architecture]]  
+[[Cause]]  
+[[Effect]]  
+[[Distorted Chains]]  
+[[Replacement]]  
+[[Terms/Chain Resolution]]

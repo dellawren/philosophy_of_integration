@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Closing the Chain","dg-metatags":{"og:title":"Closing the Chain: Completing the Journey from Fragmentation to Wholeness","description":"A closing reflection on how we can consciously end relational chains — integrating awareness, truth, and intention to restore clarity and freedom in our inner architecture.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"order":13,"permalink":"/01-the-architecture-of-integration/closing-the-chain/","metatags":{"og:title":"Closing the Chain: Completing the Journey from Fragmentation to Wholeness","description":"A closing reflection on how we can consciously end relational chains — integrating awareness, truth, and intention to restore clarity and freedom in our inner architecture.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Closing the Chain
+dg-metatags:
+  og:title: "Closing the Chain: Completing the Journey from Fragmentation to Wholeness"
+  description: A closing reflection on how we can consciously end relational chains — integrating awareness, truth, and intention to restore clarity and freedom in our inner architecture.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
+order: 13
 ---
-
 **Chain completion** — the point at which a causal sequence exhausts its sustaining conditions and no longer executes.
 
 A chain does not terminate through interruption, opposition, insight, or decision.  
@@ -159,11 +164,11 @@ Completion requires **full discharge without interference**.
 
 ## **See Also**
 
-[[12-Terms/Chain Architecture\|Chain Architecture]]  
-[[12-Terms/Chain Resolution\|Terms/Chain Resolution]]  
-[[12-Terms/Primary Chains\|Primary Chains]]  
-[[12-Terms/Secondary Chains\|Secondary Chains]]  
-[[01-The Architecture of Integration/Threat Prediction\|Threat Prediction]]  
-[[12-Terms/Neutral Memory\|Neutral Memory]]  
-[[01-The Architecture of Integration/Memory as Architectural Persistence\|Memory as Architectural Persistence]]  
-[[01-The Architecture of Integration/Replacement\|Replacement]]
+[[Chain Architecture]]  
+[[Terms/Chain Resolution]]  
+[[Primary Chains]]  
+[[Secondary Chains]]  
+[[Threat Prediction]]  
+[[Neutral Memory]]  
+[[Memory as Architectural Persistence]]  
+[[Replacement]]

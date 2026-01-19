@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Memory as Architectural Persistence","dg-metatags":{"og:title":"Memory as Architecture: How the Chain Stores Experience","description":"An expanded exploration of memory as structural architecture — shaping time, identity, biology, emotion, and interpretation until the chain becomes coherent and neutral.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"order":6,"permalink":"/01-the-architecture-of-integration/memory-as-architectural-persistence/","metatags":{"og:title":"Memory as Architecture: How the Chain Stores Experience","description":"An expanded exploration of memory as structural architecture — shaping time, identity, biology, emotion, and interpretation until the chain becomes coherent and neutral.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Memory as Architectural Persistence
+dg-metatags:
+  og:title: "Memory as Architecture: How the Chain Stores Experience"
+  description: An expanded exploration of memory as structural architecture — shaping time, identity, biology, emotion, and interpretation until the chain becomes coherent and neutral.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
+order: 6
 ---
-
 **Memory** is not a record of past events.  
 It is a **structural persistence mechanism** through which prior chain executions continue to influence present and future execution.
 
@@ -55,7 +60,7 @@ Its **architecture alone** is sufficient to reactivate execution.
 
 ## **Memory and Prediction**
 
-Memory participates directly in [[01-The Architecture of Integration/Threat Prediction\|Threat Prediction]].
+Memory participates directly in [[Threat Prediction]].
 
 A system with active memory architecture:
 
@@ -90,9 +95,9 @@ When memory remains active:
 - cause appears continuous rather than discrete
     
 
-This produces what is described elsewhere as [[12-Terms/Circular Time\|Circular Time]].
+This produces what is described elsewhere as [[Circular Time]].
 
-When memory releases, temporal order restores and execution resumes linear progression under [[12-Terms/Temporal Architecture\|Temporal Architecture]].
+When memory releases, temporal order restores and execution resumes linear progression under [[Temporal Architecture]].
 
 Memory does not distort time conceptually.  
 It **reorganizes execution temporally**.
@@ -139,7 +144,7 @@ A memory is considered **neutral** when:
 
 Neutral memory persists as information, not architecture.
 
-This state change is described in [[12-Terms/Neutral Memory\|Neutral Memory]].
+This state change is described in [[Neutral Memory]].
 
 ---
 
@@ -183,11 +188,11 @@ It is **past execution still informing present structure**.
 
 ## **See Also**
 
-[[12-Terms/Chain Architecture\|Chain Architecture]]  
-[[Chain Persistence\|Chain Persistence]]  
-[[01-The Architecture of Integration/Threat Prediction\|Threat Prediction]]  
-[[12-Terms/Temporal Architecture\|Temporal Architecture]]  
-[[12-Terms/Circular Time\|Circular Time]]  
-[[12-Terms/Neutral Memory\|Neutral Memory]]  
-[[01-The Architecture of Integration/Replacement\|Replacement]]  
-[[12-Terms/Secondary Chains\|Secondary Chains]]
+[[Chain Architecture]]  
+[[Chain Persistence]]  
+[[Threat Prediction]]  
+[[Temporal Architecture]]  
+[[Circular Time]]  
+[[Neutral Memory]]  
+[[Replacement]]  
+[[Secondary Chains]]

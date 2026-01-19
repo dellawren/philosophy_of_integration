@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Cause","order":1,"dg-metatags":{"og:title":"Cause — The First Movement in the Chain","description":"Cause is the initiating event that begins the chain — neutral, impersonal, and outside your control. A clean look at how every chain starts long before interpretation.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/01-the-architecture-of-integration/the-parts-of-the-chain/cause/","metatags":{"og:title":"Cause — The First Movement in the Chain","description":"Cause is the initiating event that begins the chain — neutral, impersonal, and outside your control. A clean look at how every chain starts long before interpretation.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Cause
+order: 1
+dg-metatags:
+  og:title: Cause — The First Movement in the Chain
+  description: Cause is the initiating event that begins the chain — neutral, impersonal, and outside your control. A clean look at how every chain starts long before interpretation.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 **Cause** — the initiating condition that sets a chain in motion.
 
 Cause is neutral, impersonal, and non-symbolic.  
@@ -44,4 +49,4 @@ A cause reveals the conditions present at the moment the chain began — nothing
 ---
 ## **See Also**
 
-[[13-References/Philosophy of Integration\|Philosophy of Integration]], [[01-The Architecture of Integration/The Parts of The Chain/Awareness\|Awareness]], [[01-The Architecture of Integration/The Parts of The Chain/Choice\|Choice]], [[01-The Architecture of Integration/The Parts of The Chain/Effect\|Effect]], [[12-Terms/Cause\|Cause]], [[12-Terms/Chain Architecture\|Chain Architecture]], [[12-Terms/Truth\|Truth]], [[12-Terms/Reality\|Reality]]
+[[Philosophy of Integration]], [[The Architecture of Integration/The Parts of The Chain/Awareness|Awareness]], [[The Architecture of Integration/The Parts of The Chain/Choice|Choice]], [[The Architecture of Integration/The Parts of The Chain/Effect|Effect]], [[Terms/Cause|Cause]], [[Chain Architecture]], [[Truth]], [[Reality]]

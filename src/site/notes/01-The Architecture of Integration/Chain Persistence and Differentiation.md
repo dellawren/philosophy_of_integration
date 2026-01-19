@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Chain Persistence and Differentiation","order":5,"dg-metatags":{"og:title":"Chain Persistence and Differentiation","description":"Examines how causal chains persist over time while differentiating across contexts, creating patterned continuity without sameness.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/01-the-architecture-of-integration/chain-persistence-and-differentiation/","metatags":{"og:title":"Chain Persistence and Differentiation","description":"Examines how causal chains persist over time while differentiating across contexts, creating patterned continuity without sameness.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Chain Persistence and Differentiation
+order: 5
+dg-metatags:
+  og:title: "Chain Persistence and Differentiation"
+  description: Examines how causal chains persist over time while differentiating across contexts, creating patterned continuity without sameness.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 **Chain persistence** is the repeated execution of a causal sequence whose sustaining conditions remain intact.
 
 Persistence is not resistance, regression, or lack of awareness.  
@@ -151,11 +156,11 @@ It stops because it is no longer required.
 
 ## **See Also**
 
-[[12-Terms/Distorted Chain\|Distorted Chain]]  
-[[12-Terms/Primary Chains\|Primary Chains]]  
-[[12-Terms/Secondary Chains\|Secondary Chains]]  
-[[12-Terms/Chain Architecture\|Chain Architecture]]  
-[[12-Terms/Chain Resolution\|Terms/Chain Resolution]]  
-[[01-The Architecture of Integration/The Parts of The Chain/Awareness\|Awareness]]  
-[[01-The Architecture of Integration/The Parts of The Chain/Choice\|Choice]]  
-[[12-Terms/Temporal Architecture\|Temporal Architecture]]
+[[Distorted Chain]]  
+[[Primary Chains]]  
+[[Secondary Chains]]  
+[[Chain Architecture]]  
+[[Terms/Chain Resolution]]  
+[[Awareness]]  
+[[Choice]]  
+[[Temporal Architecture]]

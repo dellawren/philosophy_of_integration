@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Chain Resolution","order":12,"dg-metatags":{"og:title":"Chain Resolution","description":"Defines what it means for a causal chain to reach completion, restoring coherence through direct consequence and integration.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/01-the-architecture-of-integration/chain-resolution/","metatags":{"og:title":"Chain Resolution","description":"Defines what it means for a causal chain to reach completion, restoring coherence through direct consequence and integration.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Chain Resolution
+order: 12
+dg-metatags:
+  og:title: "Chain Resolution"
+  description: Defines what it means for a causal chain to reach completion, restoring coherence through direct consequence and integration.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 **Chain Resolution** — the condition under which a causal sequence no longer requires continued execution.
 
 Resolution is not improvement, healing, correction, or insight.  
@@ -109,8 +114,8 @@ No chain closes without resolution.
 
 ## See Also
 
-[[01-The Architecture of Integration/Closing the Chain\|Closing the Chain]]  
-[[01-The Architecture of Integration/Replacement\|Replacement]]  
-[[01-The Architecture of Integration/Chain Persistence and Differentiation\|Chain Persistence and Differentiation]]  
-[[01-The Architecture of Integration/Distorted Chains\|Distorted Chains]]  
-[[12-Terms/Chain Architecture\|Chain Architecture]]
+[[Closing the Chain]]  
+[[Replacement]]  
+[[Chain Persistence and Differentiation]]  
+[[Distorted Chains]]  
+[[Chain Architecture]]

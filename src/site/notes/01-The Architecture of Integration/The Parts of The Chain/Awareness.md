@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Awareness","order":3,"dg-metatags":{"og:title":"Awareness — The Opening Inside the Chain","description":"Awareness is the moment you witness the chain instead of collapsing into it. The pause that creates possibility, and the place where self-mastery becomes usable.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/01-the-architecture-of-integration/the-parts-of-the-chain/awareness/","metatags":{"og:title":"Awareness — The Opening Inside the Chain","description":"Awareness is the moment you witness the chain instead of collapsing into it. The pause that creates possibility, and the place where self-mastery becomes usable.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Awareness
+order: 3
+dg-metatags:
+  og:title: Awareness — The Opening Inside the Chain
+  description: Awareness is the moment you witness the chain instead of collapsing into it. The pause that creates possibility, and the place where self-mastery becomes usable.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 **Awareness** is the point in the chain at which the system becomes capable of perceiving its own internal movement.
 
 Awareness is not regulation, insight, intervention, or control.  
@@ -107,10 +112,10 @@ Awareness is a **necessary condition**, not a sufficient one.
 
 ### **See Also**
 
-[[01-The Architecture of Integration/The Parts of The Chain/Cause\|Cause]]  
-[[01-The Architecture of Integration/The Parts of The Chain/Effect\|Effect]]  
-[[01-The Architecture of Integration/The Parts of The Chain/Choice\|Choice]]  
-[[12-Terms/Chain Architecture\|Chain Architecture]]  
-[[01-The Architecture of Integration/Threat Prediction\|Threat Prediction]]  
-[[12-Terms/Distorted Chain\|Distorted Chain]]  
-[[12-Terms/Chain Split\|Chain Split]]
+[[The Architecture of Integration/The Parts of The Chain/Cause|Cause]]  
+[[The Architecture of Integration/The Parts of The Chain/Effect|Effect]]  
+[[The Architecture of Integration/The Parts of The Chain/Choice|Choice]]  
+[[Chain Architecture]]  
+[[The Architecture of Integration/Threat Prediction|Threat Prediction]]  
+[[Distorted Chain]]  
+[[Chain Split]]

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"The Causal Mediation Principle","order":15,"dg-metatags":{"og:title":"The Causal Mediation Principle","description":"Introduces the principle explaining how systems intercept causal chains, preventing resolution and generating persistent relational loops.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/01-the-architecture-of-integration/the-causal-mediation-principle/","metatags":{"og:title":"The Causal Mediation Principle","description":"Introduces the principle explaining how systems intercept causal chains, preventing resolution and generating persistent relational loops.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: The Causal Mediation Principle
+order: 15
+dg-metatags:
+  og:title: "The Causal Mediation Principle"
+  description: Introduces the principle explaining how systems intercept causal chains, preventing resolution and generating persistent relational loops.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 ### **Definition**
 
 The **Causal Mediation Principle** describes what occurs when an external system intercepts a causal sequence and substitutes its own response in place of natural consequence.
@@ -119,11 +124,11 @@ It fails because **interception and resolution are architecturally incompatible*
 
 ### **See Also**
 
-[[12-Terms/Chain Architecture\|Chain Architecture]]  
-[[12-Terms/Cause and Effect\|Cause and Effect]]  
-[[12-Terms/Systemic Interference\|Terms/Systemic Interference]]  
-[[12-Terms/Secondary Chains\|Secondary Chains]]  
-[[12-Terms/Open Chain State\|Open Chain State]]  
-[[12-Terms/Closed Chain State\|Closed Chain State]]  
-[[01-The Architecture of Integration/Replacement\|Replacement]]  
-[[02-Relational Loop Theory/Relational Loop Mechanics\|Relational Loop Mechanics]]
+[[Chain Architecture]]  
+[[Cause and Effect]]  
+[[Terms/Systemic Interference]]  
+[[Secondary Chains]]  
+[[Open Chain State]]  
+[[Closed Chain State]]  
+[[Replacement]]  
+[[Relational Loop Mechanics]]

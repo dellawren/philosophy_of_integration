@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Biological Architecture","order":4,"dg-metatags":{"og:title":"Biological Architecture","description":"Explores how biological systems embody and constrain causal chains, shaping perception, response, and integration at the organism level.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/01-the-architecture-of-integration/biological-architecture/","metatags":{"og:title":"Biological Architecture","description":"Explores how biological systems embody and constrain causal chains, shaping perception, response, and integration at the organism level.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Biological Architecture
+order: 4
+dg-metatags:
+  og:title: "Biological Architecture"
+  description: Explores how biological systems embody and constrain causal chains, shaping perception, response, and integration at the organism level.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 **Biological Architecture** — the organization of living systems as causal structures that execute, loop under load, and reorganize through replacement rather than repair.
 
 Biological systems do not operate outside the cause-and-effect chain.  
@@ -167,11 +172,11 @@ This note establishes only that **biology follows the same architectural rules a
 
 ## **See Also**
 
-[[12-Terms/Chain Architecture\|Chain Architecture]]  
-[[12-Terms/Cause and Effect\|Cause and Effect]]  
-[[01-The Architecture of Integration/The Parts of The Chain/Effect\|Effect]]  
-[[12-Terms/Distorted Chain\|Distorted Chain]]  
-[[12-Terms/Distortion Loop\|Distortion Loop]]  
-[[12-Terms/Replacement\|Terms/Replacement]]  
-[[12-Terms/Temporal Architecture\|Temporal Architecture]]  
-[[01-The Architecture of Integration/Memory as Architectural Persistence\|Memory as Architectural Persistence]]
+[[Chain Architecture]]  
+[[Cause and Effect]]  
+[[Effect]]  
+[[Distorted Chain]]  
+[[Distortion Loop]]  
+[[Terms/Replacement]]  
+[[Temporal Architecture]]  
+[[Memory as Architectural Persistence]]

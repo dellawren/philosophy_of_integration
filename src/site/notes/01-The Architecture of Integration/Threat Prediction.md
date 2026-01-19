@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Threat Prediction","order":10,"dg-metatags":{"og:title":"Threat Prediction","description":"Examines how predictive mechanisms shape chain behavior, often distorting perception and response in the name of survival.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/01-the-architecture-of-integration/threat-prediction/","metatags":{"og:title":"Threat Prediction","description":"Examines how predictive mechanisms shape chain behavior, often distorting perception and response in the name of survival.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Threat Prediction
+order: 10
+dg-metatags:
+  og:title: "Threat Prediction"
+  description: Examines how predictive mechanisms shape chain behavior, often distorting perception and response in the name of survival.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 ## **Definition**
 
 **Threat Prediction** is a pre-awareness gating function that determines whether awareness can safely enter an active cause–effect chain.
@@ -162,10 +167,10 @@ When awareness becomes viable, distortion becomes differentiable.
 
 ## **See Also**
 
-[[12-Terms/Chain Architecture\|Chain Architecture]]  
-[[12-Terms/Distorted Chain\|Distorted Chain]]  
-[[01-The Architecture of Integration/The Parts of The Chain/Awareness\|Awareness]]  
-[[12-Terms/Protective Emotion\|Protective Emotion]]  
-[[Biological Contraction\|Biological Contraction]]  
-[[12-Terms/Temporal Architecture\|Temporal Architecture]]  
-[[12-Terms/Cause and Effect\|Cause and Effect]]
+[[Chain Architecture]]  
+[[Distorted Chain]]  
+[[Awareness]]  
+[[Protective Emotion]]  
+[[Biological Contraction]]  
+[[Temporal Architecture]]  
+[[Cause and Effect]]

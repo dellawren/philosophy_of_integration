@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Chain Coupling and Load Distribution","order":9,"dg-metatags":{"og:title":"Chain Coupling and Load Distribution","description":"Analyzes how chains interact and share load across systems, relationships, and structures, redistributing consequence and responsibility.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/01-the-architecture-of-integration/chain-coupling-and-load-distribution/","metatags":{"og:title":"Chain Coupling and Load Distribution","description":"Analyzes how chains interact and share load across systems, relationships, and structures, redistributing consequence and responsibility.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Chain Coupling and Load Distribution
+order: 9
+dg-metatags:
+  og:title: "Chain Coupling and Load Distribution"
+  description: Analyzes how chains interact and share load across systems, relationships, and structures, redistributing consequence and responsibility.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 **Chain Coupling** — the interaction of multiple causal chains within a system to distribute load when a single chain exceeds available capacity.
 
 Causal chains do not operate in isolation.  
@@ -146,10 +151,10 @@ Coupled architectures persist until their sustaining conditions no longer exist.
 
 ## **See Also**
 
-[[12-Terms/Primary Chains\|Primary Chains]]  
-[[12-Terms/Secondary Chains\|Secondary Chains]]  
-[[12-Terms/Distortion Loop\|Distortion Loop]]  
-[[12-Terms/Chain Architecture\|Chain Architecture]]  
-[[12-Terms/Replacement\|Terms/Replacement]]  
-[[01-The Architecture of Integration/Closing the Chain\|Closing the Chain]]  
-[[12-Terms/Temporal Architecture\|Temporal Architecture]]
+[[Primary Chains]]  
+[[Secondary Chains]]  
+[[Distortion Loop]]  
+[[Chain Architecture]]  
+[[Terms/Replacement]]  
+[[Closing the Chain]]  
+[[Temporal Architecture]]

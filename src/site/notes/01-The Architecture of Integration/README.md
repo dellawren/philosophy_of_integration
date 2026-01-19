@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"README","order":1,"dg-metatags":{"og:title":"The Architecture of Integration","description":"An overview of the structural framework underlying the Philosophy of Integration, outlining how causal chains function, persist, distort, and resolve.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/01-the-architecture-of-integration/readme/","metatags":{"og:title":"The Architecture of Integration","description":"An overview of the structural framework underlying the Philosophy of Integration, outlining how causal chains function, persist, distort, and resolve.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: README
+order: 1
+dg-metatags:
+  og:title: "The Architecture of Integration"
+  description: An overview of the structural framework underlying the Philosophy of Integration, outlining how causal chains function, persist, distort, and resolve.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 ## Chain Architecture (Overview)
 
 This framework describes the **mechanics of human experience** as a cause-and-effect system.  

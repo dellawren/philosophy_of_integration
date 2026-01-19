@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Time Mirrors Chains","dg-metatags":{"og:title":"Time-Mirrors & Chains: Echoes of the Past in Present Connection","description":"Exploring how time acts as a mirror — how past relationships, patterns, and memories echo through our present chains, shaping connection, perception, and internal structure.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"order":7,"permalink":"/01-the-architecture-of-integration/time-mirrors-chains/","metatags":{"og:title":"Time-Mirrors & Chains: Echoes of the Past in Present Connection","description":"Exploring how time acts as a mirror — how past relationships, patterns, and memories echo through our present chains, shaping connection, perception, and internal structure.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Time Mirrors Chains
+dg-metatags:
+  og:title: "Time-Mirrors & Chains: Echoes of the Past in Present Connection"
+  description: Exploring how time acts as a mirror — how past relationships, patterns, and memories echo through our present chains, shaping connection, perception, and internal structure.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
+order: 7
 ---
-
 **Time is not a universal sequence.**  
 It is a **structural effect produced by causal execution**.
 
@@ -104,7 +109,7 @@ This produces **temporal compression**, not recollection.
 
 Time collapses because execution never exited.
 
-(See [[01-The Architecture of Integration/Memory as Architectural Persistence\|Memory as Architectural Persistence]])
+(See [[Memory as Architectural Persistence]])
 
 ---
 
@@ -178,10 +183,10 @@ Time does not act on chains.
 
 ## **See Also**
 
-[[12-Terms/Chain Architecture\|Chain Architecture]]  
-[[12-Terms/Temporal Architecture\|Temporal Architecture]]  
-[[12-Terms/Circular Time\|Circular Time]]  
-[[01-The Architecture of Integration/Memory as Architectural Persistence\|Memory as Architectural Persistence]]  
-[[Chain Persistence\|Chain Persistence]]  
-[[01-The Architecture of Integration/Replacement\|Replacement]]  
-[[01-The Architecture of Integration/Threat Prediction\|Threat Prediction]]
+[[Chain Architecture]]  
+[[Temporal Architecture]]  
+[[Circular Time]]  
+[[Memory as Architectural Persistence]]  
+[[Chain Persistence]]  
+[[Replacement]]  
+[[Threat Prediction]]

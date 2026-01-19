@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Choice","order":4,"dg-metatags":{"og:title":"Choice — Where the Chain Redirects","description":"Choice is the coherent movement that shifts the next link in the chain. Not reaction, not control — alignment. The moment where integration becomes real.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/01-the-architecture-of-integration/the-parts-of-the-chain/choice/","metatags":{"og:title":"Choice — Where the Chain Redirects","description":"Choice is the coherent movement that shifts the next link in the chain. Not reaction, not control — alignment. The moment where integration becomes real.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Choice
+order: 4
+dg-metatags:
+  og:title: Choice — Where the Chain Redirects
+  description: Choice is the coherent movement that shifts the next link in the chain. Not reaction, not control — alignment. The moment where integration becomes real.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 **Choice** is the point in the chain where more than one causal continuation becomes structurally possible.
 
 Choice is not decision-making, preference, intention, or moral action.  
@@ -79,10 +84,10 @@ Choice is simply the moment when **participation is no longer compulsory**, even
 
 ### **See Also**
 
-[[01-The Architecture of Integration/The Parts of The Chain/Cause\|Cause]]  
-[[01-The Architecture of Integration/The Parts of The Chain/Effect\|Effect]]  
-[[01-The Architecture of Integration/The Parts of The Chain/Awareness\|Awareness]]  
-[[12-Terms/Chain Architecture\|Chain Architecture]]  
-[[12-Terms/Chain Split\|Chain Split]]  
-[[12-Terms/Replacement\|Terms/Replacement]]  
-[[01-The Architecture of Integration/Threat Prediction\|Threat Prediction]]
+[[The Architecture of Integration/The Parts of The Chain/Cause|Cause]]  
+[[The Architecture of Integration/The Parts of The Chain/Effect|Effect]]  
+[[The Architecture of Integration/The Parts of The Chain/Awareness|Awareness]]  
+[[Chain Architecture]]  
+[[Chain Split]]  
+[[Terms/Replacement]]  
+[[The Architecture of Integration/Threat Prediction|Threat Prediction]]

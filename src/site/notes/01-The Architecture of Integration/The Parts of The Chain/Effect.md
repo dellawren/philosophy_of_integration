@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Effect","order":2,"dg-metatags":{"og:title":"Effect — The Unfolding After the Event","description":"Effect is the automatic response to cause — the body’s activation, the mind’s movement, the emotional rise. Not moral, not personal, simply the next link in the chain.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/01-the-architecture-of-integration/the-parts-of-the-chain/effect/","metatags":{"og:title":"Effect — The Unfolding After the Event","description":"Effect is the automatic response to cause — the body’s activation, the mind’s movement, the emotional rise. Not moral, not personal, simply the next link in the chain.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Effect
+order: 2
+dg-metatags:
+  og:title: Effect — The Unfolding After the Event
+  description: Effect is the automatic response to cause — the body’s activation, the mind’s movement, the emotional rise. Not moral, not personal, simply the next link in the chain.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 **Effect** — the automatic continuation of a cause through an existing architecture.
 
 Effect is the immediate execution that occurs when a cause contacts a system.  
@@ -73,9 +78,9 @@ Resolution, looping, or replacement occur only downstream.
 
 ## **See Also**
 
-[[01-The Architecture of Integration/The Parts of The Chain/Cause\|Cause]]  
-[[01-The Architecture of Integration/The Parts of The Chain/Awareness\|Awareness]]  
-[[12-Terms/Distorted Chain\|Distorted Chain]]  
-[[12-Terms/Threat Prediction\|Threat Prediction]]  
-[[12-Terms/Cause and Effect\|Cause and Effect]]  
-[[12-Terms/Chain Architecture\|Chain Architecture]]
+[[Cause]]  
+[[Awareness]]  
+[[Distorted Chain]]  
+[[Threat Prediction]]  
+[[Cause and Effect]]  
+[[Chain Architecture]]

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Architecture vs. Instance","order":3,"dg-metatags":{"og:title":"Architecture vs. Instance","description":"Clarifies the difference between underlying structural patterns and their individual expressions, separating systemic design from lived events.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/01-the-architecture-of-integration/architecture-vs-instance/","metatags":{"og:title":"Architecture vs. Instance","description":"Clarifies the difference between underlying structural patterns and their individual expressions, separating systemic design from lived events.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Architecture vs. Instance
+order: 3
+dg-metatags:
+  og:title: "Architecture vs. Instance"
+  description: Clarifies the difference between underlying structural patterns and their individual expressions, separating systemic design from lived events.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 **Architecture vs. Instance** — the distinction between a causal structure and a single execution of that structure.
 
 Failure to distinguish these produces category error.
@@ -101,9 +106,9 @@ Repetition ceases only when the sustaining structure no longer exists.**
 
 ## See Also
 
-[[12-Terms/Chain Architecture\|Chain Architecture]]  
-[[01-The Architecture of Integration/Memory as Architectural Persistence\|Memory as Architectural Persistence]]  
-[[01-The Architecture of Integration/Distorted Chains\|Distorted Chains]]  
-[[01-The Architecture of Integration/Chain Resolution\|Chain Resolution]]  
-[[01-The Architecture of Integration/Replacement\|Replacement]]  
-[[12-Terms/Temporal Architecture\|Temporal Architecture]]
+[[Chain Architecture]]  
+[[Memory as Architectural Persistence]]  
+[[Distorted Chains]]  
+[[Chain Resolution]]  
+[[Replacement]]  
+[[Temporal Architecture]]

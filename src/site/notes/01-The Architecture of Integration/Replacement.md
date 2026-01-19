@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Replacement","order":11,"dg-metatags":{"og:title":"Replacement","description":"Explores how unresolved chains are often replaced with substitute behaviors or structures, preserving function while avoiding true resolution.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/01-the-architecture-of-integration/replacement/","metatags":{"og:title":"Replacement","description":"Explores how unresolved chains are often replaced with substitute behaviors or structures, preserving function while avoiding true resolution.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Replacement
+order: 11
+dg-metatags:
+  og:title: "Replacement"
+  description: Explores how unresolved chains are often replaced with substitute behaviors or structures, preserving function while avoiding true resolution.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 **Replacement** — the structural termination of a causal chain through the emergence of a more viable causal architecture.
 
 Chains do not stop because they are seen.  
@@ -176,12 +181,12 @@ A chain ends when it no longer solves a real problem.
 
 ## **See Also**
 
-[[12-Terms/Chain Architecture\|Chain Architecture]]  
-[[12-Terms/Distorted Chain\|Distorted Chain]]  
-[[12-Terms/Chain Resolution\|Terms/Chain Resolution]]  
-[[01-The Architecture of Integration/Closing the Chain\|Closing the Chain]]  
-[[12-Terms/Primary Chains\|Primary Chains]]  
-[[12-Terms/Secondary Chains\|Secondary Chains]]  
-[[01-The Architecture of Integration/The Parts of The Chain/Awareness\|Awareness]]  
-[[01-The Architecture of Integration/The Parts of The Chain/Choice\|Choice]]  
-[[12-Terms/Temporal Architecture\|Temporal Architecture]]
+[[Chain Architecture]]  
+[[Distorted Chain]]  
+[[Terms/Chain Resolution]]  
+[[Closing the Chain]]  
+[[Primary Chains]]  
+[[Secondary Chains]]  
+[[Awareness]]  
+[[Choice]]  
+[[Temporal Architecture]]

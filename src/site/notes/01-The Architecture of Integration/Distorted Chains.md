@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Distorted Chains","order":8,"dg-metatags":{"og:title":"Distorted Chains","description":"Describes how causal chains become distorted through interruption, mediation, or misalignment, producing instability and repetition.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/01-the-architecture-of-integration/distorted-chains/","metatags":{"og:title":"Distorted Chains","description":"Describes how causal chains become distorted through interruption, mediation, or misalignment, producing instability and repetition.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Distorted Chains
+order: 8
+dg-metatags:
+  og:title: "Distorted Chains"
+  description: Describes how causal chains become distorted through interruption, mediation, or misalignment, producing instability and repetition.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 ## Definition
 
 A **Distorted Chain** is a cause-effect sequence that formed while one or more required components were unavailable.
@@ -145,10 +150,10 @@ Cause produces effect, awareness may or may not arise, and the next cause follow
 ---
 ## See Also
 
-[[01-The Architecture of Integration/Threat Prediction\|Threat Prediction]]  
-[[12-Terms/Chain Architecture\|Chain Architecture]]  
-[[12-Terms/Distortion Loop\|Distortion Loop]]  
-[[12-Terms/Replacement\|Terms/Replacement]]  
-[[01-The Architecture of Integration/Closing the Chain\|Closing the Chain]]  
-[[01-The Architecture of Integration/Memory as Architectural Persistence\|Memory as Architectural Persistence]]  
-[[12-Terms/Reactive Interpretation\|Reactive Interpretation]]
+[[Threat Prediction]]  
+[[Chain Architecture]]  
+[[Distortion Loop]]  
+[[Terms/Replacement]]  
+[[Closing the Chain]]  
+[[Memory as Architectural Persistence]]  
+[[Reactive Interpretation]]
