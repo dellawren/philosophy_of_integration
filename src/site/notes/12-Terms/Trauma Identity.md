@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"dg-title":"Trauma Identity","dg-metatags":{"og:title":"Trauma Identity","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/12-terms/trauma-identity/","metatags":{"og:title":"Trauma Identity","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Trauma Identity
+dg-metatags:
+  og:title: "Trauma Identity"
+  description: A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 
 **Trauma Identity** — the self-concept built around a distorted chain when trauma becomes part of how a person explains themselves. It is not the trauma itself, but the meaning, narrative, and identity position created to survive it.
 
@@ -13,15 +17,15 @@ Integration does not erase the identity — it dissolves the distortion that cre
 
 > Trauma identity isn’t your truth — it’s your architecture.
 
-See [[06-Human Mechanics/Trauma Inside the Chain\|Trauma Inside the Chain]]  
-See [[12-Terms/Invisible Distortion\|Invisible Distortion]]  
-See [[01-The Architecture of Integration/Memory as Architectural Persistence\|Memory as Architectural Persistence]]  
-See [[12-Terms/Interpretation\|Interpretation]]  
-See [[Identity Architecture\|Identity Architecture]]  
-See [[12-Terms/Neutral Memory\|Neutral Memory]]  
-See [[12-Terms/Story Logic\|Story Logic]]  
-See [[12-Terms/Boundaries\|Boundaries]]  
-See [[12-Terms/Distorted Power\|Distorted Power]]  
-See [[12-Terms/Neutrality\|Neutrality]]  
-See [[01-The Architecture of Integration/Closing the Chain\|Closing the Chain]]  
-See [[13-References/Philosophy of Integration\|Philosophy of Integration]]
+See [[Trauma Inside the Chain]]  
+See [[Invisible Distortion]]  
+See [[Memory as Architectural Persistence]]  
+See [[Interpretation]]  
+See [[Identity Architecture]]  
+See [[Neutral Memory]]  
+See [[Story Logic]]  
+See [[Boundaries]]  
+See [[Distorted Power]]  
+See [[Neutrality]]  
+See [[Closing the Chain]]  
+See [[Philosophy of Integration]]

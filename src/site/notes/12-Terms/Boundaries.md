@@ -1,7 +1,11 @@
 ---
-{"dg-metatags":{"og:title":"Boundaries: The Shape of Coherence","description":"Boundaries are not walls. They are the natural orientation of awareness — the point where responsibility ends, choice begins, and truth replaces negotiation.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dg-publish":true,"dg-title":"Boundaries","permalink":"/12-terms/boundaries/","metatags":{"og:title":"Boundaries: The Shape of Coherence","description":"Boundaries are not walls. They are the natural orientation of awareness — the point where responsibility ends, choice begins, and truth replaces negotiation.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-metatags:
+  og:title: "Boundaries: The Shape of Coherence"
+  description: Boundaries are not walls. They are the natural orientation of awareness — the point where responsibility ends, choice begins, and truth replaces negotiation.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
+dg-publish: true
+dg-title: Boundaries
 ---
-
 **Boundaries** — the structural limit of responsibility within a causal system; the point at which one person’s cause and effect ends and another’s begins.
 
 A boundary is not a rule, defense, or interpersonal tactic.  
@@ -20,7 +24,7 @@ Where boundaries are coherent, interaction stabilizes without negotiation.
 ---
 
 **Linked Terms:**  
-[[12-Terms/Responsibility\|Responsibility]] · [[12-Terms/Choice\|Choice]] · [[12-Terms/Awareness\|Awareness]] · [[12-Terms/Control\|Control]] · [[12-Terms/Cause and Effect\|Cause and Effect]]
+[[Responsibility]] · [[Choice]] · [[Awareness]] · [[Control]] · [[Cause and Effect]]
 
 **See also:**  
-[[12-Terms/Neutrality\|Neutrality]] · [[12-Terms/Sovereignty\|Sovereignty]] · [[08-Relational Notes/Power and Responsibility\|Power and Responsibility]] · [[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[Neutrality]] · [[Sovereignty]] · [[Power and Responsibility]] · [[Philosophy of Integration]]

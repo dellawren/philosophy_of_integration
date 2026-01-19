@@ -1,21 +1,24 @@
 ---
-{"dg-publish":true,"dg-title":"Consequence","dg-metatags":{"og:title":"Consequence","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/12-terms/consequence/","metatags":{"og:title":"Consequence","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Consequence
+dg-metatags:
+  og:title: "Consequence"
+  description: A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
+**Consequence is the observable continuation of cause through time — the way movement makes itself legible in the world.**
 
-**Consequence** is the reflection of movement — the visible echo of cause revealing itself through time.  
-It is not punishment or reward, but the natural continuation of energy returning to coherence.
+It is not punishment or reward, but the relational unfolding of what has already begun. Consequence is how reality discloses alignment or distortion, not by moral judgment, but by feedback.
 
-In Stillhouse philosophy, consequence is how [[12-Terms/Truth\|truth]] makes itself known.  
-It is the mirror through which awareness perceives its own alignment or distortion.  
-Every consequence carries information — not instruction — inviting understanding rather than control.
+Every consequence carries information, not instruction. It reveals what happened, rather than telling us what to do.
 
-When consequence is resisted, distortion repeats.  
-When it is witnessed, balance restores itself without effort.  
-Nothing escapes consequence because nothing stands outside relationship.
+When consequence is resisted, patterns repeat and loops remain open. When it is witnessed and understood, the system can reorganize toward coherence.
 
-> Consequence is how truth remembers where it has been.
+Nothing escapes consequence because nothing exists outside relationship.
+
+> Consequence is how history remains visible in the present.
 
 Links
 
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[Philosophy of Integration]]
 

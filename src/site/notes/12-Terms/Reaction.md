@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"dg-title":"Reaction","dg-metatags":{"og:title":"Reaction","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/12-terms/reaction/","metatags":{"og:title":"Reaction","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Reaction
+dg-metatags:
+  og:title: "Reaction"
+  description: A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 **Reaction** — the collapse of awareness in which the system defaults to survival logic and immediate regulation.
 
 Reaction is not emotion.  
@@ -69,11 +73,11 @@ Reaction is the system prioritizing relief over coherence.
 
 ### **Linked Concepts**
 
-[[12-Terms/Safety\|Safety]]  
-[[12-Terms/Awareness\|Terms/Awareness]]  
-[[12-Terms/Fear\|Fear]]  
-[[12-Terms/Control\|Terms/Control]]  
-[[12-Terms/Survival Logic\|Survival Logic]]  
-[[12-Terms/Capacity\|Capacity]]  
-[[12-Terms/Integration\|Integration]]  
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[Safety]]  
+[[Terms/Awareness]]  
+[[Fear]]  
+[[Terms/Control]]  
+[[Survival Logic]]  
+[[Capacity]]  
+[[Integration]]  
+[[Philosophy of Integration]]

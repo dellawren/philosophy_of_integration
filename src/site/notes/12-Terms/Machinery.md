@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"dg-title":"Machinery","dg-metatags":{"og:title":"Machinery","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/12-terms/machinery/","metatags":{"og:title":"Machinery","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Machinery
+dg-metatags:
+  og:title: "Machinery"
+  description: A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 
 **Machinery** — the internal and systemic mechanisms that sustain fragmentation through control, fear, and performance.
 
@@ -11,6 +15,6 @@ Where Integration restores coherence through awareness, the Machinery maintains 
 
 > “The Machinery doesn’t punish you; it preserves the illusion that you still need to be fixed.”
 
-See [[13-References/Philosophy of Integration\|Philosophy of Integration]]
-See also [[13-References/Commentary on Cause and Effect (The Seeing)\|Commentary on Cause and Effect (The Seeing)]], [[The Practice of Integration (How)\|The Practice of Integration (How)]]
+See [[Philosophy of Integration]]
+See also [[Commentary on Cause and Effect (The Seeing)]], [[The Practice of Integration (How)]]
 

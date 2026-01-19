@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"dg-title":"Effect","dg-metatags":{"og:title":"Effect","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/12-terms/effect/","metatags":{"og:title":"Effect","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Effect
+dg-metatags:
+  og:title: "Effect"
+  description: A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 **Effect** — the registered outcome of a cause within a causal sequence.
 
 Effect is not an ending, consequence, or punishment.  
@@ -23,7 +27,7 @@ It makes the chain visible.
 ---
 
 **Linked Terms:**  
-[[12-Terms/Cause\|Cause]] • [[12-Terms/Cause and Effect\|Cause and Effect]] • [[12-Terms/Awareness\|Awareness]] • [[12-Terms/Coherence\|Coherence]] • [[12-Terms/Distorted Chain\|Distorted Chain]]
+[[Cause]] • [[Cause and Effect]] • [[Awareness]] • [[Coherence]] • [[Distorted Chain]]
 
 **See also:**  
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[Philosophy of Integration]]

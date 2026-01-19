@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"dg-title":"Narrative Self","dg-metatags":{"og:title":"Narrative Self","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/12-terms/narrative-self/","metatags":{"og:title":"Narrative Self","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Narrative Self
+dg-metatags:
+  og:title: "Narrative Self"
+  description: A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 
 **Narrative Self** — the version of identity constructed from memory, meaning, emotion, and story logic rather than direct awareness.
 
@@ -11,5 +15,5 @@ Within Integration, the narrative self is recognized as an artefact of story log
 
 > The narrative self is what you become when the story speaks louder than you do.
 
-**Linked Terms:** [[12-Terms/Story Logic\|Story Logic]], [[12-Terms/Identity\|Terms/Identity]], [[12-Terms/Neutral Memory\|Neutral Memory]], [[12-Terms/Neutrality\|Neutrality]], [[12-Terms/Distortion\|Distortion]], [[12-Terms/Awareness\|Awareness]]  
-**See also:** Narrative Mind, [[12-Terms/Integration\|Integration]], [[12-Terms/Coherence\|Coherence]]
+**Linked Terms:** [[Story Logic]], [[Terms/Identity]], [[Neutral Memory]], [[Terms/Neutrality|Neutrality]], [[Distortion]], [[Terms/Awareness|Awareness]]  
+**See also:** Narrative Mind, [[Integration]], [[Coherence]]

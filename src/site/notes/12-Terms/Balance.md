@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"dg-title":"Balance","dg-metatags":{"og:title":"Balance","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/12-terms/balance/","metatags":{"og:title":"Balance","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Balance
+dg-metatags:
+  og:title: "Balance"
+  description: A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 **Balance** — the dynamic expression of coherence in motion; the way a system naturally self-regulates through cause and effect without external control.
 
 Balance is not symmetry, fairness, or stability held in place.  
@@ -21,7 +25,7 @@ When interference stops, balance resumes automatically.
 ---
 
 **Linked Terms:**  
-[[12-Terms/Coherence\|Coherence]] · [[12-Terms/Cause and Effect\|Cause and Effect]] · [[12-Terms/Integration\|Integration]] · [[12-Terms/Non-Interference\|Non-Interference]]
+[[Coherence]] · [[Cause and Effect]] · [[Integration]] · [[Non-Interference]]
 
 **See also:**  
-[[08-Relational Notes/Consequence Without Condemnation\|Consequence Without Condemnation]] · [[08-Relational Notes/Control and Coherence\|Control and Coherence]] · [[08-Relational Notes/Power and Responsibility\|Power and Responsibility]] · [[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[Consequence Without Condemnation]] · [[Control and Coherence]] · [[Power and Responsibility]] · [[Philosophy of Integration]]

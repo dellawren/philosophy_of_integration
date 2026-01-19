@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"dg-title":"Existentialism","dg-metatags":{"og:title":"Existentialism","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/12-terms/existentialism/","metatags":{"og:title":"Existentialism","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Existentialism
+dg-metatags:
+  og:title: "Existentialism"
+  description: A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 **Existentialism** — a philosophical position that places human freedom, choice, and responsibility at the center of existence in the absence of inherent or pre-given meaning.
 
 Existentialism begins from the claim that life does not arrive with an assigned purpose. Meaning, value, and direction are understood as human constructions rather than objective features of reality. Within this view, individuals are responsible for how they act, choose, and relate to the conditions of their existence.
@@ -16,4 +20,4 @@ It only requires awareness.
 ---
 
 **See also:**  
-[[05-Philosophical Foundations/Existentialism & Integration\|Existentialism & Integration]] • [[13-References/Philosophy of Integration\|Philosophy of Integration]] • [[12-Terms/Choice\|Choice]] • [[12-Terms/Cause and Effect\|Cause and Effect]]
+[[Existentialism & Integration]] • [[Philosophy of Integration]] • [[Choice]] • [[Cause and Effect]]

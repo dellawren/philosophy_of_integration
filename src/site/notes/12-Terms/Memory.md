@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"dg-title":"Memory","dg-metatags":{"og:title":"Memory","description":"A Stillhouse definition of memory as the structural consequence of completed or incomplete chains, distinguishing neutral memory from looping or charged memory.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/12-terms/memory/","metatags":{"og:title":"Memory","description":"A Stillhouse definition of memory as the structural consequence of completed or incomplete chains, distinguishing neutral memory from looping or charged memory.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Memory
+dg-metatags:
+  og:title: "Memory"
+  description: "A Stillhouse definition of memory as the structural consequence of completed or incomplete chains, distinguishing neutral memory from looping or charged memory."
+  og:image: "https://philosophy.dellawren.com/img/user/customheader.jpg"
 ---
-
 **Memory** — the record of previous chains held in the system, not as story, but as stored consequence. Memory is not the past; it is the architecture the past created.
 
 Memory forms when an experience completes and returns to sequence. The system stores the resolved loop as information — neutral, accessible, and free of charge. But when an experience does _not_ complete, memory does not settle into the past. It remains active, charged, looping, and capable of colouring the present through distorted time and reactive interpretation.
@@ -13,7 +17,7 @@ In Integration, memory is neither threat nor identity. It is neutral data. Traum
 > “Memory is not the story. Memory is the structure the story left behind.”
 
 **Linked Terms:**  
-[[01-The Architecture of Integration/Memory as Architectural Persistence\|Memory as Architectural Persistence]] • [[12-Terms/Looping Memory\|Looping Memory]] • [[12-Terms/Neutral Memory\|Neutral Memory]] • [[12-Terms/Trauma\|Terms/Trauma]] • [[12-Terms/Distorted Time\|Distorted Time]] • [[12-Terms/Survival Logic\|Survival Logic]]
+[[Memory as Architectural Persistence]] • [[Looping Memory]] • [[Neutral Memory]] • [[Terms/Trauma]] • [[Distorted Time]] • [[Survival Logic]]
 
 **See also:**  
-[[12-Terms/Trauma Identity\|Trauma Identity]] • [[12-Terms/Interpretation\|Interpretation]] • [[01-The Architecture of Integration/Closing the Chain\|Closing the Chain]]
+[[Trauma Identity]] • [[Interpretation]] • [[Closing the Chain]]

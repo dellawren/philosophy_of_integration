@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"dg-title":"Sovereignty","dg-metatags":{"og:title":"Sovereignty","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/12-terms/sovereignty/","metatags":{"og:title":"Sovereignty","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Sovereignty
+dg-metatags:
+  og:title: "Sovereignty"
+  description: A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 **Sovereignty** — the structural fact that only the actor within a causal sequence has direct access to its internal conditions, perception, and thresholds of awareness.
 
 Within the framework, sovereignty is not autonomy, independence, or authority.  
@@ -49,10 +53,10 @@ Without sovereignty, systems default to control, moral intrusion, or interpretiv
 
 ### **Linked Concepts**
 
-[[12-Terms/Non-Interference\|Non-Interference]]  
-[[12-Terms/Structural Trust\|Structural Trust]]  
-[[12-Terms/Responsibility\|Terms/Responsibility]]  
-[[12-Terms/Boundaries\|Boundaries]]  
-[[12-Terms/Neutrality\|Neutrality]]  
-[[12-Terms/Cause and Effect\|Cause and Effect]]  
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[Non-Interference]]  
+[[Structural Trust]]  
+[[Terms/Responsibility]]  
+[[Boundaries]]  
+[[Neutrality]]  
+[[Cause and Effect]]  
+[[Philosophy of Integration]]

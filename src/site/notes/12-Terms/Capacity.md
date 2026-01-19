@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"dg-title":"Capacity","dg-metatags":{"og:title":"Capacity: The Threshold Between Awareness and Distortion","description":"A Stillhouse definition of capacity as the system’s ability to hold experience without collapsing into distortion, survival logic, or reactive interpretation.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/12-terms/capacity/","metatags":{"og:title":"Capacity: The Threshold Between Awareness and Distortion","description":"A Stillhouse definition of capacity as the system’s ability to hold experience without collapsing into distortion, survival logic, or reactive interpretation.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Capacity
+dg-metatags:
+  og:title: "Capacity: The Threshold Between Awareness and Distortion"
+  description: "A Stillhouse definition of capacity as the system’s ability to hold experience without collapsing into distortion, survival logic, or reactive interpretation."
+  og:image: "https://philosophy.dellawren.com/img/user/customheader.jpg"
 ---
-
 **Capacity** — the amount of experience a system can hold **without reorganizing into protective architecture**.
 
 Within the framework, capacity refers to **available awareness**, not skill, resilience, emotional intelligence, or regulation.
@@ -50,9 +54,9 @@ It describes **what the system can currently hold**.
 
 ### **Linked Concepts**
 
-[[12-Terms/Trauma\|Trauma]]  
-[[12-Terms/Survival Logic\|Survival Logic]]  
-[[12-Terms/Story Logic\|Story Logic]]  
-[[12-Terms/Neutrality\|Neutrality]]  
-[[01-The Architecture of Integration/Memory as Architectural Persistence\|Memory as Architectural Persistence]]  
-[[01-The Architecture of Integration/Closing the Chain\|Closing the Chain]]
+[[Terms/Trauma|Trauma]]  
+[[Survival Logic]]  
+[[Story Logic]]  
+[[Terms/Neutrality|Neutrality]]  
+[[Memory as Architectural Persistence]]  
+[[Closing the Chain]]

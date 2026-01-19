@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"dg-title":"Protective Emotion","dg-metatags":{"og:title":"Protective Emotion","description":"A Stillhouse definition of protective emotion as the emotional architecture that emerges when the system contracts around survival and carries an unprocessed event.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/12-terms/protective-emotion/","metatags":{"og:title":"Protective Emotion","description":"A Stillhouse definition of protective emotion as the emotional architecture that emerges when the system contracts around survival and carries an unprocessed event.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Protective Emotion
+dg-metatags:
+  og:title: "Protective Emotion"
+  description: "A Stillhouse definition of protective emotion as the emotional architecture that emerges when the system contracts around survival and carries an unprocessed event."
+  og:image: "https://philosophy.dellawren.com/img/user/customheader.jpg"
 ---
-
 **Protective Emotion** — the emotional response generated when the system contracts around survival logic instead of awareness. It is emotion acting as architecture, not expression.
 
 Protective emotion arises when capacity is exceeded and the chain bends. Fear, anger, shame, withdrawal, collapse, defensiveness, and even numbness can function as protective emotion. These states are not reactions to the present moment — they are guardians of an internal event the system could not complete.
@@ -13,7 +17,7 @@ In Integration, protective emotion is not suppressed or corrected. It is recogni
 > “Protective emotion shields the place awareness couldn’t reach.”
 
 **Linked Terms:**  
-[[12-Terms/Trauma\|Terms/Trauma]] • [[12-Terms/Survival Logic\|Survival Logic]] • [[Fragmentation\|Fragmentation]] • [[12-Terms/Distorted Time\|Distorted Time]] • [[12-Terms/Looping Memory\|Looping Memory]] • [[12-Terms/Reactive Interpretation\|Reactive Interpretation]]
+[[Terms/Trauma]] • [[Survival Logic]] • [[Fragmentation]] • [[Distorted Time]] • [[Looping Memory]] • [[Reactive Interpretation]]
 
 **See also:**  
-[[12-Terms/Boundaries\|Boundaries]] • [[12-Terms/Cruelty\|Cruelty]] • [[12-Terms/Trauma Identity\|Trauma Identity]] • [[01-The Architecture of Integration/Memory as Architectural Persistence\|Memory as Architectural Persistence]]• [[01-The Architecture of Integration/Closing the Chain\|Closing the Chain]]
+[[Boundaries]] • [[Cruelty]] • [[Trauma Identity]] • [[Memory as Architectural Persistence]]• [[Closing the Chain]]

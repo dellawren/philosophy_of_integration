@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"dg-title":"Safety","dg-metatags":{"og:title":"Safety","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/12-terms/safety/","metatags":{"og:title":"Safety","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Safety
+dg-metatags:
+  og:title: "Safety"
+  description: A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 **Safety** — the nervous system’s recognition that awareness can remain present without immediate threat.
 
 Safety is not the absence of danger, risk, or uncertainty. It is the internal condition that allows perception to stay open without triggering survival override. Within the Philosophy of Integration, safety describes the threshold at which awareness becomes available rather than contracted.
@@ -13,5 +17,5 @@ Safety is therefore a prerequisite for coherence, not a guarantee of comfort. It
 Safety marks the point where the system no longer needs to defend against experience in order to remain intact.
 
 **See also:**  
-[[13-References/Philosophy of Integration\|Philosophy of Integration]] • [[12-Terms/Fear\|Fear]] • [[12-Terms/Control\|Control]] • [[12-Terms/Awareness\|Awareness]] • [[12-Terms/Integration\|Integration]] • [[12-Terms/Freedom\|Freedom]]
+[[Philosophy of Integration]] • [[Fear]] • [[Control]] • [[Awareness]] • [[Integration]] • [[Freedom]]
 

@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"dg-title":"Replacing The Chain","dg-metatags":{"og:title":"Replacing The Chain","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/12-terms/replacing-the-chain/","metatags":{"og:title":"Replacing The Chain","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Replacing The Chain
+dg-metatags:
+  og:title: "Replacing The Chain"
+  description: A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 **Replacing the Chain** — the structural shift in which a distorted causal architecture is superseded by a coherent one through withdrawal of participation.
 
 Within the framework, replacement is not repair, healing, or transformation of the existing chain.  
@@ -50,9 +54,9 @@ Replacement is immediate once the system recognizes which architecture is cohere
 
 ### **Linked Concepts**
 
-[[12-Terms/Chain Split\|Chain Split]]  
-[[12-Terms/Replacement\|Terms/Replacement]]  
-[[12-Terms/Interpretation\|Interpretation]]  
-[[Structural Awareness\|Structural Awareness]]  
-[[12-Terms/Coherence\|Coherence]]  
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[Chain Split]]  
+[[Terms/Replacement]]  
+[[Interpretation]]  
+[[Structural Awareness]]  
+[[Coherence]]  
+[[Philosophy of Integration]]

@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"dg-title":"Chain Jumping","dg-metatags":{"og:title":"Chain Jumping","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/12-terms/chain-jumping/","metatags":{"og:title":"Chain Jumping","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Chain Jumping
+dg-metatags:
+  og:title: "Chain Jumping"
+  description: A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 **Chain Jumping** — the transition from one causal architecture to another through non-participation in a distorted chain.
 
 Chain jumping occurs when awareness disengages from a looping or distorted causal sequence and enters a coherent sequence without mediation, repair, or gradual resolution. The subjective experience may feel abrupt or discontinuous, but the shift is structural rather than metaphysical.
@@ -15,4 +19,4 @@ Chain jumping is therefore the experiential result of moving from **circular tim
 ---
 
 **See also:**  
-[[12-Terms/Temporal Architecture\|Temporal Architecture]] · [[12-Terms/Circular Time\|Circular Time]] · [[12-Terms/Replacement\|Replacement]] · [[12-Terms/Cause and Effect\|Cause and Effect]] · [[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[Temporal Architecture]] · [[Circular Time]] · [[Replacement]] · [[Cause and Effect]] · [[Philosophy of Integration]]

@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"dg-title":"Primary Chains","dg-metatags":{"og:title":"Primary Chains","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/12-terms/primary-chains/","metatags":{"og:title":"Primary Chains","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Primary Chains
+dg-metatags:
+  og:title: "Primary Chains"
+  description: A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 Foundational causal sequences formed in response to overwhelming conditions.
 
 Primary Chains arise when a system is exposed to load that exceeds its capacity to process, escape, or interrupt. They are not chosen, symbolic, or interpretive. They are **direct effects of cause and effect operating under constraint**.
@@ -13,7 +17,7 @@ Primary Chains are frequently misunderstood as identity, pathology, or personal 
 > “Where capacity is exceeded, coherence reorganizes around survival.”
 
 **References:**  
-[[12-Terms/Chain Architecture\|Chain Architecture]]  
-[[06-Human Mechanics/Trauma Inside the Chain\|Trauma Inside the Chain]]  
-[[12-Terms/Cause and Effect\|Cause and Effect]]  
-[[12-Terms/Threat Prediction\|Terms/Threat Prediction]]
+[[Chain Architecture]]  
+[[Trauma Inside the Chain]]  
+[[Cause and Effect]]  
+[[Terms/Threat Prediction]]

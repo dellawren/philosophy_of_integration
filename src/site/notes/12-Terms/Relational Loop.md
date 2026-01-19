@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"dg-title":"Relational Loop","dg-metatags":{"og:title":"Relational Loop","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/12-terms/relational-loop/","metatags":{"og:title":"Relational Loop","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Relational Loop
+dg-metatags:
+  og:title: "Relational Loop"
+  description: A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 **Relational Loop** — a persistent pattern of interaction created when causal consequence between two or more actors cannot complete.
 
 A relational loop is not a psychological dynamic, emotional pattern, or behavioral issue. It is a **structural condition** that exists within the relationship itself.
@@ -28,8 +32,8 @@ Relational loops are stable, not accidental. They continue until causal conseque
 ---
 
 **See also:**  
-[[02-Relational Loop Theory/Relational Loop Theory\|Relational Loop Theory]]  
-[[12-Terms/Causal Mediation Principle\|Causal Mediation Principle]]  
-[[12-Terms/Causality\|Causality]]  
-[[12-Terms/Responsibility\|Responsibility]]  
-[[12-Terms/Control\|Control]]
+[[Relational Loop Theory]]  
+[[Causal Mediation Principle]]  
+[[Causality]]  
+[[Responsibility]]  
+[[Control]]

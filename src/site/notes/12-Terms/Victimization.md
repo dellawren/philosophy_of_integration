@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"dg-title":"Victimization","dg-metatags":{"og:title":"Victimization","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/12-terms/victimization/","metatags":{"og:title":"Victimization","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Victimization
+dg-metatags:
+  og:title: "Victimization"
+  description: A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 
 **Victimization** — the persistence of identity organized around a past harm after the original causal event has ended.
 
@@ -42,9 +46,9 @@ Victimization dissolves structurally when identity detaches from the narrative a
 
 ### **Linked Concepts**
 
-[[12-Terms/Shame\|Shame]]  
-[[12-Terms/Guilt\|Guilt]]  
-[[12-Terms/Story Logic\|Story Logic]]   
-[[08-Relational Notes/Power and Responsibility\|Power and Responsibility]]  
-[[12-Terms/Integration\|Integration]]  
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[Shame]]  
+[[Guilt]]  
+[[Story Logic]]   
+[[Power and Responsibility]]  
+[[Integration]]  
+[[Philosophy of Integration]]

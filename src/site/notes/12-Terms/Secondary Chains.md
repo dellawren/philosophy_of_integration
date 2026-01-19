@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"dg-title":"Secondary Chains","dg-metatags":{"og:title":"Secondary Chains","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/12-terms/secondary-chains/","metatags":{"og:title":"Secondary Chains","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Secondary Chains
+dg-metatags:
+  og:title: "Secondary Chains"
+  description: A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 **Secondary Chains** — causal sequences that regulate, distribute, or contain the effects of an active primary chain.
 
 Secondary chains do not originate experience. They form in response to it. Their function is to manage intensity, reduce volatility, and maintain system continuity while primary causal effects remain unresolved.
@@ -13,4 +17,4 @@ Secondary chains do not resolve causality. They stabilize it. They remain active
 Secondary chains are functional, not defensive, and should not be removed through interference. Premature disruption increases systemic strain and destabilization.
 
 **See also:**  
-[[12-Terms/Primary Chains\|Primary Chains]] • [[12-Terms/Chain Resolution\|Chain Resolution]] • [[12-Terms/Non-Interference\|Non-Interference]] • [[12-Terms/Cause and Effect\|Cause and Effect]] • [[12-Terms/Survival Logic\|Survival Logic]]
+[[Primary Chains]] • [[Chain Resolution]] • [[Non-Interference]] • [[Cause and Effect]] • [[Survival Logic]]

@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"dg-title":"Distorted Power","dg-metatags":{"og:title":"Distorted Power","description":"Distorted power is not power. It is the reactive reach for control when awareness cannot hold the internal state. True power returns when presence does.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/12-terms/distorted-power/","metatags":{"og:title":"Distorted Power","description":"Distorted power is not power. It is the reactive reach for control when awareness cannot hold the internal state. True power returns when presence does.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Distorted Power
+dg-metatags:
+  og:title: "Distorted Power"
+  description: "Distorted power is not power. It is the reactive reach for control when awareness cannot hold the internal state. True power returns when presence does."
+  og:image: "https://philosophy.dellawren.com/img/user/customheader.jpg"
 ---
-
 **Distorted Power** — the use of control, coercion, dominance, or emotional force to produce safety or stability in the absence of awareness.
 
 Distorted power is not power itself but a **compensatory behaviour** that arises when a system cannot hold its internal state. Instead of regulating internally, the system attempts to regulate externally by shaping, managing, or constraining others.
@@ -13,7 +17,7 @@ Within the framework, distorted power is the structural opposite of integrated p
 > Distorted power imitates authority; power requires none.
 
 **Linked Terms:**  
-[[12-Terms/Cruelty\|Cruelty]] · [[12-Terms/Control\|Terms/Control]] · [[12-Terms/Fear\|Fear]] · [[12-Terms/Power\|Terms/Power]]
+[[Cruelty]] · [[Terms/Control]] · [[Fear]] · [[Terms/Power]]
 
 **See also:**  
-[[12-Terms/Responsibility\|Terms/Responsibility]] · [[12-Terms/Coherence\|Coherence]] · [[12-Terms/Boundaries\|Terms/Boundaries]] · [[08-Relational Notes/Cruelty and Power\|Cruelty and Power]] · [[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[Terms/Responsibility]] · [[Coherence]] · [[Terms/Boundaries]] · [[Cruelty and Power]] · [[Philosophy of Integration]]

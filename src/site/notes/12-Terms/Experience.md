@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"dg-title":"Experience","dg-metatags":{"og:title":"Experience","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/12-terms/experience/","metatags":{"og:title":"Experience","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Experience
+dg-metatags:
+  og:title: "Experience"
+  description: A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 
 **Experience** — the immediate occurrence of reality as registered by awareness.
 
@@ -17,4 +21,4 @@ Experience cannot be wrong.
 It can only be met or overwritten.
 
 **See also:**  
-[[12-Terms/Awareness\|Terms/Awareness]] • [[12-Terms/Emotion\|Emotion]] • [[12-Terms/Effect\|Effect]] • [[12-Terms/Phenomenology\|Phenomenology]] • [[12-Terms/Cause and Effect\|Cause and Effect]] • [[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[Terms/Awareness]] • [[Emotion]] • [[Effect]] • [[Phenomenology]] • [[Cause and Effect]] • [[Philosophy of Integration]]

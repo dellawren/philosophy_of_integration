@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Causality","dg-metatags":{"og:title":"Causality","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/12-terms/causality/","metatags":{"og:title":"Causality","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
----
+dg-publish: true
+dg-title: Causality
+dg-metatags:
+  og:title: "Causality"
+  description: A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 
+---
 **Causality** — the structural relationship through which conditions give rise to effects.
 
 Causality is descriptive, not moral. It does not assign meaning, value, intention, or purpose. It describes how conditions propagate, whether or not they are recognized, understood, or accepted.
@@ -27,8 +32,8 @@ Causality is not determinism. The presence of causality does not imply inevitabi
 ---
 
 **See also:**  
-[[12-Terms/Causal Mediation Principle\|Causal Mediation Principle]]  
-[[02-Relational Loop Theory/Relational Loop Theory\|Relational Loop Theory]]  
-[[12-Terms/Effect\|Effect]]  
-[[Chain\|Chain]]  
-[[12-Terms/Responsibility\|Responsibility]]
+[[Causal Mediation Principle]]  
+[[Relational Loop Theory]]  
+[[Effect]]  
+[[Chain]]  
+[[Responsibility]]

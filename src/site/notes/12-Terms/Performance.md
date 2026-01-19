@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"dg-title":"Performance","dg-metatags":{"og:title":"Performance","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/12-terms/performance/","metatags":{"og:title":"Performance","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Performance
+dg-metatags:
+  og:title: "Performance"
+  description: A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 **Performance** — the behavioural expression of an inherited chain where a person behaves according to expectation, approval, or safety rather than truth.
 
 Performance is what happens when identity merges with survival logic. Instead of responding from awareness, the person enacts the role that keeps the system stable — the “good one,” the agreeable one, the competent one, the quiet one, the strong one, the responsible one. Performance feels natural because it grew alongside the distorted chain that shaped it.
@@ -13,4 +17,4 @@ Performance dissolves automatically when the chain is replaced. There is no need
 > “Performance isn’t who you are — it’s who the distortion needed you to be.”
 
 **See also:**  
-[[Identity Architecture\|Identity Architecture]], [[12-Terms/Invisible Distortion\|Invisible Distortion]], [[12-Terms/Survival Logic\|Survival Logic]], [[12-Terms/Belonging\|Belonging]], [[12-Terms/Human Rules\|Human Rules]], [[12-Terms/Human Systems\|Human Systems]], [[12-Terms/Coherence\|Coherence]]
+[[Identity Architecture]], [[Invisible Distortion]], [[Survival Logic]], [[Belonging]], [[Human Rules]], [[Human Systems]], [[Coherence]]

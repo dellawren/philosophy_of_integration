@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"dg-title":"Emotion","dg-metatags":{"og:title":"Emotion","description":"Emotion defined within the Architecture of Integration — not identity, not story, but the body’s immediate effect in response to cause.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/12-terms/emotion/","metatags":{"og:title":"Emotion","description":"Emotion defined within the Architecture of Integration — not identity, not story, but the body’s immediate effect in response to cause.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Emotion
+dg-metatags:
+  og:title: "Emotion"
+  description: "Emotion defined within the Architecture of Integration — not identity, not story, but the body’s immediate effect in response to cause."
+  og:image: "https://philosophy.dellawren.com/img/user/customheader.jpg"
 ---
-
 **Emotion** — the immediate internal effect produced by a causal chain.
 
 Emotion is not identity, meaning, belief, or story.  
@@ -24,7 +28,7 @@ It is something to **allow to register and pass**.
 ---
 
 **Linked Terms:**  
-[[12-Terms/Effect\|Effect]] • [[12-Terms/Cause and Effect\|Cause and Effect]] • [[12-Terms/Fear as Effect\|Fear as Effect]] • [[12-Terms/Awareness\|Awareness]] • [[12-Terms/Neutral Memory\|Neutral Memory]]
+[[Effect]] • [[Cause and Effect]] • [[Fear as Effect]] • [[Awareness]] • [[Neutral Memory]]
 
 **See also:**  
-[[12-Terms/Trauma Identity\|Trauma Identity]] • [[12-Terms/Distorted Chain\|Distorted Chain]] • [[12-Terms/Interpretation\|Interpretation]]
+[[Trauma Identity]] • [[Distorted Chain]] • [[Interpretation]]

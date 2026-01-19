@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"dg-title":"Fear as Effect","dg-metatags":{"og:title":"Fear as Effect","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/12-terms/fear-as-effect/","metatags":{"og:title":"Fear as Effect","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Fear as Effect
+dg-metatags:
+  og:title: "Fear as Effect"
+  description: A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 **Fear as Effect** — the physiological and emotional signal produced by a disrupted or distorted chain, reflecting the internal state of the architecture rather than the external conditions themselves.
 
 Within the framework, fear is not a cause, directive, or truth indicator.  
@@ -40,8 +44,8 @@ Fear is a signal of architecture, not a map of reality.
 
 ### **Linked Concepts**
 
-[[12-Terms/Distortion\|Distortion]]  
-[[12-Terms/Distortion Loop\|Distortion Loop]]  
-[[12-Terms/Chain Architecture\|Chain Architecture]]  
-[[12-Terms/Invisible Distortion\|Invisible Distortion]]  
-[[12-Terms/Trauma\|Trauma]]
+[[Distortion]]  
+[[Distortion Loop]]  
+[[Chain Architecture]]  
+[[Invisible Distortion]]  
+[[Terms/Trauma|Trauma]]

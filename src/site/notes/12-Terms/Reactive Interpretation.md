@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"dg-title":"Reactive Interpretation","dg-metatags":{"og:title":"Reactive Interpretation","description":"A Stillhouse definition of reactive interpretation as the meaning generated when awareness is unavailable and the chain organizes itself around survival rather than truth.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/12-terms/reactive-interpretation/","metatags":{"og:title":"Reactive Interpretation","description":"A Stillhouse definition of reactive interpretation as the meaning generated when awareness is unavailable and the chain organizes itself around survival rather than truth.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Reactive Interpretation
+dg-metatags:
+  og:title: "Reactive Interpretation"
+  description: "A Stillhouse definition of reactive interpretation as the meaning generated when awareness is unavailable and the chain organizes itself around survival rather than truth."
+  og:image: "https://philosophy.dellawren.com/img/user/customheader.jpg"
 ---
-
 **Reactive Interpretation** — the meaning the system generates when awareness is unavailable and the chain is being driven by survival logic instead of truth.
 
 Reactive interpretation is not perception; it is protection. When the system is overwhelmed, contracted, or fragmented, it fills in gaps with fear, memory, assumption, or story logic. The interpretation appears accurate because it stabilizes the moment emotionally, not because it reflects reality.
@@ -13,7 +17,7 @@ In Integration, reactive interpretation is understood as architecture, not ident
 > “Interpretation protects when awareness cannot.”
 
 **Linked Terms:**  
-[[12-Terms/Survival Logic\|Survival Logic]] • [[12-Terms/Story Logic\|Story Logic]] • [[12-Terms/Protective Emotion\|Protective Emotion]] • [[12-Terms/Distorted Time\|Distorted Time]] • [[12-Terms/Looping Memory\|Looping Memory]]
+[[Survival Logic]] • [[Story Logic]] • [[Protective Emotion]] • [[Distorted Time]] • [[Looping Memory]]
 
 **See also:**  
-[[12-Terms/Distortion Loop\|Distortion Loop]] • [[12-Terms/Trauma\|Terms/Trauma]] • [[12-Terms/Trauma Identity\|Trauma Identity]] • [[12-Terms/Neutrality\|Neutrality]]
+[[Distortion Loop]] • [[Terms/Trauma]] • [[Trauma Identity]] • [[Neutrality]]
