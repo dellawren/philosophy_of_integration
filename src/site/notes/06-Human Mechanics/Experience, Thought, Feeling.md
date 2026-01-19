@@ -1,12 +1,17 @@
 ---
-{"dg-publish":true,"order":1,"dg-title":"Experience, Thought, Feeling","dg-metatags":{"og:title":"Experience, Thought, and Feeling","description":"Examines how experience, thought, and feeling arise as sequential expressions of causal chains within human awareness.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/06-human-mechanics/experience-thought-feeling/","metatags":{"og:title":"Experience, Thought, and Feeling","description":"Examines how experience, thought, and feeling arise as sequential expressions of causal chains within human awareness.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+order: 1
+dg-title: Experience, Thought, Feeling
+dg-metatags:
+  og:title: "Experience, Thought, and Feeling"
+  description: Examines how experience, thought, and feeling arise as sequential expressions of causal chains within human awareness.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 Human causal processing occurs through three distinct domains: **experience**, **thought**, and **feeling**.
 
 Each domain registers and propagates causal information differently. None of the three operates independently, and none defines reality on its own.
 
-Together, they form the primary human interface with [[12-Terms/Causality\|Causality]] and [[12-Terms/Chain Architecture\|Chain Architecture]].
+Together, they form the primary human interface with [[Causality]] and [[Chain Architecture]].
 
 ---
 
@@ -29,8 +34,8 @@ It reflects conditions as they are encountered, not what they signify.
 Experience provides the raw input upon which later processing depends.
 
 See:  
-[[06-Human Mechanics/Early Chain Formation\|Early Chain Formation]]  
-[[06-Human Mechanics/Biological Mirrors of The Chain\|Biological Mirrors of the Chain]]
+[[Early Chain Formation]]  
+[[Biological Mirrors of the Chain]]
 
 ---
 
@@ -52,9 +57,9 @@ Thought operates downstream of experience and upstream of action.
 Under distortion, thought may organize around incomplete or unresolved sequences.
 
 See:  
-[[12-Terms/Invisible Distortion\|Invisible Distortion]]  
-[[12-Terms/Identity\|Identity]]  
-[[12-Terms/Survival Logic\|Survival Logic]]
+[[Invisible Distortion]]  
+[[Identity]]  
+[[Survival Logic]]
 
 ---
 
@@ -73,8 +78,8 @@ Feeling signals the internal impact of causal movement. It does not describe ext
 Feeling operates downstream of both experience and thought and provides rapid feedback about internal coherence.
 
 See:  
-[[12-Terms/Fear as Effect\|Fear as Effect]]  
-[[06-Human Mechanics/Trauma Inside the Chain\|Trauma Inside the Chain]]
+[[Fear as Effect]]  
+[[Trauma Inside the Chain]]
 
 ---
 
@@ -91,8 +96,8 @@ Under stable conditions, these processes align without conflict.
 Under sustained distortion or interruption, divergence appears between them. This divergence reflects structural conditions within the chain, not error or failure.
 
 See:  
-[[12-Terms/Distorted Chain\|Distorted Chain]]  
-[[12-Terms/Temporal Architecture\|Temporal Architecture]]
+[[Distorted Chain]]  
+[[Temporal Architecture]]
 
 ---
 

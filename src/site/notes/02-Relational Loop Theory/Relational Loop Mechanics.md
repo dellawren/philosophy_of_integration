@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Relational Loop Mechanics","order":4,"dg-metatags":{"og:title":"Relational Loop Mechanics","description":"Explains the underlying mechanics that allow relational loops to form, persist, and stabilize through mediated cause and displaced consequence.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/02-relational-loop-theory/relational-loop-mechanics/","metatags":{"og:title":"Relational Loop Mechanics","description":"Explains the underlying mechanics that allow relational loops to form, persist, and stabilize through mediated cause and displaced consequence.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Relational Loop Mechanics
+order: 4
+dg-metatags:
+  og:title: "Relational Loop Mechanics"
+  description: Explains the underlying mechanics that allow relational loops to form, persist, and stabilize through mediated cause and displaced consequence.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 **Relational Loop Mechanics** describes the **structural behavior of relational loops once coupling has occurred**.
 
 This note does not explain why relational loops form.  
@@ -34,31 +39,31 @@ Relational loop mechanics are described across the following dimensions:
 
 - **Coupling and Load Sharing**  
     How independent chains become interdependent  
-    → see [[02-Relational Loop Theory/Coupled Chains and Shared Load\|Coupled Chains and Shared Load]]
+    → see [[Coupled Chains and Shared Load]]
     
 - **Asymmetry and Persistence**  
     Why unequal load distribution increases stability  
-    → see [[02-Relational Loop Theory/Asymmetry and Stability\|Asymmetry and Stability]]
+    → see [[Asymmetry and Stability]]
     
 - **Load Redistribution Under Decoupling**  
     Structural destabilization following weakened coupling  
-    → see [[02-Relational Loop Theory/Load Redistribution Under Decoupling\|Load Redistribution Under Decoupling]]
+    → see [[Load Redistribution Under Decoupling]]
     
 - **Cognitive Non-Substitution**  
     Why awareness does not alter loop behavior  
-    → see [[02-Relational Loop Theory/Why Insight Doesn't Break Loops\|Why Insight Doesn't Break Loops]]
+    → see [[Why Insight Doesn't Break Loops]]
     
 - **Resolution Conditions**  
     The structural requirements for closure or reconfiguration  
-    → see [[02-Relational Loop Theory/Resolution Conditions for Relational Loops\|Resolution Conditions for Relational Loops]]
+    → see [[Resolution Conditions for Relational Loops]]
     
 - **Boundary Distinction**  
     Why relational loops cannot be treated as individual chains  
-    → see [[02-Relational Loop Theory/Relational Loops vs Individual Chains\|Relational Loops vs Individual Chains]]
+    → see [[Relational Loops vs Individual Chains]]
     
 - **Entropy and Unwinding**  
     How loops decay without rupture or intervention  
-    → see [[02-Relational Loop Theory/Relational Loop Decay\|Relational Loop Decay]]
+    → see [[Relational Loop Decay]]
     
 
 ---
@@ -67,13 +72,13 @@ Relational loop mechanics are described across the following dimensions:
 
 This note does **not** address:
 
-- loop formation → see [[02-Relational Loop Theory/Relational Loop Theory\|Relational Loop Theory]]
+- loop formation → see [[Relational Loop Theory]]
     
-- mediation or interference → see [[02-Relational Loop Theory/Systemic Interference\|Systemic Interference]]
+- mediation or interference → see [[Systemic Interference]]
     
-- system occupation of chains → see [[02-Relational Loop Theory/System as Chain Actor\|System as Chain Actor]]
+- system occupation of chains → see [[System as Chain Actor]]
     
-- causal law governing mediation → see [[12-Terms/Causal Mediation Principle\|Causal Mediation Principle]]
+- causal law governing mediation → see [[Causal Mediation Principle]]
     
 - human experience or interpretation
     
@@ -99,13 +104,13 @@ This preserves mechanical coherence and prevents category errors.
 
 ### **See Also**
 
-[[02-Relational Loop Theory/Relational Loop Theory\|Relational Loop Theory]]  
-[[02-Relational Loop Theory/What is a Relational Loop\|What Is a Relational Loop]]  
-[[02-Relational Loop Theory/Coupled Chains and Shared Load\|Coupled Chains and Shared Load]]  
-[[02-Relational Loop Theory/Asymmetry and Stability\|Asymmetry and Stability]]  
-[[02-Relational Loop Theory/Load Redistribution Under Decoupling\|Load Redistribution Under Decoupling]]  
-[[02-Relational Loop Theory/Why Insight Doesn't Break Loops\|Why Insight Doesn't Break Loops]]  
-[[02-Relational Loop Theory/Resolution Conditions for Relational Loops\|Resolution Conditions for Relational Loops]]  
-[[02-Relational Loop Theory/Relational Loops vs Individual Chains\|Relational Loops vs Individual Chains]]  
-[[02-Relational Loop Theory/Relational Loop Decay\|Relational Loop Decay]]  
-[[12-Terms/Causal Mediation Principle\|Causal Mediation Principle]]
+[[Relational Loop Theory]]  
+[[What Is a Relational Loop]]  
+[[Coupled Chains and Shared Load]]  
+[[Asymmetry and Stability]]  
+[[Load Redistribution Under Decoupling]]  
+[[Why Insight Doesn't Break Loops]]  
+[[Resolution Conditions for Relational Loops]]  
+[[Relational Loops vs Individual Chains]]  
+[[Relational Loop Decay]]  
+[[Causal Mediation Principle]]

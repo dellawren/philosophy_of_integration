@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Ontology","order":2,"dg-metatags":{"og:title":"Ontology — The Philosophy of Integration","description":"The ontological assumptions underlying The Philosophy of Integration, including relational reality, causality, coherence, and distortion.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/03-academic-foundations/ontology/","metatags":{"og:title":"Ontology — The Philosophy of Integration","description":"The ontological assumptions underlying The Philosophy of Integration, including relational reality, causality, coherence, and distortion.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Ontology
+order: 2
+dg-metatags:
+  og:title: Ontology — The Philosophy of Integration
+  description: The ontological assumptions underlying The Philosophy of Integration, including relational reality, causality, coherence, and distortion.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 ### 1. Domain of Inquiry
 
 The Philosophy of Integration is an ontological framework concerned with the structure of reality as it is encountered through human experience.
@@ -148,6 +153,6 @@ But revisions will not contradict these core assumptions without explicit redefi
 
 **See Also**
 
-- [[03-Academic Foundations/Epistemology\|Epistemology]]
+- [[Epistemology]]
     
     

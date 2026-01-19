@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Methodological Commitments","order":4,"dg-metatags":{"og:title":"Methodological Commitments — The Philosophy of Integration","description":"The methodological constraints that govern how The Philosophy of Integration is articulated, interpreted, and applied.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/03-academic-foundations/methodological-commitments/","metatags":{"og:title":"Methodological Commitments — The Philosophy of Integration","description":"The methodological constraints that govern how The Philosophy of Integration is articulated, interpreted, and applied.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Methodological Commitments
+order: 4
+dg-metatags:
+  og:title: Methodological Commitments — The Philosophy of Integration
+  description: The methodological constraints that govern how The Philosophy of Integration is articulated, interpreted, and applied.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 ### 1. Descriptive, Not Prescriptive
 
 The Philosophy of Integration operates descriptively.  
@@ -185,8 +190,8 @@ These commitments define how the framework is articulated, interpreted, and appl
 
 **See Also**
 
-- [[03-Academic Foundations/Epistemology\|Epistemology]]
+- [[Epistemology]]
     
-- [[How to Use The Philosophy of Integration\|How to Use The Philosophy of Integration]]
+- [[How to Use The Philosophy of Integration]]
     
-- [[Principles of Engagement\|Principles of Engagement]]
+- [[Principles of Engagement]]

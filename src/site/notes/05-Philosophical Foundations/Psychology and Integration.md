@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"order":9,"dg-title":"Psychology and Integration","dg-metatags":{"og:title":"Psychology and Integration","description":"Examines how psychological frameworks intersect with Integration, highlighting where pathology models diverge from structural causality.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/05-philosophical-foundations/psychology-and-integration/","metatags":{"og:title":"Psychology and Integration","description":"Examines how psychological frameworks intersect with Integration, highlighting where pathology models diverge from structural causality.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+order: 9
+dg-title: Psychology and Integration
+dg-metatags:
+  og:title: "Psychology and Integration"
+  description: Examines how psychological frameworks intersect with Integration, highlighting where pathology models diverge from structural causality.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 ### **Orientation**
 
 Psychology is the study of patterned human behaviour, emotion, cognition, and internal experience.  
@@ -61,7 +66,7 @@ Survival architecture becomes disorder.
 
 ### **CMP: The Structural Clarifier**
 
-The **[[01-The Architecture of Integration/The Causal Mediation Principle\|The Causal Mediation Principle]] (CMP)** reframes psychological phenomena:
+The **[[The Causal Mediation Principle]] (CMP)** reframes psychological phenomena:
 
 > When a causal chain is interrupted or mediated, its effects do not disappear — they are displaced.
 
@@ -211,8 +216,8 @@ It is an **architectural framework** that explains why psychological models desc
 
 ### **See Also**
 
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]  
-[[12-Terms/Causal Mediation Principle\|Causal Mediation Principle]]  
-[[08-Relational Notes/Trauma and Awareness\|Trauma and Awareness]]  
-[[12-Terms/Secondary Chains\|Secondary Chains]]  
-[[12-Terms/Cause and Effect\|Cause and Effect]]
+[[Philosophy of Integration]]  
+[[Causal Mediation Principle]]  
+[[Trauma and Awareness]]  
+[[Secondary Chains]]  
+[[Cause and Effect]]

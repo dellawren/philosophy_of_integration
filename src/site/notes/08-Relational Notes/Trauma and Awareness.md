@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Trauma and Awareness","dg-metatags":{"og:title":"Trauma and Awareness","description":"A relational examination of trauma as the collapse of awareness, and awareness as the return of capacity that allows the chain to close and reorganize.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"order":8,"permalink":"/08-relational-notes/trauma-and-awareness/","metatags":{"og:title":"Trauma and Awareness","description":"A relational examination of trauma as the collapse of awareness, and awareness as the return of capacity that allows the chain to close and reorganize.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Trauma and Awareness
+dg-metatags:
+  og:title: "Trauma and Awareness"
+  description: A relational examination of trauma as the collapse of awareness, and awareness as the return of capacity that allows the chain to close and reorganize.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
+order: 8
 ---
-
 ## **Overview**
 
 Trauma and awareness describe two mutually exclusive operating conditions within the causal architecture.
@@ -112,13 +117,13 @@ Awareness restores access to reality without distortion.
 
 ## **See Also**
 
-[[12-Terms/Trauma\|Terms/Trauma]]  
-[[12-Terms/Survival Logic\|Survival Logic]]  
-[[12-Terms/Neutrality\|Neutrality]]  
-[[12-Terms/Story Logic\|Story Logic]]  
-[[12-Terms/Boundaries\|Boundaries]]  
-[[12-Terms/Cruelty\|Cruelty]]  
-[[01-The Architecture of Integration/Memory as Architectural Persistence\|Memory as Architectural Persistence]]  
-[[01-The Architecture of Integration/Closing the Chain\|Closing the Chain]]  
-[[12-Terms/Cause and Effect\|Cause and Effect]]  
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[Terms/Trauma]]  
+[[Survival Logic]]  
+[[Neutrality]]  
+[[Story Logic]]  
+[[Boundaries]]  
+[[Cruelty]]  
+[[Memory as Architectural Persistence]]  
+[[Closing the Chain]]  
+[[Cause and Effect]]  
+[[Philosophy of Integration]]

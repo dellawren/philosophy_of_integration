@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Systemic Interference","order":8,"dg-metatags":{"og:title":"Systemic Interference","description":"Examines how external systems interfere with relational causality, preventing resolution and reinforcing loop persistence.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/02-relational-loop-theory/systemic-interference/","metatags":{"og:title":"Systemic Interference","description":"Examines how external systems interfere with relational causality, preventing resolution and reinforcing loop persistence.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true 
+dg-title: Systemic Interference
+order: 8
+dg-metatags:
+  og:title: "Systemic Interference"
+  description: Examines how external systems interfere with relational causality, preventing resolution and reinforcing loop persistence.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 **Systemic Interference** — the structural alteration of a causal chain when consequence is displaced from its originating path by an intermediary structure.
 
 Systemic interference does not require intent, authority, or decision-making.  
@@ -154,11 +159,11 @@ This preserves architectural neutrality.
 
 ## **See Also**
 
-[[02-Relational Loop Theory/System as Chain Actor\|System as Chain Actor]]  
-[[12-Terms/Causal Mediation Principle\|Causal Mediation Principle]]  
-[[02-Relational Loop Theory/Relational Loop Theory\|Relational Loop Theory]]  
-[[12-Terms/Open Chain State\|Open Chain State]]  
-[[12-Terms/Closed Chain State\|Closed Chain State]]  
-[[12-Terms/Secondary Chains\|Secondary Chains]]  
-[[12-Terms/Chain Architecture\|Chain Architecture]]  
-[[12-Terms/Cause and Effect\|Cause and Effect]]
+[[System as Chain Actor]]  
+[[Causal Mediation Principle]]  
+[[Relational Loop Theory]]  
+[[Open Chain State]]  
+[[Closed Chain State]]  
+[[Secondary Chains]]  
+[[Chain Architecture]]  
+[[Cause and Effect]]

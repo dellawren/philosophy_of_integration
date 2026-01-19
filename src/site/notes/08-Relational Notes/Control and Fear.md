@@ -1,8 +1,13 @@
 ---
-{"dg-publish":true,"order":2,"dg-title":"Control and Fear","dg-metatags":{"og:title":"Control and Fear","description":"An examination of how control and fear operate like inner machinery — how they fragment perception, distort connection, and bind behaviour to hidden anxieties.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/08-relational-notes/control-and-fear/","metatags":{"og:title":"Control and Fear","description":"An examination of how control and fear operate like inner machinery — how they fragment perception, distort connection, and bind behaviour to hidden anxieties.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+order: 2
+dg-title: Control and Fear
+dg-metatags:
+  og:title: "Control and Fear"
+  description: "An examination of how control and fear operate like inner machinery — how they fragment perception, distort connection, and bind behaviour to hidden anxieties."
+  og:image: "https://philosophy.dellawren.com/img/user/customheader.jpg"
 ---
-
-[[12-Terms/Control\|Terms/Control]] and [[12-Terms/Fear\|Fear]] form a coupled contraction loop within human and systemic architecture.  
+[[Terms/Control]] and [[Fear]] form a coupled contraction loop within human and systemic architecture.  
 Fear registers uncertainty. Control attempts to stabilize it.
 
 In isolation, fear is informational.  
@@ -85,7 +90,7 @@ The system becomes increasingly rigid while remaining fundamentally unstable.
 
 ### **Integration Point**
 
-The control–fear loop reorganizes when [[12-Terms/Awareness\|Terms/Awareness]] becomes available.
+The control–fear loop reorganizes when [[Terms/Awareness]] becomes available.
 
 Awareness does not suppress fear or oppose control.  
 It restores orientation by allowing uncertainty to be seen without immediate constraint.
@@ -109,11 +114,11 @@ Stability emerges through alignment rather than restriction.
 
 ### **See Also**
 
-[[12-Terms/Control\|Terms/Control]]  
-[[12-Terms/Fear\|Fear]]  
-[[12-Terms/Cause and Effect\|Cause and Effect]]  
-[[12-Terms/Systemic Obligation\|Systemic Obligation]]  
-[[12-Terms/Morality\|Terms/Morality]]  
-[[08-Relational Notes/Boundaries and Control\|Boundaries and Control]]  
-[[08-Relational Notes/Control and Coherence\|Control and Coherence]]  
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[Terms/Control]]  
+[[Fear]]  
+[[Cause and Effect]]  
+[[Systemic Obligation]]  
+[[Terms/Morality]]  
+[[Boundaries and Control]]  
+[[Control and Coherence]]  
+[[Philosophy of Integration]]

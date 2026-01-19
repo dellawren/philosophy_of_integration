@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Relational Loop Decay","order":10,"dg-metatags":{"og:title":"Relational Loop Decay","description":"Describes how relational loops degrade when sustaining conditions fail, revealing the underlying unresolved chains.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/02-relational-loop-theory/relational-loop-decay/","metatags":{"og:title":"Relational Loop Decay","description":"Describes how relational loops degrade when sustaining conditions fail, revealing the underlying unresolved chains.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Relational Loop Decay
+order: 10
+dg-metatags:
+  og:title: "Relational Loop Decay"
+  description: Describes how relational loops degrade when sustaining conditions fail, revealing the underlying unresolved chains.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 **Relational Loop Decay** describes the gradual dissolution of a relational loop through **entropy, weakened coupling, or external load completion**.
 
 Relational loops rarely terminate through rupture.  
@@ -56,7 +61,7 @@ Decay often follows partial or progressive decoupling.
 - destabilization resolves through dissipation rather than collapse
     
 
-See [[02-Relational Loop Theory/Load Redistribution Under Decoupling\|Load Redistribution Under Decoupling]].
+See [[Load Redistribution Under Decoupling]].
 
 ---
 
@@ -72,7 +77,7 @@ Decay is distinct from resolution.
 Some loops dissolve without full closure.  
 Others require explicit completion.
 
-Resolution conditions are defined in [[02-Relational Loop Theory/Resolution Conditions for Relational Loops\|Resolution Conditions for Relational Loops]].
+Resolution conditions are defined in [[Resolution Conditions for Relational Loops]].
 
 ---
 
@@ -95,9 +100,9 @@ Those belong outside the mechanics layer.
 
 ### **See Also**
 
-[[02-Relational Loop Theory/Relational Loop Mechanics\|Relational Loop Mechanics]]  
-[[02-Relational Loop Theory/Coupled Chains and Shared Load\|Coupled Chains and Shared Load]]  
-[[02-Relational Loop Theory/Asymmetry and Stability\|Asymmetry and Stability]]  
-[[02-Relational Loop Theory/Load Redistribution Under Decoupling\|Load Redistribution Under Decoupling]]  
-[[02-Relational Loop Theory/Resolution Conditions for Relational Loops\|Resolution Conditions for Relational Loops]]  
-[[12-Terms/Open Chain State\|Open Chain State]]
+[[Relational Loop Mechanics]]  
+[[Coupled Chains and Shared Load]]  
+[[Asymmetry and Stability]]  
+[[Load Redistribution Under Decoupling]]  
+[[Resolution Conditions for Relational Loops]]  
+[[Open Chain State]]

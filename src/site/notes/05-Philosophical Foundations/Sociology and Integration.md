@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"order":11,"dg-title":"Sociology and Integration","dg-metatags":{"og:title":"Sociology and Integration","description":"Explores how social systems shape causal chains, stability, and distortion through collective structures and norms.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/05-philosophical-foundations/sociology-and-integration/","metatags":{"og:title":"Sociology and Integration","description":"Explores how social systems shape causal chains, stability, and distortion through collective structures and norms.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+order: 11
+dg-title: Sociology and Integration
+dg-metatags:
+  og:title: "Sociology and Integration"
+  description: Explores how social systems shape causal chains, stability, and distortion through collective structures and norms.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 
 ### **Orientation**
 
@@ -254,10 +259,10 @@ It is a **causal explanation** of why societies behave as they do.
 
 ### **See Also**
 
-[[12-Terms/Causal Mediation Principle\|Causal Mediation Principle]]  
-[[12-Terms/Secondary Chains\|Secondary Chains]]  
-[[08-Relational Notes/Control and Coherence\|Control and Coherence]]  
-[[12-Terms/Systemic Obligation\|Systemic Obligation]]  
-[[08-Relational Notes/Power and Responsibility\|Power and Responsibility]]  
-[[05-Philosophical Foundations/Psychology and Integration\|Psychology and Integration]]
-[[05-Philosophical Foundations/Child Development\|Child Development]]
+[[Causal Mediation Principle]]  
+[[Secondary Chains]]  
+[[Control and Coherence]]  
+[[Systemic Obligation]]  
+[[Power and Responsibility]]  
+[[Psychology and Integration]]
+[[Child Development]]

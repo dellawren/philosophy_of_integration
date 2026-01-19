@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"order":10,"dg-title":"Religion","dg-metatags":{"og:title":"Religion","description":"Examines religion as an interpretive system that externalizes authority and consequence through transcendent moral structures.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/07-human-interpretation-layer/religion/","metatags":{"og:title":"Religion","description":"Examines religion as an interpretive system that externalizes authority and consequence through transcendent moral structures.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+order: 10
+dg-title: Religion
+dg-metatags:
+  og:title: "Religion"
+  description: Examines religion as an interpretive system that externalizes authority and consequence through transcendent moral structures.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 ## The Phenomenon
 Religion refers to symbolic systems that explain existence, prescribe moral order, and locate human experience within a larger cosmic or divine framework.
 
@@ -27,10 +32,10 @@ Within the framework, religion functions as **symbolic causal modeling**.
 
 It translates causal reality into narrative form, allowing large-scale human coordination before causal literacy exists. Rather than eliminating causality, religion **encodes it symbolically**, often externalizing consequence, responsibility, and ethical coherence.
 
-Religion does not replace [[12-Terms/Causality\|Causality]].  
+Religion does not replace [[Causality]].  
 It overlays it with story.
 
-Religion frequently operates as a mediator within the chain, aligning with the dynamics described by the [[12-Terms/Causal Mediation Principle\|Causal Mediation Principle]].
+Religion frequently operates as a mediator within the chain, aligning with the dynamics described by the [[Causal Mediation Principle]].
 
 ---
 
@@ -43,7 +48,7 @@ When religion is mislocated or overextended, several distortions tend to emerge:
 - control is legitimized through sacred narrative  
 - suffering is justified rather than structurally resolved  
 
-These distortions can stabilize [[12-Terms/Relational Loop\|Relational Loop]]s at individual and societal levels, particularly when authority intervenes between cause and effect.
+These distortions can stabilize [[Relational Loop]]s at individual and societal levels, particularly when authority intervenes between cause and effect.
 
 ---
 
@@ -55,7 +60,7 @@ Within the framework, these observations correspond to:
 - symbolic containment of uncertainty and fear  
 - narrative solutions to unresolved causal complexity  
 
-Religion intersects directly with [[07-Human Interpretation Layer/Ethics\|Ethics]], [[07-Human Interpretation Layer/Morality\|Morality]], [[07-Human Interpretation Layer/Power\|Power]], and [[07-Human Interpretation Layer/Control\|Control]], often functioning as a bridge between meaning-making and social regulation.
+Religion intersects directly with [[Ethics]], [[Morality]], [[Power]], and [[Control]], often functioning as a bridge between meaning-making and social regulation.
 
 ---
 

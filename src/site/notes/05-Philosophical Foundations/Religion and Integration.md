@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"order":15,"dg-title":"Religion and Integration","dg-metatags":{"og:title":"Religion and Integration","description":"Examines religion as a system of moral and interpretive mediation that shapes meaning, behavior, and perceived consequence.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/05-philosophical-foundations/religion-and-integration/","metatags":{"og:title":"Religion and Integration","description":"Examines religion as a system of moral and interpretive mediation that shapes meaning, behavior, and perceived consequence.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+order: 15
+dg-title: Religion and Integration
+dg-metatags:
+  og:title: "Religion and Integration"
+  description: Examines religion as a system of moral and interpretive mediation that shapes meaning, behavior, and perceived consequence.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 
 ### **Orientation**
 
@@ -218,11 +223,11 @@ Integration restores what religion symbolized — **without myth, morality, or a
 
 ### **See Also**
 
-[[05-Philosophical Foundations/Spirituality and Integration\|Spirituality and Integration]]
-[[12-Terms/Ethics\|Ethics]]  
-[[12-Terms/Morality\|Morality]]  
-[[12-Terms/Control\|Control]]  
-[[12-Terms/Systemic Obligation\|Systemic Obligation]]  
-[[12-Terms/Secondary Chains\|Secondary Chains]]  
-[[12-Terms/Cause and Effect\|Cause and Effect]]  
-[[12-Terms/Integration\|Integration]]
+[[Spirituality and Integration]]
+[[Ethics]]  
+[[Morality]]  
+[[Control]]  
+[[Systemic Obligation]]  
+[[Secondary Chains]]  
+[[Cause and Effect]]  
+[[Integration]]

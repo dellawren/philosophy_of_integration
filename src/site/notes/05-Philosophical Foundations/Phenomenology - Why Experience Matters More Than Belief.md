@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"order":4,"dg-title":"Phenomenology – Why Experience Matters More Than Belief","dg-metatags":{"og:title":"Phenomenology and Experience","description":"Explores phenomenology as a foundational lens, emphasizing lived experience over belief systems in understanding causal reality.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/05-philosophical-foundations/phenomenology-why-experience-matters-more-than-belief/","metatags":{"og:title":"Phenomenology and Experience","description":"Explores phenomenology as a foundational lens, emphasizing lived experience over belief systems in understanding causal reality.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+order: 4
+dg-title: Phenomenology – Why Experience Matters More Than Belief
+dg-metatags:
+  og:title: "Phenomenology and Experience"
+  description: Explores phenomenology as a foundational lens, emphasizing lived experience over belief systems in understanding causal reality.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 ### **Phenomenology**
 
 Phenomenology begins with the premise that truth is encountered through lived experience rather than through abstract ideas about reality. It prioritizes perception, embodiment, and consciousness as the primary access points to what is real, treating experience itself as the ground of knowledge.
@@ -14,7 +19,7 @@ Phenomenology therefore shifts philosophy away from explanation and toward descr
 
 ### **Relation to Integration**
 
-The [[13-References/Philosophy of Integration\|Philosophy of Integration]] aligns with phenomenology in treating experience as primary, but extends the inquiry to include how experience is structured internally. Integration is concerned not only with what is lived, but with how awareness relates to that experience: whether it remains open, becomes distorted, or reorganizes around protection.
+The [[Philosophy of Integration]] aligns with phenomenology in treating experience as primary, but extends the inquiry to include how experience is structured internally. Integration is concerned not only with what is lived, but with how awareness relates to that experience: whether it remains open, becomes distorted, or reorganizes around protection.
 
 Experience provides access.  
 Awareness determines coherence.
@@ -25,4 +30,4 @@ From this perspective, phenomenology supplies the ground layer of contact, while
 
 ---
 
-**See also:** [[05-Philosophical Foundations/The Constructivist Lens\|The Constructivist Lens]]
+**See also:** [[The Constructivist Lens]]

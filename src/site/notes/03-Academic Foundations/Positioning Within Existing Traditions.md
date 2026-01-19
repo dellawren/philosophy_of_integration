@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Positioning Within Existing Traditions","order":6,"dg-metatags":{"og:title":"Positioning Within Existing Traditions — The Philosophy of Integration","description":"A positional account of The Philosophy of Integration in relation to existentialism, nihilism, non-duality, systems theory, and moral philosophy.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/03-academic-foundations/positioning-within-existing-traditions/","metatags":{"og:title":"Positioning Within Existing Traditions — The Philosophy of Integration","description":"A positional account of The Philosophy of Integration in relation to existentialism, nihilism, non-duality, systems theory, and moral philosophy.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Positioning Within Existing Traditions
+order: 6
+dg-metatags:
+  og:title: Positioning Within Existing Traditions — The Philosophy of Integration
+  description: A positional account of The Philosophy of Integration in relation to existentialism, nihilism, non-duality, systems theory, and moral philosophy.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 ### 1. Purpose of Positioning
 
 This framework does not seek to establish novelty through opposition or alignment.  
@@ -147,6 +152,6 @@ It stands in conversation with existing traditions without belonging to any sing
 
 - Philosophical Foundations
     
-- [[12-Terms/Existentialism\|Existentialism]] 
+- [[Existentialism]] 
     
 - Systems Thinking

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"order":14,"dg-title":"Child Development","dg-metatags":{"og:title":"Child Development","description":"Explores how early developmental environments shape causal architecture, perception, and relational patterning.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/05-philosophical-foundations/child-development/","metatags":{"og:title":"Child Development","description":"Explores how early developmental environments shape causal architecture, perception, and relational patterning.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+order: 14
+dg-title: Child Development
+dg-metatags:
+  og:title: "Child Development"
+  description: Explores how early developmental environments shape causal architecture, perception, and relational patterning.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 ### **Orientation**
 
 Child development studies how human capacity emerges over time — biologically, emotionally, cognitively, and relationally.  
@@ -225,10 +230,10 @@ It is an **architectural explanation** of how development organizes around media
 
 ### **See Also**
 
-[[12-Terms/Causal Mediation Principle\|Causal Mediation Principle]]  
-[[08-Relational Notes/Trauma and Awareness\|Trauma and Awareness]]  
-[[12-Terms/Secondary Chains\|Secondary Chains]]  
-[[12-Terms/Survival Logic\|Survival Logic]]  
-[[12-Terms/Cause and Effect\|Cause and Effect]]  
-[[05-Philosophical Foundations/Psychology and Integration\|Psychology and Integration]]
-[[12-Terms/Capacity\|Capacity]]
+[[Causal Mediation Principle]]  
+[[Trauma and Awareness]]  
+[[Secondary Chains]]  
+[[Survival Logic]]  
+[[Cause and Effect]]  
+[[Psychology and Integration]]
+[[Capacity]]

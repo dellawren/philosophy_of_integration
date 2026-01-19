@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"order":16,"dg-title":"Spirituality and Integration","dg-metatags":{"og:title":"Spirituality and Integration","description":"Explores spirituality as an experiential domain distinct from religious structure, emphasizing direct awareness over belief.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/05-philosophical-foundations/spirituality-and-integration/","metatags":{"og:title":"Spirituality and Integration","description":"Explores spirituality as an experiential domain distinct from religious structure, emphasizing direct awareness over belief.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+order: 16
+dg-title: Spirituality and Integration
+dg-metatags:
+  og:title: "Spirituality and Integration"
+  description: Explores spirituality as an experiential domain distinct from religious structure, emphasizing direct awareness over belief.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 ### **Orientation**
 
 Spirituality is the direct pursuit of coherence without institutional mediation.
@@ -216,11 +221,11 @@ With Integration:
 
 ### **See Also**
 
-[[05-Philosophical Foundations/Religion and Integration\|Religion and Integration]]
-[[05-Philosophical Foundations/Phenomenology - Why Experience Matters More Than Belief\|Phenomenology - Why Experience Matters More Than Belief]]  
-[[05-Philosophical Foundations/Non-Duality vs Integration\|Non-Duality vs Integration]]  
-[[05-Philosophical Foundations/Absurdism & The Release of Meaning\|Absurdism & The Release of Meaning]]  
-[[12-Terms/Ethics\|Ethics]]  
-[[12-Terms/Cause and Effect\|Cause and Effect]]  
-[[12-Terms/Integration\|Integration]]  
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[Religion and Integration]]
+[[Phenomenology - Why Experience Matters More Than Belief]]  
+[[Non-Duality vs Integration]]  
+[[Absurdism & The Release of Meaning]]  
+[[Ethics]]  
+[[Cause and Effect]]  
+[[Integration]]  
+[[Philosophy of Integration]]

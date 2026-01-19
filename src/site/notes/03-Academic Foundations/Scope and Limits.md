@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Scope and Limits","order":5,"dg-metatags":{"og:title":"Scope and Limits — The Philosophy of Integration","description":"The domains addressed by The Philosophy of Integration and the explicit limits of its explanatory and applied scope.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/03-academic-foundations/scope-and-limits/","metatags":{"og:title":"Scope and Limits — The Philosophy of Integration","description":"The domains addressed by The Philosophy of Integration and the explicit limits of its explanatory and applied scope.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Scope and Limits
+order: 5
+dg-metatags:
+  og:title: Scope and Limits — The Philosophy of Integration
+  description: The domains addressed by The Philosophy of Integration and the explicit limits of its explanatory and applied scope.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 ### 1. Scope of the Framework
 
 The Philosophy of Integration addresses questions related to:
@@ -138,5 +143,5 @@ Its value lies in what it can clarify — and equally in recognizing what it doe
 
 **See Also**
 
-- [[03-Academic Foundations/Methodological Commitments\|Methodological Commitments]]
+- [[Methodological Commitments]]
     

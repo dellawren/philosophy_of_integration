@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"order":12,"dg-title":"Politics and Integration","dg-metatags":{"og:title":"Politics and Integration","description":"Examines political systems as large-scale mechanisms of causal mediation, prioritizing control and stability over resolution.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/05-philosophical-foundations/politics-and-integration/","metatags":{"og:title":"Politics and Integration","description":"Examines political systems as large-scale mechanisms of causal mediation, prioritizing control and stability over resolution.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+order: 12
+dg-title: Politics and Integration
+dg-metatags:
+  og:title: "Politics and Integration"
+  description: Examines political systems as large-scale mechanisms of causal mediation, prioritizing control and stability over resolution.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 
 ### **Orientation**
 
@@ -235,10 +240,10 @@ Control produces distortion.
 
 ### **See Also**
 
-[[05-Philosophical Foundations/Sociology and Integration\|Sociology and Integration]]
-[[12-Terms/Causal Mediation Principle\|Causal Mediation Principle]]  
-[[12-Terms/Secondary Chains\|Secondary Chains]]  
-[[12-Terms/Control\|Control]]  
-[[12-Terms/Systemic Obligation\|Systemic Obligation]]  
-[[08-Relational Notes/Power and Responsibility\|Power and Responsibility]]  
-[[12-Terms/Ethics\|Ethics]]
+[[Sociology and Integration]]
+[[Causal Mediation Principle]]  
+[[Secondary Chains]]  
+[[Control]]  
+[[Systemic Obligation]]  
+[[Power and Responsibility]]  
+[[Ethics]]

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Epistemology","order":3,"dg-metatags":{"og:title":"Epistemology — The Philosophy of Integration","description":"An account of how knowledge is evaluated within The Philosophy of Integration, including criteria of validity, falsifiability, and experiential verification.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/03-academic-foundations/epistemology/","metatags":{"og:title":"Epistemology — The Philosophy of Integration","description":"An account of how knowledge is evaluated within The Philosophy of Integration, including criteria of validity, falsifiability, and experiential verification.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Epistemology
+order: 3
+dg-metatags:
+  og:title: Epistemology — The Philosophy of Integration
+  description: An account of how knowledge is evaluated within The Philosophy of Integration, including criteria of validity, falsifiability, and experiential verification.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 ### 1. Scope of Knowing
 
 The Philosophy of Integration is concerned with how understanding arises within lived reality, not with abstract certainty or metaphysical proof.
@@ -153,8 +158,8 @@ Understanding is always subject to refinement through consequence.
 
 **See Also**
 
-- [[03-Academic Foundations/Ontology\|Academic Foundations/Ontology]]
+- [[Academic Foundations/Ontology]]
     
-- [[03-Academic Foundations/Methodological Commitments\|Methodological Commitments]]
+- [[Methodological Commitments]]
     
-- [[03-Academic Foundations/Scope and Limits\|Scope and Limits]]
+- [[Scope and Limits]]

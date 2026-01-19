@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Relational Loop Theory","order":1,"dg-metatags":{"og:title":"Relational Loop Theory","description":"Introduces Relational Loop Theory as a structural model explaining how unresolved causal chains persist across relationships, producing stable but distorted interaction patterns.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/02-relational-loop-theory/relational-loop-theory/","metatags":{"og:title":"Relational Loop Theory","description":"Introduces Relational Loop Theory as a structural model explaining how unresolved causal chains persist across relationships, producing stable but distorted interaction patterns.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Relational Loop Theory
+order: 1
+dg-metatags:
+  og:title: "Relational Loop Theory"
+  description: Introduces Relational Loop Theory as a structural model explaining how unresolved causal chains persist across relationships, producing stable but distorted interaction patterns.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 **Relational Loop Theory** describes the formation, persistence, and resolution constraints of **coupled causal chains** under mediated or unresolved conditions.
 
 A relational loop is not a psychological dynamic and not an emotional condition.  
@@ -30,7 +35,7 @@ They **redirect it**.
 The loop is not emotional.  
 It is architectural.
 
-Formation mechanics are further detailed in [[02-Relational Loop Theory/Systemic Interference\|Systemic Interference]] and formalized by the [[12-Terms/Causal Mediation Principle\|Causal Mediation Principle]].
+Formation mechanics are further detailed in [[Systemic Interference]] and formalized by the [[Causal Mediation Principle]].
 
 ---
 
@@ -60,6 +65,35 @@ What repeats is the **unclosed structure**.
 
 ---
 
+### **Distorted Chains in a Non-Teleological System**
+
+In a non-teleological system, [[Distorted Chains]] are not failures, deviations, or faults.  
+They are **stable patterns produced by existing structural conditions**.
+
+A distorted chain persists when:
+
+- awareness is mediated
+    
+- responsibility is misassigned
+    
+- relational load is non-local
+    
+- intervention is unavailable, unsafe, or incoherent
+    
+- no alternative chain is structurally accessible
+    
+
+Persistence does not imply error.  
+It implies continuity.
+
+[[Coherence]] does not function as an “exit” from distortion.  
+It is one possible condition under which **structural change may occur**.
+
+Where coherence is unavailable, distorted chains can remain indefinitely without violation of the system.
+
+No requirement exists that a chain resolve.
+
+---
 ### **Key Structural Insight**
 
 Relational loops do not persist because of misunderstanding, emotion, or lack of insight.
@@ -98,7 +132,7 @@ They resolve only when:
 Replacement, reconfiguration, or separation may occur **after closure**,  
 but cannot produce closure themselves.
 
-Resolution conditions are defined structurally in [[02-Relational Loop Theory/Resolution Conditions for Relational Loops\|Resolution Conditions for Relational Loops]].
+Resolution conditions are defined structurally in [[Resolution Conditions for Relational Loops]].
 
 ---
 
@@ -119,11 +153,11 @@ It **does explain**:
 
 It **does not explain**:
 
-- mechanical loop behavior → see [[02-Relational Loop Theory/Relational Loop Mechanics\|Relational Loop Mechanics]]
+- mechanical loop behavior → see [[Relational Loop Mechanics]]
     
-- positional system occupation → see [[02-Relational Loop Theory/System as Chain Actor\|System as Chain Actor]]
+- positional system occupation → see [[System as Chain Actor]]
     
-- mediation law → see [[12-Terms/Causal Mediation Principle\|Causal Mediation Principle]]
+- mediation law → see [[Causal Mediation Principle]]
     
 
 These distinctions prevent category errors and preserve architectural coherence.
@@ -132,11 +166,11 @@ These distinctions prevent category errors and preserve architectural coherence.
 
 ### **See Also**
 
-[[02-Relational Loop Theory/What is a Relational Loop\|What Is a Relational Loop]]  
-[[02-Relational Loop Theory/Relational Loop Mechanics\|Relational Loop Mechanics]]  
-[[02-Relational Loop Theory/System as Chain Actor\|System as Chain Actor]]  
-[[02-Relational Loop Theory/Systemic Interference\|Systemic Interference]]  
-[[12-Terms/Causal Mediation Principle\|Causal Mediation Principle]]  
-[[12-Terms/Open Chain State\|Open Chain State]]  
-[[12-Terms/Secondary Chains\|Secondary Chains]]  
-[[12-Terms/Chain Resolution\|Chain Resolution]]
+[[What Is a Relational Loop]]  
+[[Relational Loop Mechanics]]  
+[[System as Chain Actor]]  
+[[Systemic Interference]]  
+[[Causal Mediation Principle]]  
+[[Open Chain State]]  
+[[Secondary Chains]]  
+[[Chain Resolution]]

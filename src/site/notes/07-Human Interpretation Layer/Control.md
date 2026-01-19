@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"order":3,"dg-title":"Control","dg-metatags":{"og:title":"Control","description":"Analyzes control as an interpretive strategy used to manage uncertainty by replacing consequence with regulation and enforcement.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/07-human-interpretation-layer/control/","metatags":{"og:title":"Control","description":"Analyzes control as an interpretive strategy used to manage uncertainty by replacing consequence with regulation and enforcement.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
----
+dg-publish: true
+order: 3
+dg-title: Control
+dg-metatags:
+  og:title: "Control"
+  description: Analyzes control as an interpretive strategy used to manage uncertainty by replacing consequence with regulation and enforcement.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 
+---
 ## The Phenomenon
 Control refers to attempts to regulate behavior, outcomes, or systems through rules, enforcement, correction, or management.
 
@@ -26,7 +32,7 @@ Within the framework, control is **artificial chain closure**.
 
 Control emerges when direct causal consequence is avoided, feared, or displaced. Rather than allowing causality to complete, control intervenes to manage surface behavior.
 
-Control aligns structurally with the [[12-Terms/Causal Mediation Principle\|Causal Mediation Principle]] by inserting authority between cause and effect.
+Control aligns structurally with the [[Causal Mediation Principle]] by inserting authority between cause and effect.
 
 ---
 
@@ -38,7 +44,7 @@ When control replaces causal resolution, several distortions appear:
 - compliance is mistaken for coherence  
 - systems grow increasingly complex without resolving root conditions  
 
-These distortions stabilize [[12-Terms/Relational Loop\|Relational Loop]]s at individual, relational, and institutional levels.
+These distortions stabilize [[Relational Loop]]s at individual, relational, and institutional levels.
 
 ---
 
@@ -50,7 +56,7 @@ Within the framework, these systems correspond to:
 - attempts to manage unresolved chains collectively
 - substitution of enforcement for resolution
 
-Control intersects directly with [[07-Human Interpretation Layer/Power\|Power]] and [[07-Human Interpretation Layer/Responsibility\|Responsibility]].
+Control intersects directly with [[Power]] and [[Responsibility]].
 
 ---
 

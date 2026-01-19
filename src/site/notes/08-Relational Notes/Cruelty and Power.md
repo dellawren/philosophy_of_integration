@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Cruelty and Power","order":6,"dg-metatags":{"og:title":"Cruelty and Power","description":"Examines the relationship between power and cruelty, showing how cruelty arises not from excess power but from distorted attempts to control consequence and responsibility.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/08-relational-notes/cruelty-and-power/","metatags":{"og:title":"Cruelty and Power","description":"Examines the relationship between power and cruelty, showing how cruelty arises not from excess power but from distorted attempts to control consequence and responsibility.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Cruelty and Power
+order: 6
+dg-metatags:
+  og:title: "Cruelty and Power"
+  description: Examines the relationship between power and cruelty, showing how cruelty arises not from excess power but from distorted attempts to control consequence and responsibility.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 ## **Cruelty and Power**
 
 ## **Overview**
@@ -88,9 +93,9 @@ Power is what becomes possible when load is held without displacement.
 
 ## **See Also**
 
-[[12-Terms/Distorted Power\|Distorted Power]]  
-[[12-Terms/Fear\|Fear]]  
-[[12-Terms/Control\|Terms/Control]]  
-[[12-Terms/Boundaries\|Boundaries]]  
-[[12-Terms/Responsibility\|Terms/Responsibility]]  
-[[12-Terms/Cause and Effect\|Cause and Effect]]
+[[Distorted Power]]  
+[[Fear]]  
+[[Terms/Control]]  
+[[Terms/Boundaries|Boundaries]]  
+[[Terms/Responsibility]]  
+[[Cause and Effect]]

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Load Redistribution Under Decoupling","order":9,"dg-metatags":{"og:title":"Load Redistribution Under Decoupling","description":"Analyzes how causal load shifts when relational chains decouple, often producing instability or delayed consequence.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/02-relational-loop-theory/load-redistribution-under-decoupling/","metatags":{"og:title":"Load Redistribution Under Decoupling","description":"Analyzes how causal load shifts when relational chains decouple, often producing instability or delayed consequence.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Load Redistribution Under Decoupling
+order: 9
+dg-metatags:
+  og:title: "Load Redistribution Under Decoupling"
+  description: Analyzes how causal load shifts when relational chains decouple, often producing instability or delayed consequence.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 **Load Redistribution Under Decoupling** — the structural destabilization that occurs when a coupled causal configuration loses one of its load-bearing components.
 
 This process is not experiential.  
@@ -92,8 +97,8 @@ This note describes **structural behavior under decoupling conditions**.
 
 ### **See Also**
 
-[[02-Relational Loop Theory/Coupled Chains and Shared Load\|Coupled Chains and Shared Load]]  
-[[02-Relational Loop Theory/Asymmetry and Stability\|Asymmetry and Stability]]  
-[[02-Relational Loop Theory/Relational Loop Decay\|Relational Loop Decay]]  
-[[12-Terms/Open Chain State\|Open Chain State]]  
-[[12-Terms/Chain Architecture\|Chain Architecture]]
+[[Coupled Chains and Shared Load]]  
+[[Asymmetry and Stability]]  
+[[Relational Loop Decay]]  
+[[Open Chain State]]  
+[[Chain Architecture]]

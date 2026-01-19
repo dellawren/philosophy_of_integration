@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"order":7,"dg-title":"Morality","dg-metatags":{"og:title":"Morality","description":"Examines morality as an interpretive system that replaces consequence with judgment, categorization, and blame.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/07-human-interpretation-layer/morality/","metatags":{"og:title":"Morality","description":"Examines morality as an interpretive system that replaces consequence with judgment, categorization, and blame.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+order: 7
+dg-title: Morality
+dg-metatags:
+  og:title: "Morality"
+  description: Examines morality as an interpretive system that replaces consequence with judgment, categorization, and blame.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 ## The Phenomenon
 Morality refers to socially reinforced rules, values, and judgments that distinguish acceptable from unacceptable behavior.
 
@@ -24,9 +29,9 @@ This creates the impression that moral rules supersede causal structure.
 ## Structural Location in the Chain
 Within the framework, morality functions as **externalized ethical shorthand**.
 
-Moral systems attempt to regulate behavior by replacing causal reasoning with pre-established judgments. Rather than eliminating [[12-Terms/Causality\|Causality]], morality overlays it with evaluative labels.
+Moral systems attempt to regulate behavior by replacing causal reasoning with pre-established judgments. Rather than eliminating [[Causality]], morality overlays it with evaluative labels.
 
-Morality often enters the chain as a mediating force, aligning with the dynamics described by the [[12-Terms/Causal Mediation Principle\|Causal Mediation Principle]].
+Morality often enters the chain as a mediating force, aligning with the dynamics described by the [[Causal Mediation Principle]].
 
 ---
 
@@ -38,7 +43,7 @@ When morality dominates causal understanding, several distortions emerge:
 - moral identity overrides structural role  
 - blame is distributed instead of resolution  
 
-These distortions frequently generate [[12-Terms/Relational Loop\|Relational Loop]]s by preventing direct causal completion.
+These distortions frequently generate [[Relational Loop]]s by preventing direct causal completion.
 
 ---
 
@@ -50,7 +55,7 @@ Within the framework, these systems correspond to:
 - substitutions for direct causal literacy
 - stabilization mechanisms for large populations
 
-Morality intersects with [[07-Human Interpretation Layer/Religion\|Religion]], [[07-Human Interpretation Layer/Control\|Control]], and [[07-Human Interpretation Layer/Power\|Power]].
+Morality intersects with [[Religion]], [[Control]], and [[Power]].
 
 ---
 

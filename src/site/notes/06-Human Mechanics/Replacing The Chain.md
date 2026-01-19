@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"order":7,"dg-title":"Replacing the Chain","dg-metatags":{"og:title":"Replacing the Chain","description":"Explores how unresolved causal chains are often replaced with substitute behaviors or narratives that preserve function without resolution.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/06-human-mechanics/replacing-the-chain/","metatags":{"og:title":"Replacing the Chain","description":"Explores how unresolved causal chains are often replaced with substitute behaviors or narratives that preserve function without resolution.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+order: 7
+dg-title: Replacing the Chain
+dg-metatags:
+  og:title: "Replacing the Chain"
+  description: Explores how unresolved causal chains are often replaced with substitute behaviors or narratives that preserve function without resolution.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 
 The emergence of a new causal sequence after a distorted chain has resolved.
 
@@ -12,7 +17,7 @@ When a distorted chain completes, the system does not return to neutrality or ab
 
 Replacement explains why some shifts become stable rather than cyclical. What changes is not behavior, but **the conditions that made the old chain necessary**.
 
-Replacement occurs between [[12-Terms/Chain Resolution\|Chain Resolution]] and [[12-Terms/Coherence\|Coherence]].  
+Replacement occurs between [[12-Terms/Chain Resolution|Chain Resolution]] and [[Coherence]].  
 It cannot occur while a distorted chain remains active.
 
 ---
@@ -21,9 +26,9 @@ It cannot occur while a distorted chain remains active.
 
 Distortion often becomes visible before it resolves.
 
-Emotion registers strain through [[Emotional Feedback\|Emotional Feedback]].  
-Awareness identifies pattern through [[Structural Awareness\|Structural Awareness]].  
-Interpretation loosens when experience is recognized as an effect of [[12-Terms/Distortion\|Distortion]] rather than truth.
+Emotion registers strain through [[Emotional Feedback]].  
+Awareness identifies pattern through [[Structural Awareness]].  
+Interpretation loosens when experience is recognized as an effect of [[Distortion]] rather than truth.
 
 Visibility clarifies the system.  
 It does not alter the chain.
@@ -39,7 +44,7 @@ As a distorted chain loses predictive accuracy, alternative causal paths may com
 This is not the formation of multiple active chains.  
 It is the **weakening of one chain and the availability of another**.
 
-What appears as a [[12-Terms/Chain Split\|Chain Split]] is the moment coherence becomes structurally possible, but not yet established.
+What appears as a [[Chain Split]] is the moment coherence becomes structurally possible, but not yet established.
 
 At this stage:
 
@@ -58,9 +63,9 @@ Replacement has not yet occurred.
 
 What is commonly described as “choice” is unavailable while a distorted chain governs behavior.
 
-In the Stillhouse sense, agency becomes accessible **only after**:
+In this sense, agency becomes accessible **only after**:
 
-- [[12-Terms/Threat Prediction\|Terms/Threat Prediction]] collapses
+- [[Terms/Threat Prediction]] collapses
     
 - secondary chains lose necessity
     
@@ -92,9 +97,9 @@ As causal architecture reorganizes, biological systems reflect the update.
 
 Emotion settles.  
 Reactivity diminishes.  
-[[Identity Architecture\|Identity Architecture]] loosens without collapse.  
-[[12-Terms/Circular Time\|Circular Time]] gives way to [[12-Terms/Temporal Architecture\|Temporal Architecture]].  
-Capacity for [[12-Terms/Choice\|Terms/Choice]] expands.
+[[Identity Architecture]] loosens without collapse.  
+[[Circular Time]] gives way to [[Temporal Architecture]].  
+Capacity for [[Terms/Choice]] expands.
 
 These shifts are **effects**, not mechanisms.
 
@@ -108,10 +113,10 @@ It is architectural change mirrored by biology.
 
 ## See Also
 
-[[12-Terms/Chain Architecture\|Chain Architecture]]  
-[[12-Terms/Chain Resolution\|Terms/Chain Resolution]]  
-[[12-Terms/Primary Chains\|Primary Chains]]  
-[[12-Terms/Secondary Chains\|Secondary Chains]]  
-[[12-Terms/Threat Prediction\|Terms/Threat Prediction]]  
-[[12-Terms/Coherence\|Coherence]]  
-[[01-The Architecture of Integration/Memory as Architectural Persistence\|Memory as Architectural Persistence]]
+[[Chain Architecture]]  
+[[Terms/Chain Resolution]]  
+[[Primary Chains]]  
+[[Secondary Chains]]  
+[[Terms/Threat Prediction]]  
+[[Coherence]]  
+[[Memory as Architectural Persistence]]

@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"order":2,"dg-title":"Self-Protection","dg-metatags":{"og:title":"Self-Protection","description":"Examines self-protection as a primary interpretive driver that shapes perception, behavior, and justification under perceived threat.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/07-human-interpretation-layer/self-protection/","metatags":{"og:title":"Self-Protection","description":"Examines self-protection as a primary interpretive driver that shapes perception, behavior, and justification under perceived threat.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
----
+dg-publish: true
+order: 2
+dg-title: Self-Protection
+dg-metatags:
+  og:title: "Self-Protection"
+  description: Examines self-protection as a primary interpretive driver that shapes perception, behavior, and justification under perceived threat.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 
+---
 ## The Phenomenon
 Self-protection refers to automatic responses oriented toward safety, survival, and threat avoidance.
 
@@ -24,7 +30,7 @@ This creates the impression that self-protection exists outside choice, responsi
 ## Structural Location in the Chain
 Within the framework, self-protection is **pre-ethical causal response**.
 
-It activates when perceived threat interrupts normal chain processing. Self-protection does not negate [[12-Terms/Causality\|Causality]]. It represents a rapid, protective redirection of causal flow.
+It activates when perceived threat interrupts normal chain processing. Self-protection does not negate [[Causality]]. It represents a rapid, protective redirection of causal flow.
 
 Self-protection precedes ethics, morality, and narrative interpretation.
 
@@ -38,7 +44,7 @@ When self-protection is misunderstood, several distortions emerge:
 - regulation replaces resolution  
 - threat responses become stabilized as identity  
 
-These distortions often interact with [[07-Human Interpretation Layer/Trauma\|Trauma]], reinforcing open chains and persistent loops.
+These distortions often interact with [[Trauma]], reinforcing open chains and persistent loops.
 
 ---
 
@@ -50,7 +56,7 @@ Within the framework, these observations correspond to:
 - prioritization of survival over coherence
 - suspension of ethical or reflective processing
 
-Self-protection intersects structurally with [[07-Human Interpretation Layer/Trauma\|Trauma]] and [[07-Human Interpretation Layer/Control\|Control]].
+Self-protection intersects structurally with [[Trauma]] and [[Control]].
 
 ---
 

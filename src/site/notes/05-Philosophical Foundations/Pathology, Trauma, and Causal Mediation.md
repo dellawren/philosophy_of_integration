@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"order":10,"dg-title":"Pathology, Trauma, and Causal Mediation","dg-metatags":{"og:title":"Pathology, Trauma, and Causal Mediation","description":"Reframes pathology and trauma through causal mediation, showing how systemic interception replaces resolution with diagnosis.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/05-philosophical-foundations/pathology-trauma-and-causal-mediation/","metatags":{"og:title":"Pathology, Trauma, and Causal Mediation","description":"Reframes pathology and trauma through causal mediation, showing how systemic interception replaces resolution with diagnosis.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+order: 10
+dg-title: Pathology, Trauma, and Causal Mediation
+dg-metatags:
+  og:title: "Pathology, Trauma, and Causal Mediation"
+  description: Reframes pathology and trauma through causal mediation, showing how systemic interception replaces resolution with diagnosis.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 
 Modern psychology treats pathology as a property of individuals. Symptoms are named, categorized, and located inside people, often as disorders, dysfunctions, or deficits. Trauma is framed as damage, and behaviour is interpreted as evidence of internal failure or maladaptation.
 
@@ -139,11 +144,11 @@ This reframing dissolves stigma without denying reality.
 
 ## **See Also**
 
-[[12-Terms/Causal Mediation Principle\|Causal Mediation Principle]]  
-[[06-Human Mechanics/Trauma Inside the Chain\|Trauma Inside the Chain]]  
-[[12-Terms/Secondary Chains\|Secondary Chains]]  
-[[12-Terms/Survival Logic\|Survival Logic]]  
-[[12-Terms/Distorted Chain\|Distorted Chain]]  
-[[12-Terms/Control\|Control]]  
-[[12-Terms/Cause and Effect\|Cause and Effect]]  
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[Causal Mediation Principle]]  
+[[Trauma Inside the Chain]]  
+[[Secondary Chains]]  
+[[Survival Logic]]  
+[[Distorted Chain]]  
+[[Control]]  
+[[Cause and Effect]]  
+[[Philosophy of Integration]]

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"order":4,"dg-title":"Power","dg-metatags":{"og:title":"Power","description":"Explores power as a relational concept arising from the capacity to influence consequence, often distorted through control and fear.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/07-human-interpretation-layer/power/","metatags":{"og:title":"Power","description":"Explores power as a relational concept arising from the capacity to influence consequence, often distorted through control and fear.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+order: 4
+dg-title: Power
+dg-metatags:
+  og:title: "Power"
+  description: Explores power as a relational concept arising from the capacity to influence consequence, often distorted through control and fear.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 ## The Phenomenon
 Power refers to the capacity to affect conditions, outcomes, or other actors within a system.
 
@@ -24,7 +29,7 @@ This creates the impression that power operates outside causality rather than wi
 ## Structural Location in the Chain
 Within the framework, power is **capacity within a causal chain**.
 
-Power does not negate [[12-Terms/Causality\|Causality]]. It amplifies reach within it. The greater the capacity to affect conditions, the larger the causal footprint of action.
+Power does not negate [[Causality]]. It amplifies reach within it. The greater the capacity to affect conditions, the larger the causal footprint of action.
 
 Power becomes structurally problematic only when consequence is displaced or mediated, rather than completed.
 
@@ -38,7 +43,7 @@ When power is misunderstood or misused, several distortions arise:
 - immunity from consequence is assumed  
 - harm is justified through position rather than effect  
 
-These distortions frequently generate [[12-Terms/Relational Loop\|Relational Loop]]s by interrupting causal completion between actors.
+These distortions frequently generate [[Relational Loop]]s by interrupting causal completion between actors.
 
 ---
 
@@ -50,7 +55,7 @@ Within the framework, these observations correspond to:
 - asymmetrical consequence distribution
 - mediation between action and effect
 
-Power intersects structurally with [[07-Human Interpretation Layer/Responsibility\|Responsibility]] and [[07-Human Interpretation Layer/Control\|Control]].
+Power intersects structurally with [[Responsibility]] and [[Control]].
 
 ---
 

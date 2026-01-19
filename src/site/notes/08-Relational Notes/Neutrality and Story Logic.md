@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Neutrality and Story Logic","dg-metatags":{"og:title":"Neutrality and Story Logic","description":"A relational exploration of how story logic distorts perception and how neutrality restores clarity by removing narrative interference.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"order":7,"permalink":"/08-relational-notes/neutrality-and-story-logic/","metatags":{"og:title":"Neutrality and Story Logic","description":"A relational exploration of how story logic distorts perception and how neutrality restores clarity by removing narrative interference.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Neutrality and Story Logic
+dg-metatags:
+  og:title: "Neutrality and Story Logic"
+  description: A relational exploration of how story logic distorts perception and how neutrality restores clarity by removing narrative interference.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
+order: 7
 ---
-
 ## **Overview**
 
 Neutrality and story logic represent two distinct interpretive configurations within human perception.
@@ -97,10 +102,10 @@ Choice becomes available not through insight, but through clarity.
 
 ## **See Also**
 
-[[12-Terms/Story Logic\|Story Logic]]  
-[[12-Terms/Awareness\|Awareness]]  
-[[12-Terms/Distortion\|Distortion]]  
-[[12-Terms/Coherence\|Coherence]]  
-[[12-Terms/Boundaries\|Boundaries]]  
-[[12-Terms/Cause and Effect\|Cause and Effect]]  
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[Story Logic]]  
+[[Awareness]]  
+[[Distortion]]  
+[[Coherence]]  
+[[Terms/Boundaries|Boundaries]]  
+[[Cause and Effect]]  
+[[Philosophy of Integration]]

@@ -1,10 +1,16 @@
 ---
-{"dg-publish":true,"order":2,"dg-title":"Biological Mirrors of the Chain","dg-metatags":{"og:title":"Biological Mirrors of the Chain","description":"Explores how biological systems mirror the structure of causal chains, translating abstract architecture into physiological response.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/06-human-mechanics/biological-mirrors-of-the-chain/","metatags":{"og:title":"Biological Mirrors of the Chain","description":"Explores how biological systems mirror the structure of causal chains, translating abstract architecture into physiological response.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
----
+dg-publish: true
+order: 2
+dg-title: Biological Mirrors of the Chain
+dg-metatags:
+  og:title: "Biological Mirrors of the Chain"
+  description: Explores how biological systems mirror the structure of causal chains, translating abstract architecture into physiological response.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 
+---
 Biological systems operate as causal systems.
 
-They respond to conditions through signaling, feedback, adaptation, and reorganization. Within the framework, biology does not exist as a separate domain from [[12-Terms/Causality\|Causality]]. It expresses the same structural principles through physical processes.
+They respond to conditions through signaling, feedback, adaptation, and reorganization. Within the framework, biology does not exist as a separate domain from [[Causality]]. It expresses the same structural principles through physical processes.
 
 When causal sequences are coherent, biological systems tend toward regulation.  
 When causal sequences are distorted or interrupted, biological systems reorganize around that distortion.
@@ -28,8 +34,8 @@ They are **superseded**.
 This mirrors broader causal mechanics: open or distorted chains do not revert. They are replaced by new structures that carry unresolved load forward.
 
 See:  
-[[12-Terms/Distorted Chain\|Distorted Chain]]  
-[[12-Terms/Replacement\|Terms/Replacement]]
+[[Distorted Chain]]  
+[[Terms/Replacement]]
 
 ---
 
@@ -47,8 +53,8 @@ It forms new ones.
 This produces altered response patterns rather than restoration of prior configuration.
 
 See:  
-[[06-Human Mechanics/Early Chain Formation\|Early Chain Formation]]  
-[[06-Human Mechanics/Trauma Inside the Chain\|Trauma Inside the Chain]]
+[[Early Chain Formation]]  
+[[Trauma Inside the Chain]]
 
 ---
 
@@ -68,8 +74,8 @@ Under sustained stress or interruption, loops reorganize into altered baselines 
 Hormonal systems adapt by stabilizing new equilibrium states rather than correcting prior ones.
 
 See:  
-[[01-The Architecture of Integration/Biological Architecture\|Biological Architecture]]  
-[[12-Terms/Fear as Effect\|Fear as Effect]]
+[[Biological Architecture]]  
+[[Fear as Effect]]
 
 ---
 
@@ -86,8 +92,8 @@ The immune system does not return to an earlier state through correction.
 It adapts by reorganizing response thresholds and signaling patterns.
 
 See:  
-[[12-Terms/Invisible Distortion\|Invisible Distortion]]  
-[[12-Terms/Survival Logic\|Survival Logic]]
+[[Invisible Distortion]]  
+[[Survival Logic]]
 
 ---
 
@@ -103,8 +109,8 @@ Chronic pain emerges when signaling loops persist beyond resolution, resulting i
 Pain circuits reorganize around persistence rather than resetting.
 
 See:  
-[[12-Terms/Looping Memory\|Looping Memory]]  
-[[12-Terms/Distorted Time\|Distorted Time]]
+[[Looping Memory]]  
+[[Distorted Time]]
 
 ---
 
@@ -121,8 +127,8 @@ The nervous system does not directly correct dysregulation.
 It reorganizes around perceived safety or threat cues.
 
 See:  
-[[07-Human Interpretation Layer/Self-Protection\|Self-Protection]]  
-[[06-Human Mechanics/Trauma Inside the Chain\|Trauma Inside the Chain]]
+[[Self-Protection]]  
+[[Trauma Inside the Chain]]
 
 ---
 
@@ -139,8 +145,8 @@ When patterns change, new encoding pathways form.
 Older patterns diminish through lack of reinforcement rather than active erasure.
 
 See:  
-[[01-The Architecture of Integration/Memory as Architectural Persistence\|Memory as Architectural Persistence]]  
-[[12-Terms/Neutral Memory\|Neutral Memory]]
+[[Memory as Architectural Persistence]]  
+[[Neutral Memory]]
 
 ---
 

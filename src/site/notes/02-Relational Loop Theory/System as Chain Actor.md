@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"System as Chain Actor","order":7,"dg-metatags":{"og:title":"System as Chain Actor","description":"Explores how systems function as active participants in relational loops by intercepting causality and redistributing consequence.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/02-relational-loop-theory/system-as-chain-actor/","metatags":{"og:title":"System as Chain Actor","description":"Explores how systems function as active participants in relational loops by intercepting causality and redistributing consequence.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: System as Chain Actor
+order: 7
+dg-metatags:
+  og:title: "System as Chain Actor"
+  description: Explores how systems function as active participants in relational loops by intercepting causality and redistributing consequence.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 **System as Chain Actor** — a non-sentient structural configuration that can occupy a causal position within a chain by mediating, redirecting, or suspending consequence.
 
 A system is not an agent.  
@@ -101,8 +106,8 @@ This prevents moralization, blame, and defense from entering the architecture.
 
 ### **See Also**
 
-[[12-Terms/Causal Mediation Principle\|Causal Mediation Principle]]  
-[[02-Relational Loop Theory/Systemic Interference\|Systemic Interference]]  
-[[12-Terms/Open Chain State\|Open Chain State]]  
-[[12-Terms/Secondary Chains\|Secondary Chains]]  
-[[12-Terms/Chain Architecture\|Chain Architecture]]
+[[Causal Mediation Principle]]  
+[[Systemic Interference]]  
+[[Open Chain State]]  
+[[Secondary Chains]]  
+[[Chain Architecture]]

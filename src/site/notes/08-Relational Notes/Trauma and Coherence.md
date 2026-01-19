@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Trauma and Coherence","order":9,"dg-metatags":{"og:title":"Trauma and Coherence","description":"A direct explanation of how The Philosophy of Integration understands trauma — not as pathology, but as architecture within the cause–effect chain.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/08-relational-notes/trauma-and-coherence/","metatags":{"og:title":"Trauma and Coherence","description":"A direct explanation of how The Philosophy of Integration understands trauma — not as pathology, but as architecture within the cause–effect chain.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Trauma and Coherence
+order: 9
+dg-metatags:
+  og:title: "Trauma and Coherence"
+  description: "A direct explanation of how The Philosophy of Integration understands trauma — not as pathology, but as architecture within the cause–effect chain."
+  og:image: "https://philosophy.dellawren.com/img/user/customheader.jpg"
 ---
-
 ## **Overview**
 
 Trauma and coherence are not opposites.  
@@ -120,16 +125,16 @@ It replaces the architecture trauma required.
 
 ## **See Also**
 
-[[12-Terms/Trauma\|Terms/Trauma]]  
-[[12-Terms/Trauma Identity\|Trauma Identity]]  
-[[06-Human Mechanics/Trauma Inside the Chain\|Trauma Inside the Chain]]  
-[[01-The Architecture of Integration/Memory as Architectural Persistence\|Memory as Architectural Persistence]]  
-[[12-Terms/Neutral Memory\|Neutral Memory]]  
-[[12-Terms/Story Logic\|Story Logic]]  
-[[12-Terms/Boundaries\|Boundaries]]  
-[[12-Terms/Cruelty\|Cruelty]]  
-[[12-Terms/Distorted Power\|Distorted Power]]  
-[[Identity Architecture\|Identity Architecture]]  
-[[01-The Architecture of Integration/Closing the Chain\|Closing the Chain]]  
-[[12-Terms/Cause and Effect\|Cause and Effect]]  
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[Terms/Trauma]]  
+[[Trauma Identity]]  
+[[Trauma Inside the Chain]]  
+[[Memory as Architectural Persistence]]  
+[[Neutral Memory]]  
+[[Story Logic]]  
+[[Boundaries]]  
+[[Cruelty]]  
+[[Distorted Power]]  
+[[Identity Architecture]]  
+[[Closing the Chain]]  
+[[Cause and Effect]]  
+[[Philosophy of Integration]]

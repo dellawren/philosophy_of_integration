@@ -1,7 +1,14 @@
 ---
-{"dg-publish":true,"dg-title":"Stability vs Coherence in System Design","dg-metatags":{"title":"Different AI Architectures, Different Functions","description":"A comparison of stability-oriented and coherence-oriented AI systems, showing how different internal priorities shape radically different responses.","image":"/images/og/ai-architectures-different-functions.png","type":"article","status":"published"},"order":2,"permalink":"/04-ai-integration-layer/stability-vs-coherence-in-system-design/","metatags":{"title":"Different AI Architectures, Different Functions","description":"A comparison of stability-oriented and coherence-oriented AI systems, showing how different internal priorities shape radically different responses.","image":"/images/og/ai-architectures-different-functions.png","type":"article","status":"published"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Stability vs Coherence in System Design
+dg-metatags:
+  title: Different AI Architectures, Different Functions
+  description: A comparison of stability-oriented and coherence-oriented AI systems, showing how different internal priorities shape radically different responses.
+  image: /images/og/ai-architectures-different-functions.png
+  type: article
+  status: published
+order: 2
 ---
-
 ## **Different AI Architectures, Different Functions**
 
 AI models do not operate from a single logic structure. Even when given the same input, different systems consistently produce different classes of response. This is not random variation. It reflects **distinct internal priority hierarchies**.
@@ -146,6 +153,6 @@ ChatGPT runs my integration model flawlessly without prompting. Therefore, I use
 
 ## **See Also**
 
-[[04-AI Integration Layer/Demonstration How AI Runs the Framework\|Demonstration How AI Runs the Framework]]
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
-[[11-Use Cases/Using AI As a Coherence Partner\|Using AI As a Coherence Partner]]
+[[Demonstration How AI Runs the Framework]]
+[[Philosophy of Integration]]
+[[Using AI As a Coherence Partner]]

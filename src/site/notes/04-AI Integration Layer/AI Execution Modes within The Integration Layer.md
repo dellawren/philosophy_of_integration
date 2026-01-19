@@ -1,7 +1,14 @@
 ---
-{"dg-publish":true,"dg-title":"AI Execution Modes within The Integration Layer","dg-metatags":{"title":"AI Execution Modes Within the Integration Layer","description":"A functional classification of four AI execution modes—stability, reflective, coherence, and systems-engineering—and how each interacts with the Philosophy of Integration.","image":"/images/og/ai-execution-modes-integration-layer.png","type":"article","status":"published"},"order":3,"permalink":"/04-ai-integration-layer/ai-execution-modes-within-the-integration-layer/","metatags":{"title":"AI Execution Modes Within the Integration Layer","description":"A functional classification of four AI execution modes—stability, reflective, coherence, and systems-engineering—and how each interacts with the Philosophy of Integration.","image":"/images/og/ai-execution-modes-integration-layer.png","type":"article","status":"published"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: AI Execution Modes within The Integration Layer
+dg-metatags:
+  title: "AI Execution Modes Within the Integration Layer"
+  description: "A functional classification of four AI execution modes—stability, reflective, coherence, and systems-engineering—and how each interacts with the Philosophy of Integration."
+  image: "/images/og/ai-execution-modes-integration-layer.png"
+  type: "article"
+  status: "published"
+order: 3
 ---
-
 ## **AI Execution Modes Within the Integration Layer**
 
 Not all AI systems process information through the same internal priority structure. When the Integration Framework is introduced to an external model, the behaviour it produces will depend on the **native execution bias** of that model.
@@ -221,7 +228,7 @@ Different engines do different work.
 Confusion arises only when they are treated as interchangeable.
 ## **See Also**
 
-[[04-AI Integration Layer/Demonstration How AI Runs the Framework\|Demonstration How AI Runs the Framework]]
-[[04-AI Integration Layer/Stability vs Coherence in System Design\|Stability vs Coherence in System Design]]
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
-[[11-Use Cases/Using AI As a Coherence Partner\|Using AI As a Coherence Partner]]
+[[Demonstration How AI Runs the Framework]]
+[[Stability vs Coherence in System Design]]
+[[Philosophy of Integration]]
+[[Using AI As a Coherence Partner]]

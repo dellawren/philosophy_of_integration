@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"order":9,"dg-title":"Identity","dg-metatags":{"og:title":"Identity","description":"Explores identity as a narrative construct formed through memory, interpretation, and social reinforcement rather than fixed essence.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/07-human-interpretation-layer/identity/","metatags":{"og:title":"Identity","description":"Explores identity as a narrative construct formed through memory, interpretation, and social reinforcement rather than fixed essence.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+order: 9
+dg-title: Identity
+dg-metatags:
+  og:title: "Identity"
+  description: Explores identity as a narrative construct formed through memory, interpretation, and social reinforcement rather than fixed essence.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 ## The Phenomenon
 Identity refers to the way an individual or group understands, defines, and locates itself within the world.
 
@@ -38,7 +43,7 @@ When identity is mislocated, several distortions arise:
 - behavior is justified through identity rather than effect  
 - resolution is resisted to preserve self-concept  
 
-These distortions frequently reinforce [[12-Terms/Relational Loop\|Relational Loop]]s by prioritizing self-definition over causal completion.
+These distortions frequently reinforce [[Relational Loop]]s by prioritizing self-definition over causal completion.
 
 ---
 
@@ -50,7 +55,7 @@ Within the framework, these observations correspond to:
 - repeated causal reinforcement
 - defensive anchoring under uncertainty
 
-Identity intersects structurally with [[07-Human Interpretation Layer/Responsibility\|Responsibility]] and [[07-Human Interpretation Layer/Power\|Power]].
+Identity intersects structurally with [[Responsibility]] and [[Power]].
 
 ---
 

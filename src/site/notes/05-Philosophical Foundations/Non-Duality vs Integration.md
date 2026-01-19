@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"order":8,"dg-title":"Non-Duality vs Integration","dg-metatags":{"og:title":"Non-Duality vs Integration","description":"Clarifies the differences between non-dual frameworks and Integration, particularly regarding embodiment, causality, and responsibility.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/05-philosophical-foundations/non-duality-vs-integration/","metatags":{"og:title":"Non-Duality vs Integration","description":"Clarifies the differences between non-dual frameworks and Integration, particularly regarding embodiment, causality, and responsibility.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+order: 8
+dg-title: Non-Duality vs Integration
+dg-metatags:
+  og:title: "Non-Duality vs Integration"
+  description: Clarifies the differences between non-dual frameworks and Integration, particularly regarding embodiment, causality, and responsibility.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 Non-duality asserts that separation is illusory — that the distinction between self and other dissolves at the level of pure awareness. In its classical expression, identity, preference, and narrative fall away, leaving undivided presence. Experience is no longer organized around subject and object, but apprehended as a single field.
 
 Within this view, nothing is personal, nothing is separate, and nothing requires interpretation.
@@ -12,7 +17,7 @@ Difficulties arise not from non-duality itself, but from how it is applied. When
 
 ### **Relation to Integration**
 
-[[12-Terms/Integration\|Integration]] does not negate non-duality, but it does not prioritize transcendence of the human layer.
+[[Integration]] does not negate non-duality, but it does not prioritize transcendence of the human layer.
 
 Where non-duality emphasizes the dissolution of distinction, Integration emphasizes reconciliation of levels. Individuality, sensation, and causality are not errors to be outgrown, but structures within the whole. Awareness does not erase form; it perceives it without distortion.
 
@@ -25,4 +30,4 @@ Oneness is acknowledged without flattening experience.
 ---
 
 **See also:**  
-[[05-Philosophical Foundations/Phenomenology - Why Experience Matters More Than Belief\|Phenomenology - Why Experience Matters More Than Belief]] · [[12-Terms/Duality\|Duality]]
+[[Phenomenology - Why Experience Matters More Than Belief]] · [[Duality]]

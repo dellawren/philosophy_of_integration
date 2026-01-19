@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"order":2,"dg-title":"Where Integration Sits in the Landscape of Philosophy","dg-metatags":{"og:title":"Where Integration Sits in the Landscape of Philosophy","description":"Locates the Philosophy of Integration within the broader philosophical landscape, clarifying its relationship to historical and contemporary traditions.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/05-philosophical-foundations/where-integration-sits-in-the-landscape-of-philosophy/","metatags":{"og:title":"Where Integration Sits in the Landscape of Philosophy","description":"Locates the Philosophy of Integration within the broader philosophical landscape, clarifying its relationship to historical and contemporary traditions.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+order: 2
+dg-title: Where Integration Sits in the Landscape of Philosophy
+dg-metatags:
+  og:title: "Where Integration Sits in the Landscape of Philosophy"
+  description: Locates the Philosophy of Integration within the broader philosophical landscape, clarifying its relationship to historical and contemporary traditions.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 The Philosophy of Integration begins with a structural claim: human life does not require external control in order to remain coherent.  
 Reality already regulates itself through cause and effect. When interference is introduced, it is not corrective — it is distortive.
 
@@ -70,8 +75,8 @@ It dissolves the need for governance by returning responsibility to perception.
 ---
 
 **See also:**  
-[[05-Philosophical Foundations/Ontology\|Ontology]]  
-[[12-Terms/Phenomenology\|Phenomenology]]  
-[[05-Philosophical Foundations/The Constructivist Lens\|The Constructivist Lens]]
-[[12-Terms/Cause and Effect\|Cause and Effect]]  
-[[12-Terms/Coherence\|Coherence]]
+[[Ontology]]  
+[[Phenomenology]]  
+[[The Constructivist Lens]]
+[[Cause and Effect]]  
+[[Coherence]]

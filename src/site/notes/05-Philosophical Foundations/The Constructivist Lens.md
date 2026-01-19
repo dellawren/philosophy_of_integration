@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"order":5,"dg-title":"The Constructivist Lens","dg-metatags":{"og:title":"The Constructivist Lens","description":"Examines how meaning, identity, and interpretation are constructed, and how these constructions shape perception and distortion.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/05-philosophical-foundations/the-constructivist-lens/","metatags":{"og:title":"The Constructivist Lens","description":"Examines how meaning, identity, and interpretation are constructed, and how these constructions shape perception and distortion.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+order: 5
+dg-title: The Constructivist Lens
+dg-metatags:
+  og:title: "The Constructivist Lens"
+  description: Examines how meaning, identity, and interpretation are constructed, and how these constructions shape perception and distortion.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 Constructivism holds that humans do not perceive reality directly; they interpret it.  
 Meaning is formed through cognitive and experiential filters rather than discovered as a fixed, objective truth.
 
@@ -35,8 +40,8 @@ It is participation.
 ---
 
 **See also:**  
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]  
-[[12-Terms/Phenomenology\|Phenomenology]]  
-[[05-Philosophical Foundations/Ontology\|Ontology]]  
-[[12-Terms/Architecture\|Architecture]]  
-[[12-Terms/Cause and Effect\|Cause and Effect]]
+[[Philosophy of Integration]]  
+[[Phenomenology]]  
+[[Ontology]]  
+[[Architecture]]  
+[[Cause and Effect]]

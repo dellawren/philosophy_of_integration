@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Asymmetry and Stability","order":5,"dg-metatags":{"og:title":"Asymmetry and Stability","description":"Examines how unequal responsibility and asymmetric load distribution contribute to the long-term stability of relational loops.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/02-relational-loop-theory/asymmetry-and-stability/","metatags":{"og:title":"Asymmetry and Stability","description":"Examines how unequal responsibility and asymmetric load distribution contribute to the long-term stability of relational loops.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Asymmetry and Stability
+order: 5
+dg-metatags:
+  og:title: "Asymmetry and Stability"
+  description: Examines how unequal responsibility and asymmetric load distribution contribute to the long-term stability of relational loops.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 **Asymmetry and Stability** describes the relationship between **unequal load distribution** and **structural persistence** within coupled causal systems.
 
 Relational loops persist longest when unresolved load is **distributed asymmetrically** across chains.
@@ -69,7 +74,7 @@ Asymmetry is a property of **coupled chains**, not individual actors.
 - resolution requires redistribution or completion
     
 
-See [[02-Relational Loop Theory/Coupled Chains and Shared Load\|Coupled Chains and Shared Load]].
+See [[Coupled Chains and Shared Load]].
 
 ---
 
@@ -84,7 +89,7 @@ When asymmetric loops destabilize:
 - decay or reconfiguration may begin
     
 
-These processes are described in [[02-Relational Loop Theory/Load Redistribution Under Decoupling\|Load Redistribution Under Decoupling]] and [[02-Relational Loop Theory/Relational Loop Decay\|Relational Loop Decay]].
+These processes are described in [[Load Redistribution Under Decoupling]] and [[Relational Loop Decay]].
 
 ---
 
@@ -94,9 +99,9 @@ This note explains **why unequal load distribution increases loop persistence**.
 
 It does not explain:
 
-- how asymmetry forms → see [[02-Relational Loop Theory/Coupled Chains and Shared Load\|Coupled Chains and Shared Load]]
+- how asymmetry forms → see [[Coupled Chains and Shared Load]]
     
-- how resolution occurs → see [[02-Relational Loop Theory/Resolution Conditions for Relational Loops\|Resolution Conditions for Relational Loops]]
+- how resolution occurs → see [[Resolution Conditions for Relational Loops]]
     
 - human experience of imbalance or dependency
     
@@ -105,8 +110,8 @@ It does not explain:
 
 ### **See Also**
 
-[[02-Relational Loop Theory/Relational Loop Mechanics\|Relational Loop Mechanics]]  
-[[02-Relational Loop Theory/Coupled Chains and Shared Load\|Coupled Chains and Shared Load]]  
-[[02-Relational Loop Theory/Load Redistribution Under Decoupling\|Load Redistribution Under Decoupling]]  
-[[02-Relational Loop Theory/Relational Loop Decay\|Relational Loop Decay]]  
-[[02-Relational Loop Theory/Relational Loops vs Individual Chains\|Relational Loops vs Individual Chains]]
+[[Relational Loop Mechanics]]  
+[[Coupled Chains and Shared Load]]  
+[[Load Redistribution Under Decoupling]]  
+[[Relational Loop Decay]]  
+[[Relational Loops vs Individual Chains]]

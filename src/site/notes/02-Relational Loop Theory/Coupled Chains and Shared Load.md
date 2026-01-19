@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Coupled Chains and Shared Load","order":6,"dg-metatags":{"og:title":"Coupled Chains and Shared Load","description":"Describes how causal chains become coupled across actors, creating shared load that binds participants into persistent relational patterns.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/02-relational-loop-theory/coupled-chains-and-shared-load/","metatags":{"og:title":"Coupled Chains and Shared Load","description":"Describes how causal chains become coupled across actors, creating shared load that binds participants into persistent relational patterns.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Coupled Chains and Shared Load
+order: 6
+dg-metatags:
+  og:title: "Coupled Chains and Shared Load"
+  description: Describes how causal chains become coupled across actors, creating shared load that binds participants into persistent relational patterns.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 
 **Coupled Chains** — two or more causal chains that have become **structurally interdependent** such that closure can no longer occur independently within any single chain.
 
@@ -41,7 +46,7 @@ Under coupling:
 
 This redistribution marks the transition from individual chains to a **relational loop**.
 
-See [[02-Relational Loop Theory/What is a Relational Loop\|What Is a Relational Loop]].
+See [[What Is a Relational Loop]].
 
 ---
 
@@ -56,7 +61,7 @@ Once coupling occurs, differences in load distribution shape persistence.
 - asymmetry increases resistance to change
     
 
-These properties are described in [[02-Relational Loop Theory/Asymmetry and Stability\|Asymmetry and Stability]].
+These properties are described in [[Asymmetry and Stability]].
 
 ---
 
@@ -73,7 +78,7 @@ When coupling weakens:
 - destabilization follows mechanically
     
 
-See [[02-Relational Loop Theory/Load Redistribution Under Decoupling\|Load Redistribution Under Decoupling]].
+See [[Load Redistribution Under Decoupling]].
 
 ---
 
@@ -83,11 +88,11 @@ This note explains **how chains become structurally interdependent**.
 
 It does not explain:
 
-- why coupling occurs → see [[02-Relational Loop Theory/Relational Loop Theory\|Relational Loop Theory]]
+- why coupling occurs → see [[Relational Loop Theory]]
     
-- how mediated interference produces coupling → see [[02-Relational Loop Theory/Systemic Interference\|Systemic Interference]]
+- how mediated interference produces coupling → see [[Systemic Interference]]
     
-- how closure occurs → see [[02-Relational Loop Theory/Resolution Conditions for Relational Loops\|Resolution Conditions for Relational Loops]]
+- how closure occurs → see [[Resolution Conditions for Relational Loops]]
     
 - human experience of relational attachment
     
@@ -96,9 +101,9 @@ It does not explain:
 
 ### **See Also**
 
-[[02-Relational Loop Theory/Relational Loop Mechanics\|Relational Loop Mechanics]]  
-[[02-Relational Loop Theory/What is a Relational Loop\|What Is a Relational Loop]]  
-[[02-Relational Loop Theory/Asymmetry and Stability\|Asymmetry and Stability]]  
-[[02-Relational Loop Theory/Load Redistribution Under Decoupling\|Load Redistribution Under Decoupling]]  
-[[02-Relational Loop Theory/Relational Loop Decay\|Relational Loop Decay]]  
-[[02-Relational Loop Theory/Relational Loops vs Individual Chains\|Relational Loops vs Individual Chains]]
+[[Relational Loop Mechanics]]  
+[[What Is a Relational Loop]]  
+[[Asymmetry and Stability]]  
+[[Load Redistribution Under Decoupling]]  
+[[Relational Loop Decay]]  
+[[Relational Loops vs Individual Chains]]

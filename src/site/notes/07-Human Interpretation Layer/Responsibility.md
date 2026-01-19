@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"order":5,"dg-title":"Responsibility","dg-metatags":{"og:title":"Responsibility","description":"Examines responsibility as an interpretive assignment of ownership over cause and effect, frequently displaced or moralized.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/07-human-interpretation-layer/responsibility/","metatags":{"og:title":"Responsibility","description":"Examines responsibility as an interpretive assignment of ownership over cause and effect, frequently displaced or moralized.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+order: 5
+dg-title: Responsibility
+dg-metatags:
+  og:title: "Responsibility"
+  description: Examines responsibility as an interpretive assignment of ownership over cause and effect, frequently displaced or moralized.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 ## The Phenomenon
 Responsibility refers to ownership of one’s role within a causal chain, particularly in relation to effect and consequence.
 
@@ -24,7 +29,7 @@ This obscures its actual relationship to causality.
 ## Structural Location in the Chain
 Within the framework, responsibility is **recognition and ownership of causal position**.
 
-Responsibility arises when an actor acknowledges their role in producing conditions and effects. It does not precede [[12-Terms/Causality\|Causality]]. It follows recognition of it.
+Responsibility arises when an actor acknowledges their role in producing conditions and effects. It does not precede [[Causality]]. It follows recognition of it.
 
 Responsibility enables causal completion. Without it, consequence is displaced.
 
@@ -38,7 +43,7 @@ When responsibility is misunderstood, several distortions occur:
 - punishment replaces ownership  
 - avoidance is rewarded over resolution  
 
-These distortions frequently reinforce [[12-Terms/Relational Loop\|Relational Loop]]s by preventing causal closure.
+These distortions frequently reinforce [[Relational Loop]]s by preventing causal closure.
 
 ---
 
@@ -50,7 +55,7 @@ Within the framework, these correspond to:
 - mechanisms to force acknowledgment of effect
 - substitutions for voluntary chain completion
 
-Responsibility is structurally adjacent to [[07-Human Interpretation Layer/Ethics\|Ethics]] and [[07-Human Interpretation Layer/Power\|Power]].
+Responsibility is structurally adjacent to [[Ethics]] and [[Power]].
 
 ---
 

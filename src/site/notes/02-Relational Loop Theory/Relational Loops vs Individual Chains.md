@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Relational Loops vs Individual Chains","order":3,"dg-metatags":{"og:title":"Relational Loops vs Individual Chains","description":"Clarifies the difference between individual causal chains and relational loops, showing how loops exist in the relationship itself rather than within either person.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/02-relational-loop-theory/relational-loops-vs-individual-chains/","metatags":{"og:title":"Relational Loops vs Individual Chains","description":"Clarifies the difference between individual causal chains and relational loops, showing how loops exist in the relationship itself rather than within either person.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Relational Loops vs Individual Chains
+order: 3
+dg-metatags:
+  og:title: "Relational Loops vs Individual Chains"
+  description: Clarifies the difference between individual causal chains and relational loops, showing how loops exist in the relationship itself rather than within either person.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 **Relational Loops vs Individual Chains** establishes a structural boundary between **independent causal sequences** and **coupled causal systems**.
 
 This distinction prevents category errors in analysis, correction, and attribution of responsibility.
@@ -21,7 +26,7 @@ Individual chains:
 
 Closure occurs locally through causal return.
 
-See [[12-Terms/Chain Resolution\|Chain Resolution]].
+See [[Chain Resolution]].
 
 ---
 
@@ -38,7 +43,7 @@ Relational loops:
 
 Closure requires redistribution or completion of **shared load**.
 
-See [[02-Relational Loop Theory/Coupled Chains and Shared Load\|Coupled Chains and Shared Load]] and [[02-Relational Loop Theory/Resolution Conditions for Relational Loops\|Resolution Conditions for Relational Loops]].
+See [[Coupled Chains and Shared Load]] and [[Resolution Conditions for Relational Loops]].
 
 ---
 
@@ -55,7 +60,7 @@ Applying individual-chain logic to relational loops produces:
 
 Responsibility misfires when the level of causality is misidentified.
 
-See [[02-Relational Loop Theory/Why Insight Doesn't Break Loops\|Why Insight Doesn't Break Loops]].
+See [[Why Insight Doesn't Break Loops]].
 
 ---
 
@@ -70,7 +75,7 @@ Relational loops often arise under mediated conditions.
 - persistence follows mechanically
     
 
-See [[02-Relational Loop Theory/Systemic Interference\|Systemic Interference]] and [[12-Terms/Causal Mediation Principle\|Causal Mediation Principle]].
+See [[Systemic Interference]] and [[Causal Mediation Principle]].
 
 ---
 
@@ -93,10 +98,10 @@ Those interpretations belong outside the mechanics layer.
 
 ### **See Also**
 
-[[02-Relational Loop Theory/Relational Loop Mechanics\|Relational Loop Mechanics]]  
-[[02-Relational Loop Theory/What is a Relational Loop\|What Is a Relational Loop]]  
-[[02-Relational Loop Theory/Coupled Chains and Shared Load\|Coupled Chains and Shared Load]]  
-[[02-Relational Loop Theory/Why Insight Doesn't Break Loops\|Why Insight Doesn't Break Loops]]  
-[[02-Relational Loop Theory/Resolution Conditions for Relational Loops\|Resolution Conditions for Relational Loops]]  
-[[12-Terms/Chain Resolution\|Chain Resolution]]  
-[[02-Relational Loop Theory/Systemic Interference\|Systemic Interference]]
+[[Relational Loop Mechanics]]  
+[[What Is a Relational Loop]]  
+[[Coupled Chains and Shared Load]]  
+[[Why Insight Doesn't Break Loops]]  
+[[Resolution Conditions for Relational Loops]]  
+[[Chain Resolution]]  
+[[Systemic Interference]]

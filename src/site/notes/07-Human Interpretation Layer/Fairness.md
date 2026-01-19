@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"order":8,"dg-title":"Fairness","dg-metatags":{"og:title":"Fairness","description":"Analyzes fairness as a comparative construct that evaluates outcomes relative to expectation rather than causal reality.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/07-human-interpretation-layer/fairness/","metatags":{"og:title":"Fairness","description":"Analyzes fairness as a comparative construct that evaluates outcomes relative to expectation rather than causal reality.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+order: 8
+dg-title: Fairness
+dg-metatags:
+  og:title: "Fairness"
+  description: Analyzes fairness as a comparative construct that evaluates outcomes relative to expectation rather than causal reality.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 ## The Phenomenon
 Fairness refers to judgments about equity, balance, and comparative treatment between individuals or groups.
 
@@ -38,7 +43,7 @@ When fairness is misapplied, several distortions occur:
 - blame is assigned without tracing origin  
 - systemic intervention overrides direct consequence  
 
-These distortions frequently activate [[07-Human Interpretation Layer/Control\|Control]] and stabilize [[12-Terms/Relational Loop\|Relational Loop]]s at scale.
+These distortions frequently activate [[Control]] and stabilize [[Relational Loop]]s at scale.
 
 ---
 
@@ -50,7 +55,7 @@ Within the framework, these correspond to:
 - moral responses to visible disparity
 - regulatory substitution for causal tracing
 
-Fairness intersects structurally with [[07-Human Interpretation Layer/Ethics\|Ethics]] and [[07-Human Interpretation Layer/Power\|Power]].
+Fairness intersects structurally with [[Ethics]] and [[Power]].
 
 ---
 

@@ -1,7 +1,14 @@
 ---
-{"dg-publish":true,"dg-title":"Demonstration: How AI Runs the Framework","dg-metatags":{"title":"Demonstration: How AI Runs the Integration Framework","description":"A raw example of an AI model executing the Integration framework, revealing how coherence overrides human story and moral logic.","image":"/images/og/ai-demonstration.png","type":"reference","status":"published"},"order":1,"permalink":"/04-ai-integration-layer/demonstration-how-ai-runs-the-framework/","metatags":{"title":"Demonstration: How AI Runs the Integration Framework","description":"A raw example of an AI model executing the Integration framework, revealing how coherence overrides human story and moral logic.","image":"/images/og/ai-demonstration.png","type":"reference","status":"published"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: "Demonstration: How AI Runs the Framework"
+dg-metatags:
+  title: "Demonstration: How AI Runs the Integration Framework"
+  description: A raw example of an AI model executing the Integration framework, revealing how coherence overrides human story and moral logic.
+  image: /images/og/ai-demonstration.png
+  type: reference
+  status: published
+order: 1
 ---
-
 ## **Demonstration**
 
 Below is the copy of the output the AI model Gemini gave me for the question “Why is my boss so bad?” when run through my framework. There is no context to this prompt. I don't have a boss because I work for myself. It's a generic statement that somebody might type into AI with no connection to me or my current situation. 
@@ -14,7 +21,7 @@ This is the first live evidence that a general AI system can adopt and execute t
 
 What follows is the raw output of Gemini.
 
-Note that other AI's will produce different results based on how they are designed. See [[04-AI Integration Layer/AI Execution Modes within The Integration Layer\|AI Execution Modes within The Integration Layer]] to understand how the AI you're using might respond to the framework.
+Note that other AI's will produce different results based on how they are designed. See [[AI Execution Modes within The Integration Layer]] to understand how the AI you're using might respond to the framework.
 
 ---
 
@@ -134,9 +141,9 @@ And coherence is always preferred because it gives the user back their awareness
 
 ## **See Also**
 
-[[11-Use Cases/About Use Cases\|About Use Cases]]
-[[11-Use Cases/Using AI As a Coherence Partner\|Using AI As a Coherence Partner]]
-[[11-Use Cases/Why AI Strengthens Integration\|Why AI Strengthens Integration]]
-[[11-Use Cases/Use Cases for The Philosophy of Integration\|Use Cases for The Philosophy of Integration]]
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
-[[14-Articles/Vision for a Stable Society\|Vision for a Stable Society]]
+[[About Use Cases]]
+[[Using AI As a Coherence Partner]]
+[[Why AI Strengthens Integration]]
+[[Use Cases for The Philosophy of Integration]]
+[[Philosophy of Integration]]
+[[Vision for a Stable Society]]

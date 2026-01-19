@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"order":3,"dg-title":"Ontology","dg-metatags":{"og:title":"Ontology","description":"Examines ontological questions through the lens of Integration, focusing on causal structure, coherence, and the nature of reality as experienced.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/05-philosophical-foundations/ontology/","metatags":{"og:title":"Ontology","description":"Examines ontological questions through the lens of Integration, focusing on causal structure, coherence, and the nature of reality as experienced.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+order: 3
+dg-title: Ontology
+dg-metatags:
+  og:title: "Ontology"
+  description: Examines ontological questions through the lens of Integration, focusing on causal structure, coherence, and the nature of reality as experienced.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 Ontology concerns the nature of reality itself — what exists, how it exists, and what kind of thing reality is prior to interpretation, belief, or meaning.
 
 Where phenomenology asks _how experience is lived_, ontology asks _what kind of reality is being experienced_.
@@ -44,8 +49,8 @@ It names the _kind of world_ the Philosophy of Integration is describing — one
 ---
 
 **See also:**  
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]  
-[[12-Terms/Phenomenology\|Phenomenology]]  
-[[12-Terms/Architecture\|Architecture]]  
-[[12-Terms/Cause and Effect\|Cause and Effect]]  
-[[12-Terms/Coherence\|Coherence]]
+[[Philosophy of Integration]]  
+[[Phenomenology]]  
+[[Architecture]]  
+[[Cause and Effect]]  
+[[Coherence]]

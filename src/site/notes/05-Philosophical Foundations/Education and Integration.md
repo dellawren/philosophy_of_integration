@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"order":13,"dg-title":"Education and Integration","dg-metatags":{"og:title":"Education and Integration","description":"Analyzes education as a system that transmits values, norms, and interpretive frameworks that shape causal understanding.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/05-philosophical-foundations/education-and-integration/","metatags":{"og:title":"Education and Integration","description":"Analyzes education as a system that transmits values, norms, and interpretive frameworks that shape causal understanding.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+order: 13
+dg-title: Education and Integration
+dg-metatags:
+  og:title: "Education and Integration"
+  description: Analyzes education as a system that transmits values, norms, and interpretive frameworks that shape causal understanding.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 ### **Orientation**
 
 Education is the structured transmission of knowledge, behaviour, and norms across generations.
@@ -212,10 +217,10 @@ Control produces fragmentation.
 
 ### **See Also**
 
-[[05-Philosophical Foundations/Child Development\|Child Development]]
-[[05-Philosophical Foundations/Psychology and Integration\|Psychology and Integration]]
-[[12-Terms/Secondary Chains\|Secondary Chains]]  
-[[12-Terms/Control\|Control]]  
-[[12-Terms/Systemic Obligation\|Systemic Obligation]]  
-[[12-Terms/Capacity\|Capacity]]  
-[[12-Terms/Integration\|Integration]]
+[[Child Development]]
+[[Psychology and Integration]]
+[[Secondary Chains]]  
+[[Control]]  
+[[Systemic Obligation]]  
+[[Capacity]]  
+[[Integration]]

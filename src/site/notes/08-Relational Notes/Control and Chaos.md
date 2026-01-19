@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Control and Chaos","order":3,"dg-metatags":{"og:title":"Control and Chaos: Navigating the Edge of Structure and Uncertainty","description":"A deep dive into how control seeks structure and chaos tests boundaries — and what happens when we shift from rigid control to adaptive balance in life and perception.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/08-relational-notes/control-and-chaos/","metatags":{"og:title":"Control and Chaos: Navigating the Edge of Structure and Uncertainty","description":"A deep dive into how control seeks structure and chaos tests boundaries — and what happens when we shift from rigid control to adaptive balance in life and perception.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Control and Chaos
+order: 3
+dg-metatags:
+  og:title: "Control and Chaos: Navigating the Edge of Structure and Uncertainty"
+  description: "A deep dive into how control seeks structure and chaos tests boundaries — and what happens when we shift from rigid control to adaptive balance in life and perception."
+  og:image: "https://philosophy.dellawren.com/img/user/customheader.jpg"
 ---
-
 ## **Overview**
 
 Control and chaos form a self-reinforcing loop within external systems.  
@@ -74,4 +79,4 @@ Structural Trust becomes the ethical replacement for control.
 
 ## **See Also**
 
-[[12-Terms/Control\|Terms/Control]] • [[12-Terms/Chaos\|Chaos]] • Non-Interference • Structural Trust • Fragmentation • Sovereignty • [[12-Terms/Cause and Effect\|Cause and Effect]]
+[[Terms/Control]] • [[Chaos]] • Non-Interference • Structural Trust • Fragmentation • Sovereignty • [[Cause and Effect]]

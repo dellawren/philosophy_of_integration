@@ -1,13 +1,18 @@
 ---
-{"dg-publish":true,"order":4,"dg-title":"Invisible Distortions","dg-metatags":{"og:title":"Invisible Distortions","description":"Examines distortions within causal chains that operate below conscious awareness, influencing behavior without explicit recognition.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/06-human-mechanics/invisible-distortions/","metatags":{"og:title":"Invisible Distortions","description":"Examines distortions within causal chains that operate below conscious awareness, influencing behavior without explicit recognition.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+order: 4
+dg-title: Invisible Distortions
+dg-metatags:
+  og:title: "Invisible Distortions"
+  description: Examines distortions within causal chains that operate below conscious awareness, influencing behavior without explicit recognition.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 Invisible distortions are causal distortions that remain undetected within a system due to their functional stability.
 
 Distortion visibility is not determined by structural alignment.  
 It is determined by **cost**.
 
-Invisible distortions are a subset of [[12-Terms/Distorted Chain\|Distorted Chain]] dynamics.
+Invisible distortions are a subset of [[Distorted Chain]] dynamics.
 
 ---
 
@@ -24,7 +29,7 @@ As long as a distorted pattern:
 
 it does not register as distorted.
 
-It registers as normal operation within the [[12-Terms/Chain Architecture\|Chain Architecture]].
+It registers as normal operation within the [[Chain Architecture]].
 
 ---
 
@@ -44,8 +49,8 @@ Functional stability masks structural misalignment.
 The distortion is real, but its effects remain within tolerable limits for the system.
 
 See:  
-[[12-Terms/Survival Logic\|Survival Logic]]  
-[[07-Human Interpretation Layer/Self-Protection\|Self-Protection]]
+[[Survival Logic]]  
+[[Self-Protection]]
 
 ---
 
@@ -66,8 +71,8 @@ When accumulated cost exceeds tolerance:
 Visibility follows **threshold breach**, not insight.
 
 See:  
-[[06-Human Mechanics/Trauma Inside the Chain\|Trauma Inside the Chain]]  
-[[12-Terms/Capacity\|Capacity]]
+[[Trauma Inside the Chain]]  
+[[Capacity]]
 
 ---
 
@@ -84,9 +89,9 @@ This does not reduce distortion.
 It delays visibility.
 
 See:  
-[[12-Terms/Identity\|Identity]]  
-[[12-Terms/Morality\|Morality]]  
-[[12-Terms/Control\|Control]]
+[[Identity]]  
+[[Morality]]  
+[[Control]]
 
 ---
 
@@ -102,8 +107,8 @@ This embedding may:
 Identity formation may later attach to these patterns, but identity is not required for invisibility to occur.
 
 See:  
-[[06-Human Mechanics/Experience, Thought, Feeling\|Experience, Thought, Feeling]]  
-[[Identity Architecture\|Identity Architecture]]
+[[Experience, Thought, Feeling]]  
+[[Identity Architecture]]
 
 ---
 

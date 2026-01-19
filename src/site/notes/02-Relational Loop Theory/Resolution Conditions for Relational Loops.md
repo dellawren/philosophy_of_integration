@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Resolution Conditions for Relational Loops","order":11,"dg-metatags":{"og:title":"Resolution Conditions for Relational Loops","description":"Outlines the structural conditions required for a relational loop to resolve, allowing causal consequence to complete between actors.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/02-relational-loop-theory/resolution-conditions-for-relational-loops/","metatags":{"og:title":"Resolution Conditions for Relational Loops","description":"Outlines the structural conditions required for a relational loop to resolve, allowing causal consequence to complete between actors.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Resolution Conditions for Relational Loops
+order: 11
+dg-metatags:
+  og:title: "Resolution Conditions for Relational Loops"
+  description: Outlines the structural conditions required for a relational loop to resolve, allowing causal consequence to complete between actors.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 **Resolution Conditions for Relational Loops** defines the **structural requirements** under which a relational loop can achieve closure.
 
 Relational loops resolve only when **closure conditions** are met.  
@@ -56,7 +61,7 @@ But unresolved load remains active.
 Substitution preserves persistence under a new configuration.  
 Resolution eliminates the need for persistence.
 
-See [[02-Relational Loop Theory/Relational Loop Decay\|Relational Loop Decay]] and [[02-Relational Loop Theory/Why Insight Doesn't Break Loops\|Why Insight Doesn't Break Loops]].
+See [[Relational Loop Decay]] and [[Why Insight Doesn't Break Loops]].
 
 ---
 
@@ -71,7 +76,7 @@ Because relational loops are defined by **shared load**:
 - coupling must dissolve or reconfigure
     
 
-See [[02-Relational Loop Theory/Coupled Chains and Shared Load\|Coupled Chains and Shared Load]] and [[02-Relational Loop Theory/Relational Loops vs Individual Chains\|Relational Loops vs Individual Chains]].
+See [[Coupled Chains and Shared Load]] and [[Relational Loops vs Individual Chains]].
 
 ---
 
@@ -86,7 +91,7 @@ Under mediated conditions, closure is structurally unavailable.
 - resolution is deferred
     
 
-These constraints are formalized in the [[12-Terms/Causal Mediation Principle\|Causal Mediation Principle]].
+These constraints are formalized in the [[Causal Mediation Principle]].
 
 ---
 
@@ -109,10 +114,10 @@ Those interpretations belong outside the mechanics layer.
 
 ### **See Also**
 
-[[02-Relational Loop Theory/Relational Loop Mechanics\|Relational Loop Mechanics]]  
-[[02-Relational Loop Theory/Coupled Chains and Shared Load\|Coupled Chains and Shared Load]]  
-[[02-Relational Loop Theory/Relational Loops vs Individual Chains\|Relational Loops vs Individual Chains]]  
-[[02-Relational Loop Theory/Why Insight Doesn't Break Loops\|Why Insight Doesn't Break Loops]]  
-[[02-Relational Loop Theory/Relational Loop Decay\|Relational Loop Decay]]  
-[[12-Terms/Causal Mediation Principle\|Causal Mediation Principle]]  
-[[12-Terms/Chain Resolution\|Chain Resolution]]
+[[Relational Loop Mechanics]]  
+[[Coupled Chains and Shared Load]]  
+[[Relational Loops vs Individual Chains]]  
+[[Why Insight Doesn't Break Loops]]  
+[[Relational Loop Decay]]  
+[[Causal Mediation Principle]]  
+[[Chain Resolution]]

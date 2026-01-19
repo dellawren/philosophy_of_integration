@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Boundaries and Control","dg-metatags":{"og:title":"Boundaries and Control: The Shift from Fragmentation to Sovereignty","description":"An exploration of how control collapses awareness outward while boundaries return the self inward — revealing the relational movement from distortion to coherence.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dg-order":5,"permalink":"/08-relational-notes/boundaries-and-control/","metatags":{"og:title":"Boundaries and Control: The Shift from Fragmentation to Sovereignty","description":"An exploration of how control collapses awareness outward while boundaries return the self inward — revealing the relational movement from distortion to coherence.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Boundaries and Control
+dg-metatags:
+  og:title: "Boundaries and Control: The Shift from Fragmentation to Sovereignty"
+  description: An exploration of how control collapses awareness outward while boundaries return the self inward — revealing the relational movement from distortion to coherence.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
+dg-order: 5
 ---
-
 ## Overview
 Boundaries and control appear similar on the surface — both involve deciding what is allowed and what is not. But within Integration, they sit on opposite ends of the internal spectrum. Control emerges from fragmentation; boundaries emerge from coherence. Control manages others. Boundaries orient the self.
 
@@ -22,4 +27,4 @@ Control collapses the self outward; boundaries return the self inward.
 This transition marks the shift from fragmentation to sovereignty.
 
 ## See also
-[[12-Terms/Responsibility\|Terms/Responsibility]], [[12-Terms/Sovereignty\|Sovereignty]], [[12-Terms/Distorted Power\|Distorted Power]], [[12-Terms/Cruelty\|Cruelty]], [[12-Terms/Neutrality\|Terms/Neutrality]]
+[[Terms/Responsibility]], [[Sovereignty]], [[Distorted Power]], [[Cruelty]], [[Terms/Neutrality]]

@@ -1,10 +1,16 @@
 ---
-{"dg-publish":true,"order":5,"dg-title":"Trauma Inside the Chain","dg-metatags":{"og:title":"Trauma Inside the Chain","description":"Reframes trauma as a disruption within causal chains rather than a personal defect, emphasizing structural interruption over pathology.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/06-human-mechanics/trauma-inside-the-chain/","metatags":{"og:title":"Trauma Inside the Chain","description":"Reframes trauma as a disruption within causal chains rather than a personal defect, emphasizing structural interruption over pathology.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+order: 5
+dg-title: Trauma Inside the Chain
+dg-metatags:
+  og:title: "Trauma Inside the Chain"
+  description: Reframes trauma as a disruption within causal chains rather than a personal defect, emphasizing structural interruption over pathology.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
+
 ---
+**Trauma** is a structural distortion within a [[Chain Architecture]].
 
-**Trauma** is a structural distortion within a [[12-Terms/Chain Architecture\|Chain Architecture]].
-
-It forms when an event enters the chain at a magnitude, speed, or intensity that exceeds the system’s current [[12-Terms/Capacity\|Capacity]] to process and resolve it.
+It forms when an event enters the chain at a magnitude, speed, or intensity that exceeds the system’s current [[Capacity]] to process and resolve it.
 
 The chain does not break.  
 It distorts in order to continue.
@@ -20,7 +26,7 @@ This redirection:
 - prevents collapse
 - carries unresolved load forward
 
-The resulting structure is a **[[12-Terms/Distorted Chain\|Distorted Chain]]**, not an interruption of causality.
+The resulting structure is a **[[Distorted Chain]]**, not an interruption of causality.
 
 Trauma is architecture, not an external wound.
 
@@ -35,11 +41,11 @@ When closure fails, the event remains active, producing:
 - looping activation
 - persistent relevance
 
-This is a function of [[12-Terms/Temporal Architecture\|Temporal Architecture]], not memory error.
+This is a function of [[Temporal Architecture]], not memory error.
 
 See:  
-[[12-Terms/Circular Time\|Circular Time]]  
-[[12-Terms/Distorted Time\|Distorted Time]]
+[[Circular Time]]  
+[[Distorted Time]]
 
 ---
 
@@ -52,11 +58,11 @@ This includes:
 - stabilized reflexive responses
 - shifted hormonal baselines
 
-These changes reflect [[01-The Architecture of Integration/Biological Architecture\|Biological Architecture]] mirroring a distorted chain, not dysfunction.
+These changes reflect [[Biological Architecture]] mirroring a distorted chain, not dysfunction.
 
 See:  
-[[06-Human Mechanics/Biological Mirrors of The Chain\|Biological Mirrors of the Chain]]  
-[[12-Terms/Fear as Effect\|Fear as Effect]]
+[[Biological Mirrors of the Chain]]  
+[[Fear as Effect]]
 
 ---
 
@@ -72,8 +78,8 @@ Traumatic memory retains:
 Until the chain closes, memory remains functionally present regardless of chronological distance.
 
 See:  
-[[01-The Architecture of Integration/Memory as Architectural Persistence\|Memory as Architectural Persistence]]  
-[[12-Terms/Looping Memory\|Looping Memory]]
+[[Memory as Architectural Persistence]]  
+[[Looping Memory]]
 
 ---
 
@@ -87,8 +93,8 @@ Later entry embeds more contextual patterning.
 Development proceeds around the distortion rather than stopping.
 
 See:  
-[[06-Human Mechanics/Early Chain Formation\|Early Chain Formation]]  
-[[12-Terms/Invisible Distortion\|Invisible Distortion]]
+[[Early Chain Formation]]  
+[[Invisible Distortion]]
 
 ---
 
@@ -104,8 +110,8 @@ They:
 Persistence reflects successful compensation, not resistance.
 
 See:  
-[[12-Terms/Survival Logic\|Survival Logic]]  
-[[07-Human Interpretation Layer/Self-Protection\|Self-Protection]]
+[[Survival Logic]]  
+[[Self-Protection]]
 
 ---
 
@@ -113,4 +119,4 @@ See:
 
 Trauma is a distortion formed when causal processing exceeds available capacity.
 
-It preserves continuity by reorganizing the chain until closure or [[12-Terms/Replacement\|Terms/Replacement]] becomes possible.
+It preserves continuity by reorganizing the chain until closure or [[Terms/Replacement]] becomes possible.
