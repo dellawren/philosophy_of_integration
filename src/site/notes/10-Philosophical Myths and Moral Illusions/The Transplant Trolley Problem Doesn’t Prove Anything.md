@@ -1,10 +1,15 @@
 ---
-{"dg-publish":true,"dg-title":"The Transplant Trolley Problem Doesn’t Prove Anything","order":2,"dg-metatags":{"og:title":"The Transplant-Trolley Problem Doesn’t Prove Anything — Moral Illusions & Integration","description":"A critical re-examination of the transplant/trolley dilemma — exposing moral illusions, questioning ethical certainties, and showing why choice and consequence can’t be reduced to simple equations.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/10-philosophical-myths-and-moral-illusions/the-transplant-trolley-problem-doesn-t-prove-anything/","metatags":{"og:title":"The Transplant-Trolley Problem Doesn’t Prove Anything — Moral Illusions & Integration","description":"A critical re-examination of the transplant/trolley dilemma — exposing moral illusions, questioning ethical certainties, and showing why choice and consequence can’t be reduced to simple equations.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: The Transplant Trolley Problem Doesn’t Prove Anything
+order: 2
+dg-metatags:
+  og:title: "The Transplant-Trolley Problem Doesn’t Prove Anything — Moral Illusions & Integration"
+  description: "A critical re-examination of the transplant/trolley dilemma — exposing moral illusions, questioning ethical certainties, and showing why choice and consequence can’t be reduced to simple equations."
+  og:image: "https://philosophy.dellawren.com/img/user/customheader.jpg"
 ---
-
 The Cambridge Quarterly of Healthcare Ethics published an article in its journal titled [The Transplant Trolley Problem](https://www.cambridge.org/core/journals/cambridge-quarterly-of-healthcare-ethics/article/transplant-trolley-problem/A2EB60059D7119DC0F2649918054F617) in 2022 written by Robert Osorio and Guillermo Palchik.
 
-The article compares the life of a transplant surgeon to **[[10-Philosophical Myths and Moral Illusions/The Trolley Problem\|The Trolley Problem]]**, a philosophical moral debate. The premise of the Trolley Problem is that there is a set of train tracks that branches into two separate tracks. You're standing at the lever that determines which way the train goes. A runaway train is coming down the track, and at the end of each branch there are people trapped. One track has one person trapped; the other has five. Do you pull the lever or not?
+The article compares the life of a transplant surgeon to **[[The Trolley Problem]]**, a philosophical moral debate. The premise of the Trolley Problem is that there is a set of train tracks that branches into two separate tracks. You're standing at the lever that determines which way the train goes. A runaway train is coming down the track, and at the end of each branch there are people trapped. One track has one person trapped; the other has five. Do you pull the lever or not?
 
 In the article, the authors compare the scarcity of available organs to the runaway train, and the choice of which patients receive those organs to the lever. Every choice the surgeon makes is framed as akin to pulling the lever—or choosing not to.
 

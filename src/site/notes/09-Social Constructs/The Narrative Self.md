@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"The Narrative Self","order":2,"dg-metatags":{"og:title":"The Narrative Self: A Construct of Continuity","description":"A societal examination of how the narrative self forms, why it stabilizes identity, and how Integration exposes story as a substitute for awareness.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/09-social-constructs/the-narrative-self/","metatags":{"og:title":"The Narrative Self: A Construct of Continuity","description":"A societal examination of how the narrative self forms, why it stabilizes identity, and how Integration exposes story as a substitute for awareness.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: The Narrative Self
+order: 2
+dg-metatags:
+  og:title: "The Narrative Self: A Construct of Continuity"
+  description: "A societal examination of how the narrative self forms, why it stabilizes identity, and how Integration exposes story as a substitute for awareness."
+  og:image: "https://philosophy.dellawren.com/img/user/customheader.jpg"
 ---
-
 ### **Cultural Story**
 
 Society teaches that identity must be explained, justified, and narrated.  
@@ -54,10 +59,10 @@ It is something observed.
 
 ### **Linked Concepts**
 
-[[12-Terms/Story Logic\|Story Logic]]  
-[[12-Terms/Identity\|Terms/Identity]]  
-[[12-Terms/Neutrality\|Neutrality]]  
-[[12-Terms/Awareness\|Awareness]]  
-[[12-Terms/Distortion\|Distortion]]  
-[[01-The Architecture of Integration/Memory as Architectural Persistence\|Memory as Architectural Persistence]]  
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[Story Logic]]  
+[[Terms/Identity]]  
+[[Terms/Neutrality|Neutrality]]  
+[[Terms/Awareness|Awareness]]  
+[[Distortion]]  
+[[Memory as Architectural Persistence]]  
+[[Philosophy of Integration]]

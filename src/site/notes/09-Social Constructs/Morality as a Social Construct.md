@@ -1,23 +1,28 @@
 ---
-{"dg-publish":true,"dg-title":"Morality as a Social Contruct","order":1,"dg-metatags":{"og:title":"Morality as a Social Construct","description":"Examines morality as a socially constructed system used to regulate behavior, often replacing direct consequence with judgment, blame, and control.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/09-social-constructs/morality-as-a-social-construct/","metatags":{"og:title":"Morality as a Social Construct","description":"Examines morality as a socially constructed system used to regulate behavior, often replacing direct consequence with judgment, blame, and control.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Morality as a Social Contruct
+order: 1
+dg-metatags:
+  og:title: "Morality as a Social Construct"
+  description: Examines morality as a socially constructed system used to regulate behavior, often replacing direct consequence with judgment, blame, and control.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 ## **Cultural Story**
 
 Morality is framed as universal truth — a shared rulebook defining right and wrong, good and bad, worthy and unworthy.  
 It is presented as necessary for order, civility, and safety.  
 The cultural claim is that morality prevents chaos and protects people from harm.
 
-In practice, morality is historically contingent: a shifting set of norms enforced by those with authority.  
-What is labeled “right” often reflects power, preference, and preservation rather than truth.
+In practice, morality is historically contingent: a shifting set of norms enforced by authority.  
+What is labeled “right” often reflects power, preference, and preservation rather than structural truth.
 
 ---
 
 ## **Effect**
 
-Morality narrows awareness by replacing natural cause and effect with imposed judgment.  
+Morality narrows awareness by replacing direct engagement with cause and effect with imposed judgment.  
 Instead of understanding consequence, individuals are trained in obedience.  
-Rules are followed to avoid punishment, not because their effects are understood.
+Rules are followed to avoid punishment or exclusion, not because their effects are understood.
 
 This produces several systemic outcomes:
 
@@ -55,10 +60,10 @@ Order emerges from alignment, not regulation.
 
 ## **Linked Concepts**
 
-[[12-Terms/Stability\|Stability]]  
-[[12-Terms/Control\|Terms/Control]]  
-[[12-Terms/Fear\|Fear]]  
-[[12-Terms/Natural Consequence\|Natural Consequence]]  
-[[12-Terms/Awareness\|Terms/Awareness]]  
-[[12-Terms/Identity\|Terms/Identity]]  
-[[12-Terms/Responsibility\|Terms/Responsibility]]
+[[Terms/Stability|Stability]]  
+[[Terms/Control]]  
+[[Fear]]  
+[[Natural Consequence]]  
+[[Terms/Awareness]]  
+[[Terms/Identity]]  
+[[Terms/Responsibility]]

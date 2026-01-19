@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Trauma","order":9,"dg-metatags":{"og:title":"Trauma","description":"Examines trauma as a broad social construct that often collapses structural, relational, and systemic distortions into a single explanatory label.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/09-social-constructs/trauma/","metatags":{"og:title":"Trauma","description":"Examines trauma as a broad social construct that often collapses structural, relational, and systemic distortions into a single explanatory label.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Trauma
+order: 9
+dg-metatags:
+  og:title: "Trauma"
+  description: Examines trauma as a broad social construct that often collapses structural, relational, and systemic distortions into a single explanatory label.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 ## Cultural Story
 Culture treats trauma as both permanent wound and personal identity. The story says trauma defines who you are, how you behave, and what you can expect from life. It becomes a label, a category, and at times a moral credential. Society also demands disclosure — that legitimate trauma must be narrated to be believed.
 
@@ -18,4 +23,4 @@ Integration treats trauma as an unfinished internal event — not a self. It foc
 This view removes shame, removes permanence, and removes the idea that trauma must be retold to be resolved. Trauma becomes a signal, not a definition. It becomes usable information rather than personal fate.
 
 ## Linked Concepts
-[[Fragmentation\|Fragmentation]], [[12-Terms/Story Logic\|Story Logic]], [[12-Terms/Neutrality\|Neutrality]], [[12-Terms/Boundaries\|Boundaries]], [[12-Terms/Cruelty\|Cruelty]], [[12-Terms/Coherence\|Coherence]], [[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[Fragmentation]], [[Story Logic]], [[Terms/Neutrality|Neutrality]], [[Terms/Boundaries|Boundaries]], [[Cruelty]], [[Coherence]], [[Philosophy of Integration]]

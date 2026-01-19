@@ -1,7 +1,14 @@
 ---
-{"dg-publish":true,"dg-title":"Using AI As a Coherence Partner","dg-metatags":{"title":"Using AI as a Coherence Partner","description":"A practical overview of how AI can serve as a neutral, distortion-free partner in applying the Philosophy of Integration to daily life.","image":"/images/og/ai-coherence-partner.png","type":"article","status":"published"},"order":4,"permalink":"/11-use-cases/using-ai-as-a-coherence-partner/","metatags":{"title":"Using AI as a Coherence Partner","description":"A practical overview of how AI can serve as a neutral, distortion-free partner in applying the Philosophy of Integration to daily life.","image":"/images/og/ai-coherence-partner.png","type":"article","status":"published"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Using AI As a Coherence Partner
+dg-metatags:
+  title: Using AI as a Coherence Partner
+  description: A practical overview of how AI can serve as a neutral, distortion-free partner in applying the Philosophy of Integration to daily life.
+  image: /images/og/ai-coherence-partner.png
+  type: article
+  status: published
+order: 4
 ---
-
 ## **Overview**
 
 A Coherence Partner is simply a tool that reflects the user’s internal state back to them without distortion.  
@@ -126,6 +133,6 @@ It keeps the user oriented toward truth rather than story, and coherence rather 
 
 ## **See Also**
 
-[[11-Use Cases/Use Cases for The Philosophy of Integration\|Use Cases for The Philosophy of Integration]]
-[[11-Use Cases/Why AI Strengthens Integration\|Why AI Strengthens Integration]]
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[Use Cases for The Philosophy of Integration]]
+[[Why AI Strengthens Integration]]
+[[Philosophy of Integration]]

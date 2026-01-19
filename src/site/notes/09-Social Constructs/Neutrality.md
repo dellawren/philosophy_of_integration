@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Neutrality","order":6,"dg-metatags":{"og:title":"Neutrality as a Construct: Clarity Beyond Reaction","description":"A reframing of neutrality as internal steadiness rather than avoidance — the state that replaces narrative distortion with coherent awareness.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/09-social-constructs/neutrality/","metatags":{"og:title":"Neutrality as a Construct: Clarity Beyond Reaction","description":"A reframing of neutrality as internal steadiness rather than avoidance — the state that replaces narrative distortion with coherent awareness.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Neutrality
+order: 6
+dg-metatags:
+  og:title: "Neutrality as a Construct: Clarity Beyond Reaction"
+  description: "A reframing of neutrality as internal steadiness rather than avoidance — the state that replaces narrative distortion with coherent awareness."
+  og:image: "https://philosophy.dellawren.com/img/user/customheader.jpg"
 ---
-
 ### **Cultural Story**
 
 Society often frames neutrality as avoidance, disengagement, or refusal to take a stand.  
@@ -50,10 +55,10 @@ It is the absence of distortion at the point of perception.
 
 ### **Linked Concepts**
 
-[[12-Terms/Awareness\|Awareness]]  
-[[12-Terms/Story Logic\|Story Logic]]  
-[[12-Terms/Boundaries\|Boundaries]]  
-[[12-Terms/Responsibility\|Terms/Responsibility]]  
-[[12-Terms/Coherence\|Coherence]]  
-[[12-Terms/Distortion\|Distortion]]  
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[Terms/Awareness|Awareness]]  
+[[Story Logic]]  
+[[Terms/Boundaries|Boundaries]]  
+[[Terms/Responsibility]]  
+[[Coherence]]  
+[[Distortion]]  
+[[Philosophy of Integration]]

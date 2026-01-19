@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"dg-title":"Stability","order":7,"dg-metatags":{"og:title":"Stability","description":"Examines how social systems prioritize stability over truth or resolution, often sustaining distortion to preserve predictability and control.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/09-social-constructs/stability/","metatags":{"og:title":"Stability","description":"Examines how social systems prioritize stability over truth or resolution, often sustaining distortion to preserve predictability and control.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
----
+dg-publish: true
+dg-title: Stability
+order: 7
+dg-metatags:
+  og:title: "Stability"
+  description: Examines how social systems prioritize stability over truth or resolution, often sustaining distortion to preserve predictability and control.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 
+---
 ### **Cultural Story**
 
 Stability is presented as the foundation of a good life — predictable income, predictable routines, predictable relationships, predictable futures. Society treats stability as both a virtue and a necessity: without it, you’re irresponsible, unsafe, or “not thinking things through.”  
@@ -24,20 +30,20 @@ Stability becomes a function of coherence, not control.
 
 ### **Linked Concepts**
 
-- [[12-Terms/Morality\|Terms/Morality]]
+- [[Terms/Morality]]
     
-- [[12-Terms/Control\|Terms/Control]]
+- [[Terms/Control]]
     
-- [[12-Terms/Safety\|Safety]]
+- [[Safety]]
     
-- [[12-Terms/Fear\|Fear]]
+- [[Fear]]
     
-- [[12-Terms/Responsibility\|Terms/Responsibility]]
+- [[Terms/Responsibility]]
     
-- [[12-Terms/Awareness\|Terms/Awareness]]
+- [[Terms/Awareness]]
     
-- [[12-Terms/Consequence\|Consequence]]
+- [[Consequence]]
   
-- [[12-Terms/Cause and Effect\|Cause and Effect]]
+- [[Cause and Effect]]
   
-- [[12-Terms/Natural Consequence\|Natural Consequence]]
+- [[Natural Consequence]]

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Cruelty and Meanness","order":8,"dg-metatags":{"og:title":"Cruelty and Meanness","description":"Distinguishes cruelty and meanness from moral failure, reframing them as outcomes of distorted power, fear, and unmanaged consequence.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/09-social-constructs/cruelty-and-meanness/","metatags":{"og:title":"Cruelty and Meanness","description":"Distinguishes cruelty and meanness from moral failure, reframing them as outcomes of distorted power, fear, and unmanaged consequence.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Cruelty and Meanness
+order: 8
+dg-metatags:
+  og:title: "Cruelty and Meanness"
+  description: Distinguishes cruelty and meanness from moral failure, reframing them as outcomes of distorted power, fear, and unmanaged consequence.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 **Cruelty / Meanness** — a socially transmitted behaviour pattern used to reinforce hierarchy, police belonging, and exert control through emotional or psychological pressure. Not an inherent human trait, but a learned response that mirrors systemic distortion.
 
 ---
@@ -61,11 +66,11 @@ Cruelty persists only while distortion remains unrecognized.
 
 ## **See Also**
 
-[[12-Terms/Control\|Terms/Control]]  
-[[12-Terms/Fear\|Fear]]  
-[[12-Terms/Distortion\|Distortion]]  
-[[Fragmentation\|Fragmentation]]  
-[[12-Terms/Identity\|Terms/Identity]]  
-[[12-Terms/Distorted Power\|Distorted Power]]  
-[[12-Terms/Belonging\|Belonging]]  
-[[12-Terms/Story Logic\|Story Logic]]
+[[Terms/Control]]  
+[[Fear]]  
+[[Distortion]]  
+[[Fragmentation]]  
+[[Terms/Identity]]  
+[[Distorted Power]]  
+[[Belonging]]  
+[[Story Logic]]

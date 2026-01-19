@@ -1,7 +1,14 @@
 ---
-{"dg-publish":true,"dg-home":true,"dg-title":"Home of The Philosophy of Integration","dg-show-toc":"true","dg-pinned":"true","dg-metatags":{"og:title":"The Philosophy of Integration — DellaWren","description":"A living framework exploring integration, truth, and conscious coherence through essays, clusters and reflections.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/home-of-the-philosophy-of-integration/","metatags":{"og:title":"The Philosophy of Integration — DellaWren","description":"A living framework exploring integration, truth, and conscious coherence through essays, clusters and reflections.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"pinned":"true","tags":["gardenEntry"],"dgShowToc":"true","dgPassFrontmatter":true}
+dg-publish: true
+dg-home: true
+dg-title: Home of The Philosophy of Integration
+dg-show-toc: "true"
+dg-pinned: "true"
+dg-metatags:
+  og:title: "The Philosophy of Integration — DellaWren"
+  description: "A living framework exploring integration, truth, and conscious coherence through essays, clusters and reflections."
+  og:image: "https://philosophy.dellawren.com/img/user/customheader.jpg"
 ---
-
 ## About The Philosophy of Integration
 
 The Philosophy of Integration is an ontological framework concerned with coherence, causality, and the structure of human experience.

@@ -1,7 +1,13 @@
 ---
-{"dg-title":"Start Here","dg-publish":true,"dg-pinned":"true","dg-metatags":{"og:title":"Start Here — The Philosophy of Integration","description":"Begin your journey through The Philosophy of Integration: an intuitive, living framework of essays and constructs for conscious coherence, healing, and transformed thinking.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"order":3,"permalink":"/start-here/","metatags":{"og:title":"Start Here — The Philosophy of Integration","description":"Begin your journey through The Philosophy of Integration: an intuitive, living framework of essays and constructs for conscious coherence, healing, and transformed thinking.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"pinned":"true","dgPassFrontmatter":true}
+dg-title: Start Here
+dg-publish: true
+dg-pinned: "true"
+dg-metatags:
+  og:title: Start Here — The Philosophy of Integration
+  description: "Begin your journey through The Philosophy of Integration: an intuitive, living framework of essays and constructs for conscious coherence, healing, and transformed thinking."
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
+order: 3
 ---
-
 ## **Orientation**
 
 This site houses **The Philosophy of Integration**, an ontological framework concerned with coherence, causality, and the structure of human experience.

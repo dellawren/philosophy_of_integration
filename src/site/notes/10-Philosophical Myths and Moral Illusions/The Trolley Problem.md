@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"The Trolley Problem","order":1,"dg-metatags":{"og:title":"The Trolley Problem — Moral Paradox & The Philosophy of Integration","description":"Dive into the moral paradox of the Trolley Problem: a critical look at choice, consequence and illusion — and how Integration reframes ethical dilemmas beyond black-and-white morality.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/10-philosophical-myths-and-moral-illusions/the-trolley-problem/","metatags":{"og:title":"The Trolley Problem — Moral Paradox & The Philosophy of Integration","description":"Dive into the moral paradox of the Trolley Problem: a critical look at choice, consequence and illusion — and how Integration reframes ethical dilemmas beyond black-and-white morality.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: The Trolley Problem
+order: 1
+dg-metatags:
+  og:title: "The Trolley Problem — Moral Paradox & The Philosophy of Integration"
+  description: "Dive into the moral paradox of the Trolley Problem: a critical look at choice, consequence and illusion — and how Integration reframes ethical dilemmas beyond black-and-white morality."
+  og:image: "https://philosophy.dellawren.com/img/user/customheader.jpg"
 ---
-
 # **Step 1: The Trolley Problem is a Morality Trap, Not a Real Dilemma**
 
 The Trolley Problem forces a false binary:
@@ -134,7 +139,7 @@ The trolley problem collapses because the philosophical floor it stands on (mora
 
 ---
 
-# **Step 6: The Clean Answer (Stillhouse Version)**
+# **Step 6: The Clean Answer **
 
 Here is the fully integrated statement:
 
@@ -182,4 +187,4 @@ Integration solves it by showing:
 
 That’s the solution.
 
-[[13-References/Philosophy of Integration\|Philosophy of Integration]], [[12-Terms/Morality\|Terms/Morality]], [[12-Terms/Ethics\|Terms/Ethics]], [[12-Terms/Distortion\|Distortion]], [[12-Terms/Cause and Effect\|Cause and Effect]]
+[[Philosophy of Integration]], [[Terms/Morality]], [[Terms/Ethics]], [[Distortion]], [[Cause and Effect]]

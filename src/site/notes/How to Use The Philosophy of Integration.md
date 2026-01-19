@@ -1,23 +1,79 @@
 ---
-{"dg-publish":true,"dg-title":"How to Use The Philosophy of Integration","dg-pinned":"true","dg-metatags":{"og:title":"How to Use The Philosophy of Integration — DellaWren","description":"A practical guide to navigating The Philosophy of Integration: how to read, apply and internalize its concepts for real-life clarity and inner alignment.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"order":1,"permalink":"/how-to-use-the-philosophy-of-integration/","metatags":{"og:title":"How to Use The Philosophy of Integration — DellaWren","description":"A practical guide to navigating The Philosophy of Integration: how to read, apply and internalize its concepts for real-life clarity and inner alignment.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"pinned":"true","dgPassFrontmatter":true}
+dg-publish: true
+dg-title: How to Use The Philosophy of Integration
+dg-pinned: "true"
+dg-metatags:
+  og:title: How to Use The Philosophy of Integration — DellaWren
+  description: "A practical guide to navigating The Philosophy of Integration: how to read, apply and internalize its concepts for real-life clarity and inner alignment."
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
+order: 1
+---
+The Philosophy of Integration is not a doctrine, belief system, or identity structure.  
+It is a **descriptive framework** for understanding experience through cause and effect.
+
+It does not confer status, moral standing, completion, or correctness.  
+It offers a way of _seeing_ how experience organizes and reorganizes itself.
+
+This framework is not something to adopt or embody.  
+It is something to **apply**.
+
 ---
 
-The Philosophy of Integration is not a doctrine, belief system, or identity structure.  
-It functions as an **interpretive lens** for understanding experience through cause and effect.
+## Orientation
 
-It does not confer status, moral standing, or completion.  
-It offers a way of _seeing_.
+This site functions as a **reference system**, not a linear course.
 
-Engagement with the framework is governed by a few structural constraints:
+- Pages may be entered in any order.
+    
+- Understanding emerges through use, not progression.
+    
+- Repetition across pages is intentional and structural, not instructional.
+    
+
+Some sections are fully articulated. Others are still being placed.  
+Links and tags are added intentionally and may appear sparse while the vocabulary is still settling.
+
+The absence of links does not imply separation.  
+It reflects sequencing.
+
+---
+
+### **Teleology
+
+This framework is **non-teleological**.
+
+It does not describe a system that seeks balance, coherence, resolution, or integration.  
+It describes the conditions under which cause and effect continue, recur, distort, or collapse.
+
+Recurrence does not imply intention.  
+Persistence does not imply correction.  
+Integration is not a goal.
+
+Patterns repeat when the structural conditions that produce them remain present.  
+They do not repeat in order to resolve.
+
+[[Relational Loop Theory]] does not function as a corrective mechanism.  
+It describes how unresolved or mediated chains remain available through relationship.
+
+Any appearance of balance, stabilization, or resolution is **emergent**, not directed.  
+No force within the system pushes experience toward coherence.
+
+---
+## Structural Constraints
+
+Engagement with the framework is governed by a small number of constraints. These are not rules of conduct, but conditions under which the framework remains coherent.
+
+**The framework is governed by logical constraint, not by desired end states.**  
+It does not describe what reality seeks, but the conditions under which cause and effect remain coherent.
 
 - **It is diagnostic, not identificatory.**  
-    The framework is not something one “becomes.” It is used to clarify coherence and distortion within lived experience.
+    The framework is not something one “becomes.” It is used to observe coherence and distortion within lived experience.
     
 - **It is experiential, not theoretical.**  
-    The framework only demonstrates validity when applied to real situations. Its claims are observable through consequence, not agreement.
+    Its claims are validated through application and consequence, not agreement or belief.
     
 - **Authority remains local.**  
-    No external validation is implied. The individual remains responsible for interpreting, applying, or rejecting the framework based on observed outcomes.
+    No external validation is implied. Responsibility for interpretation, application, or rejection remains with the individual.
     
 - **Performance collapses the model.**  
     When the framework is used to signal growth, virtue, or superiority, it ceases to function. Identity formation reintroduces distortion.
@@ -26,7 +82,7 @@ Engagement with the framework is governed by a few structural constraints:
     The framework does not promise safety, comfort, or positive outcomes. It describes how reality responds to alignment and misalignment without moral buffering.
     
 - **The system remains revisable.**  
-    While its ontological claims are stable, its articulation and applications are open to refinement through testing, critique, and correction.
+    While its ontological claims are stable, its articulation and applications remain open to refinement through testing, critique, and correction.
     
 
 Engagement is voluntary, provisional, and accountable to experience alone.
@@ -35,20 +91,20 @@ Engagement is voluntary, provisional, and accountable to experience alone.
 
 ## The Integration Sequence
 
-### _A descriptive model of coherence restoration_
+### A descriptive model of coherence restoration
 
-Integration is not a technique or intervention.  
-It is the observable movement that occurs when awareness re-aligns with cause and effect.
+Integration is not a technique, intervention, or practice.  
+It is the observable movement that occurs when awareness realigns with cause and effect.
 
-The following sequence describes how this realignment unfolds in experience.
+The following sequence describes how this realignment tends to unfold in experience.
 
 ---
 
 ### 1. Chain Recognition
 
-Distortion appears as a recurring relational or emotional pattern.
+Distortion appears as a recurring relational, emotional, or situational pattern.
 
-Indicators include:
+Common indicators include:
 
 - repeated reactions
     
@@ -59,10 +115,9 @@ Indicators include:
 - automatic responses with predictable outcomes
     
 
-This stage is purely identificatory:  
-_“This pattern is present again.”_
+This stage is purely identificatory:
 
-No interpretation is required.
+_This pattern is present again._
 
 ---
 
@@ -83,7 +138,7 @@ This includes:
 - identity reinforcement
     
 
-Attention returns to **immediate experience**, prior to meaning-making.
+Attention returns to immediate experience, prior to meaning-making.
 
 Experience precedes explanation.
 
@@ -91,7 +146,7 @@ Experience precedes explanation.
 
 ### 3. Distortion Identification
 
-Distortion is defined as any internal movement that replaces direct contact with experience.
+Distortion is any internal movement that replaces direct contact with experience.
 
 Common forms include:
 
@@ -103,14 +158,12 @@ Common forms include:
     
 - catastrophizing
     
-- over-responsibility or avoidance of responsibility
+- misassigned responsibility
     
 - compulsive explanation
     
 
 This stage involves recognition, not correction.
-
-Distortion marks the point at which cause and effect became obscured.
 
 ---
 
@@ -155,7 +208,7 @@ No enforcement is required.
 
 ---
 
-### Minimal Summary
+## Minimal Summary
 
 1. Pattern recognition
     
@@ -173,6 +226,10 @@ No accumulation, mastery, or identity is implied.
 
 ---
 
-### See Also
+## Notes on Use
 
-[[12-Terms/Integration\|Integration]] · [[12-Terms/Coherence\|Coherence]] · [[12-Terms/Chain Architecture\|Chain Architecture]] · [[12-Terms/Awareness\|Awareness]] · [[02-Relational Loop Theory/Relational Loop Theory\|Relational Loop Theory]]
+This framework does not aim to improve behavior, produce virtue, or resolve discomfort.
+
+It aims to clarify **what is happening**, such that response becomes proportionate to reality rather than to story.
+
+Where clarity increases, unnecessary effort tends to fall away.

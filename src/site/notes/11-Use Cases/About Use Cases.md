@@ -1,7 +1,14 @@
 ---
-{"dg-publish":true,"dg-title":"About Use Cases","dg-metatags":{"title":"About Integration Use Cases","description":"A brief overview of how Use Cases function within the Philosophy of Integration and how they support practical, real-world application.","image":"/images/og/about-use-cases.png","type":"article","status":"published"},"order":1,"permalink":"/11-use-cases/about-use-cases/","metatags":{"title":"About Integration Use Cases","description":"A brief overview of how Use Cases function within the Philosophy of Integration and how they support practical, real-world application.","image":"/images/og/about-use-cases.png","type":"article","status":"published"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: About Use Cases
+dg-metatags:
+  title: "About Integration Use Cases"
+  description: "A brief overview of how Use Cases function within the Philosophy of Integration and how they support practical, real-world application."
+  image: "/images/og/about-use-cases.png"
+  type: "article"
+  status: "published"
+order: 1
 ---
-
 ## **Overview**
 
 The Use Cases section exists to show how the Philosophy of Integration can be applied in practice.  
@@ -81,7 +88,7 @@ And each one points back to the same centre:
 
 ## **See Also**
 
-[[11-Use Cases/Use Cases for The Philosophy of Integration\|Use Cases for The Philosophy of Integration]]
-[[11-Use Cases/Why AI Strengthens Integration\|Why AI Strengthens Integration]]
-[[11-Use Cases/Using AI As a Coherence Partner\|Using AI As a Coherence Partner]]
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[Use Cases for The Philosophy of Integration]]
+[[Why AI Strengthens Integration]]
+[[Using AI As a Coherence Partner]]
+[[Philosophy of Integration]]

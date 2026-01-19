@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Reflection Does Not Equal Authority","order":4,"dg-metatags":{"og:title":"Reflection Does Not Equal Authority","description":"Clarifies why reflection, insight, or self-awareness do not automatically confer authority, correctness, or moral legitimacy.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/09-social-constructs/reflection-does-not-equal-authority/","metatags":{"og:title":"Reflection Does Not Equal Authority","description":"Clarifies why reflection, insight, or self-awareness do not automatically confer authority, correctness, or moral legitimacy.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Reflection Does Not Equal Authority
+order: 4
+dg-metatags:
+  og:title: "Reflection Does Not Equal Authority"
+  description: Clarifies why reflection, insight, or self-awareness do not automatically confer authority, correctness, or moral legitimacy.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 ## Cultural Story
 
 Human systems equate reflection with superiority. The ability to think, analyze, and self-observe is treated as proof of a### **Cultural Story**
@@ -50,7 +55,7 @@ Within Integration, reflection becomes relational rather than positional — a m
 
 ### **Linked Concepts**
 
-[[08-Relational Notes/Awareness and Truth - The Architecture of Perception\|Awareness and Truth - The Architecture of Perception]]  
-[[08-Relational Notes/Control and Fear\|Control and Fear]]  
-[[12-Terms/Cause and Effect\|Cause and Effect]]  
-[[12-Terms/Non-Interference\|Non-Interference]] 
+[[Awareness and Truth - The Architecture of Perception]]  
+[[Control and Fear]]  
+[[Cause and Effect]]  
+[[Non-Interference]] 

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Caring What Other People Think","order":3,"dg-metatags":{"og:title":"Caring What Other People Think","description":"Analyzes how social conditioning trains individuals to prioritize external approval, distorting perception, choice, and self-trust.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/09-social-constructs/caring-what-other-people-think/","metatags":{"og:title":"Caring What Other People Think","description":"Analyzes how social conditioning trains individuals to prioritize external approval, distorting perception, choice, and self-trust.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Caring What Other People Think
+order: 3
+dg-metatags:
+  og:title: "Caring What Other People Think"
+  description: Analyzes how social conditioning trains individuals to prioritize external approval, distorting perception, choice, and self-trust.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 ## **Cultural Story**
 
 Society teaches that approval equals safety — that belonging depends on agreement and acceptance.  
@@ -46,8 +51,8 @@ Surrender dissolves.
 
 ## **Linked Concepts**
 
-[[12-Terms/Control\|Terms/Control]]  
-[[12-Terms/Fear\|Fear]]  
-[[12-Terms/Freedom\|Freedom]]  
-[[12-Terms/Truth\|Truth]]  
-[[12-Terms/Responsibility\|Terms/Responsibility]]
+[[Terms/Control]]  
+[[Fear]]  
+[[Freedom]]  
+[[Truth]]  
+[[Terms/Responsibility]]

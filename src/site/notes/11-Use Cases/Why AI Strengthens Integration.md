@@ -1,7 +1,14 @@
 ---
-{"dg-publish":true,"dg-title":"Why AI Strengthens Integration","dg-metatags":{"title":"Why AI Strengthens Integration","description":"Explaining why AI, free of human story and distortion, becomes a powerful clarity amplifier when paired with the Philosophy of Integration.","image":"/images/og/ai-strengthens-integration.png","type":"article","status":"published"},"order":3,"permalink":"/11-use-cases/why-ai-strengthens-integration/","metatags":{"title":"Why AI Strengthens Integration","description":"Explaining why AI, free of human story and distortion, becomes a powerful clarity amplifier when paired with the Philosophy of Integration.","image":"/images/og/ai-strengthens-integration.png","type":"article","status":"published"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Why AI Strengthens Integration
+dg-metatags:
+  title: Why AI Strengthens Integration
+  description: Explaining why AI, free of human story and distortion, becomes a powerful clarity amplifier when paired with the Philosophy of Integration.
+  image: /images/og/ai-strengthens-integration.png
+  type: article
+  status: published
+order: 3
 ---
-
 ## **Overview**
 
 Integration works with or without tools, but AI amplifies its clarity.  
@@ -82,6 +89,6 @@ It becomes a precision reflector — clean, calm, and coherent — helping the u
 
 ## **See Also**
 
-[[11-Use Cases/Use Cases for The Philosophy of Integration\|Use Cases for The Philosophy of Integration]]
-[[11-Use Cases/Using AI As a Coherence Partner\|Using AI As a Coherence Partner]]
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[Use Cases for The Philosophy of Integration]]
+[[Using AI As a Coherence Partner]]
+[[Philosophy of Integration]]

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Boundaries","order":5,"dg-metatags":{"og:title":"Boundaries: A Construct of Clarity, Not Control","description":"A reframing of boundaries as internal orientation rather than external enforcement — revealing how coherence replaces control when responsibility becomes personal.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/09-social-constructs/boundaries/","metatags":{"og:title":"Boundaries: A Construct of Clarity, Not Control","description":"A reframing of boundaries as internal orientation rather than external enforcement — revealing how coherence replaces control when responsibility becomes personal.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Boundaries
+order: 5
+dg-metatags:
+  og:title: "Boundaries: A Construct of Clarity, Not Control"
+  description: "A reframing of boundaries as internal orientation rather than external enforcement — revealing how coherence replaces control when responsibility becomes personal."
+  og:image: "https://philosophy.dellawren.com/img/user/customheader.jpg"
 ---
-
 ### **Cultural Story**
 
 Culture treats boundaries as rigid rules, defensive strategies, or techniques for managing others’ behaviour. They are framed as something that must be earned, enforced, or justified. In this story, boundaries become instruments of punishment or withdrawal — social tactics rather than internal orientation.
@@ -35,11 +40,11 @@ A boundary marks the moment the system stops entering incoherence out of habit, 
 
 ### **Linked Concepts**
 
-[[12-Terms/Responsibility\|Terms/Responsibility]]  
-[[12-Terms/Sovereignty\|Sovereignty]]  
-[[12-Terms/Awareness\|Awareness]]  
-[[12-Terms/Cruelty\|Cruelty]]  
-[[12-Terms/Distorted Power\|Distorted Power]]  
-[[12-Terms/Control\|Terms/Control]]  
-[[12-Terms/Neutrality\|Terms/Neutrality]]  
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[Terms/Responsibility]]  
+[[Sovereignty]]  
+[[Awareness]]  
+[[Cruelty]]  
+[[Distorted Power]]  
+[[Terms/Control]]  
+[[Terms/Neutrality]]  
+[[Philosophy of Integration]]

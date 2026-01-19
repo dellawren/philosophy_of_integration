@@ -1,7 +1,14 @@
 ---
-{"dg-publish":true,"dg-title":"Use Cases for The Philosophy of Integration","dg-metatags":{"title":"Use Cases for the Philosophy of Integration","description":"An overview of how the Philosophy of Integration can be applied in everyday life, including the Self-Coherence Engine and expanded future use cases.","image":"/images/og/use-cases-integration.png","type":"article","status":"published"},"order":2,"permalink":"/11-use-cases/use-cases-for-the-philosophy-of-integration/","metatags":{"title":"Use Cases for the Philosophy of Integration","description":"An overview of how the Philosophy of Integration can be applied in everyday life, including the Self-Coherence Engine and expanded future use cases.","image":"/images/og/use-cases-integration.png","type":"article","status":"published"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Use Cases for The Philosophy of Integration
+dg-metatags:
+  title: Use Cases for the Philosophy of Integration
+  description: An overview of how the Philosophy of Integration can be applied in everyday life, including the Self-Coherence Engine and expanded future use cases.
+  image: /images/og/use-cases-integration.png
+  type: article
+  status: published
+order: 2
 ---
-
 ## **Overview**
 
 The Philosophy of Integration is a descriptive framework grounded in coherence and simple cause and effect.  
@@ -110,6 +117,6 @@ These are possible directions for the framework to go in. Note that these are no
 
 ## **See Also**
 
-[[11-Use Cases/Using AI As a Coherence Partner\|Using AI As a Coherence Partner]]
-[[11-Use Cases/Why AI Strengthens Integration\|Why AI Strengthens Integration]]
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[Using AI As a Coherence Partner]]
+[[Why AI Strengthens Integration]]
+[[Philosophy of Integration]]
