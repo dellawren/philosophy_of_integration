@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Philosophy of Integration","order":1,"dg-metatags":{"og:title":"References — The Philosophy of Integration","description":"A curated archive of sources, influences and companion texts behind The Philosophy of Integration — tools for deeper reading, study and rooted understanding.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/13-references/philosophy-of-integration/","metatags":{"og:title":"References — The Philosophy of Integration","description":"A curated archive of sources, influences and companion texts behind The Philosophy of Integration — tools for deeper reading, study and rooted understanding.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Philosophy of Integration
+order: 1
+dg-metatags:
+  og:title: "References — The Philosophy of Integration"
+  description: "A curated archive of sources, influences and companion texts behind The Philosophy of Integration — tools for deeper reading, study and rooted understanding."
+  og:image: "https://philosophy.dellawren.com/img/user/customheader.jpg"
 ---
-
 
 ### **1. The Premise: Fragmentation as the Human Condition**
 
@@ -66,15 +71,15 @@ the quiet recognition of connection between what was lived and what is real.
 ---
 ### **4. Ethics: Integration as Responsibility**
 
-- [[Ethical Living\|Ethical Living]] is not compliance with moral rules; it’s coherence with truth.
+- [[Ethical Living]] is not compliance with moral rules; it’s coherence with truth.
     
-- [[12-Terms/Morality\|Terms/Morality]], as society defines it, is often an instrument of control — a human attempt to legislate consequence instead of understanding cause and effect.
+- [[Terms/Morality]], as society defines it, is often an instrument of control — a human attempt to legislate consequence instead of understanding cause and effect.
     
-- [[12-Terms/Integration\|Integration]] dissolves blame because it removes the illusion of separation.
+- [[Integration]] dissolves blame because it removes the illusion of separation.
     
 - Responsibility begins with impact — understanding one’s place within the natural balance of things, not obeying imposed codes of conduct.
     
-- True [[12-Terms/Ethics\|ethics]] arises from awareness, not fear of punishment.
+- True [[Terms/Ethics|ethics]] arises from awareness, not fear of punishment.
     
 
 > Integrity is not morality — it’s internal coherence.
@@ -84,15 +89,15 @@ the quiet recognition of connection between what was lived and what is real.
 ### **4a. The Law of Situated Determinism: Integration within Cause and Effect**
 
 - Every human act arises within a field of causes — biological, emotional, social, and historical.  
-    [[12-Terms/Freedom\|Freedom]] is not the absence of these conditions but awareness within them.
+    [[Freedom]] is not the absence of these conditions but awareness within them.
     
-- [[12-Terms/Situated Determinism\|Situated Determinism]] recognizes that life is both determined and participatory:  
+- [[Situated Determinism|Situated Determinism]] recognizes that life is both determined and participatory:  
     cause and effect set the motion; consciousness offers orientation.
     
-- [[12-Terms/Control\|Terms/Control]] is an illusion of separation.  
+- [[Terms/Control]] is an illusion of separation.  
     We cannot step outside the sequence — but we can become aware of where we stand within it.
     
-- [[12-Terms/Awareness\|Terms/Awareness]] does not erase consequence; it refines relationship.  
+- [[Terms/Awareness]] does not erase consequence; it refines relationship.  
     Each moment of seeing clearly alters the next movement in the chain.
     
 
@@ -107,7 +112,7 @@ the quiet recognition of connection between what was lived and what is real.
     
 - **Justice is not punishment — it is the natural restoration of balance, not a human-created system of suffering.**
     
-- [[12-Terms/Cause and Effect\|Cause and Effect]] already hold the wisdom of correction; the universe doesn’t need our courts of shame.
+- [[Cause and Effect]] already hold the wisdom of correction; the universe doesn’t need our courts of shame.
     
 - A culture of integration honours individual sovereignty while nurturing shared responsibility.
     
@@ -118,11 +123,11 @@ the quiet recognition of connection between what was lived and what is real.
 
 ### **5a. Systemic Obligation and Systemic Release**
 
-- [[12-Terms/Systemic Obligation\|Systemic Obligation]] is the inherited expectation that belonging requires compliance.  
+- [[Systemic Obligation|Systemic Obligation]] is the inherited expectation that belonging requires compliance.  
     It keeps individuals performing safety instead of living truth, reinforcing the illusion that morality creates order.  
     Every system — political, familial, spiritual — thrives on this exchange of authenticity for approval.
     
-- [[12-Terms/Systemic Release\|Systemic Release]] begins when awareness recognizes the trade.  
+- [[Terms/Systemic Release|Systemic Release]] begins when awareness recognizes the trade.  
     It is not revolt but withdrawal of consent: the quiet end of participation in a structure that demands fragmentation.  
     Release dissolves control without creating chaos because cause and effect continue to govern naturally.
     
@@ -134,7 +139,7 @@ the quiet recognition of connection between what was lived and what is real.
 
 ### **6. The Law of Cause and Effect: Integration through Consequence**
 
-- [[12-Terms/Cause and Effect\|Cause and Effect]] is the underlying rhythm of existence — the neutral movement through which truth reveals itself.
+- [[Cause and Effect|Cause and Effect]] is the underlying rhythm of existence — the neutral movement through which truth reveals itself.
     
 - It is neither moral nor punitive. The universe doesn’t correct; it simply continues.
     
@@ -178,7 +183,7 @@ The story ends, but the pattern keeps participating in the whole.
 ---
 ### **7. Practice: Integration as Process**
 
-- [[12-Terms/Integration\|Integration]] happens through recognition, acceptance, and embodiment.
+- [[Integration]] happens through recognition, acceptance, and embodiment.
     
 - Each layer of the self (physical, emotional, mental, spiritual) must be acknowledged and allowed to coexist.
     

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"A Re-Imagined System","date":"2025-01-01","dg-metatags":{"og:title":"A Re-Imagined System","description":"A vision for a world built on truth instead of scarcity—where survival isn’t weaponized, support is guaranteed, and the systems that create struggle are rebuilt from the ground up.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/14-articles/a-re-imagined-system/","metatags":{"og:title":"A Re-Imagined System","description":"A vision for a world built on truth instead of scarcity—where survival isn’t weaponized, support is guaranteed, and the systems that create struggle are rebuilt from the ground up.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: A Re-Imagined System
+date: 2025-01-01
+dg-metatags:
+  og:title: "A Re-Imagined System"
+  description: "A vision for a world built on truth instead of scarcity—where survival isn’t weaponized, support is guaranteed, and the systems that create struggle are rebuilt from the ground up."
+  og:image: "https://philosophy.dellawren.com/img/user/customheader.jpg"
 ---
-
 The system is broken. Do you agree?
 
 Let’s define it. The system is government, supply chains, and the way you get what you need to live. Your job is part of it. Healthcare, education, and housing are part of it. Money is part of it. The script you were handed for how your life should look is part of it. Reward and punishment, morality and religion — all part of the system.

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Systemic Release","date":"2025-01-01","dg-metatags":{"og:title":"Systemic Release","description":"A reflection on how systems shape identity — and how letting go of identification with politics, religion, and societal roles restores sovereignty, clarity, and personal freedom.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/14-articles/systemic-release/","metatags":{"og:title":"Systemic Release","description":"A reflection on how systems shape identity — and how letting go of identification with politics, religion, and societal roles restores sovereignty, clarity, and personal freedom.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Systemic Release
+date: 2025-01-01
+dg-metatags:
+  og:title: "Systemic Release"
+  description: "A reflection on how systems shape identity — and how letting go of identification with politics, religion, and societal roles restores sovereignty, clarity, and personal freedom."
+  og:image: "https://philosophy.dellawren.com/img/user/customheader.jpg"
 ---
-
 Systems exist because we agree to them. They wouldn’t exist without people, because they aren’t part of the natural rhythm of the Universe. Systems are how humans organize themselves around agreed-upon ideas. They facilitate resource distribution and create structure—all the things people need to feel comfortable and safe in their lives.
 
 Somewhere along the way, people were taught to take on the identity of the systems they live within. They become their morals, values, political ideology, or religion. Instead of being opinions they hold, or ideas they’ve chosen to structure their lives around, these things become egoic identities—and reasons to label people who don’t agree as bad or wrong.

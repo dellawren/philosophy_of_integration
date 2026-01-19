@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"The Philosophy of Integration","date":"2025-01-01","dg-metatags":{"og:title":"The Philosophy of Integration","description":"A distilled overview of Integration as ontology, epistemology, ethics, culture, and lived practice — revealing fragmentation as the human condition and wholeness as the path to freedom.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/14-articles/the-philosophy-of-integration/","metatags":{"og:title":"The Philosophy of Integration","description":"A distilled overview of Integration as ontology, epistemology, ethics, culture, and lived practice — revealing fragmentation as the human condition and wholeness as the path to freedom.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: The Philosophy of Integration
+date: 2025-01-01
+dg-metatags:
+  og:title: "The Philosophy of Integration"
+  description: "A distilled overview of Integration as ontology, epistemology, ethics, culture, and lived practice — revealing fragmentation as the human condition and wholeness as the path to freedom."
+  og:image: "https://philosophy.dellawren.com/img/user/customheader.jpg"
 ---
-
 ## 1. The Premise: Fragmentation as the Human Condition
 
 Humanity has been taught to divide itself — mind from body, logic from emotion, spirit from form, self from system.
@@ -142,7 +147,7 @@ Integration is the end of division — the stillness beneath the storm.
 
 ---
 
-## 9. The Stillhouse Declaration
+## 9. The Declaration
 
 _A human being is not a puzzle to be solved but a system to be understood._  
 We are not meant to master the mind, suppress emotion, or transcend the body. We are meant to integrate them — to live as unified expressions of awareness in motion.

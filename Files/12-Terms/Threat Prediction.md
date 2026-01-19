@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"dg-title":"Threat Prediction","dg-metatags":{"og:title":"Threat Prediction","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/12-terms/threat-prediction/","metatags":{"og:title":"Threat Prediction","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Threat Prediction
+dg-metatags:
+  og:title: "Threat Prediction"
+  description: A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 The system’s ongoing projection of danger based on prior conditions.
 
 Threat Prediction describes the mechanism by which a system anticipates risk by extrapolating from past overwhelming conditions. It is not fear, belief, or interpretation. It is a **predictive function** operating within cause and effect.
@@ -13,10 +17,10 @@ Threat Prediction is not an error. It is a **coherent survival function** that r
 > “The system does not remember the past; it predicts the future from it.”
 
 **References:**  
-[[12-Terms/Chain Architecture\|Chain Architecture]]  
-[[12-Terms/Cause and Effect\|Cause and Effect]]  
-[[12-Terms/Primary Chains\|Primary Chains]]  
-[[12-Terms/Secondary Chains\|Secondary Chains]]  
-[[06-Human Mechanics/Trauma Inside the Chain\|Trauma Inside the Chain]]  
-[[12-Terms/Chain Resolution\|Terms/Chain Resolution]]
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[Chain Architecture]]  
+[[Cause and Effect]]  
+[[Primary Chains]]  
+[[Secondary Chains]]  
+[[Trauma Inside the Chain]]  
+[[Terms/Chain Resolution]]
+[[Philosophy of Integration]]

@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"dg-title":"Survival Logic","dg-metatags":{"og:title":"Survival Logic","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/12-terms/survival-logic/","metatags":{"og:title":"Survival Logic","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Survival Logic
+dg-metatags:
+  og:title: "Survival Logic"
+  description: A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 **Survival Logic** — the internally consistent reasoning produced by a chain operating under threat conditions.
 
 Survival logic is not belief, cognition, or character. It is **architectural reasoning** generated when awareness becomes unavailable and the chain reorganizes around protection. Its function is continuity, not truth.
@@ -15,7 +19,7 @@ Survival logic is therefore **contextual, temporary, and functional**. It descri
 > Survival logic is coherence within threat conditions, not truth within reality.
 
 **Linked Terms:**  
-[[12-Terms/Trauma\|Trauma]] • [[12-Terms/Distorted Chain\|Distorted Chain]] • [[12-Terms/Story Logic\|Story Logic]] • [[12-Terms/Distorted Power\|Distorted Power]] • [[12-Terms/Neutrality\|Neutrality]]
+[[Terms/Trauma|Trauma]] • [[Distorted Chain]] • [[Story Logic]] • [[Distorted Power]] • [[Terms/Neutrality|Neutrality]]
 
 **See also:**  
-[[12-Terms/Distortion Loop\|Distortion Loop]] • [[12-Terms/Interpretation\|Interpretation]] • [[01-The Architecture of Integration/Closing the Chain\|Closing the Chain]] • [[01-The Architecture of Integration/Memory as Architectural Persistence\|Memory as Architectural Persistence]] • [[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[Distortion Loop]] • [[Interpretation]] • [[Closing the Chain]] • [[Memory as Architectural Persistence]] • [[Philosophy of Integration]]

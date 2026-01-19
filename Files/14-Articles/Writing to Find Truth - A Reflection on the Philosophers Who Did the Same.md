@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Writing to Find Truth: A Reflection on the Philosophers Who Did the Same","date":"2025-01-01","dg-metatags":{"og:title":"Writing to Find Truth: A Reflection on the Philosophers Who Did the Same","description":"Exploring how philosophers like Kierkegaard and Camus wrote to understand themselves — and how writing becomes a path to truth, clarity, and lived philosophy.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/14-articles/writing-to-find-truth-a-reflection-on-the-philosophers-who-did-the-same/","metatags":{"og:title":"Writing to Find Truth: A Reflection on the Philosophers Who Did the Same","description":"Exploring how philosophers like Kierkegaard and Camus wrote to understand themselves — and how writing becomes a path to truth, clarity, and lived philosophy.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: "Writing to Find Truth: A Reflection on the Philosophers Who Did the Same"
+date: 2025-01-01
+dg-metatags:
+  og:title: "Writing to Find Truth: A Reflection on the Philosophers Who Did the Same"
+  description: "Exploring how philosophers like Kierkegaard and Camus wrote to understand themselves — and how writing becomes a path to truth, clarity, and lived philosophy."
+  og:image: "https://philosophy.dellawren.com/img/user/customheader.jpg"
 ---
-
 I wrote my way to the clarity and truth I have now. Most philosophers do the same thing. They write to find truth.
 
 When I look at philosophical texts, I see where they got stuck in the human rules, in their own stories and perceptions, and I understand how incredibly difficult it is to challenge those things.

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"Truth, Responsibility, Acceptance, Freedom—Why These Four?","date":"2025-01-01","dg-metatags":{"og:title":"Truth, Responsibility, Acceptance, Freedom — Why These Four?","description":"An exploration of the four pillars that reshape a life—how truth, responsibility, acceptance, and freedom dissolve pain, reveal clarity, and free us from the limits of human rules.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/14-articles/truth-responsibility-acceptance-freedom-why-these-four/","metatags":{"og:title":"Truth, Responsibility, Acceptance, Freedom — Why These Four?","description":"An exploration of the four pillars that reshape a life—how truth, responsibility, acceptance, and freedom dissolve pain, reveal clarity, and free us from the limits of human rules.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Truth, Responsibility, Acceptance, Freedom—Why These Four?
+date: 2025-01-01
+dg-metatags:
+  og:title: "Truth, Responsibility, Acceptance, Freedom — Why These Four?"
+  description: "An exploration of the four pillars that reshape a life—how truth, responsibility, acceptance, and freedom dissolve pain, reveal clarity, and free us from the limits of human rules."
+  og:image: "https://philosophy.dellawren.com/img/user/customheader.jpg"
 ---
-
 Truth, responsibility, acceptance, and freedom are powerful words. If you understand what they mean and how to use them to heal yourself, they can change not only your life but also the trajectory of society itself.
 
 **What is Truth?**  

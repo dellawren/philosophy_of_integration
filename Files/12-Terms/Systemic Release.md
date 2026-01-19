@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"dg-title":"Systemic Release","dg-metatags":{"og:title":"Systemic Release","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/12-terms/systemic-release/","metatags":{"og:title":"Systemic Release","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Systemic Release
+dg-metatags:
+  og:title: "Systemic Release"
+  description: A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 **Systemic Release** — the withdrawal of participation from inherited control structures once awareness no longer recognizes their authority.
 
 Systemic release occurs when behaviour is no longer regulated by external expectation, moral enforcement, or belonging-based compliance. It is not oppositional and not corrective. The system remains intact; participation ceases.
@@ -50,9 +54,9 @@ Where systemic obligation enforces behaviour through fear of exclusion, systemic
 
 ### **Linked Concepts**
 
-[[12-Terms/Systemic Obligation\|Systemic Obligation]]  
-[[12-Terms/Control\|Terms/Control]]  
-[[12-Terms/Responsibility\|Responsibility]]  
-[[12-Terms/Non-Interference\|Non-Interference]]  
-[[12-Terms/Integration\|Integration]]  
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[Systemic Obligation]]  
+[[Terms/Control]]  
+[[Responsibility]]  
+[[Non-Interference]]  
+[[Integration]]  
+[[Philosophy of Integration]]

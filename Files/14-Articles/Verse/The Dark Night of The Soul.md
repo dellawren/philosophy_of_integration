@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"The Dark Night of The Soul","date":"2025-01-01","dg-metatags":{"og:title":"The Dark Night of the Soul","description":"A verse reflection on the disorientation of awakening — when old stories fall away, identity dissolves, and truth begins its quiet reorganization.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/14-articles/verse/the-dark-night-of-the-soul/","metatags":{"og:title":"The Dark Night of the Soul","description":"A verse reflection on the disorientation of awakening — when old stories fall away, identity dissolves, and truth begins its quiet reorganization.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: The Dark Night of The Soul
+date: 2025-01-01
+dg-metatags:
+  og:title: "The Dark Night of the Soul"
+  description: "A verse reflection on the disorientation of awakening — when old stories fall away, identity dissolves, and truth begins its quiet reorganization."
+  og:image: "https://philosophy.dellawren.com/img/user/customheader.jpg"
 ---
-
 **The Dark Night of the Soul isn’t depression. Don’t turn it into that.**  
 It’s not a mental health crisis—it’s a full system reboot.  
 It’s the part of healing where everything false burns off.  

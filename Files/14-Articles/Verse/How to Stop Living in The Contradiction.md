@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"How to Stop Living in The Contradiction","date":"2025-01-01","dg-metatags":{"og:title":"How to Stop Living in the Contradiction","description":"A reflection on the gap between what we say and what we do — and how integrity, truth, and radical freedom dissolve contradiction in parenting, politics, and personal philosophy.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/14-articles/verse/how-to-stop-living-in-the-contradiction/","metatags":{"og:title":"How to Stop Living in the Contradiction","description":"A reflection on the gap between what we say and what we do — and how integrity, truth, and radical freedom dissolve contradiction in parenting, politics, and personal philosophy.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: How to Stop Living in The Contradiction
+date: 2025-01-01
+dg-metatags:
+  og:title: "How to Stop Living in the Contradiction"
+  description: "A reflection on the gap between what we say and what we do — and how integrity, truth, and radical freedom dissolve contradiction in parenting, politics, and personal philosophy."
+  og:image: "https://philosophy.dellawren.com/img/user/customheader.jpg"
 ---
-
 **Do as I say, not as I do.**
 
 In parenting, it looks like swearing like a pirate while telling your kids not to. Or demanding they get off their screens while you keep scrolling Facebook. Or better—telling your kids not to hit while you spank them.

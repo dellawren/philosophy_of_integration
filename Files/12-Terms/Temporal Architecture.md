@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"dg-title":"Temporal Architecture","dg-metatags":{"og:title":"Temporal Architecture","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/12-terms/temporal-architecture/","metatags":{"og:title":"Temporal Architecture","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Temporal Architecture
+dg-metatags:
+  og:title: "Temporal Architecture"
+  description: A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 **Temporal Architecture** — the subjective experience of time as determined by the structure of the chain.
 
 Within the framework, time is not treated as purely chronological. It is experienced according to whether the chain is coherent or distorted.
@@ -37,8 +41,8 @@ Temporal architecture resolves when awareness becomes available and the chain co
 
 ### **Linked Concepts**
 
-[[12-Terms/Circular Time\|Circular Time]]  
-[[12-Terms/Chain Jumping\|Chain Jumping]]  
-[[12-Terms/Distortion Loop\|Distortion Loop]]  
-[[01-The Architecture of Integration/Closing the Chain\|Closing the Chain]]  
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[Circular Time]]  
+[[Chain Jumping]]  
+[[Distortion Loop]]  
+[[Closing the Chain]]  
+[[Philosophy of Integration]]

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"The System of Integration","order":2,"dg-metatags":{"og:title":"The System of Integration — References & Bibliography","description":"Explore foundational texts, influences and source material behind The System of Integration — a curated resource list to deepen philosophical study and insight.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/13-references/the-system-of-integration/","metatags":{"og:title":"The System of Integration — References & Bibliography","description":"Explore foundational texts, influences and source material behind The System of Integration — a curated resource list to deepen philosophical study and insight.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: The System of Integration
+order: 2
+dg-metatags:
+  og:title: "The System of Integration — References & Bibliography"
+  description: "Explore foundational texts, influences and source material behind The System of Integration — a curated resource list to deepen philosophical study and insight."
+  og:image: "https://philosophy.dellawren.com/img/user/customheader.jpg"
 ---
-
 
 ### **Overview**
 
@@ -14,7 +19,7 @@ It now unfolds through three volumes of understanding, each carrying the essence
 
 ### **Volume I – The Philosophy of Integration (The Why)**
 
-See [[13-References/Philosophy of Integration\|Philosophy of Integration]]
+See [[Philosophy of Integration]]
 
 This volume contains two of the original frameworks:
 
@@ -22,7 +27,7 @@ This volume contains two of the original frameworks:
     Defines integration as the reconciliation of opposites and the core condition of being.  
     Establishes coherence as the natural alternative to control.
     
-- **Control and Fear – The [[12-Terms/Machinery\|Machinery]] of Fragmentation** — the philosophical shadow.  
+- **Control and Fear – The [[Machinery]] of Fragmentation** — the philosophical shadow.  
     Exposes how control, fear, morality, and manipulation create systemic fracture.
     
 
@@ -33,9 +38,9 @@ They answer: **“Why does fragmentation exist, and what restores coherence?”*
 
 ### **Volume II – The Practice of Integration (The How)**
 
-See  [[08-Relational Notes/Integration as Relational Movement\|Integration as Relational Movement]]
+See  [[Integration as Relational Movement]]
 
-This volume embodies **The [[12-Terms/Ladder\|Ladder]] of Integration Relationships**, the lived curriculum of awareness.  
+This volume embodies **The [[Ladder]] of Integration Relationships**, the lived curriculum of awareness.  
 It traces how consciousness matures through safety, truth, and choice until freedom becomes embodied.  
 It also incorporates the emotional–ethical layer (responsibility, acceptance, forgiveness, coherence).
 
@@ -45,9 +50,9 @@ It answers: **“How does integration happen within a human life?”**
 
 ### **Volume III – Commentary on Cause and Effect (The Seeing)**
 
-See [[13-References/Commentary on Cause and Effect (The Seeing)\|Commentary on Cause and Effect (The Seeing)]]
+See [[Commentary on Cause and Effect (The Seeing)]]
 
-This volume extends **Awareness and Truth – The [[12-Terms/Architecture\|Architecture]] of Perception.**  
+This volume extends **Awareness and Truth – The [[Architecture]] of Perception.**  
 It explores awareness and truth as structural functions — how perception shapes reality and how coherence is seen.  
 It also houses the ongoing essays and contemplations that deepen the field of Integration.
 
@@ -73,13 +78,13 @@ It answers: **“How is reality perceived through integration?”**
 
 **The System of Integration provides:**
 
-- **[[13-References/Philosophy of Integration\|Philosophy]]** — the ontology (what reality is)
+- **[[Philosophy of Integration|Philosophy]]** — the ontology (what reality is)
     
-- **[[08-Relational Notes/Integration as Relational Movement\|Ladder]]** — the process (how awareness matures)
+- **[[Integration as Relational Movement|Ladder]]** — the process (how awareness matures)
     
-- **[[12-Terms/Architecture\|Architecture]]** — the epistemology (how perception functions)
+- **[[Architecture]]** — the epistemology (how perception functions)
     
-- **[[12-Terms/Machinery\|Machinery]]** — the diagnosis (why fragmentation arises)
+- **[[Machinery]]** — the diagnosis (why fragmentation arises)
     
 
 These remain in dialogue:

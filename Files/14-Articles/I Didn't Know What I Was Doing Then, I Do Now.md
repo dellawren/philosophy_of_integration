@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-title":"I Didn't Know What I was Doing Then, I Do Now","date":"2025-01-01","dg-metatags":{"og:title":"I Didn’t Know What I Was Doing Then — I Do Now","description":"A reflection on co-sleeping, extended breastfeeding, and honouring a child’s biology — and how meeting a child’s real needs builds true independence, not rebellion.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/14-articles/i-didn-t-know-what-i-was-doing-then-i-do-now/","metatags":{"og:title":"I Didn’t Know What I Was Doing Then — I Do Now","description":"A reflection on co-sleeping, extended breastfeeding, and honouring a child’s biology — and how meeting a child’s real needs builds true independence, not rebellion.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: I Didn't Know What I was Doing Then, I Do Now
+date: 2025-01-01
+dg-metatags:
+  og:title: "I Didn’t Know What I Was Doing Then — I Do Now"
+  description: "A reflection on co-sleeping, extended breastfeeding, and honouring a child’s biology — and how meeting a child’s real needs builds true independence, not rebellion."
+  og:image: "https://philosophy.dellawren.com/img/user/customheader.jpg"
 ---
-
 Back in 2002, when I was pregnant with my daughter, sleep deprivation wasn’t an option. I simply didn’t function on just a few hours of broken sleep—it made me physically sick. I needed to get a full night’s rest, or at least something close to it, most nights. But how?
 
 Google was still new then, but it had content—even back then. I started searching for ways to avoid sleep deprivation while parenting a newborn. That’s when I found attachment parenting. Dr. Sears was talking about co-sleeping, and after a little reading, I realized this could be my way around the exhaustion. I knew co-sleeping was normal in many places around the world—North America was the exception, not the rule. So, I decided I was going to co-sleep. After more reading to figure out how to do it safely, I set off on my co-sleeping journey.

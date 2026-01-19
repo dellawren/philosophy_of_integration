@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"dg-title":"Systemic Interference","dg-metatags":{"og:title":"Systemic Interference","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/12-terms/systemic-interference/","metatags":{"og:title":"Systemic Interference","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Systemic Interference
+dg-metatags:
+  og:title: "Systemic Interference"
+  description: A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 **Systemic Interference** — the insertion of an external system into an active cause–effect chain in a way that alters, redirects, or replaces natural consequence.
 
 Systemic interference occurs when a system positions itself as the primary responder to an event, overriding or displacing the original causal sequence.
@@ -95,9 +99,9 @@ Mediation produces open chains.
 
 ### **See Also**
 
-[[12-Terms/Causal Mediation Principle\|Causal Mediation Principle]]  
-[[12-Terms/Open Chain State\|Open Chain State]]  
-[[12-Terms/Closed Chain State\|Closed Chain State]]  
-[[12-Terms/Secondary Chains\|Secondary Chains]]  
-[[12-Terms/Chain Architecture\|Chain Architecture]]  
-[[12-Terms/Cause and Effect\|Cause and Effect]]
+[[Causal Mediation Principle]]  
+[[Open Chain State]]  
+[[Closed Chain State]]  
+[[Secondary Chains]]  
+[[Chain Architecture]]  
+[[Cause and Effect]]

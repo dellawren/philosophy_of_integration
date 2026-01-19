@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"dg-title":"The Human Story","date":"2025-12-02","permalink":"/14-articles/the-human-story/","dgPassFrontmatter":true}
+dg-publish: true
+dg-title: The Human Story
+date: 2025-12-02
 ---
-
 People tell stories about their lives. It’s human nature. Narrating what’s happening is how the mind tries to make sense of experience. If I told you to stop telling stories altogether, I’d be taking away something essential to being human. The goal isn’t to get rid of the story — it’s to make sure the story isn’t harming you more than the experience itself.
 
 Your story is a mix of emotions, perceptions, beliefs, ideas, morality, religion, and past experience. While it may be _based_ on what happened, it is not the event itself. What happened is a very boring list of observations: “He slammed the door.” “She called him a jerk.” “He walked out.” Without interpretation, that’s all experience is — a chain of observable causes and effects.
@@ -46,11 +47,11 @@ Della
 
 ## **See Also**
 
-[[12-Terms/Human Rules\|Human Rules]]
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
-[[12-Terms/Morality\|Terms/Morality]]
-[[Social Constructs/Morality as a Social Construct\|Morality as a Social Construct]]
-[[The Chain and Experience\|The Chain and Experience]]
+[[Human Rules]]
+[[Philosophy of Integration]]
+[[Terms/Morality]]
+[[Morality as a Social Construct]]
+[[The Chain and Experience]]
 
 
 

@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"dg-title":"Systemic Obligation","dg-metatags":{"og:title":"Systemic Obligation","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"permalink":"/12-terms/systemic-obligation/","metatags":{"og:title":"Systemic Obligation","description":"A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.","og:image":"https://philosophy.dellawren.com/img/user/customheader.jpg"},"dgPassFrontmatter":true}
+dg-publish: true
+dg-title: Systemic Obligation
+dg-metatags:
+  og:title: "Systemic Obligation"
+  description: A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.
+  og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-
 
 **Systemic Obligation** — the internalized enforcement of collective expectations that substitutes compliance for awareness within a causal system.
 
@@ -50,10 +54,10 @@ Where systemic obligation dominates, truth becomes conditional and behaviour bec
 
 ### **Linked Concepts**
 
-[[12-Terms/Control\|Terms/Control]]  
-[[12-Terms/Morality\|Morality]]  
-[[12-Terms/Fear\|Fear]]  
-[[12-Terms/Belonging\|Belonging]]  
-[[12-Terms/Responsibility\|Responsibility]]  
-[[12-Terms/Non-Interference\|Non-Interference]]  
-[[13-References/Philosophy of Integration\|Philosophy of Integration]]
+[[Terms/Control]]  
+[[Morality]]  
+[[Fear]]  
+[[Belonging]]  
+[[Responsibility]]  
+[[Non-Interference]]  
+[[Philosophy of Integration]]
