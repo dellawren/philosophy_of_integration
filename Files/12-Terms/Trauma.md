@@ -6,15 +6,15 @@ dg-metatags:
   description: A structural interruption in causal continuity that prevents chain resolution, not a personal identity, diagnosis, or moral category.
   og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-**Trauma** — a distortion created when an experience enters the chain faster or more intensely than awareness can process. It becomes part of the architecture, not an external event.
+**Trauma** — the architectural reorganization that occurs when environmental conditions require the system to shift from participatory regulation into survival regulation in order to remain viable.
 
-Trauma is not defined by the event itself but by what happens in the chain afterward. When awareness is unavailable, the chain bends around survival, creating a looping internal circuit that protects the person at the cost of coherence. Trauma reorganizes interpretation, emotion, identity, memory, and behaviour — and because the chain is non-local, its effects ripple into the chains of others.
+Trauma is not defined by the intensity of an event or by the feelings it produces, but by whether the experience forced the system to prioritize survival over participation. When this occurs, the chain does not simply register experience; it reorganizes around protection. Interpretation, emotion, identity, memory, and behaviour are shaped by the need to maintain safety rather than remain engaged with the environment.
 
-This bend in the architecture becomes the ground from which cruelty, hypervigilance, defensiveness, story logic, and distorted power may emerge. These are not traits — they are the system attempting to stabilize itself in the absence of capacity.
+This survival-based reorganization becomes part of the architecture of the person. It is not a trait or pathology, but the structure the system built when participation was no longer possible without risk. Because the chain is non-local, these survival architectures influence the chains of others through relational loops and environmental patterning.
 
-In Integration, trauma is understood as architecture, not pathology. It is the structure a person had to build when coherence wasn’t possible. Trauma becomes the shape of the chain until awareness returns and closure becomes possible. It doesn’t make someone broken — it shows where the architecture couldn’t continue without distortion.
+In Integration, trauma is understood as architecture, not injury. It is the persistent structure formed when safety could not be assumed. Trauma remains the shape of the chain until awareness allows the system to release survival priority and return to participatory coherence.
 
-> Trauma is not the wound — it is the shape the chain had to take to survive it.
+> Trauma is not the wound — it is the shape the chain had to take when participation was no longer safe.
 
 See [[Trauma Inside the Chain]]  
 See [[Distorted Chain]]  

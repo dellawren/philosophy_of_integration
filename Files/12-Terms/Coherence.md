@@ -6,21 +6,29 @@ dg-metatags:
   description: The state in which causal chains align without contradiction or interruption, producing stability through completion rather than control.
   og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-**Coherence** — the condition in which awareness accurately tracks reality without substitution, distortion, or narrative replacement.
+> **Coherence** — the condition in which awareness perceives events in sequence without additional narrative, evaluative, or meaning-making overlay.
 
-Coherence occurs when perception registers events, actions, sensations, and consequences as they are, rather than as they are interpreted, justified, feared, or explained. It is not agreement, calm, neutrality, or moral correctness. It is structural alignment between awareness and what is occurring.
+In this framework, _sequence_ refers only to the ordered flow in which events, actions, sensations, and consequences are experienced prior to explanation or interpretation.
 
-Within the Philosophy of Integration, coherence is defined negatively:  
-it is the **absence of distortion**, not a state to be achieved or maintained.
+Coherence is not agreement, calm, neutrality, or correctness. It is the absence of added overlay.
 
-When awareness overlays experience with story, preference, fear, or control, coherence breaks.  
-When awareness meets reality directly, coherence is present.
+Within the Philosophy of Integration, coherence is defined negatively: it is what remains when interpretation does not replace perception.
 
-Coherence allows contradiction, emotion, tension, and complexity without collapse.  
-Nothing must resolve, harmonize, or conform. The requirement is only that experience is not replaced by interpretation.
+When overlay is present, coherence is obscured.  
+When overlay is recognized as overlay, coherence is evident.
 
-Coherence therefore describes **perceptual fidelity**, not psychological ease or ethical virtue.
+Coherence allows contradiction, emotion, tension, and complexity without collapse because nothing is required to resolve, justify, or conform. Experience is simply not replaced by story.
 
+Coherence does not indicate accurate perception of reality. It indicates reduced interference from overlay.
+
+---
+
+## Structural Summary
+
+Coherence is not perceptual fidelity.  
+Coherence is the absence of added narrative beyond what is required to perceive sequence.
+
+> Coherence is functional, not epistemic.
 ---
 
 **See also:**  

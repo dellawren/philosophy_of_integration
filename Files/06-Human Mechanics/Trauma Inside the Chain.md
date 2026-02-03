@@ -10,36 +10,61 @@ dg-metatags:
 ---
 **Trauma** is a structural distortion within a [[Chain Architecture]].
 
-It forms when an event enters the chain at a magnitude, speed, or intensity that exceeds the system’s current [[Capacity]] to process and resolve it.
+It does not arise simply because an experience is intense, uncomfortable, or persistent. All humans are formed inside relational loops, and these loops create lasting patterning as part of ordinary development.
+
+Trauma forms only when environmental conditions require the system to shift from **participatory regulation** into **survival regulation** in order to remain viable.
+
+> **Formation + persistence = relational patterning**  
+> **Formation + persistence + overload = trauma**
+
+**Overload** occurs when environmental conditions require survival responses to take priority over participatory perceptual, emotional, and behavioural regulation.
 
 The chain does not break.  
-It distorts in order to continue.
+It reorganizes in order to continue.
 
 ---
 
-## Structural Formation
+## Structural Formation vs Trauma
 
-When causal processing cannot complete, the chain redirects.
+Structural formation is the ordinary process by which the chain adapts to relational environment. This produces personality, habit, belief, and behavioural patterning without requiring survival architecture.
 
-This redirection:
-- preserves continuity
-- prevents collapse
-- carries unresolved load forward
+Trauma occurs only when adaptation demands survival architecture.
 
-The resulting structure is a **[[Distorted Chain]]**, not an interruption of causality.
+Both formation and trauma create persistent structures. Only trauma requires the system to reorganize around safety rather than participation.
 
 Trauma is architecture, not an external wound.
 
 ---
 
+## Structural Formation
+
+When participatory causal processing cannot continue safely, the chain redirects into survival regulation.
+
+This redirection:
+
+- preserves continuity
+    
+- prevents collapse
+    
+- carries unresolved load forward
+    
+
+The resulting structure is a **[[Distorted Chain]]**, not an interruption of causality.
+
+---
+
 ## Trauma and Time
 
-Unresolved chains do not progress linearly.
+Unresolved survival-based chains do not progress linearly.
 
 When closure fails, the event remains active, producing:
+
 - repetition
+    
 - looping activation
+    
 - persistent relevance
+    
 
 This is a function of [[Temporal Architecture]], not memory error.
 
@@ -51,14 +76,18 @@ See:
 
 ## Trauma and Biology
 
-Because the chain runs through the body, trauma reorganizes biological regulation.
+Because the chain runs through the body, survival-based architecture reorganizes biological regulation.
 
 This includes:
-- altered nervous system thresholds
-- stabilized reflexive responses
-- shifted hormonal baselines
 
-These changes reflect [[Biological Architecture]] mirroring a distorted chain, not dysfunction.
+- altered nervous system thresholds
+    
+- stabilized reflexive responses
+    
+- shifted hormonal baselines
+    
+
+These changes reflect [[Biological Architecture]] mirroring a survival-organized chain, not dysfunction.
 
 See:  
 [[Biological Mirrors of the Chain]]  
@@ -68,12 +97,16 @@ See:
 
 ## Trauma and Memory
 
-Trauma is stored as **active architecture**, not completed narrative.
+Trauma is stored as **active survival architecture**, not completed narrative.
 
 Traumatic memory retains:
+
 - unresolved sequence
+    
 - physiological readiness
+    
 - sensory activation
+    
 
 Until the chain closes, memory remains functionally present regardless of chronological distance.
 
@@ -85,10 +118,10 @@ See:
 
 ## Trauma and Developmental Timing
 
-The structural impact of trauma varies by when it enters the chain.
+The structural impact of trauma varies by when survival regulation first enters the chain.
 
-Earlier entry embeds more foundational patterning.  
-Later entry embeds more contextual patterning.
+Earlier entry embeds more foundational survival patterning.  
+Later entry embeds more contextual survival patterning.
 
 Development proceeds around the distortion rather than stopping.
 
@@ -103,11 +136,15 @@ See:
 Traumatic distortions persist because they function.
 
 They:
-- maintain predictability
-- reduce immediate threat
-- stabilize response under load
 
-Persistence reflects successful compensation, not resistance.
+- maintain predictability
+    
+- reduce immediate threat
+    
+- stabilize response under overload
+    
+
+Persistence reflects successful survival compensation, not resistance.
 
 See:  
 [[Survival Logic]]  
@@ -117,6 +154,9 @@ See:
 
 ## Structural Summary
 
-Trauma is a distortion formed when causal processing exceeds available capacity.
+Trauma is a distortion formed when environmental conditions require survival regulation in place of participatory regulation.
 
 It preserves continuity by reorganizing the chain until closure or [[Terms/Replacement]] becomes possible.
+
+> Trauma is not the wound.  
+> It is the shape the chain had to take when participation was no longer safe.

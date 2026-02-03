@@ -6,13 +6,30 @@ dg-metatags:
   description: A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.
   og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-**Interpretation** — the meaning the mind assigns to an experience, shaped not by the moment itself but by the architecture of the chain running beneath it.
+> **Interpretation** — the minimal cognitive processing required to recognize events, objects, and conditions in sequence so that functional response is possible.
 
-Interpretation is not neutral. It arises at the point in the chain where awareness encounters history. When the chain is coherent, interpretation tracks reality closely: it reflects truth, context, and proportion. When the chain is distorted, interpretation reflects the loop: fear, identity, protection, and inherited narratives. Most people mistake interpretation for insight, but it is simply the mind translating the chain’s architecture into language.
+Interpretation in this sense is unavoidable. It allows perception to be usable for action. Without it, events could not be recognized, named, or responded to.
 
-In Integration, interpretation is understood as a _structural byproduct._ It reveals the state of the chain far more than it reveals the state of the world. The work is not to argue with interpretation, nor to force a new one, but to replace the chain that generates it. When the architecture changes, interpretation reorganizes on its own.
+This level of interpretation does not distort sequence. It enables participation within it.
 
-> “Interpretation isn’t wisdom — it’s the story your architecture tells about the moment.”
+---
+
+## Overlay Interpretation
+
+> **Overlay Interpretation** — narrative, evaluative, identity-based, or meaning-making interpretation added after functional perception of sequence.
+
+Overlay interpretation is not required for action. It replaces observation with story, judgment, or explanation that is not necessary for participation.
+
+This is the form of interpretation that produces fragmentation and friction.
+
+---
+
+## Structural Summary
+
+Interpretation allows the system to function.  
+Overlay interpretation replaces perception with story.
+
+> The framework concerns itself only with when interpretation becomes overlay.
 
 **See also:**  
-[[Distortion]], [[Structural Awareness]], [[Coherence]], [[Terms/Replacement]]
+[[Distortion]],  [[Coherence]], [[Terms/Replacement]], [[Overlay]]

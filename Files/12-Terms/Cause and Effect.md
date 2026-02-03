@@ -6,7 +6,7 @@ dg-metatags:
   description: A core term within the Philosophy of Integration, defined structurally rather than morally or psychologically.
   og:image: https://philosophy.dellawren.com/img/user/customheader.jpg
 ---
-**Cause and Effect** — the fundamental structural movement through which reality unfolds, where each event continues from prior conditions and produces consequence without judgment.
+**Cause and Effect** — the continuity inferred when events are observed in sequence, where each state arises from prior conditions and becomes the next condition without judgment.
 
 Within the framework, cause and effect is **non-moral, non-punitive, and non-corrective**.  
 It does not reward, punish, forgive, or balance accounts.  

@@ -21,7 +21,10 @@ Fragmentation resolves when awareness returns to what was interrupted, allowing 
 
 As coherence restores, fragments reintegrate naturally. The system becomes whole not by force, but by clarity.
 
+The lived experience of fragmentation is varied and often complex, but structurally it always begins with the replacement of observable sequence by interpretation.
+
 Fragmentation is temporary. Coherence is the default.
+
 
 #### Linked Concepts
 
