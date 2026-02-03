@@ -3,3 +3,5 @@ This is my life's work. This framework describes how life works underneath the l
 By going to [https://philosophy.dellawren.com] you'll discover an entire framework of thought built around how cause and effect works, how to live with it in your daily life, and what messed humans up along the way.
 All of my books and paid work can be found at [https://dellawren.com].
 
+[![DOI](https://zenodo.org/badge/1087288965.svg)](https://doi.org/10.5281/zenodo.18304919)
+
